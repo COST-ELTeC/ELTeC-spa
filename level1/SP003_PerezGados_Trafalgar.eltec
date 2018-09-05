@@ -2,7 +2,7 @@
 	<teiHeader xmlns="http://www.tei-c.org/ns/1.0">
 		<fileDesc>
 			<titleStmt>
-				<title type="main">Trafalgar :  ELTeC Edition</title>
+				<title>Trafalgar :  ELTeC Edition</title>
 				<author>
 					<persName>
 						<forename>Benito</forename>
@@ -35,7 +35,7 @@
 					<pubPlace>Madrid</pubPlace>
 					<publisher>Administración de La Guirnalda y Episodios Nacionales</publisher>
 					<date>1882</date>
-					<ref>http://www.cervantesvirtual.com/obra/trafalgar--0/</idno>
+					<ref>http://www.cervantesvirtual.com/obra/trafalgar--0/</ref>
 				</bibl>
 				<bibl>
 					<title>Trafalgar / Benito Pérez Galdós; edición ilustrada por Enrique y Arturo Mélida</title>
@@ -80,7 +80,7 @@
 			<gap type="graphic" desc="portada"/>
 		</front>
 		<body>
-			<div type="chapter" n=SP003001>
+			<div type="chapter" n="SP003001">
 				<head type="main">-I-</head>
 				<p>Se me permitirá que antes de referir el gran suceso de que fui testigo, diga algunas palabras sobre mi infancia, explicando por qué extraña manera me llevaron los azares de la vida a presenciar la terrible catástrofe de nuestra marina.</p>
 				<p>Al hablar de mi nacimiento, no imitaré a la mayor parte de los que cuentan hechos de su propia vida, quienes empiezan nombrando su parentela, las más veces noble, siempre hidalga por lo menos, si no se dicen descendientes del mismo Emperador de Trapisonda. Yo, en esta parte, no puedo adornar mi libro con sonoros apellidos; y fuera de mi madre, a quien conocí por poco tiempo, no tengo noticia de ninguno de mis ascendientes, si no es <pb n="6"/> de Adán, cuyo parentesco me parece indiscutible. Doy principio, pues, a mi historia como Pablos, el buscón de Segovia: afortunadamente Dios ha querido que en esto sólo nos parezcamos.</p>
@@ -93,7 +93,9 @@
 				<p>Aquélla era época de grandes combates navales, pues había uno cada año, y alguna escaramuza cada mes. Yo me figuraba que las escuadras se batían unas con otras pura y simplemente porque les daba la gana, o con objeto de probar su valor, como dos guapos que se citan fuera de puertas para darse de navajazos. Me río recordando mis extravagantes ideas respecto a las cosas de aquel tiempo. Oía hablar mucho de Napoleón, ¿y cómo creen ustedes que yo me lo figuraba? Pues nada menos <pb n="10"/> que igual en todo a los contrabandistas que, procedentes del campo de Gibraltar, se veían en el barrio de la Viña con harta frecuencia; me lo figuraba caballero en un potro jerezano, con su manta, polainas, sombrero de fieltro y el correspondiente trabuco. Según mis ideas, con este pergenio, y seguido de otros aventureros del mismo empaque, aquel hombre, que todos pintaban como extraordinario, conquistaba la Europa, es decir, una gran isla, dentro de la cual estaban otras islas, que eran las naciones, a saber: Inglaterra, Génova, Londres, Francia, Malta, la tierra del Moro, América, Gibraltar, Mahón, Rusia, Tolón, etc. Yo había formado esta geografía a mi antojo, según las procedencias más frecuentes de los barcos, con cuyos pasajeros hacía algún trato; y no necesito decir que entre todas estas naciones o islas España era la mejorcita, por lo cual los ingleses, unos a modo de salteadores de caminos, querían cogérsela para sí. Hablando de esto y otros asuntos diplomáticos, yo y mis colegas de la Caleta decíamos mil frases inspiradas en el más ardiente patriotismo.</p>
 				<p>Pero no quiero cansar al lector con pormenores que sólo se refieren a mis particulares impresiones, y voy a concluir de hablar de mí. El único ser que compensaba la miseria de mi <pb n="11"/> existencia con un desinteresado afecto, era mi madre. Sólo recuerdo de ella que era muy hermosa, o al menos a mí me lo parecía. Desde que quedó viuda, se mantenía y me mantenía lavando y componiendo la ropa de algunos marineros. Su amor por mí debía de ser muy grande. Caí gravemente enfermo de la fiebre amarilla, que entonces asolaba a Andalucía, y cuando me puse bueno me llevó como en procesión a oír misa a la Catedral vieja, por cuyo pavimento me hizo andar de rodillas más de una hora, y en el mismo retablo en que la oímos puso, en calidad de ex-voto, un niño de cera que yo creí mi perfecto retrato.</p>
 				<p>Mi madre tenía un hermano, y si aquélla era buena, éste era malo y muy cruel por añadidura. No puedo recordar a <gap type="graphic" desc="persona"/> mi tío sin espanto, y por algunos incidentes sueltos que conservo en la memoria, colijo que aquel hombre debió de haber cometido un crimen en la época a que me refiero. Era marinero, y cuando estaba en Cádiz y en tierra, venía a casa borracho como una cuba y nos trataba fieramente, a su hermana de palabra, diciéndole los más horrendos vocablos, y a mí de obra, castigándome sin motivo.</p>
-				<p>Mi madre debió padecer mucho con las atrocidades de su hermano, y esto, unido al <pb n="12"/> trabajo tan penoso como mezquinamente retribuido, aceleró su fin, el cual dejó indeleble impresión en mi espíritu, aunque mi memoria puede hoy apreciarlo sólo de un modo vago.</p></p>En aquella edad de miseria y vagancia, yo no me ocupaba más que en jugar junto a la mar o en correr por las calles. Mis únicas contrariedades eran las que pudieran ocasionarme un bofetón de mi tío, un regaño de mi madre o cualquier contratiempo en la organización de mis escuadras. Mi espíritu no había conocido aún ninguna emoción fuerte y verdaderamente honda, hasta que la pérdida de mi madre me presentó a la vida humana bajo un aspecto muy distinto del que hasta entonces había tenido para mí. Por eso la impresión sentida no se ha borrado nunca de mi alma. Transcurridos tantos años, recuerdo aún, como se recuerdan las medrosas imágenes de un mal sueño, que mi madre yacía postrada con no sé qué padecimiento; recuerdo haber visto entrar en casa unas mujeres, cuyos nombres y condición no puedo decir; recuerdo oír lamentos de dolor, y sentirme yo mismo en los brazos de mi madre; recuerdo también, refiriéndolo a todo mi cuerpo, el contacto de unas manos muy frías, pero muy frías. Creo que <pb n="13"/>después me sacaron de allí, y con estas indecisas memorias se asocia la vista de unas <gap type="graphic" desc="velas"/> velas amarillas que daban pavorosa claridad en medio del día, el rumor de unos rezos, el cuchicheo de unas viejas charlatanas, las carcajadas de marineros ebrios, y después de esto la triste noción de la orfandad, la idea de hallarme solo y abandonado en el mundo, idea que embargó mi pobre espíritu por algún tiempo.</p>
+				<p>Mi madre debió padecer mucho con las atrocidades de su hermano, y esto, unido al <pb n="12"/> trabajo tan penoso como mezquinamente retribuido, aceleró su fin, el cual dejó indeleble impresión en mi espíritu, aunque mi memoria puede hoy apreciarlo sólo de un modo vago.</p>
+
+<p>En aquella edad de miseria y vagancia, yo no me ocupaba más que en jugar junto a la mar o en correr por las calles. Mis únicas contrariedades eran las que pudieran ocasionarme un bofetón de mi tío, un regaño de mi madre o cualquier contratiempo en la organización de mis escuadras. Mi espíritu no había conocido aún ninguna emoción fuerte y verdaderamente honda, hasta que la pérdida de mi madre me presentó a la vida humana bajo un aspecto muy distinto del que hasta entonces había tenido para mí. Por eso la impresión sentida no se ha borrado nunca de mi alma. Transcurridos tantos años, recuerdo aún, como se recuerdan las medrosas imágenes de un mal sueño, que mi madre yacía postrada con no sé qué padecimiento; recuerdo haber visto entrar en casa unas mujeres, cuyos nombres y condición no puedo decir; recuerdo oír lamentos de dolor, y sentirme yo mismo en los brazos de mi madre; recuerdo también, refiriéndolo a todo mi cuerpo, el contacto de unas manos muy frías, pero muy frías. Creo que <pb n="13"/>después me sacaron de allí, y con estas indecisas memorias se asocia la vista de unas <gap type="graphic" desc="velas"/> velas amarillas que daban pavorosa claridad en medio del día, el rumor de unos rezos, el cuchicheo de unas viejas charlatanas, las carcajadas de marineros ebrios, y después de esto la triste noción de la orfandad, la idea de hallarme solo y abandonado en el mundo, idea que embargó mi pobre espíritu por algún tiempo.</p>
 				<p>No tengo presente lo que hizo mi tío en aquellos días. Sólo sé que sus crueldades conmigo se redoblaron hasta tal punto, que cansándome de sus malos tratos, me evadí de la casa deseoso de buscar fortuna. Me fui a San Fernando; de allí a Puerto Real. Junteme con la gente más perdida de aquellas playas, fecundas en héroes de encrucijada, y no sé cómo ni por qué motivo fui a parar con ellos a Medinasidonia, donde hallándonos cierto día en una taberna se presentaron algunos soldados de Marina que hacían la leva, y nos desbandamos, refugiándose cada cual donde pudo. Mi buena estrella me llevó a cierta casa, cuyos dueños se apiadaron de mí, mostrándome gran interés, sin duda por el relato que de rodillas, bañado en lágrimas y con ademán suplicante, hice de mi triste estado, de mi vida, y sobre todo de mis desgracias.</p>
 				<pb n="14"/>
 				<p>Aquellos señores me tomaron bajo su protección, librándome de la leva, y desde entonces quedé a su servicio. Con ellos me trasladé a Vejer de la Frontera, lugar de su residencia, pues sólo estaban de paso en Medinasidonia.</p>
@@ -104,7 +106,7 @@
 				<p>A este sentimiento consagré mi edad viril y a él consagro esta faena de mis últimos años, poniéndole por genio tutelar o ángel custodio de mi existencia escrita, ya que lo fue de mi existencia real. Muchas cosas voy a contar. ¡Trafalgar, Bailén, Madrid, Zaragoza, Gerona, Arapiles!... De todo esto diré alguna cosa, si no os falta la paciencia. Mi relato no será tan bello como debiera, pero haré todo lo posible para que sea verdadero.</p>
 			</div>
 			<pb n="18"/>
-			<div type="chapter" n=SP003002>
+			<div type="chapter" n="SP003002">
 				<head type="main">-II-</head>
 				<p>En uno de los primeros días de Octubre de aquel año funesto (1805), mi noble amo me llamó a su cuarto, y mirándome con su habitual severidad (cualidad tan sólo aparente, pues su carácter era sumamente blando), me dijo:</p>
 				<p><gap type="graphic" desc="persona"/> «Gabriel, ¿eres tú hombre de valor?»</p>
@@ -134,7 +136,7 @@
 				<p>Antes de pasar adelante, quiero dar de éste algunas noticias, así como de su hidalga consorte, para mejor conocimiento de lo que va a pasar.</p>
 			</div>
 			<pb n="26"/>
-			<div type="chapter" n=SP003003>
+			<div type="chapter" n="SP003003">
 				<head type="main">-III-</head>
 				<p>D. Alonso Gutiérrez de Cisniega pertenecía a una antigua familia del mismo Vejer. Consagráronle a la carrera naval, y desde su juventud, siendo guardia marina, se distinguió honrosamente en el ataque que los ingleses dirigieron contra la Habana en 1748. Formó parte de la expedición que salió de Cartagena contra Argel en 1775, y también se halló en el ataque de Gibraltar por el Duque de Crillon en 1782. Embarcose más tarde para la expedición al estrecho de Magallanes en la corbeta <hi rend="italic">Santa María de la Cabeza</hi>, que mandaba Don Antonio de Córdova; también se halló en los gloriosos combates que sostuvo la escuadra anglo-española contra la francesa delante de Tolón en 1793, y, por último, terminó su gloriosa carrera en el desastroso encuentro del cabo de San Vicente, mandando el navío <hi rend="italic">Mejicano</hi>, uno de los que tuvieron que
 rendirse.</p>
@@ -336,7 +338,7 @@ la guerra contra el vergonzoso <foreign xml:lang="la">statu quo</foreign>de Doñ
    <pb n="33"/>
    
 
-   <div type="chapter"  n=SP003004>
+   <div type="chapter"  n="SP003004">
 		<head type="main">-IV-</head>
     
 
@@ -1385,7 +1387,7 @@ concluido mi combate naval.
    <pb n="54"/>
    
 
-   <div type="chapter"  n=SP003005>
+   <div type="chapter"  n="SP003005">
     
 
     <head type="main">-V-</head>
@@ -1794,7 +1796,7 @@ impedirle ir a la escuadra.
    <pb n="67"/>
    
 
-   <div type="chapter"  n=SP003006>
+   <div type="chapter"  n="SP003006">
     <head type="main">-VI-</head>
     
 
@@ -2383,7 +2385,7 @@ expansivos.
    <pb n="81"/>
    
 
-   <div type="chapter"  n=SP003007>
+   <div type="chapter"  n="SP003007">
     <head type="main">-VII-</head>
     
 
@@ -2767,7 +2769,7 @@ las once del día, sin novedad en la salud y con el alma alegre.
    <pb n="91"/>
    
 
-   <div type="chapter"  n=SP003008>
+   <div type="chapter"  n="SP003008">
     <head type="main">-VIII-</head>
     
 
@@ -3484,7 +3486,7 @@ la mañana siguiente muy temprano.
    <pb n="114"/>
    
 
-   <div type="chapter" n=SP003009>
+   <div type="chapter" n="SP003009">
     <head type="main">-IX-</head>
     
 
@@ -4074,7 +4076,7 @@ para alguna cosa útil.
    <pb n="130"/>
    
 
-   <div type="chapter" n=SP003010>
+   <div type="chapter" n="SP003010">
     <head type="main">-X-</head>
     
 
@@ -4532,7 +4534,7 @@ cañonazo.
    <pb n="142"/>
    
 
-   <div type="chapter" n=SP003011>
+   <div type="chapter" n="SP003011">
     <head type="main">-XI-</head>
     
 
@@ -5344,7 +5346,7 @@ penetraron en el barco vencido.
    <pb n="160"/>
    
 
-   <div type="chapter"  n=SP003012>
+   <div type="chapter"  n="SP003012">
     <head type="main">-XII-</head>
     
 
@@ -6242,7 +6244,7 @@ pensamientos reproducida por los sentidos.
    <pb n="181"/>
    
 
-   <div type="chapter" n=SP003013>
+   <div type="chapter" n="SP003013">
     <head type="main">-XIII-</head>
     
 
@@ -7138,7 +7140,7 @@ de hombres de talento».
    <pb n="201"/>
    
 
-   <div type="chapter" n=SP003014>
+   <div type="chapter" n="SP003014">
     <head type="main">-XIV-</head>
     
 
@@ -7845,7 +7847,7 @@ escala.
    <pb n="217"/>
    
 
-   <div type="chapter"  n=SP003015>
+   <div type="chapter"  n="SP003015">
     <head type="main">-XV-</head>
     
 
@@ -8973,7 +8975,7 @@ no supe lo que ocurrió.
    <pb n="242"/>
    
 
-   <div type="chapter" n=SP003016>
+   <div type="chapter" n="SP003016">
     <head type="main">-XVI-</head>
     <p>
      Volvió, no sé cuándo, a iluminar
@@ -9590,7 +9592,7 @@ de hombros diciendo: «Yo no puedo estar en todas partes».
    <pb n="256"/>
    
 
-   <div type="chapter" n=SP003017>
+   <div type="chapter" n="SP003017">
     <head type="main">-XVII-</head>
     
     <p>
