@@ -16,9 +16,19 @@
 					<idno type="wiki">https://es.wikipedia.org/wiki/Benito_Pérez_Galdós</idno>
 				</author>
 				<respStmt>
-					<resp>ELTeC encoding</resp>
+					<resp>Corrección del texto, anotación TEI, supervisión y edición Biblioteca Virtual Miguel de Cervantes</resp>
+					<name>Marisa Payá</name>
+					<name>Isabel Narros</name>
+					<name>Carmen Hernández Segovia</name>
+					<name>Raquel Pérez Barroso</name>
+					<name>Sonia Jover Sánchez</name>
+
+				</respStmt>
+				<respStmt>
+					<resp>Revisión de texto, etiquetado y codificación ELTeC</resp>
 					<name>Borja Navarro Colorado</name>
 				</respStmt>
+
 			</titleStmt>
 			<extent><!-- size of the text, in pages and words -->
 				<measure unit="words" quantity="51135"/>
@@ -68,7 +78,7 @@
 			</textDesc>
 		</profileDesc>
 		<revisionDesc>
-			<change when="2018-09-01">@borja: Revisión del texto, revisión de la anotación y adaptación a ELTeC-1</change>
+			<change when="2018-09-01">Borja Navarro Colorado: Revisión del texto, anotación y adaptación a ELTeC-1</change>
 		</revisionDesc>
 	</teiHeader>
 	<text>
