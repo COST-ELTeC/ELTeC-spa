@@ -1,10 +1,11 @@
+<?xml-model href="../../WG1/distantreading.github.io/Schema/eltec-1.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <TEI xml:id="SPA003" xml:lang="SPA" xmlns="http://www.tei-c.org/ns/1.0">
 	<teiHeader xmlns="http://www.tei-c.org/ns/1.0">
 		<fileDesc>
 			<titleStmt>
 				<title>Trafalgar :  edición ELTeC</title>
-				<author>
-					<persName>
+			<author ref="viaf:71395987">Galdós, Benito Pérez (1843-1920)
+					<!--<persName>
 						<forename>Benito</forename>
 						<surname>Pérez</surname>
 						<surname>Galdós</surname>
@@ -13,7 +14,7 @@
 					<death when="1920"/>
 					<sex value="M"/>
 					<idno type="viaf">https://viaf.org/viaf/71395987/</idno>
-					<idno type="wiki">https://es.wikipedia.org/wiki/Benito_Pérez_Galdós</idno>
+					<idno type="wiki">https://es.wikipedia.org/wiki/Benito_Pérez_Galdós</idno>-->
 				</author>
 				<respStmt>
 					<resp>Corrección del texto, anotación TEI, supervisión y edición Biblioteca Virtual Miguel de Cervantes</resp>
@@ -31,21 +32,21 @@
 
 			</titleStmt>
 			<extent><!-- size of the text, in pages and words -->
-				<measure unit="words" quantity="51135"/>
-				<measure unit="pages" quantity="267"/>
+				<measure unit="words">51135</measure>
+				<measure unit="pages" >267</measure>
 			</extent>
 			<publicationStmt>
 				<p>Incorporado a ELTeC el <date>2018-10-01</date></p>
 			</publicationStmt>
 			<sourceDesc>
-				<bibl>
+				<bibl type="copyText">
 					<author>B. Pérez Galdós</author>
-					<title>Episodios Nacionales. T. I. Trafalgar.</title>
-					<p>edición ilustrada por Enrique y Arturo Mélida</p>
+					<title>Episodios Nacionales. T. I. Trafalgar: edición ilustrada por Enrique y Arturo
+					Mélida</title>
 					<pubPlace>Madrid</pubPlace>
 					<publisher>Administración de La Guirnalda y Episodios Nacionales</publisher>
 					<date>1882</date>
-					<ref>http://www.cervantesvirtual.com/obra/trafalgar--0/</ref>
+					
 				</bibl>
 				<bibl>
 					<title>Trafalgar / Benito Pérez Galdós; edición ilustrada por Enrique y Arturo Mélida</title>
@@ -53,9 +54,9 @@
 					<publisher>Biblioteca Virtual Miguel de Cervantes Saavedra</publisher>
 					<pubPlace>Universidad de Alicante</pubPlace>
 						<idno>4768</idno>
-						<availability status="free">
+						<!--<availability status="free">
 					<p>Copyright © Universidad de Alicante, Banco Santander Central Hispano 1999-2001. Accesible desde http://cervantesvirtual.com</p>
-		     			</availability>
+		     			</availability>-->
 					<date when="20020522"/>
 					<ref target="http://www.cervantesvirtual.com/obra/trafalgar--0/">HTML version downloaded on <date>2018-02-01</date>
 					</ref>
@@ -72,8 +73,9 @@
 			</langUsage>
 			<textDesc>
 				<authorGender xmlns="http://distantreading.net/eltec/ns" key="M"/>  
-				<canonicity xmlns="http://distantreading.net/eltec/ns" key="high"/>
 				<size xmlns="http://distantreading.net/eltec/ns" key="medium"/>
+			<canonicity xmlns="http://distantreading.net/eltec/ns" key="high"/>
+			
 				<timeSlot xmlns="http://distantreading.net/eltec/ns" key="T2"/>
 			</textDesc>
 		</profileDesc>
@@ -87,7 +89,7 @@
 				<p>Trafalgar</p>
 				<p>Benito Pérez Galdós</p>
 			</div>
-			<gap type="graphic" desc="portada"/>
+			<gap unit="graphic" n="portada"/>
 		</front>
 		<body>
 			<div type="chapter" n="SP003001">
@@ -95,21 +97,21 @@
 				<p>Se me permitirá que antes de referir el gran suceso de que fui testigo, diga algunas palabras sobre mi infancia, explicando por qué extraña manera me llevaron los azares de la vida a presenciar la terrible catástrofe de nuestra marina.</p>
 				<p>Al hablar de mi nacimiento, no imitaré a la mayor parte de los que cuentan hechos de su propia vida, quienes empiezan nombrando su parentela, las más veces noble, siempre hidalga por lo menos, si no se dicen descendientes del mismo Emperador de Trapisonda. Yo, en esta parte, no puedo adornar mi libro con sonoros apellidos; y fuera de mi madre, a quien conocí por poco tiempo, no tengo noticia de ninguno de mis ascendientes, si no es <pb n="6"/> de Adán, cuyo parentesco me parece indiscutible. Doy principio, pues, a mi historia como Pablos, el buscón de Segovia: afortunadamente Dios ha querido que en esto sólo nos parezcamos.</p>
 				<p>Yo nací en Cádiz, y en el famoso barrio de la Viña, que no es hoy, ni menos era entonces, academia de buenas costumbres. La memoria no me da luz alguna sobre mi persona y mis acciones en la niñez, sino desde la edad de seis años; y si recuerdo esta fecha, es porque la asocio a un suceso naval de que oí hablar entonces: el combate del cabo de San Vicente, acaecido en 1797.</p>
-				<p>Dirigiendo una mirada hacia lo que fue, con la curiosidad y el interés propios de quien se observa, imagen confusa y borrosa, en el cuadro de las cosas pasadas, me veo jugando en la Caleta con otros chicos de mi edad poco más o menos. Aquello era para mí la vida entera; más aún, la vida normal de nuestra privilegiada especie; y los que no vivían como yo, me parecían seres excepcionales del humano linaje, pues en mi infantil inocencia y desconocimiento del mundo yo tenía la creencia de que el hombre había sido criado para la mar, habiéndole asignado la Providencia, como supremo ejercicio de su cuerpo, la natación, <pb n="7"/>y como constante empleo de su espíritu el buscar y coger <gap type="graphic" desc="cangrejos"/> cangrejos, ya para arrancarles y vender sus estimadas bocas, que llaman de la Isla, ya para propia satisfacción y regalo, mezclando así lo agradable con lo útil.</p>
+				<p>Dirigiendo una mirada hacia lo que fue, con la curiosidad y el interés propios de quien se observa, imagen confusa y borrosa, en el cuadro de las cosas pasadas, me veo jugando en la Caleta con otros chicos de mi edad poco más o menos. Aquello era para mí la vida entera; más aún, la vida normal de nuestra privilegiada especie; y los que no vivían como yo, me parecían seres excepcionales del humano linaje, pues en mi infantil inocencia y desconocimiento del mundo yo tenía la creencia de que el hombre había sido criado para la mar, habiéndole asignado la Providencia, como supremo ejercicio de su cuerpo, la natación, <pb n="7"/>y como constante empleo de su espíritu el buscar y coger <gap unit="graphic" n="cangrejos"/> cangrejos, ya para arrancarles y vender sus estimadas bocas, que llaman de la Isla, ya para propia satisfacción y regalo, mezclando así lo agradable con lo útil.</p>
 				<p> La sociedad en que yo me crié era,pues, de lo más rudo, incipiente y soez que puede imaginarse, hasta tal punto, que los chicos de la Caleta éramos considerados como más canallas que los que ejercían igual industria y desafiaban con igual brío los elementos en Puntales; y por esta diferencia, uno y otro bando nos considerábamos rivales, y a veces medíamos nuestras fuerzas en la Puerta de Tierra con grandes y ruidosas pedreas, que manchaban el suelo de heroica sangre.</p>
-				<p>Cuando tuve edad para meterme de cabeza en los negocios por cuenta propia, con objeto de ganar honradamente algunos cuartos, recuerdo que lucí mi travesura en el muelle, sirviendo de <gap type="graphic" desc="embajadores"/> introductor de embajadores a los muchos ingleses que entonces como ahora nos visitaban. El muelle era una escuela ateniense para despabilarse en pocos años, y yo no fui de los alumnos menos aprovechados en aquel vasto ramo del saber humano, así como tampoco dejé de sobresalir en el merodeo de <pb n="8"/> la fruta, para lo cual ofrecía ancho campo a nuestra iniciativa y altas especulaciones la plaza de San Juan de Dios. Pero quiero poner punto en esta parte de mi historia, pues hoy recuerdo con vergüenza tan grande envilecimiento, y doy gracias a Dios de que me librara pronto de él llevándome por más noble camino.</p>
+				<p>Cuando tuve edad para meterme de cabeza en los negocios por cuenta propia, con objeto de ganar honradamente algunos cuartos, recuerdo que lucí mi travesura en el muelle, sirviendo de <gap unit="graphic" n="embajadores"/> introductor de embajadores a los muchos ingleses que entonces como ahora nos visitaban. El muelle era una escuela ateniense para despabilarse en pocos años, y yo no fui de los alumnos menos aprovechados en aquel vasto ramo del saber humano, así como tampoco dejé de sobresalir en el merodeo de <pb n="8"/> la fruta, para lo cual ofrecía ancho campo a nuestra iniciativa y altas especulaciones la plaza de San Juan de Dios. Pero quiero poner punto en esta parte de mi historia, pues hoy recuerdo con vergüenza tan grande envilecimiento, y doy gracias a Dios de que me librara pronto de él llevándome por más noble camino.</p>
 				<p>Entre las impresiones que conservo, está muy fijo en mi memoria el placer entusiasta que me causaba la vista de los barcos de guerra, cuando se fondeaban frente a Cádiz o en San Fernando. Como nunca pude satisfacer mi curiosidad, viendo de cerca aquellas formidables máquinas, yo me las representaba de un modo fantástico y absurdo, suponiéndolas llenas de misterios.</p>
-				<p> Afanosos para imitar las grandes cosas de los hombres, los chicos hacíamos también nuestras escuadras, con <gap type="graphic" desc="pequeñas naves"/>  pequeñas naves, rudamente talladas, a que poníamos velas de papel o trapo, marinándolas con mucha decisión y seriedad en cualquier charco de Puntales o la Caleta. Para que todo fuera completo, cuando venía algún cuarto a nuestras manos por cualquiera de las vías industriales que nos eran propias, comprábamos pólvora en casa de la tía Coscoja de la calle del Torno de Santa <pb n="9"/> María, y con este ingrediente hacíamos una completa fiesta naval. Nuestras flotas se lanzaban a tomar viento en océanos de tres varas de ancho; disparaban sus piezas de caña; se chocaban remedando sangrientos abordajes, en que se batía con gloria su imaginaria tripulación; cubríalas el humo, dejando ver las banderas, hechas con el primer trapo de color encontrado en los basureros; y en tanto nosotros bailábamos de regocijo en la costa, al estruendo de la artillería, figurándonos ser las naciones a que correspondían aquellos barcos, y creyendo que en el mundo de los hombres y de las cosas grandes, las naciones bailarían lo mismo presenciando la victoria de sus queridas escuadras. Los chicos ven todo de un modo singular.</p>
+				<p> Afanosos para imitar las grandes cosas de los hombres, los chicos hacíamos también nuestras escuadras, con <gap unit="graphic" n="pequeñas naves"/>  pequeñas naves, rudamente talladas, a que poníamos velas de papel o trapo, marinándolas con mucha decisión y seriedad en cualquier charco de Puntales o la Caleta. Para que todo fuera completo, cuando venía algún cuarto a nuestras manos por cualquiera de las vías industriales que nos eran propias, comprábamos pólvora en casa de la tía Coscoja de la calle del Torno de Santa <pb n="9"/> María, y con este ingrediente hacíamos una completa fiesta naval. Nuestras flotas se lanzaban a tomar viento en océanos de tres varas de ancho; disparaban sus piezas de caña; se chocaban remedando sangrientos abordajes, en que se batía con gloria su imaginaria tripulación; cubríalas el humo, dejando ver las banderas, hechas con el primer trapo de color encontrado en los basureros; y en tanto nosotros bailábamos de regocijo en la costa, al estruendo de la artillería, figurándonos ser las naciones a que correspondían aquellos barcos, y creyendo que en el mundo de los hombres y de las cosas grandes, las naciones bailarían lo mismo presenciando la victoria de sus queridas escuadras. Los chicos ven todo de un modo singular.</p>
 				<p>Aquélla era época de grandes combates navales, pues había uno cada año, y alguna escaramuza cada mes. Yo me figuraba que las escuadras se batían unas con otras pura y simplemente porque les daba la gana, o con objeto de probar su valor, como dos guapos que se citan fuera de puertas para darse de navajazos. Me río recordando mis extravagantes ideas respecto a las cosas de aquel tiempo. Oía hablar mucho de Napoleón, ¿y cómo creen ustedes que yo me lo figuraba? Pues nada menos <pb n="10"/> que igual en todo a los contrabandistas que, procedentes del campo de Gibraltar, se veían en el barrio de la Viña con harta frecuencia; me lo figuraba caballero en un potro jerezano, con su manta, polainas, sombrero de fieltro y el correspondiente trabuco. Según mis ideas, con este pergenio, y seguido de otros aventureros del mismo empaque, aquel hombre, que todos pintaban como extraordinario, conquistaba la Europa, es decir, una gran isla, dentro de la cual estaban otras islas, que eran las naciones, a saber: Inglaterra, Génova, Londres, Francia, Malta, la tierra del Moro, América, Gibraltar, Mahón, Rusia, Tolón, etc. Yo había formado esta geografía a mi antojo, según las procedencias más frecuentes de los barcos, con cuyos pasajeros hacía algún trato; y no necesito decir que entre todas estas naciones o islas España era la mejorcita, por lo cual los ingleses, unos a modo de salteadores de caminos, querían cogérsela para sí. Hablando de esto y otros asuntos diplomáticos, yo y mis colegas de la Caleta decíamos mil frases inspiradas en el más ardiente patriotismo.</p>
 				<p>Pero no quiero cansar al lector con pormenores que sólo se refieren a mis particulares impresiones, y voy a concluir de hablar de mí. El único ser que compensaba la miseria de mi <pb n="11"/> existencia con un desinteresado afecto, era mi madre. Sólo recuerdo de ella que era muy hermosa, o al menos a mí me lo parecía. Desde que quedó viuda, se mantenía y me mantenía lavando y componiendo la ropa de algunos marineros. Su amor por mí debía de ser muy grande. Caí gravemente enfermo de la fiebre amarilla, que entonces asolaba a Andalucía, y cuando me puse bueno me llevó como en procesión a oír misa a la Catedral vieja, por cuyo pavimento me hizo andar de rodillas más de una hora, y en el mismo retablo en que la oímos puso, en calidad de ex-voto, un niño de cera que yo creí mi perfecto retrato.</p>
-				<p>Mi madre tenía un hermano, y si aquélla era buena, éste era malo y muy cruel por añadidura. No puedo recordar a <gap type="graphic" desc="persona"/> mi tío sin espanto, y por algunos incidentes sueltos que conservo en la memoria, colijo que aquel hombre debió de haber cometido un crimen en la época a que me refiero. Era marinero, y cuando estaba en Cádiz y en tierra, venía a casa borracho como una cuba y nos trataba fieramente, a su hermana de palabra, diciéndole los más horrendos vocablos, y a mí de obra, castigándome sin motivo.</p>
+				<p>Mi madre tenía un hermano, y si aquélla era buena, éste era malo y muy cruel por añadidura. No puedo recordar a <gap unit="graphic" n="persona"/> mi tío sin espanto, y por algunos incidentes sueltos que conservo en la memoria, colijo que aquel hombre debió de haber cometido un crimen en la época a que me refiero. Era marinero, y cuando estaba en Cádiz y en tierra, venía a casa borracho como una cuba y nos trataba fieramente, a su hermana de palabra, diciéndole los más horrendos vocablos, y a mí de obra, castigándome sin motivo.</p>
 				<p>Mi madre debió padecer mucho con las atrocidades de su hermano, y esto, unido al <pb n="12"/> trabajo tan penoso como mezquinamente retribuido, aceleró su fin, el cual dejó indeleble impresión en mi espíritu, aunque mi memoria puede hoy apreciarlo sólo de un modo vago.</p>
 
-<p>En aquella edad de miseria y vagancia, yo no me ocupaba más que en jugar junto a la mar o en correr por las calles. Mis únicas contrariedades eran las que pudieran ocasionarme un bofetón de mi tío, un regaño de mi madre o cualquier contratiempo en la organización de mis escuadras. Mi espíritu no había conocido aún ninguna emoción fuerte y verdaderamente honda, hasta que la pérdida de mi madre me presentó a la vida humana bajo un aspecto muy distinto del que hasta entonces había tenido para mí. Por eso la impresión sentida no se ha borrado nunca de mi alma. Transcurridos tantos años, recuerdo aún, como se recuerdan las medrosas imágenes de un mal sueño, que mi madre yacía postrada con no sé qué padecimiento; recuerdo haber visto entrar en casa unas mujeres, cuyos nombres y condición no puedo decir; recuerdo oír lamentos de dolor, y sentirme yo mismo en los brazos de mi madre; recuerdo también, refiriéndolo a todo mi cuerpo, el contacto de unas manos muy frías, pero muy frías. Creo que <pb n="13"/>después me sacaron de allí, y con estas indecisas memorias se asocia la vista de unas <gap type="graphic" desc="velas"/> velas amarillas que daban pavorosa claridad en medio del día, el rumor de unos rezos, el cuchicheo de unas viejas charlatanas, las carcajadas de marineros ebrios, y después de esto la triste noción de la orfandad, la idea de hallarme solo y abandonado en el mundo, idea que embargó mi pobre espíritu por algún tiempo.</p>
+<p>En aquella edad de miseria y vagancia, yo no me ocupaba más que en jugar junto a la mar o en correr por las calles. Mis únicas contrariedades eran las que pudieran ocasionarme un bofetón de mi tío, un regaño de mi madre o cualquier contratiempo en la organización de mis escuadras. Mi espíritu no había conocido aún ninguna emoción fuerte y verdaderamente honda, hasta que la pérdida de mi madre me presentó a la vida humana bajo un aspecto muy distinto del que hasta entonces había tenido para mí. Por eso la impresión sentida no se ha borrado nunca de mi alma. Transcurridos tantos años, recuerdo aún, como se recuerdan las medrosas imágenes de un mal sueño, que mi madre yacía postrada con no sé qué padecimiento; recuerdo haber visto entrar en casa unas mujeres, cuyos nombres y condición no puedo decir; recuerdo oír lamentos de dolor, y sentirme yo mismo en los brazos de mi madre; recuerdo también, refiriéndolo a todo mi cuerpo, el contacto de unas manos muy frías, pero muy frías. Creo que <pb n="13"/>después me sacaron de allí, y con estas indecisas memorias se asocia la vista de unas <gap unit="graphic" n="velas"/> velas amarillas que daban pavorosa claridad en medio del día, el rumor de unos rezos, el cuchicheo de unas viejas charlatanas, las carcajadas de marineros ebrios, y después de esto la triste noción de la orfandad, la idea de hallarme solo y abandonado en el mundo, idea que embargó mi pobre espíritu por algún tiempo.</p>
 				<p>No tengo presente lo que hizo mi tío en aquellos días. Sólo sé que sus crueldades conmigo se redoblaron hasta tal punto, que cansándome de sus malos tratos, me evadí de la casa deseoso de buscar fortuna. Me fui a San Fernando; de allí a Puerto Real. Junteme con la gente más perdida de aquellas playas, fecundas en héroes de encrucijada, y no sé cómo ni por qué motivo fui a parar con ellos a Medinasidonia, donde hallándonos cierto día en una taberna se presentaron algunos soldados de Marina que hacían la leva, y nos desbandamos, refugiándose cada cual donde pudo. Mi buena estrella me llevó a cierta casa, cuyos dueños se apiadaron de mí, mostrándome gran interés, sin duda por el relato que de rodillas, bañado en lágrimas y con ademán suplicante, hice de mi triste estado, de mi vida, y sobre todo de mis desgracias.</p>
 				<pb n="14"/>
 				<p>Aquellos señores me tomaron bajo su protección, librándome de la leva, y desde entonces quedé a su servicio. Con ellos me trasladé a Vejer de la Frontera, lugar de su residencia, pues sólo estaban de paso en Medinasidonia.</p>
-				<p>Mis ángeles tutelares fueron <gap type="graphic" desc="persona"/>  D. Alonso Gutiérrez de Cisniega, capitán de navío, retirado del servicio, y su mujer, ambos de avanzada edad. Enseñáronme muchas cosas que no sabía, y como me tomaran cariño, al poco tiempo adquirí la plaza de paje del Sr. Don Alonso, al cual acompañaba en su paseo diario, pues el buen inválido no movía el brazo derecho y con mucho trabajo la pierna correspondiente. No sé qué hallaron en mí para despertar su interés. Sin duda mis pocos años, mi orfandad y también la docilidad con que les obedecía, fueron parte a merecer una benevolencia a que he vivido siempre profundamente agradecido. Hay que añadir a las causas de aquel cariño, aunque me esté mal el decirlo, que yo, no obstante haber vivido hasta entonces en contacto con la más desarrapada canalla, tenía cierta cultura o delicadeza ingénita que en poco tiempo me hizo cambiar de modales, hasta el punto de que algunos años después, a pesar de la falta de todo estudio, <pb n="15"/> hallábame en disposición de poder pasar por persona bien nacida.</p>
+				<p>Mis ángeles tutelares fueron <gap unit="graphic" n="persona"/>  D. Alonso Gutiérrez de Cisniega, capitán de navío, retirado del servicio, y su mujer, ambos de avanzada edad. Enseñáronme muchas cosas que no sabía, y como me tomaran cariño, al poco tiempo adquirí la plaza de paje del Sr. Don Alonso, al cual acompañaba en su paseo diario, pues el buen inválido no movía el brazo derecho y con mucho trabajo la pierna correspondiente. No sé qué hallaron en mí para despertar su interés. Sin duda mis pocos años, mi orfandad y también la docilidad con que les obedecía, fueron parte a merecer una benevolencia a que he vivido siempre profundamente agradecido. Hay que añadir a las causas de aquel cariño, aunque me esté mal el decirlo, que yo, no obstante haber vivido hasta entonces en contacto con la más desarrapada canalla, tenía cierta cultura o delicadeza ingénita que en poco tiempo me hizo cambiar de modales, hasta el punto de que algunos años después, a pesar de la falta de todo estudio, <pb n="15"/> hallábame en disposición de poder pasar por persona bien nacida.</p>
 				<p>Cuatro años hacía que estaba en la casa cuando ocurrió lo que voy a referir. No me exija el lector una exactitud que tengo por imposible, tratándose de sucesos ocurridos en la primera edad y narrados en el ocaso de la existencia, cuando cercano a mi fin, después de una larga vida, siento que el hielo de la senectud entorpece mi mano al manejar la pluma, mientras el entendimiento aterido intenta engañarse, buscando en el regalo de dulces o ardientes memorias un pasajero rejuvenecimiento. Como aquellos viejos verdes que creen despertar su voluptuosidad dormida engañando los sentidos con la contemplación de hermosuras pintadas, así intentaré dar interés y lozanía a los mustios pensamientos de mi ancianidad, recalentándolos con la representación de antiguas grandezas.</p>
 				<p>Y el efecto es inmediato. ¡Maravillosa superchería de la imaginación! Como quien repasa hojas hace tiempo dobladas de un libro que se leyó, así miro con curiosidad y asombro los años que fueron; y mientras dura el embeleso de esta contemplación, parece que un genio amigo viene y me quita de encima la pesadumbre de los años, aligerando la carga <pb n="16"/> de mi ancianidad, que tanto agobia el cuerpo como el alma. Esta sangre, tibio y perezoso humor que hoy apenas presta escasa animación a mi caduco organismo, se enardece, se agita, circula, bulle, corre y palpita en mis venas con acelerada pulsación. Parece que en mi cerebro entra de improviso una gran luz que ilumina y da forma a mil ignorados prodigios, como la antorcha del viajero que, esclareciendo la obscura cueva, da a conocer las maravillas de la geología tan de repente, que parece que las crea. Y al mismo tiempo mi corazón, muerto para las grandes sensaciones, se levanta, Lázaro llamado por voz divina, y se me sacude en el pecho, causándome a la vez dolor y alegría.</p>
 				<p>Soy joven; el tiempo no ha pasado; tengo frente a mí los principales hechos de mi mocedad; estrecho la mano de antiguos amigos; en mi ánimo se reproducen las emociones dulces o terribles de la juventud, el ardor del triunfo, el pesar de la derrota, las grandes alegrías, así como las grandes penas, asociadas en los recuerdos como lo están en la vida. Sobre todos mis sentimientos domina uno, el que dirigió siempre mis acciones durante aquel azaroso periodo comprendido entre 1805 y 1834. Cercano al sepulcro, y considerándome <pb n="17"/> el más inútil de los hombres, ¡aún haces brotar lágrimas de mis ojos, amor santo de la patria! En cambio yo aún puedo consagrarte una palabra, maldiciendo al ruin escéptico que te niega, y al filósofo corrompido que te confunde con los intereses de un día.</p>
@@ -119,7 +121,7 @@
 			<div type="chapter" n="SP003002">
 				<head type="main">-II-</head>
 				<p>En uno de los primeros días de Octubre de aquel año funesto (1805), mi noble amo me llamó a su cuarto, y mirándome con su habitual severidad (cualidad tan sólo aparente, pues su carácter era sumamente blando), me dijo:</p>
-				<p><gap type="graphic" desc="persona"/> «Gabriel, ¿eres tú hombre de valor?»</p>
+				<p><gap unit="graphic" n="persona"/> «Gabriel, ¿eres tú hombre de valor?»</p>
 				<p>No supe al principio qué contestar, porque, a decir verdad, en mis catorce años de vida no se me había presentado aún ocasión de asombrar <corr>al</corr>  mundo con ningún hecho heroico; pero <corr>el</corr> oírme llamar <hi rend="italic">hombre</hi> me llenó de orgullo, y pareciéndome al mismo tiempo indecoroso negar mi valor ante persona que lo tenía en tan alto grado, contesté con pueril arrogancia:</p>
 				<p>«Sí, mi amo: soy hombre de valor».</p>
 				<p>Entonces aquel insigne varón, que había derramado su sangre en cien combates gloriosos, sin que por esto se desdeñara de tratar confiadamente a su leal criado, sonrió ante mí, hízome seña de que me sentara, y ya iba <pb n="19"/> a poner en mi conocimiento alguna importante resolución, cuando su esposa y mi ama Doña Francisca entró de súbito en el despacho para dar mayor interés a la conferencia, y comenzó a hablar destempladamente en estos términos:</p>
@@ -132,9 +134,9 @@
 				<p>«No, no irás a la escuadra, porque allí no hacen falta estantiguas como tú. Si tuvieras cuarenta años, como cuando fuiste a la tierra del Fuego y me trajiste aquellos collares verdes de los indios... Pero ahora... Ya sé yo que ese calzonazos de Marcial te ha calentado los cascos anoche y esta mañana, hablándote de batallas. Me parece que el Sr. Marcial y yo tenemos que reñir... Vuélvase él a los barcos si quiere, para que le quiten la pierna que le queda... ¡Oh, San José bendito! Si en mis quince hubiera sabido yo lo que era la gente de mar... ¡Qué tormento! ¡Ni un día de reposo! <pb n="21"/> Se casa una para vivir con su marido, y a lo mejor viene un despacho de Madrid que en dos palotadas me lo manda qué sé yo a dónde, a la Patagonia, al Japón o al mismo infierno. Está una diez o doce meses sin verle, y al fin, si no se le comen los señores salvajes, vuelve hecho una miseria, tan enfermo y amarillo que no sabe una qué hacer para volverle a su color natural... Pero pájaro viejo no entra en jaula, y de repente viene otro despachito de Madrid... Vaya usted a Tolón, a Brest, a Nápoles, acá o acullá, donde le da la gana al bribonazo del Primer Cónsul... ¡Ah!, si todos hicieran lo que yo digo, ¡qué pronto las pagaría todas juntas ese caballerito que trae tan revuelto al mundo!»</p>
 				<p>Mi amo miró sonriendo una mala estampa clavada en la pared, y que, torpemente iluminada por ignoto artista, representaba al Emperador Napoleón, caballero en un corcel verde, con el célebre redingote embadurnado de bermellón. Sin duda la impresión que dejó en mí aquella obra de arte, que contemplé durante cuatro años, fue causa de que modificara mis ideas respecto al traje de contrabandista del grande hombre, y en lo sucesivo me lo representé vestido de cardenal y montado en un caballo verde.</p>
 				<pb n="22"/>
-				<p>«Esto no es vivir -continuó Doña Francisca agitando los brazos-. Dios me perdone; pero aborrezco el mar, aunque dicen que es una de sus mejores obras. ¡No sé para qué sirve la Santa Inquisición si no convierte en cenizas esos endiablados barcos de guerra! Pero vengan acá y díganme: ¿Para qué es eso de estarse arrojando balas y más balas, sin más ni más, puestos sobre cuatro tablas que, si se quiebran, arrojan al mar centenares de infelices? ¿No es esto tentar a Dios? ¡Y estos hombres se vuelven locos cuando oyen un cañonazo! ¡Bonita gracia! A mí se me estremecen las carnes cuando los oigo, y si todos pensaran como yo, no habría más guerras en el mar... y todos los cañones se convertirían en campanas. Mira, Alonso -añadió deteniéndose ante su marido-, me parece que ya os han derrotado bastantes veces. ¿Queréis otra? Tú y esos otros tan locos como tú, ¿no estáis satisfechos después de la del 14?<note place="foot" resp="auth"><p>Así se llamaba al combate del cabo de San Vicente.</p></note>.</p>
+				<p>«Esto no es vivir -continuó Doña Francisca agitando los brazos-. Dios me perdone; pero aborrezco el mar, aunque dicen que es una de sus mejores obras. ¡No sé para qué sirve la Santa Inquisición si no convierte en cenizas esos endiablados barcos de guerra! Pero vengan acá y díganme: ¿Para qué es eso de estarse arrojando balas y más balas, sin más ni más, puestos sobre cuatro tablas que, si se quiebran, arrojan al mar centenares de infelices? ¿No es esto tentar a Dios? ¡Y estos hombres se vuelven locos cuando oyen un cañonazo! ¡Bonita gracia! A mí se me estremecen las carnes cuando los oigo, y si todos pensaran como yo, no habría más guerras en el mar... y todos los cañones se convertirían en campanas. Mira, Alonso -añadió deteniéndose ante su marido-, me parece que ya os han derrotado bastantes veces. ¿Queréis otra? Tú y esos otros tan locos como tú, ¿no estáis satisfechos después de la del 14?<note n="foot" ><p>Así se llamaba al combate del cabo de San Vicente.</p></note>.</p>
 				<p>D. Alonso apretó los puños al oír aquel triste recuerdo, y no profirió un juramento de marino por respeto a su esposa.</p>
-				<p>«La culpa de tu obstinación en ir a la escuadra <pb n="23"/> -añadió la dama cada vez más furiosa-, la tiene el picarón de Marcial, ese endiablado marinero, que debió ahogarse cien veces, y cien veces se ha salvado para tormento mío. Si él quiere volver a embarcarse con su pierna de palo, su brazo roto, su ojo de menos y sus cincuenta heridas, que vaya en buen hora, y Dios quiera que no vuelva a parecer por aquí...; pero tú no irás, Alonso, tú no irás, porque estás enfermo y porque has servido bastante al Rey, quien por cierto te ha recompensado muy mal; y yo que tú, le tiraría a la cara al señor Generalísimo de mar y tierra los galones de capitán de navío que tienes desde hace diez años... A fe que debían haberte hecho almirante cuando menos, que harto lo merecías cuando fuiste a la expedición de África y me trajiste aquellas cuentas azules que, con los collares de los indios, me sirvieron para adornar la <gap type="graphic" desc="urna"/>  urna de la Virgen del Carmen.</p>
+				<p>«La culpa de tu obstinación en ir a la escuadra <pb n="23"/> -añadió la dama cada vez más furiosa-, la tiene el picarón de Marcial, ese endiablado marinero, que debió ahogarse cien veces, y cien veces se ha salvado para tormento mío. Si él quiere volver a embarcarse con su pierna de palo, su brazo roto, su ojo de menos y sus cincuenta heridas, que vaya en buen hora, y Dios quiera que no vuelva a parecer por aquí...; pero tú no irás, Alonso, tú no irás, porque estás enfermo y porque has servido bastante al Rey, quien por cierto te ha recompensado muy mal; y yo que tú, le tiraría a la cara al señor Generalísimo de mar y tierra los galones de capitán de navío que tienes desde hace diez años... A fe que debían haberte hecho almirante cuando menos, que harto lo merecías cuando fuiste a la expedición de África y me trajiste aquellas cuentas azules que, con los collares de los indios, me sirvieron para adornar la <gap unit="graphic" n="urna"/>  urna de la Virgen del Carmen.</p>
 				<p>-Sea o no almirante, yo debo ir a la escuadra, Paquita -dijo mi amo-. Yo no puedo faltar a ese combate. Tengo que cobrar a los ingleses cierta cuenta atrasada.</p>
 				<p>-Bueno estás tú para cobrar estas cuentas -contestó mi ama-: un hombre enfermo y medio baldado...</p>
 				<pb n="24"/>
@@ -160,7 +162,7 @@ tristemente en Vejer viendo sus laureles apolillados y roídos
      <pb n="28"/>
      de 
 
-     <gap type="graphic" desc="ratones"/> 
+     <gap unit="graphic" n="ratones"/> 
       ratones, y meditaba y discurría
 a todas horas sobre un tema importante, es decir: que si Córdova,
 comandante de nuestra escuadra, hubiera mandado orzar a babor en
@@ -205,7 +207,7 @@ propósito. Para dar a comprender cuán vehemente era su deseo, basta
 decir que osaba contrariar, aunque evitando toda disputa, la firme
 voluntad de 
 
-     <gap type="graphic" desc="persona"/> 
+     <gap unit="graphic" n="persona"/> 
       Doña Francisca; y debo advertir,
 para que se tenga idea de la 
 
@@ -222,7 +224,7 @@ mujer.
     <p>
      Réstame hablar ahora del marinero 
 
-     <gap type="graphic" desc="persona"/> 
+     <gap unit="graphic" n="persona"/> 
       Marcial, objeto del odio más
 vivo por parte de Doña Francisca; pero cariñosa y fraternalmente
 amado por mi amo D. Alonso, con quien había servido.
@@ -592,7 +594,7 @@ ingleses.
      -¡No! -dijo Medio-hombre enérgicamente
 y cerrando el 
 
-     <gap type="graphic" desc="puño"/> 
+     <gap unit="graphic" n="puño"/> 
       puño con gesto amenazador-. ¡Si
 no fuera por sus muchas astucias y picardías!... Nosotros vamos
 siempre contra ellos con el alma a un largo, pues, con nobleza,
@@ -851,7 +853,7 @@ Marruecos.
     <p>
      -Los demás... 
 
-     <gap type="graphic" desc="mar"/> 
+     <gap unit="graphic" n="mar"/> 
       la mar es grande
      y en ella cabe
 mucha gente. Dos mil hombres 
@@ -1248,7 +1250,7 @@ arcediano, que es partidario del príncipe Fernando, dice que ese
 señor Godoy es un alma de cántaro, y que no ha estudiado latín ni
 teología, pues todo su saber se reduce a tocar la 
 
-     <gap type="graphic" desc="guitarra"/> 
+     <gap unit="graphic" n="guitarra"/> 
       guitarra
      y a conocer los
 veintidós modos de bailar la gavota. Parece que por su linda cara
@@ -1503,7 +1505,7 @@ azahares de las más altas ramas, era para mí la mayor de las
 delicias, posición o preeminencia superior a la del mejor rey de la
 tierra subido en su trono de oro; y no recuerdo alborozo comparable
 al que me causaba obligándome a correr tras ella en ese divino e
-inmortal juego que llaman <gap type="graphic" desc="niño escondido"/> escondite. Si ella corría como una gacela, yo volaba como un pájaro para cogerla más pronto,
+inmortal juego que llaman <gap unit="graphic" n="niño escondido"/> escondite. Si ella corría como una gacela, yo volaba como un pájaro para cogerla más pronto,
 asiéndola por la parte de su cuerpo que encontraba más a mano.
 Cuando se trocaban los papeles, cuando ella era la perseguidora y a
 mí me correspondía el ser cogido, se duplicaban las inocentes y
@@ -1579,7 +1581,7 @@ chillido con que me llamaba antes, trastornándome el juicio, y
 obligándome a olvidar mis quehaceres, para acudir al juego. El
 capullo se convertía en rosa y la crisálida en 
 
-     <gap type="graphic" desc="mariposa"/> 
+     <gap unit="graphic" n="mariposa"/> 
       mariposa.
     </p>
     
@@ -1671,7 +1673,7 @@ se convencía, y a estas razones oponía otras muy cuerdas.
 principal, y lo principal era que tenía otro novio, a quien de
 veras amaba. Este otro era un oficial de Artillería, llamado 
 
-     <gap type="graphic" desc="persona"/> 
+     <gap unit="graphic" n="persona"/> 
       D. Rafael Malespina, de muy
 buena presencia y gentil figura. Mi amita le había conocido en la
 iglesia, y el pérfido amor se apoderó de ella, mientras rezaba;
@@ -1704,7 +1706,7 @@ la concedieron.
     <p>
      Me acuerdo de cuando fue allí 
 
-     <gap type="graphic" desc="persona"/> 
+     <gap unit="graphic" n="persona"/> 
       el viejo Malespina. Era un señor
 muy seco y estirado, con chupa de treinta colores, muchos colgajos
 en el reloj, gran coleto, y una nariz muy larga y afilada, con la
@@ -2377,7 +2379,7 @@ otra parte.
      Cuando Malespina salió del cuarto,
 estaba más pálido que un difunto. Despidiose a toda prisa de mis
 amos, que le abrazaron con el mayor cariño, y se fue. Cuando
-acudimos a donde estaba mi amita, la encontramos <gap type="graphic" desc="mujer llorando"/> hecha un mar de lágrimas: tan
+acudimos a donde estaba mi amita, la encontramos <gap unit="graphic" n="mujer llorando"/> hecha un mar de lágrimas: tan
 grande era su dolor, que los cariñosos padres no pudieron calmar su
 espíritu con ingeniosas razones, ni atemperar su cuerpo con los
 cordiales que traje a toda prisa de la botica. Confieso que,
@@ -2420,7 +2422,7 @@ está el coche. Vámonos antes que ella venga.»
 Don Alonso, Marcial y yo salimos por la puerta del corral para no
 ser vistos; nos subimos a la 
 
-     <gap type="graphic" desc="calesa"/> 
+     <gap unit="graphic" n="calesa"/> 
       calesa, y esta partió tan a
 escape como lo permitía la escualidez del rocín que la arrastraba, 
 
@@ -2572,7 +2574,7 @@ importantes que me llamaban
      . Recuerdo que una vez,
 estando en Palacio, me suplicaron que les mostrase cómo era una 
 
-     <gap type="graphic" desc="toreo de salón"/> 
+     <gap unit="graphic" n="toreo de salón"/> 
       corrida de toros, y tuve que
 capear, picar y matar una silla, lo cual divirtió mucho a toda la
 Corte, especialmente al Rey Jorge III, quien era muy amigote mío y
@@ -2787,7 +2789,7 @@ las once del día, sin novedad en la salud y con el alma alegre.
      No puedo describir el entusiasmo que
 despertó en mi alma la vuelta a 
 
-     <gap type="graphic" desc="Cádiz"/> 
+     <gap unit="graphic" n="Cádiz"/> 
       Cádiz. En cuanto pude disponer
 de un rato de libertad, después que mi amo quedó instalado en casa
 de su prima, salí a las calles y corrí por ellas sin dirección
@@ -2853,7 +2855,7 @@ función sería buena.
      Llegué por fin a la Caleta, y allí mi
 alegría no tuvo límites. Bajé a la 
 
-     <gap type="graphic" desc="playa"/> 
+     <gap unit="graphic" n="playa"/> 
       playa, y quitándome los zapatos,
 salté de peñasco en peñasco; busqué a mis antiguos amigos de ambos
 sexos, mas no encontré sino muy pocos: unos eran ya hombres y
@@ -2934,7 +2936,7 @@ prima de mi amo, la cual era una señora, a quien el lector me
 permitirá describir con alguna prolijidad, por ser tipo que lo
 merece. 
 
-     <gap type="graphic" desc="persona"/> 
+     <gap unit="graphic" n="persona"/> 
       Doña Flora de Cisniega era una
 vieja que se empeñaba en permanecer joven: tenía más de cincuenta
 años; pero ponía en práctica todos los artificios imaginables para
@@ -3077,7 +3079,7 @@ con su habitual modestia.
     <p>
      -O a Gravina o a 
 
-     <gap type="graphic" desc="persona"/> 
+     <gap unit="graphic" n="persona"/> 
       Churruca, que dicen que es tan
 buen marino. Si no, me temo que esto acabará mal. Aquí no pueden
 ver a los franceses. Figúrate que cuando llegaron los barcos de
@@ -3314,7 +3316,7 @@ para quitarme el mal humor.
      Al día siguiente me obligó a limpiar
 la 
 
-     <gap type="graphic" desc="loro"/> jaula de su loro; discreto
+     <gap unit="graphic" n="loro"/> jaula de su loro; discreto
 animal, que hablaba como un teólogo y nos despertaba a todos por la
 mañana, gritando: 
 
@@ -3379,7 +3381,7 @@ encontrar en el muelle. Salí con la vieja, y al pasar por la
 muralla deteníame para ver los barcos; mas no me era posible
 entregarme a las delicias de aquel espectáculo, por tener que
 contestar a las mil preguntas de Doña Flora, que ya me tenía
-mareado. Durante el paseo se le unieron algunos jóvenes y <gap type="graphic" desc="personas"/> señores mayores. Parecían muy
+mareado. Durante el paseo se le unieron algunos jóvenes y <gap unit="graphic" n="personas"/> señores mayores. Parecían muy
 encopetados, y eran las personas a la moda en Cádiz, todos muy
 discretos y elegantes. Alguno de ellos era poeta, o, mejor dicho,
 todos hacían versos, aunque malos, y me parece que les oí hablar de
@@ -3750,7 +3752,7 @@ la guerra, parafraseando del modo más cómico posible lo que había
 oído algunas noches antes de boca de Malespina en casa de mis amos.
 Por él supe que el novio de mi amita se había embarcado en el 
 
-     <gap type="graphic" desc="barcos"/> 
+     <gap unit="graphic" n="barcos"/> 
       
 
       <hi rend="italic">
@@ -3787,7 +3789,7 @@ felicísimo, y no había aún amanecido, cuando yo estaba en el
 alcázar de popa con mi amo, que quiso presenciar la maniobra.
 Después del baldeo comenzó la operación de 
 
-     <gap type="graphic" desc="buque"/> 
+     <gap unit="graphic" n="buque"/> 
       levar el buque. Se izaron las
 grandes gavias, y el pesado molinete, girando con su agudo
 chirrido, arrancaba la poderosa áncora del fondo de la bahía.
@@ -4097,7 +4099,7 @@ distantes unos de otros. Mas habiéndose calmado el viento poco
 después de mediodía, el buque almirante hizo señales de que se
 formasen las 
 
-     <gap type="graphic" desc="relación de las columnas"/> 
+     <gap unit="graphic" n="relación de las columnas"/> 
       cinco columnas: vanguardia,
 centro, retaguardia y los dos cuerpos que componían la reserva.
     </p>
@@ -4121,7 +4123,7 @@ treinta
 formados en dos columnas. Nuestra escuadra formaba una larguísima
 línea, y según las apariencias, las dos columnas de 
 
-     <gap type="graphic" desc="persona"/> 
+     <gap unit="graphic" n="persona"/> 
       Nelson, dispuestas en forma de
 cuña, avanzaban como si quisieran cortar nuestra línea por el
 centro y retaguardia.
@@ -4365,14 +4367,14 @@ forma en que fuimos atacados. Poco más o menos, era así:
     <pb n="136"/>
     
 
-    <p>
+   <!-- <p>
      
 
      <figure hiresfile="imagenes/ff380aee-82b1-11df-acc7-002185ce6064_1.jpg" lowresfile="imagenes/ff380aee-82b1-11df-acc7-002185ce6064_1.jpg"/>
      
 
     </p>
-    
+    -->
 
     <pb n="137"/>
     
@@ -4551,7 +4553,7 @@ cañonazo.
     <p>
      Un navío de la retaguardia disparó el
 primer tiro contra el 
-     <gap type="graphic" desc="barco"/> 
+     <gap unit="graphic" n="barco"/> 
       <hi rend="italic">
        Royal Sovereign
       </hi>, que mandaba Collingwood. Mientras trababa combate con este
@@ -4817,7 +4819,7 @@ del
      <hi rend="italic">
       Santísima Trinidad
      </hi>
-     era el de un <gap type="graphic" desc="soldados cayendo por la borda"/> infierno. Las maniobras habían sido abandonadas, porque el barco no se movía ni podía moverse.
+     era el de un <gap unit="graphic" n="soldados cayendo por la borda"/> infierno. Las maniobras habían sido abandonadas, porque el barco no se movía ni podía moverse.
 Todo 
 
      <pb n="147"/>
@@ -4888,7 +4890,7 @@ grietas del casco acribillado, y comenzaba a inundar la bodega.
     
 
     <p>
-     El <gap type="graphic" desc="barco"/> <hi rend="italic">Bucentauro</hi>, navío general, se rindió a nuestra vista. Villeneuve había
+     El <gap unit="graphic" n="barco"/> <hi rend="italic">Bucentauro</hi>, navío general, se rindió a nuestra vista. Villeneuve había
 arriado bandera. Una vez entregado el jefe de la escuadra, ¿qué
 esperanza quedaba a los buques? El pabellón francés desapareció de
 la popa de aquel gallardo navío, y cesaron sus fuegos. El 
@@ -5116,7 +5118,7 @@ batería subió a tomar órdenes, y antes de hablar cayó muerto a los
 pies de su jefe; otro guardia marina que estaba a su lado cayó
 también mal herido, y 
 
-     <gap type="graphic" desc="marineros"/> 
+     <gap unit="graphic" n="marineros"/> 
       Uriarte quedó al fin enteramente
 solo en el alcázar, cubierto de muertos y heridos. 
 
@@ -5296,7 +5298,7 @@ fantasía, entonces trastornada,
      <pb n="158"/>
      resonó en el combés una voz que decía: «¡El 
 
-     <gap type="graphic" desc="barco"/> <hi rend="italic">
+     <gap unit="graphic" n="barco"/> <hi rend="italic">
        Trinidad
       </hi> no se rinde». De fijo fue la voz de Marcial, si es que
 realmente dijo alguien tal cosa.
@@ -5459,7 +5461,7 @@ quiso enterarse por él de los pormenores del combate.
      «¿Pero qué ha sido de la reserva? ¿Qué
 ha hecho 
 
-     <gap type="graphic" desc="personas"/> 
+     <gap unit="graphic" n="personas"/> 
       Gravina? -preguntó mi amo.
     </p>
     
@@ -5875,7 +5877,7 @@ ascendían a la terrible suma de cuatrocientos.
     <p>
      No olvidaré jamás el momento en que
 aquellos cuerpos fueron arrojados al mar por orden del oficial
-inglés que custodiaba el navío. Verificose la triste  <gap type="graphic" desc="sacerdote con cadáveres amortajados"/> ceremonia al amanecer del día
+inglés que custodiaba el navío. Verificose la triste  <gap unit="graphic" n="sacerdote con cadáveres amortajados"/> ceremonia al amanecer del día
 22, hora en que el temporal parece que arreció exprofeso, para
 aumentar la pavura de semejante escena. Sacados sobre cubierta los
 cuerpos de los oficiales, el cura rezó un responso a toda prisa,
@@ -6124,7 +6126,7 @@ alarma y pavor resonó en nuestro navío.
 lanchas, a las lanchas!», exclamaron algunos, mientras dominados
 todos por el instinto de conservación, corrían hacia la borda,
 buscando con ávidos ojos las lanchas que volvían. Se abandonó todo
-trabajo; no se pensó más en los <gap type="graphic" desc="personas heridas"/> heridos, y muchos de éstos,
+trabajo; no se pensó más en los <gap unit="graphic" n="personas heridas"/> heridos, y muchos de éstos,
 sacados ya sobre cubierta, se arrastraban por ella con delirante
 extravío, buscando un portalón por donde arrojarse al mar. Por las
 escotillas salía un lastimero clamor, que aún parece resonar en mi
@@ -6824,7 +6826,7 @@ arrastre el resto de sus días miserable y desgraciado».
 
     <p>
      »Esta 
-     <gap type="graphic" desc="soldados en un barco"/> 
+     <gap unit="graphic" n="soldados en un barco"/> 
       arenga, tan elocuente como
 sencilla, que hermanaba el cumplimiento del deber militar con la
 idea religiosa, causó entusiasmo en toda la dotación del 
@@ -7050,7 +7052,7 @@ resentimiento del vencido; asociando el deber a la
      dignidad, y haciendo de la disciplina una religión;
 firme como militar, sereno como hombre, sin pronunciar una queja,
 ni acusar a nadie, con tanta dignidad en la muerte como en la vida.
-Nosotros contemplábamos su <gap type="graphic" desc="cadáver"/> cadáver aún caliente, y nos
+Nosotros contemplábamos su <gap unit="graphic" n="cadáver"/> cadáver aún caliente, y nos
 parecía mentira; creíamos que había de despertar para mandamos de
 nuevo, y tuvimos para llorarle menos entereza que él para morir,
 pues al expirar se llevó todo el valor, todo el entusiasmo que nos
@@ -7121,7 +7123,7 @@ no pueden llevarse al
 nuestros navíos».
     </p>
     
-<milestone/>    
+<milestone unit="section"/>    
 
     <p>
      Aquí terminó Malespina, el cual fue
@@ -7554,7 +7556,7 @@ trastorno.
      Nosotros experimentábamos la desdicha
 de estas alternativas, y además la que proviene de las propias
 obras del hombre. Tras un combate habíamos sufrido un 
-     <gap type="graphic" desc="mar embravecido"/> 
+     <gap unit="graphic" n="mar embravecido"/> 
       naufragio; salvados de éste,
 nos vimos nuevamente empeñados en 
 
@@ -8096,7 +8098,7 @@ reanimar el espíritu del enfermo con la conversación.
      «En la guerra del Rosellón, los
 heridos graves (y yo lo estuve varias veces) mandábamos a los 
 
-     <gap type="graphic" desc="soldados"/> 
+     <gap unit="graphic" n="soldados"/> 
       soldados que bailasen y tocasen
 la guitarra en la enfermería, y seguro estoy de que este
 tratamiento nos curó más pronto que todos los emplastos y
@@ -8775,7 +8777,7 @@ Marcial diciendo:
     
 
     <p>
-     El <gap type="graphic" desc="niño con anciano"/> anciano se incorporó con
+     El <gap unit="graphic" n="niño con anciano"/> anciano se incorporó con
 muchísimo trabajo, apoyado en su mano; levantó la cabeza y recorrió
 con su turbada vista el lóbrego espacio que nos rodeaba.
     </p>
@@ -9150,7 +9152,7 @@ ganas de llorar cuando me acuerdo de Don
      <pb n="246"/>
      
 
-     <gap type="graphic" desc="persona"/> 
+     <gap unit="graphic" n="persona"/> 
       Dionisio Alcalá Galiano, el más
 valiente brigadier de la armada. Eso sí: tenía el genio fuerte y no
 consentía la más pequeña falta; pero su mucho rigor nos obligaba a
@@ -9196,7 +9198,7 @@ Así lo hizo el maldito, y como nuestra línea era tan larga,
      </hi>
      
 
-     <note place="foot" resp="auth">
+     <note>
       
 
       <p>
@@ -9286,7 +9288,7 @@ el honor de la bandera, el
       Bahama
      </hi>
      se rindió a los ingleses, que se lo
-llevarán a <gap type="graphic" desc="peñón de Gibraltar"/> Gibraltar si antes no se les va
+llevarán a <gap unit="graphic" n="peñón de Gibraltar"/> Gibraltar si antes no se les va
 a pique, como sospecho».
     </p>
     
@@ -9660,7 +9662,7 @@ de una pieza inmediata, con el rostro pálido, espantados los ojos y
 mostrando en su ademán la angustia que la poseía. Su vista me hizo
 prorrumpir en amargo llanto, y no necesité pronunciar una palabra. 
 
-     <gap type="graphic" desc="persona"/> 
+     <gap unit="graphic" n="persona"/> 
       Rosita lanzó un grito terrible y
 cayó desmayada. D. Alonso y su esposa corrieron a auxiliarla,
 ocultando su pesar en el fondo del alma. Doña Flora se entristeció,
@@ -9862,7 +9864,7 @@ escuadra española en aquella memorable ocasión.
 creo hiperbólicas las alabanzas de que fue objeto después del
 combate y en los días de su muerte
 
-     <note place="foot" resp="auth">
+     <note >
       
 
       <p>
@@ -9885,7 +9887,7 @@ D. Dionisio Alcalá Galiano.
     
 
     <p>
-     Mi señor <gap type="graphic" desc="persona"/> D. Alonso contestó a las últimas
+     Mi señor <gap unit="graphic" n="persona"/> D. Alonso contestó a las últimas
 palabras de su mujer; y cuando ésta salió, observé que el pobre
 anciano rezaba con tanta piedad como en la cámara del 
 
@@ -10018,7 +10020,7 @@ libro.
   <back>
    
 
-   <div1>
+   <div>
     
 
     <p>
@@ -10026,7 +10028,7 @@ libro.
     </p>
     
 
-   </div1>
+   </div>
    
 
   </back>
