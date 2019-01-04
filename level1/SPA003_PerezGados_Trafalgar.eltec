@@ -4,18 +4,7 @@
 		<fileDesc>
 			<titleStmt>
 				<title>Trafalgar :  edición ELTeC</title>
-			<author ref="viaf:71395987">Galdós, Benito Pérez (1843-1920)
-					<!--<persName>
-						<forename>Benito</forename>
-						<surname>Pérez</surname>
-						<surname>Galdós</surname>
-					</persName>
-					<birth when="1843"/>
-					<death when="1920"/>
-					<sex value="M"/>
-					<idno type="viaf">https://viaf.org/viaf/71395987/</idno>
-					<idno type="wiki">https://es.wikipedia.org/wiki/Benito_Pérez_Galdós</idno>-->
-				</author>
+				<author ref="viaf:71395987">Galdós, Benito Pérez (1843-1920)</author>
 				<respStmt>
 					<resp>Corrección del texto, anotación TEI, supervisión y edición Biblioteca Virtual Miguel de Cervantes</resp>
 					<name>Marisa Payá</name>
@@ -53,10 +42,7 @@
 					<author>Benito Pérez Galdós</author>
 					<publisher>Biblioteca Virtual Miguel de Cervantes Saavedra</publisher>
 					<pubPlace>Universidad de Alicante</pubPlace>
-						<idno>4768</idno>
-						<!--<availability status="free">
-					<p>Copyright © Universidad de Alicante, Banco Santander Central Hispano 1999-2001. Accesible desde http://cervantesvirtual.com</p>
-		     			</availability>-->
+					<idno>4768</idno>
 					<date when="20020522"/>
 					<ref target="http://www.cervantesvirtual.com/obra/trafalgar--0/">HTML version downloaded on <date>2018-02-01</date>
 					</ref>
@@ -74,8 +60,7 @@
 			<textDesc>
 				<authorGender xmlns="http://distantreading.net/eltec/ns" key="M"/>  
 				<size xmlns="http://distantreading.net/eltec/ns" key="medium"/>
-			<canonicity xmlns="http://distantreading.net/eltec/ns" key="high"/>
-			
+				<canonicity xmlns="http://distantreading.net/eltec/ns" key="high"/>			
 				<timeSlot xmlns="http://distantreading.net/eltec/ns" key="T2"/>
 			</textDesc>
 		</profileDesc>
