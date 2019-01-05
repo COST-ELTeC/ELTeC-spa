@@ -6,18 +6,22 @@
 				<title>Trafalgar :  edición ELTeC</title>
 				<author ref="viaf:71395987">Galdós, Benito Pérez (1843-1920)</author>
 				<respStmt>
+					<resp>Principal</resp>
+					<name>Borja Navarro Colorado</name>
+				</respStmt>
+				<respStmt>
+					<resp>Edición ELTeC: revisión de texto, etiquetado y codificación ELTeC</resp>
+					<name>Borja Navarro Colorado</name>
+				</respStmt>
+				<respStmt>
 					<resp>Corrección del texto, anotación TEI, supervisión y edición Biblioteca Virtual Miguel de Cervantes</resp>
 					<name>Marisa Payá</name>
 					<name>Isabel Narros</name>
 					<name>Carmen Hernández Segovia</name>
 					<name>Raquel Pérez Barroso</name>
 					<name>Sonia Jover Sánchez</name>
+				</respStmt>
 
-				</respStmt>
-				<respStmt>
-					<resp>Revisión de texto, etiquetado y codificación ELTeC</resp>
-					<name>Borja Navarro Colorado</name>
-				</respStmt>
 
 			</titleStmt>
 			<extent><!-- size of the text, in pages and words -->
@@ -326,7 +330,7 @@ opinión de mi ama y las mil picardías que dijo del marinero
 embaucador; ya saben que D. Alonso insistía en poner en ejecución
 tan atrevido pensamiento, acompañado de su paje, y ahora me resta
 referir lo que todos dijeron cuando Marcial se presentó a defender
-la guerra contra el vergonzoso <foreign xml:lang="la">statu quo</foreign>de Doña Francisca.</p>
+la guerra contra el vergonzoso <foreign xml:lang="lat">statu quo</foreign>de Doña Francisca.</p>
     
 
    </div>
@@ -1857,7 +1861,7 @@ acto solemne que se verificaba en el comedor con asistencia de
 todos los de la casa, mi amo, que otras veces solía dormirse,
 murmurando perezosamente los 
 
-     <foreign xml:lang="la">
+     <foreign xml:lang="lat">
       Pater-noster
      </foreign>
      , lo cual le valía algunas
@@ -8124,12 +8128,12 @@ hábil, la más estratégica que ha visto el mundo desde Epaminondas?
 Claro es que no; pues allí todo fue extraordinario, y puedo dar fe
 de ello, que la presencié desde el 
 
-     <foreign xml:lang="la">
+     <foreign xml:lang="lat">
       Introito
      </foreign>
      hasta el 
 
-     <foreign xml:lang="la">
+     <foreign xml:lang="lat">
       Ite misa est
      </foreign>
      . A aquella guerra debo mi
