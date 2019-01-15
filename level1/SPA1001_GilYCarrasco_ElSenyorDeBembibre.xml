@@ -4,7 +4,7 @@
 		<fileDesc>
 			<titleStmt>
 				<title ref="viaf:194763311">El Señor de Bembibre : edición ELTeC</title>
-				<author ref="viaf: 27087132">Gil y Carrasco, Enrique (1815-1846)</author>
+				<author ref="viaf:27087132">Gil y Carrasco, Enrique (1815-1846)</author>
 				<respStmt>
 					<resp>Principal</resp>
 					<name>Borja Navarro Colorado</name>
@@ -28,11 +28,11 @@
 			</publicationStmt> 
 			<sourceDesc>
 				<bibl type="firstEdition">
+					<ref target="http://bdh-rd.bne.es/viewer.vm?id=0000246543">Biblioteca Digital Hispánica - Biblioteca Nacional de España</ref>
 					<publisher> Establecimiento Tipográfico de D. Francisco de P. Mellado</publisher>
 					<pubPlace>Madrid</pubPlace>
 					<date>1844</date>
 					<idno type="BDH">bdh0000246543</idno>
-					<ref target="http://bdh-rd.bne.es/viewer.vm?id=0000246543">Biblioteca Digital Hispánica - Biblioteca Nacional de España</ref>
 					<relatedItem>
 						<bibl type="source">
 							<publisher>Biblioteca Virtual Miguel de Cervantes Saavedra</publisher>
@@ -40,9 +40,14 @@
 							<ref target="http://www.cervantesvirtual.com/obra/el-senor-de-bembibre--0/">Biblioteca Virtual Miguel de Cervantes</ref>
 							<date when="19990702"/>
 						</bibl>
+					</relatedItem>
+					<relatedItem>
 						<bibl type="CopyText">
 							<publisher>Ediciones Cátedra</publisher>
-							<editor>Rubio Cremades, Enrique</editor>
+							<respStmt>
+								<name>Rubio Cremades, Enrique</name>
+								<resp>editor</resp>
+							</respStmt>
 							<pubPlace>Madrid</pubPlace>
 							<date when="1986"/>
 						</bibl>
@@ -60,8 +65,8 @@
 			</langUsage>
 			<textDesc>
 				<authorGender xmlns="http://distantreading.net/eltec/ns" key="F"/>
-				<canonicity xmlns="http://distantreading.net/eltec/ns" key="high"/>
 				<size xmlns="http://distantreading.net/eltec/ns" key="long"/>
+				<canonicity xmlns="http://distantreading.net/eltec/ns" key="high"/>
 				<timeSlot xmlns="http://distantreading.net/eltec/ns" key="T1"/>
 			</textDesc>
 		</profileDesc>
@@ -102,21 +107,9 @@ caballero principal a quien todo el mundo quiere y estima en el
 país por su nobleza y valor, y te has expuesto a las burlas algo
 demasiadamente pesadas de Millán, que, sin duda, cuida más de la
 honra de su señor que de la caridad a que estamos obligados los
-cristianos.
-    </p>
-    
+cristianos.</p>
 
-    <p>
-     -Lo que yo digo es que nuestro amo
-hace muy bien en no dar su hija a don Álvaro Yáñez, y en que 
-
-     <foreing xml:lang="lat">
-      velis nolis
-     </foreing>
-     venga a ser condesa de Lemus y
-señora de media Galicia.
-    </p>
-    
+	<p>-Lo que yo digo es que nuestro amo hace muy bien en no dar su hija a don Álvaro Yáñez, y en que <foreign xml:lang="lat">velis nolis</foreign> venga a ser condesa de Lemus y señora de media Galicia.</p>
 
     <p>
      -No hace bien tal -repuso el juicioso
@@ -12190,25 +12183,11 @@ felicidad cuando dijo:
     </p>
     
 
-    <lg rend="align-center" type="fragment">
-     
-
-     <l n="0">
-      ¡Oh honor!, fiero basilisco,
-     </l>
-     
-
-     <l n="0">
-      Que si a ti mismo te miras,
-     </l>
-     
-
-     <l n="0">
-      ¡Te das la muerte a ti mismo!
-     </l>
-     
-
-    </lg>
+    <quote>
+	<l>¡Oh honor!, fiero basilisco,</l>
+	<l>Que si a ti mismo te miras,</l>
+	<l>¡Te das la muerte a ti mismo!</l>
+   </quote>
     
 
     <p>
@@ -15630,30 +15609,12 @@ de una canción popular que decía:
     </p>
     
 
-    <lg rend="align-center" type="fragment">
-     
-
-     <l n="0">
-      Corazón, corazón mío,
-     </l>
-     
-
-     <l n="0">
-      lleno de melancolía,
-     </l>
-     
-
-     <l n="0">
-      ¿cómo no estás tan alegre,
-     </l>
-     
-
-     <l n="0">
-      como estabas algún día?
-     </l>
-     
-
-    </lg>
+	<quote>
+		<l>Corazón, corazón mío,</l>
+		<l>lleno de melancolía,</l>
+		<l>¿cómo no estás tan alegre,</l>
+		<l>como estabas algún día?</l>
+	</quote>
     
 
     <p>
@@ -16151,65 +16112,22 @@ de Job, que decía:
     </p>
     
 
-    <q rend="align-center">
-     
-
-     <l n="0">
-      ¡
-
-      <foreign xml:lang="lat">
-       Ecce nunc in pulvere dormiam, et si mane me
-quaesieris, non subsistam
-      </foreign>
-      !
-     </l>
-     
-
-    </q>
+    <quote>
+		<l n="0">¡<foreign xml:lang="lat">Ecce nunc in pulvere dormiam, et si mane me quaesieris, non subsistam</foreign>!</l>
+    </quote>
     
 
     <p>
      Y en la página siguiente esta estrofa
 dolorosa:
     </p>
-    
-
-    <q rend="align-center">
-     
-
-     <lg rend="align-center" type="fragment">
-      
-
-      <l n="0">
-       La flor del alma su fragancia pierde;
-      </l>
-      
-
-      <l n="0">
-       por lo de ayer el corazón suspira,
-      </l>
-      
-
-      <l n="0">
-       cae de los campos su corona verde;
-      </l>
-      
-
-      <l n="0">
-       ¡lágrimas sólo quedan a la lira!
-      </l>
-      
-
-     </lg>
-     
-
-    </q>
-    
-
-    <p>
-     Don Álvaro pasó unas cuántas hojas, y
-se encontró con una que decía:
-    </p>
+	<quote>
+		<l>La flor del alma su fragancia pierde;</l>
+		<l>por lo de ayer el corazón suspira,</l>
+		<l>cae de los campos su corona verde;</l>
+		<l>¡lágrimas sólo quedan a la lira!</l>
+	</quote>
+	<p>Don Álvaro pasó unas cuántas hojas, y se encontró con una que decía:</p>
     
 
     <p>
@@ -17398,7 +17316,7 @@ vamos a traducir fielmente haciendo antes una profunda cortesía a
 nuestros lectores en señal de despedida, ya que después de ellas,
 nada podemos contarles de nuevo. Dice así:</p>
     
-	<q>«Por los años de 1320, ocho después
+	<p>«Por los años de 1320, ocho después
 que el santo padre Clemente V, de santa memoria, disolvió la orden
 y caballería del Temple, acaeció que un peregrino que volvía a
 visitar el sepulcro del Salvador, mal perdido por los pecados de
@@ -17417,11 +17335,8 @@ penitencias, sin duda, y tal vez los disgustos le doblaban la edad
 al parecer. Era muy austero y taciturno, y su aire a veces parecía
 como de quien en el siglo había sido un poderoso de la tierra.
 Esto, sin embargo, no dañaba a la modestia y suavidad de trato que
-con todos usaba, si bien por muy poco tiempo disfrutamos el
-suyo.
-    </p>
-    
-
+con todos usaba, si bien por muy poco tiempo disfrutamos el suyo.
+</p>
     <p>
      Pocos días antes de su misteriosa
 llegada había fallecido el ermitaño de la Aguiana, santo varón muy
