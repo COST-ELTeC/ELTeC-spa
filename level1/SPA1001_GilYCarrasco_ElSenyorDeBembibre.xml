@@ -18,14 +18,11 @@
 					<name>Alex Bia</name>
 					<name>Ana López Díaz</name>
 				</respStmt>
-				<extent>
-					<measure unit="words">111 968</measure>
-					<measure unit="pages">424</measure>
-				</extent>
 			</titleStmt>
-			<encodingDesc n="eltec-1">
-				<p/>
-			</encodingDesc>
+			<extent>
+				<measure unit="words">111 968</measure>
+				<measure unit="pages">424</measure>
+			</extent>
 			<publicationStmt>
 				<p>Incorporado a ELTeC el <date>2019-01-5</date></p>
 			</publicationStmt> 
@@ -53,10 +50,13 @@
 				</bibl>
 			</sourceDesc>
 		</fileDesc>
+		<encodingDesc n="eltec-1">
+			<p/>
+		</encodingDesc>
 		<profileDesc>
 			<langUsage>
     				<language ident="spa" usage="99">Español</language>
-				    <language ident="lat" usage="01">Latín</language>
+				<language ident="lat" usage="01">Latín</language>
 			</langUsage>
 			<textDesc>
 				<authorGender xmlns="http://distantreading.net/eltec/ns" key="F"/>
