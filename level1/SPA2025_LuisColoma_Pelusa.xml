@@ -1,0 +1,796 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:h="http://www.w3.org/1999/xhtml" xml:id="SPA2025" xml:lang="SPA">    
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Pelusa : edición ELTeC</title>
+				<author ref="viaf:59211037">Luis Coloma Roldán (1851-1915)</author>
+				<respStmt>
+					<resp>Principal</resp>
+					<name>Borja Navarro Colorado</name>
+				</respStmt>				
+				<respStmt>
+					<resp>Edición ELTeC</resp>
+					<name>Jesús Baeza Gregori</name>
+				</respStmt>
+				<respStmt>
+					<resp>Corrección del texto, anotación TEI, supervisión y edición
+					Biblioteca Virtual Miguel de Cervantes</resp>
+					<name>Santiago Lorenzo García</name>
+					<name>Jorge Villar</name>
+					<name>Josefina Carrión</name>
+				</respStmt>
+			</titleStmt>
+			<extent>
+				<measure unit="words">6123</measure>
+				<measure unit="pages">40</measure>
+			</extent>
+			<publicationStmt>
+				<p>Incorporado a ELTeC el <date>2019-01-20</date></p>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl type="source">
+					<publisher> Casa editorial Saturnino Calleja-Fernández</publisher>
+					<pubPlace>Madrid</pubPlace>
+					<date>1876</date>
+					<idno type="BDH">bdh0000141303</idno>
+					<ref target="http://bdh-rd.bne.es/viewer.vm?id=0000141303">Biblioteca Digital Hispánica - Biblioteca Nacional de España</ref>
+					<relatedItem>
+						<bibl type="copyText">
+							<publisher>Biblioteca Virtual Miguel de Cervantes</publisher>
+							<pubPlace>Universidad de Alicante</pubPlace>
+							<ref target="http://www.cervantesvirtual.com/nd/ark:/59851/bmcq23w0">Biblioteca Virtual Miguel de Cervantes</ref>
+							<date>2000</date>
+						</bibl>
+					</relatedItem>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc n="eltec-1">
+		<p/>
+		</encodingDesc>
+		<profileDesc>
+			<langUsage>
+				<language ident="SPA" usage="100">Español Castellano</language>
+			</langUsage>
+			<textDesc>
+				<authorGender xmlns="http://distantreading.net/eltec/ns" key="M"/>
+				<size xmlns="http://distantreading.net/eltec/ns" key="short"/>
+				<canonicity xmlns="http://distantreading.net/eltec/ns" key="medium"/>
+				<timeSlot xmlns="http://distantreading.net/eltec/ns" key="T2"/>
+			</textDesc>
+		</profileDesc>
+		<revisionDesc>
+			<change when="2019-01-18">Anotación formato ELTeC: Jesús Baeza Gregori</change>
+			<change when="2019-01-20">Revisión y corrección anotación ELTeC: Borja Navarro Colorado</change>
+		</revisionDesc>
+	</teiHeader>
+	<text>
+		<front>
+			<div type="titlePage">
+				<p>P. Luis Coloma, s.j.</p>
+				<p>de la real academia española</p>
+				<p>Pelusa</p>
+				<p>Ilustraciones de</p>
+				<p>N. Méndez-Bringa</p>
+				<gap unit="graphic" n="sello"/>
+				<p>Editorial Saturnino Calleja S.A.</p>
+				<p>Casa fundada el año 1876</p>
+				<p>Madrid</p>
+			</div>
+			<div type="liminal">
+				<gap unit="graphic" n="La robó en el jardín de un palacio"/>
+			</div>
+			<div type="liminal">
+				<head>Dedicatoria</head>
+				<gap unit="graphic" n="foto de Luis Coloma"/>
+				<p>A Pilarita Azlor Aragón y Guillamas y a Isabe	lita
+				Silvia y Azlor Aragón</p>  <p>En las largas y solitarias
+				horas de esta mi última enfermedad me imaginaba algunos
+				días que veníais las dos, como tantas otras
+				veces, y apoyadas en mis rodillas me pedíais que os
+				contara un cuento; y para realizar en parte esta dulce ilusión
+				os escribí entonces esta historia de Pelusa.</p>  <p>Creo
+				que esto será lo último que escriba; y no porque
+				piense colgar mi pluma como el bueno de Cervantes, sino porque
+				la enfermedad me la arrebató ya de las manos, y la
+				muerte se encargará pronto de tirarla a la basura,
+				que es el lugar más adecuado.</p>  <p>Espero, sin embargo,
+				que cuando las dos seáis unas viejecitas muy monas
+				y leáis este cuento a vuestros nietos diréis
+				al terminarlo: ¡Pobre P. Coloma!... ¡Qué tonto era!...
+				¡Pero cuánto nos quería!.. Y rezaréis
+				después un padrenuestro por mi alma.</p>
+				<gap unit="graphic" n="firma del autor"/> 
+				<p>Madrid, 2 Noviembre 1912.</p>  
+			</div>
+		</front>
+		<body>
+			<gap unit="graphic" n="Pelusa Cuento infantil"/> 
+			<p>Pues, señor, que era vez y vez de una vieja,
+			más vieja que el modo de llover, más fea que
+			pegarle a su padre y más mala que el pecado mortal,
+			que se llamaba la vieja Paví. Pues vamos a que esta
+			vieja Paví tenía consigo una niña de
+			cinco a seis años, blanca y rubia como el angelito
+			que juega a los pies de la Virgen con un manojito de flores.</p>
+			 <p>Llamábase la niña Pelusa, y las vecinas la
+			creían todas nieta de la tía Paví; porque
+			la pícara vieja, a fuerza de pellizcos y alfilerazos,
+			la obligaba a llamarla abuela. Pero no era verdad: cuando
+			era chiquita la 
+			 había robado en el jardín
+			de un palacio magnífico, donde se había dormido
+			sobre unas matitas de albahaca y alhucemas mientras la niñera
+			hablaba con el novio por una ventana de la tapia. Estaba
+			la verja abierta, y la vieja Paví entró de
+			puntillas, cogió a la niña dormida, la metió
+			en un saco de trapos y echó a correr, pensando sacarle
+			las mantequitas para hacer el unto con que las brujas vuelan;
+			porque ella lo era, y de las malas, malas, que montan en
+			escobas. Pero cuando fue a matarla lloraba tanto la niña,
+			que temió la oyesen los guardias; y como la vio tan
+			bonita, decidió entonces criarla con mendruguitos
+			de pan hasta que fuese grande, para venderla entonces a cualquier
+			señorón rico que la pagase bien.</p>  <p>Cuando creció
+			Pelusita extrañábase y dolíase de que
+			todos los niños tuviesen un papá y una mamá,
+			y ella no tuviese ninguno. Un día preguntó
+			llorando a la vieja.</p>  <p>-Pero, abuela, ¿por qué no tengo
+			yo papá? ¿Por qué no tengo mamá?</p>  <p>-Porque
+			tú naciste de las pelusas en un nido de ratones -le
+			contestó la vieja furiosa-. Allí te encontré
+			yo barriendo un día el rincón de la despensa:
+			por eso te llamas Pelusa. ¡Pelusa! ¡Pelusa!</p>  <p>Y para que no
+			llorase la pegaba con la caña de la escoba, y le tiraba
+			pellizcos, y le pinchaba las manitas con un alfiler negro
+			muy gordo con cabecilla verde. Pelusita se escondió
+			debajo de la mesa, y llorando 
+			<gap unit="graphic" n="La robó en el jardín de un palacio"/>
+			 muy quedito para que no la oyese la vieja,
+			decía desconsolada:</p>
+
+			<gap unit="graphic" n="Tú naciste de las pelusas de un nido de ratones"/>  
+
+			<p>-¡Ay, si yo tuviera un papá!...
+			¡Ay, si yo tuviera una mamá!...</p>  <p>Pues vamos a que
+			un día fue la vieja Paví a echar una carta
+			al correo y dejó a Pelusita sentada a la puerta de
+			la calle al cuidado de la comida. Estaba ésta en un
+			pucherito puesto sobre un anafe de yeso, y mientras hervía
+			la olla entreteníase Pelusita con una muñequilla
+			rota y vieja que había encontrado en la basura. Estaba
+			la muñequilla sucia y despintada, y le faltaba una
+			pata; pero como la pobrecita Pelusa nunca había tenido
+			otra, parecíale preciosa, y le puso por 
+			 nombre doña
+			Amparo, porque así se llamaba la señora gorda
+			que vivía al fin de la calle y que gastaba sombrero
+			con plumas.</p>  <p>-Como yo no tengo papá ni tengo mamá
+			-pensaba Pelusita- tendré a doña Amparo, y
+			seré yo su mamá.</p>
+		
+			<gap unit="graphic" n="Vio venir por la calle abajo un hombre y una mujer"/>
+  
+			<p>Y le hizo un vestidito con
+			unos papelillos de colores que se encontró en la calle,
+			y una monterita de papel blanco, y la adornó con plumas
+			que arrancó de una gallina muerta. Pues vamos a que
+			mientras Pelusita jugaba con doña Amparo cuidando
+			de la comida vio venir por la calle abajo un hombre y una
+			mujer que traía un niño chico en brazos. Parecían
+			muy pobres 
+			 y venían, como de camino, muy tristes
+			y cansados. Al llegar frente a la casa de Pelusita la mujer
+			se sentó en el suelo con el niño, como rendida,
+			y el hombre se apoyó en la pared, como si le faltaran
+			las fuerzas. Diole muchísima lástima a Pelusita,
+			porque tenía muy buen corazón, y se le saltaron
+			las lágrimas. Entró corriendo en su vivienda
+			y sacó dos sillas, que ofreció a los caminantes,
+			diciéndoles con mucha caridad, que es la verdadera
+			cortesía:
+			</p>
+
+			<gap unit="graphic" n="-¿Gustan ustedes de sentarse?"/>   
+			
+			<p>-¿Gustan ustedes de sentarse?</p>  <p>-Dios te lo pague, hija mía
+			-respondió la mujer tomando la silla-, que venimos
+			muy cansaditos, porque hemos andado ya dos leguas, nos falta
+			todavía 
+			 otra, y en todo el santo día de Dios
+			hemos probado bocado.</p>  <p>-¿Ni el niño tampoco? -preguntó
+			Pelusa muy afligida.</p>  <p>-¡Tampoco! -respondió la mujer.</p>
+			 <p>-¡Ay, Jesús!... ¡Vaya por Dios! -exclamó Pelusa
+			llorando de pena-. Pues ahora mismo se van ustedes a comer
+			estas sopitas, que ya han hervido, y le sabrán al
+			niño a gloria.</p>  <p>Y más pronto que la vista saca
+			una mesa chiquita y la pone ante la mujer, cubierta con un
+			mantelito blanco. Puso luego encima un plato muy limpio,
+			y con mucho cuidado y primor volcó en él la
+			sopa que hervía en el pucherito. Con esto despertó
+			el niño, y se puso a saltar muy contento sobre las
+			rodillas de su madre, extendiendo las manos hacia las sopitas.
+			Mientras comían preguntó la mujer a Pelusa
+			si vivía en aquella casa con su papá y su mamá.</p>
+			 <p>-Yo nunca he tenido papá ni mamá -respondió
+			Pelusa bajando la cabeza avergonzada.</p>  <p>-Pues, entonces, ¿dónde
+			viniste a este mundo? -preguntó el hombre muy extrañado.</p>
+			 <p>-Dice la vieja Paví que me encontró en un
+			nido de ratones barriendo un día el rincón
+			de la despensa.</p>  <p>El hombre y la mujer se miraron, y Pelusita
+			continuó tristemente.</p>  <p>-Por eso no tengo a nadie que
+			me quiera más que a doña Amparo, que es mi
+			niña, y yo soy su mamá. 
+			</p>
+			<gap unit="graphic" n="La muñequita se levantó como si fuera una persona viva"/>   
+			<p>Y al decir
+			esto sacó la muñequita del bolsillo de su delantal,
+			donde la había metido mientras ponía la mesa.
+			No bien vio el niño la muñequita redobló
+			sus saltos y sus gritos de contento, y empezó a extender
+			las manitas como si quisiera cogerla. Diósela al punto
+			Pelusa con mucho gusto, y el niño la tomó con
+			la manita izquierda y le echó la bendición
+			con la derecha, soltándola después sobre la
+			mesa. Y entonces fue lo maravilloso, que le puso a Pelusita
+			los pelos de punta; no de miedo, ni de pavor, porque el niño
+			no podía ser más bonito ni la mujer más
+			hermosa, y el hombre, que no era viejo, tenía una
+			cara de buen señor que alejaba todo temor e infundía
+			confianza. Pero, 
+			 hija de mi alma, fue el caso que no bien
+			cayó la muñequita sobre la mesa, se levantó
+			ella sola como una persona viva, con la pata rota ya compuesta,
+			las narices desconchadas ya puestas en su sitio, y la cara,
+			antes sucia y despintada, limpia ya, fresca, colorada y reluciente
+			como si acabara de salir de la tienda. El niño tocaba
+			las palmitas muy contento, saltando siempre sobre las rodillas
+			de su madre, y la muñequita comenzó a bailar
+			al compás encima de la mesa, con tanta gracia y maestría
+			como una bailarina del circo. Al mismo tiempo cantaba con
+			una vocecita chillona que penetraba hasta los sesos esta
+			coplita de Nochebuena; porque eran ya por entonces los días
+			de Navidad, y los chiquillos alborotaban las calles cantando
+			al Niño Jesús con zambombas y panderetas:</p> 
+			  <l>En el portal de Belén</l> <l> hay un nido de ratones,</l> <l> y
+			al Patriarca José</l> <l> le han roído los calzones.</l>
+			  <p>Al oír la coplita la mujer miró al hombre
+			sonriéndose, y éste se sonrió también,
+			mirándose con disimulo los calzones como si temiese
+			que fueran ellos los aludidos en la copla. La muñequita
+			seguía cantando.</p>    <l>Yo quiero ir a Belén,</l> <l> aunque me riña mi amo,</l>
+			<l> que yo quiero ver también 
+			</l> <l> ese Niño soberano.</l>
+			<l> Yo le llevé unas sopitas,</l> <l> y no las quiso comer:</l>
+			<l> y como estaban calentitas</l> <l> se las comió San José.</l>
+			<l> San José bendito,</l> <l> ¿por qué te quemaste?</l> <l>
+			Viendo que eran <emph>gachas</emph>,</l> <l> ¿por qué no soplaste?</l>  <p>La
+			mujer y el hombre volvieron a mirarse y a sonreírse,
+			y aun dicen algunos que éste se puso colorado; porque
+			era verdad que, con el hambre que traía el buen señor,
+			se abalanzó con tanta prisa a la sopa del pucherito,
+			que se quemó y se hizo pupa en la lengua.</p>  <p>La mujer
+			extendió la mano sobre la muñequita, y ésta,
+			saltando como una pulga, se metió en el bolsillo del
+			delantal de Pelusa y allí se mantuvo muy quieta, asomando
+			la cabecita por un descosido que el bolsillo tenía.
+			La mujer dijo entonces a Pelusa con mucho cariño:</p>
+			 <p>-Mira, Pelusita: lo que te ha dicho la vieja Paví,
+			que te encontró en un nido de ratones, es una mentira
+			muy gorda. Tú tienes, como todos los niños,
+			un papá muy bonito y una mamá muy preciosa,
+			que te quieren mucho y que andan buscándote.</p>  <p>Los
+			piececillos de Pelusa comenzaron a moverse y a alborotarse
+			como si quisieran ya echar a correr 
+			 en busca de aquel papá
+			tan bonito y de aquella mamá tan preciosa. Encendida
+			como una rosa y brillantes los ojos de alegría preguntó:</p>
+			 <p>-¿Y dónde están?</p>  <p>-En el castillo de <title>Irás
+			y no volverás</title>, donde la vieja Paví los tiene
+			encantados -contestó la mujer sin apurarse demasiado.</p>
+			 <p>Pelusita se echó a llorar, diciendo muy afligida:</p>
+			 <p>-Pero ¿dónde está eso? ¿Quién me llevará
+			allí? ¡Yo soy chiquita y no puedo ir sola!</p>  <p>-¡No te
+			apures, Pelusita; no llores, hija mía! -replicó
+			la mujer acariciándola-. Doña Amparo te llevará
+			de la manita adonde están ellos.</p>  <p>-¡Sí, señora;
+			yo la llevaré con muchísimo gusto! -chilló
+			la muñequita asomando la cabeza por el descosido del
+			delantal.</p>  <p>-Pero ¿cuándo veré a mi papá
+			y a mi mamá? -preguntó Pelusa loca de alegría
+			por la impaciencia y la esperanza.</p>  <p>-Ya te he dicho que cuando
+			llegue la hora doña Amparo te llevará de la
+			manita -respondió la mujer acariciándola-.
+			Tú no tienes sino hacer lo que ella te diga; y si
+			te vieras en algún apuro, dirás muy de corazón:</p>
+			   <l>¡Jesús, José, María,</l> <l> sed mi amparo
+			y sed mi guía!</l>  <p>La mujer cogió entonces el
+			pucherito donde 
+			 habían estado las sopitas, y echándole
+			la bendición dijo a Pelusa:</p>  <p>-Toma este pucherito,
+			y siempre que necesites comer llénalo de agua clara,
+			echa dentro dos o tres piedrecitas, según el hambre
+			que tengas, y lo pones al fuego, diciendo antes de taparlo:</p>
+			   <l>¡Pucherito, pucherito,</l> <l> dame de comer</l> <l> por aquel niño
+			chiquito!</l>   <p>Y con esto se despidió la mujer, besando
+			a Pelusa en la frente; el hombre hizo lo mismo, y el niño
+			le echó los bracitos al cuello, y sosteniéndole
+			la madre, le dio doce besitos; tantos cuantos son los frutos
+			del Espíritu Santo.</p>  <p>Pues vamos a que mientras desaparecía
+			por un extremo de la calle aquella honrada familia vio venir
+			Pelusa por el otro a la vieja Paví, renqueando con
+			su palo, con un gesto de vinagre y una cara de mal genio,
+			que sólo con el aliento levantaba chichones. Pelusita
+			se quedó helada de susto, porque se le ocurrió
+			al punto lo que no le había ocurrido antes: que los
+			pobrecitos se habían comido toda la sopa, y no había
+			quedado nada para la vieja Paví. Aterrada con esta
+			idea, y temerosa de las terribles consecuencias que tendría
+			para ella, entrose la pobrecita corriendo en la casa, y se
+			escondió debajo de la mesa para conjurar el primer
+			ímpetu de la rabia de la vieja. 
+			 Llegó por
+			fin ésta a su casa, y entró dando voces agrias
+			y destempladas llamando a Pelusa.</p>  <p>-¡Pelusa!... ¡Pelusilla!...
+			¿Dónde estás? ¡Trae volando la comida, que
+			vengo desfallecida de hambre!</p>  <p>La niña, muerta de
+			miedo, se agazapaba cada vez más debajo de la mesa,
+			sin atreverse ni a resollar siquiera. Vio en esto la vieja
+			el pucherito vacío encima de la mesa, y exclamó
+			en el colmo de la sorpresa y de la ira.</p>  <p>-Pero ¿quién
+			demonios se ha comido mi sopa?</p>  <p>Aterrada Pelusa, se le ocurrió
+			decir para salir del compromiso que se las había comido
+			el gato; pero como esto no era cierto y ella era una niña
+			muy buena que por nada del mundo decía mentiras, porque
+			es pecado y contra la ley de Dios, se decidió a decir
+			la verdad.</p>  <p>-Se las di a unos pobrecitos caminantes que iban
+			hambrientos y llevaban un niño muy bonito.</p>  <p>La vieja
+			se puso verde de ira y empezó a pegar con su palo
+			en el suelo, echando maldiciones por aquella boca que parecía
+			la desembocadura del caño del Infierno.</p>  <p>-¿Conque
+			era el niño muy bonito? ¿Eh? -decía-. ¡Ya te
+			daré yo niño bonito! ¡Permita Dios que reviente
+			y se le vuelvan las sopas veneno en el estómago!</p> 
+			<p>-¡Ay, Jesús, señora, no diga usted eso, que
+			Dios 
+			 la va a castigar! -exclamó Pelusita espantada-.
+			¡Ahora mismo le haré yo a usted otras sopitas!</p>  <p>-¿Conque
+			me vas a hacer otras sopitas? ¿Eh? -contestó la vieja
+			con una risita rabiosa que helaba la sangre-. ¡Pues lo primero
+			que vas a echar en ella serán tus orejas, que te las
+			voy a cortar ahora mismo! ¡Con eso tendrá más
+			sustancia el caldo, y me las comeré yo después
+			como si fueran chuletas!</p> <gap unit="graphic" n="La niña, muerta de miedo, se agazapaba debajo de la mesa"/>   
+			<p>Y con crueldad infernal
+			sacó a Pelusa de debajo de la mesa arrastrándola
+			por el pelo; la ató a una pata de la misma mesa, y
+			fue a la cocina en busca de un cuchillo. La pobre niña
+			gritaba y gemía medio defallecida; pero cuando vio
+			aparecer a la vieja Paví 
+			 armada con un enorme cuchillo
+			de cocina y dispuesta a cortarle las orejas, acordose de
+			pronto de lo que la buena mujer le había dicho, y
+			gritó desde el fondo de su corazón:</p> <gap unit="graphic" n="Cuando vio aparecer a la vieja con una enorme cuchillo..."/>  
+			<l>¡Jesús, José, María,</l> <l> sed mi amparo
+			y sed mi guía!</l> <p>Oyose entonces de repente una voz
+			que retumbaba como un trueno, y que parecía salir
+			del bolsillo del delantal de Pelusa, diciendo:</p>  <p>-¡¡Tunanta!!
+			¡¡Deja a la niña!!...</p>  <p>Y al mismo tiempo saltó
+			como una pulga la muñequita doña Amparo desde
+			el bolsillo de Pelusa a 
+			 las narices de la vieja, que eran
+			muy largas, y en ellas se montó como a caballo, y
+			con las piernecitas y las uñitas de palo de tal modo
+			le arañó la frente y los ojos, que le chorreaba
+			sangre por la cara abajo. Chillaba la vieja como desesperada,
+			y dejó caer el cuchillo para llevarse ambas manos
+			a la cara y quitarse de las narices aquellos molestos espejuelos.
+			Mas no arrancaban de allí a doña Amparo ni
+			las tenazas de Nicodemus, y con su vocecita chillona repetía
+			amenazadoramente:</p>  <p>-¡Pícara vieja, suelta a la niña!
+			¡Desátala, o te saco los ojos!</p>  <p>No tuvo más
+			remedio la vieja Paví que desatar a Pelusa; y no bien
+			lo hubo hecho, doña Amparo saltó encima de
+			la mesa, dejándole la nariz lo mismo que una berenjena,
+			y dijo a la niña:</p>  <p>-Ahora, Pelusita, haz unas sopitas
+			a la vieja.</p>  <p>Como era más buena que el pan, porque
+			aquella niña no tenía hiel ninguna, Pelusa
+			tomó entonces el pucherito, como le había dicho
+			la mujer, lo llenó de agua hasta la mitad, echó
+			dentro dos piedrecitas, y lo puso al fuego en la cocina,
+			diciendo antes de taparlo:</p>  <l>¡Pucherito, pucherito,</l> <l> dame de comer</l> <l> por aquel niño
+			chiquito!</l>  <p>La vieja Paví miraba asombrada toda aquella
+			maniobra; 
+			 pero como la muñequita doña Amparo
+			seguía paseándose encima de la mesa, dispuesta
+			siempre a saltarle a las narices, no dijo ni esta boca es
+			mía. En esto comenzó a hervir el pucherito.
+			Pelusita levantó la tapadera, y se quedó estupefacta
+			viendo que en vez de las dos piedrecitas y el agua clara
+			había dentro dos hermosas perdices guisadas en sabrosísima
+			salsa que esparcía por toda la cocina un olor delicioso.
+			El olorcillo de las perdices llegó bien pronto a las
+			narices arañadas de la vieja; y como era tan tragona,
+			tan mala y tan sinvergüenza, arrebató el puchero
+			de manos de Pelusa, y se zampó las dos perdices con
+			huesos y todo, y se bebió la salsa como si fuese agua,
+			relamiéndose los labios y chupándose los dedos.
+			Sentose luego en un sillón de brazos, puso los pies
+			en una sillita chica, y dijo bostezando:</p>  <p>-Ahora voy a dormir
+			la siesta. Tú, Pelusa, quédate de pie a mi
+			lado para espantarme las moscas.</p>  <p>Pelusita cogió un
+			plumero con mucha humildad, y se puso a oxearle las moscas.
+			Pero no era necesario, porque, de puro mala que era, la vieja
+			Paví sudaba veneno, y mosca que se le posaba en la
+			cara o en las manos, mosca que caía muerta de repente.
+			Pronto empezó a roncar la vieja como los fuelles de
+			un órgano. Pero de allí a poco observó
+			Pelusa que empezaba a hincharse, a hincharse cada vez más,
+			primero el vientre, luego la cabeza, después los pies
+			y las manos, hasta que, no pudiendo dar más de sí
+			el 
+			 pellejo, de pronto dio un estallido y reventó
+			como un triquitraque, saltando por todas partes los pedazos
+			de la vieja: las tripas quedaron colgando del techo, los
+			ojos cayeron a la calle, y las narices fueron a parar a lo
+			alto del campanario de la iglesia. Y por cierto que allí
+			están todavía, y yo las he visto muchas veces,
+			porque el sacristán de la parroquia, que se llamaba
+			Juanito Tembleque, hizo con ellas una veleta y la puso en
+			lo más alto de la torre para escarmiento de pícaros.</p> <gap unit="graphic" n="Observó Pelusa que la vieja empezaba a hincharse"/>
+			  <p>Y todo esto fue castigo de Dios por aquella maldición
+			que le había echado al Niño que se comió
+			las sopitas -¡Permita Dios que reviente y que se le 
+			 vuelvan
+			veneno en el estómago!-. Porque, hija mía,
+			Dios ni come ni bebe, pero juzga lo que ve; y lo que la zorra
+			hace en mil años lo paga en una hora.</p>
+			<milestone unit="line"/>
+			<p>Pues vamos
+			a que no bien reventó la vieja Paví y se repuso
+			algún tanto Pelusa del susto atroz que tan horrible
+			tragedia le causara, dijo doña Amparo a la niña
+			con su vocecita de grillo constipado.</p>  <p>-Pelusa, ponte la
+			capuchita encarnada, coge el pucherito milagroso y vámonos
+			corriendo.</p>  <p>-¿Adónde? -preguntó Pelusa.</p>  <p>-Pues
+			a buscar a tu papá y a tu mamá, que ya ha llegado
+			la hora.</p>  <p>Loca de alegría, Pelusa se puso la capuchita
+			colorada, colgose del brazo el pucherito con una cinta que
+			le pasó por las asas, y dijo al salir, con mucha devoción,
+			como la mujer le había encargado:</p>  <l>¡Jesús, José, María,</l> <l> sed mi amparo
+			y sed mi guía!</l>  <p>Salió por la puerta del corral
+			de la mano de doña Amparo, y tomaron por la carretera
+			de Aragón, andando muy deprisa, porque a Pelusita
+			se le hacía tarde un minuto que perdieran. A cada
+			casa que encontraban preguntaba Pelusa si era aquello el
+			castillo de <title>Irás y no volverás</title>, y doña
+			Amparo le decía con mucha calma: 
+			</p>  <p>-Todavía
+			no. ¡Más lejos, más lejos!</p>  <p>-Pero ¿dónde
+			está ese dichoso castillo, que parece que corre ante
+			nosotras?</p>  <p>-Está un poquito más allá
+			de Cortes y un poquito más acá de Pedrola,
+			de modo que viene a quedar entre los dos pueblos.</p>  <p>-¿Y por
+			qué se llama de <title>Irás y no volverás</title>?</p>
+			 <p>-Porque vive allí un gigante muy malo, que se llama
+			don Bruno, y se come a todo el que entra dentro.</p>  <p>-Pues a
+			mí no me comerá, porque le diré aquello
+			que me enseñó la mujer.</p>  <l>¡Jesús, José y María,</l> <l> sed mi amparo
+			y sed mi guía!</l> <p>Exclamó Pelusa, que, con la
+			loca alegría de encontrar a su papá y a su
+			mamá, en nada veía peligro y todo lo encontraba
+			fácil.</p>  <p>Sentáronse a descansar a la sombra
+			de un árbol ya muy cerca de las doce; y como la alegría
+			no quita las ganas de comer ni descompone el estómago,
+			sintió Pelusa un hambre muy grande.</p>  <p>-¡Me comería
+			un par de huevos fritos! -pensaba Pelusa relamiéndose
+			los labios.</p>  <p>Y pensando en esto llenó su pucherito
+			de agua fresca de la fuente, echó dentro tres piedrecitas,
+			hizo luego una hoguera con ramas secas, y dijo a la boca
+			del puchero antes de ponerlo a hervir: 
+			</p> 
+			
+			<l>¡Pucherito, pucherito,</l>
+			<l> dame de comer</l>
+			<l> por aquel niño chiquito!</l>
+
+			<p>Hirvió el puchero, levantó Pelusa
+			la tapa, y se encontró con que allí donde lo
+			guisaban habían adivinado sin duda su pensamiento,
+			porque había dentro un par de huevos fritos con manteca,
+			con sus patatitas muy ricas, y además, como de postre,
+			<gap/>
+			dos bizcochitos borrachos, que a Pelusa le gustaban mucho.
+			Comióselo todo la niña, y no había acabado
+			aún de chuparse los deditos, cuando oyó que
+			la llamaban en el aire. </p> 
+			<gap unit="graphic" n="Cuando oyó que la llamaban en el aire"/>  
+			<p>-¡Pelusa! ¡Pelusa! 
+			</p>  <p>Alzó la cabeza la
+			niña muy sorprendida, y vio en una ramita del árbol
+			un pajarito negro, poco mayor que un gorrión, con
+			las patitas coloradas y el piquito verde, que le preguntaba:</p>
+			 <p>-Pelusa, ¿qué haces ahí? ¿Vas de camino?</p> 
+			<p>-Voy en busca de mi papá y mi mamá -respondió
+			Pelusa.</p>  <p>-Ya los buscarás más tarde -dijo el
+			pajarito-. Vente conmigo ahora, y te llevaré a casa
+			de un amigo mío que tiene una casa toda, todita de
+			dulce. Las paredes son de biscotelas; las puertas, de chocolate
+			de Matías López; las rejas y balcones, de caramelo;
+			los muebles, de piñonate, y las camas, de mazapán,
+			con colchones de merengue. Conque, ya ves, Pelusilla, qué
+			bien lo pasarás allí si te vienes conmigo,
+			tú que eres tan golosa.</p>  <p>-No, pajarito, no -replicó
+			Pelusa con mucha firmeza-. Yo voy a buscar a mi papá
+			y a mi mamá, y voy ahora mismo.</p>  <p>Mientras hablaba
+			el pajarito la muñequita doña Amparo había
+			ido subiendo muy de puntillas por el tronco del árbol;
+			y cuando llegó muy callandito a la ramita en que estaba
+			el pajarito, lo cogió de repente por la cabeza, le
+			retorció el pescuezo y lo tiró al suelo muerto.</p>
+			 <p>Salió de él un olor muy apestoso, como de
+			azufre y cuerno quemado, y entonces dijo doña Amparo
+			que aquél era un pajarito malo de los que 
+			 manda el
+			Diablo a este mundo para tentar a los niños buenos
+			y hacerles faltar a su deber.</p>  <p>Siguieron caminando tres días
+			por montes y valles, comiendo de lo que daba el pucherito
+			y durmiendo debajo de los árboles, y al tercero se
+			sentaron a comer en un pradito verde, ya muy cerca de Cortes.
+			El pucherito estuvo aquel día muy generoso: salieron
+			primero sesos revueltos con huevo; luego, jamón con
+			tomate; después, pollo en gelatina, y por último,
+			los dos bizcochitos borrachos que, como a Pelusa le gustaban
+			tanto, venían en el pucherito todos los días.
+			Ya iba a comérselos la niña, cuando vino volando
+			por el aire una bandada de jilgueritos que la rodearon pidiéndole
+			por amor de Dios una limosnita. El primer impulso de Pelusa
+			fue darles el bizcocho que ya se llevaba a la boca; pero
+			se acordó del otro pajarito negro del Diablo que quiso
+			engañarla, y se detuvo, escarmentada de pajaritos.
+			Mas doña Amparo le dijo entonces muy gravemente:</p> 
+			<p>-Mira, Pelusa: en este mundo hay mucha gente mala, pero hay
+			también mucha más buena; y la verdadera ciencia
+			del mundo consiste en saber distinguir las unas de las otras.
+			Aquel pajarito era malo, porque era pajarito del Diablo;
+			pero estos otros son pajaritos de Dios, y son tan buenos,
+			que lloraron la muerte de Cristo en el Calvario. Por eso
+			dice la copla: 
+			</p>
+
+			<l>Allá arriba, en el monte Calvario,</l> <l> matita de oliva,
+			matita de olor,</l> <l> lloraban la muerte de Cristo</l> <l> cuatro jilgueritos
+			y un ruiseñor.</l>
+
+			<p>Convencida Pelusa, dioles al punto,
+			no uno, sino los dos bizcochos que iba a comerse, y los jilgueritos
+			muy contentos se los comieron picoteando, y alegres, sin
+			duda con el vinillo que los bizcochos tenían, cantaron
+			entonces a Pelusa una de esas maravillosas sinfonías
+			que enseña Dios a los pajaritos.</p>  <p>Siguieron su camino
+			Pelusa y doña Amparo, y al anochecer de aquel mismo
+			día dieron vista al castillo de <title>Irás y no volverás</title>,
+			a una legua escasa de Pedrola. Era muy grande, todo de piedra
+			negra, con una puerta muy chica y sin ninguna ventana. Ponía
+			pavor en el corazón la vista de aquel edificio tan
+			sombrío y misterioso, y con una buena dosis de miedo
+			se acercaron a la puerta Pelusita y doña Amparo. Quiso
+			ésta llamar al punto; pero Pelusa la detuvo, y arrodillándose
+			antes en los escalones dijo con mucha devoción:</p>  
+			<l>¡Jesús, José, María,</l> <l> sed mi amparo
+			y sed mi guía!</l> <p>Levantáronse entonces con
+			grandes bríos, y llamó doña Amparo con
+			mucha arrogancia. Sonó dentro un esquilón muy
+			bronco, abriose acto continuo media puerta y apareció
+			en ella una lechuza muy elegante, 
+			 con gafas de oro, vestido
+			de sarga negra y cofia con lazos de color de fuego. Tenía
+			en la mano una palmatoria con pantalla verde, y preguntó
+			con muy buen modo:</p>  <p>-¿Qué se ofrece?</p>  <p>Al verla tan
+			elegante, doña Amparo le preguntó con mucha
+			finura si era la esposa de don Bruno.</p>  <p>-No, señora
+			-contestó la lechuza-. Soy su ama de llaves, y me
+			llamo doña Joaquina.</p>  <p>-Muy señora mía
+			-dijo respetuosamente doña Amparo-. ¿Y podríamos
+			ver al señor don Bruno?</p>  <p>-Dificilillo me parece -respondió
+			la lechuza-, porque el pobrecito ha pasado una noche de perros
+			rabiando con dolor de muelas, y ahora estará descansando.</p>
+			 <p>Doña Amparo tuvo entonces una idea súbita,
+			y dijo a la lechuza dándose una palmada en la frente.</p>
+			 <p>-¡Parece esto providencial, mi señora doña
+			Joaquina! Pues dígale al momento que está aquí
+			miss Amparo, una dentista americana que cura todos los dolores
+			de muelas.</p>  <p>-¿De veras? -exclamó la lechuza muy contenta-.
+			Pues pasen ustedes al salón, que voy a avisarle en
+			seguida. ¡Qué contento se va a poner el pobrecito!</p>
+			 <p>Las llevó entonces a una sala cuadrada muy grande,
+			toda colgada de negro, y allí las dejó solas,
+			echando la llave por fuera. Angustiose Pelusita porque 
+			 creyó
+			que la lechuza las había engañado y las encerraba
+			en aquella sala tan triste para algo malo.</p>  <p>Después
+			de un largo rato de soledad y silencio oyose de improviso
+			un ruido de cadenas que daba horror, y una voz tristísima
+			que preguntaba desde el techo: ¿Caigo, o no caigo? Y repetía
+			por tres veces la misma pregunta: ¿Caigo, o no caigo?</p>  <p>Pelusita
+			no se atrevía a contestar; pero doña Amparo,
+			que iba poniéndose nerviosilla y de mal humor, gritó
+			muy enfadada:</p>  <p>-¡Acaba de caer!</p>  <p>Abriose entonces el techo,
+			y cayó una pierna; pero no una pierna cualquiera,
+			sino una pierna enorme, descomunal, con zapato de cordobán
+			amarillo y liga de seda encarnada. Hubo un largo silencio,
+			y oyose otra vez aquel ruido de cadenas y aquella voz lamentable
+			que erizaba el pelo: ¿Caigo, o no caigo? Doña Amparo,
+			fuera ya de sí, gritó furiosa:</p>  <p>-¡Acaba de
+			caer, con dos mil de a caballo!</p>  <p>Y entonces se abrió
+			de nuevo el techo y cayó otra pierna igual a la primera,
+			solamente que ésta tenía el zapato encarnado
+			y la liga amarilla. Por cuatro veces resonó el ruido
+			de cadenas y aquella voz temerosa que preguntaba: ¿Caigo,
+			o no caigo? Y fueron cayendo sucesivamente del techo, primero
+			un brazo, luego otro brazo, después el tronco de un
+			cuerpo, y por último una cabezota muy fea con barba
+
+			 rubia y una venda negra ceñida como si le dolieran
+			las muelas.</p>  <p>Juntáronse entonces de un golpe todos
+			aquellos miembros dispersos, pies, manos, tronco, cabeza,
+			y resultó el señor don Bruno, que hubiera sido
+			un buen mozo si el carrillo hinchado por el dolor de muelas
+			no le afeara bastante. Tenía los bigotes muy grandes
+			y retorcidos en punta que le llegaban hasta los ojos. Sentose
+			muy enfadado en una butaca, y empezó a gritar, tirándose
+			de los pelos.</p> 
+			<gap unit="graphic" n="Fueron cayendo unas piernas, unos brazos, una cabeza..."/>    
+			<p>-¡Ay, mis muelas! ¡Ay, mis muelas! ¡Ay, mis
+			muelas!</p>  <p>Pelusita y doña Amparo habíanse refugiado
+			en un 
+			 rincón de la sala; pero al operarse el prodigio
+			y quedar sentado el señor don Bruno, doña Amparo
+			cruzó la estancia con grande majestad, y saltando
+			encima de la mesa para estar más cerca del oído
+			del gigante, dijo con toda la elocuencia de un sacamuelas.</p>
+			 <p>-¡No hay que apurarse, señor don Bruno, que no hay
+			mal que no tenga remedio; y aquí tiene usted a miss
+			Amparo dentista norteamericana, que le quitará el
+			dolor de muelas!</p>  <p>Sorprendido el gigante, cogió a
+			doña Amparo por la cabeza y se la puso en la palma
+			de la mano, preguntando asombrado.</p>  <p>-Pero ¿eres tú
+			la miss Amparo que me anunció el ama de llaves, Joaquina?</p>
+			 <p>-¡La misma que viste y calza! -replicó doña
+			Amparo paseándosele con mucha gravedad por la palma
+			de la mano lo mismo que hubiera podido pasearse por la plaza
+			de Oriente-. Yo soy miss Amparo, dentista americana, establecida
+			en Madrid. Estuve trabajando primero en la calle de Alcalá,
+			núm. 43, en casa de Newland; pero me tomó una
+			envidia atroz porque le quitaba los parroquianos, y entonces
+			abrí mi gabinete propio en la calle de Zorrilla, núm.
+			12, donde el Duque de Luna, que es el amo de la casa me dio
+			un cuarto de balde, porque es muy buen señor y me
+			quiere mucho. Mi clientela es de lo más principal
+			que hay en la corte. A Su Majestad el Rey le saqué
+			el otro día tres muelas seguidas estando 
+			 dormido,
+			y ni siquiera lo sintió. A Su Majestad la Reina le
+			limpio la dentadura dos veces por semana; y al Ministro de
+			la Guerra le saqué un colmillo con un raigón...
+			¡Pero qué raigón!... ¡Le llegaba hasta los
+			tobillos! Pues ¿y al señor Obispo? No le quedaba a
+			Su Ilustrísima ni un diente ni una muela. Le di yo
+			una tinturita mía por la mañana, y por la noche
+			le habían salido ya todos los dientes y todas las
+			muelas lo mismo que a una criatura.</p> 
+			<gap unit="graphic" n="Yo soy miss Amparo, dentista americana..."/>   
+			<p>El gigante abría los ojos asombrado,
+			y dijo a miss Amparo, interrumpiéndola con ansia.</p>
+			 <p>-¿Y a mí podrás arreglarme las muelas?</p>  <p>-¡Pues
+			no he de poder! ¡Vaya si puedo! Abra 
+			 usted un poquito la
+			boca para que las reconozca primero y no me equivoque.</p>  <p>El
+			bobalicón de don Bruno abrió entonces una boca
+			tamaña como una espuerta, y trepando doña Amparo
+			por los pelos de la barba, asomó un poquito la cabeza
+			con mucha precaución para mirar las muelas de arriba,
+			montose después en una guía del bigote para
+			examinar las de abajo, y dando de repente un brinco, se le
+			coló la muy tunanta por el gaznate hasta más
+			allá de la campanilla, y allí empezó
+			a hacer cabriolas y monerías. Atragantose don Bruno
+			y empezó a toser y hacer visajes; pero como la pícara
+			miss Amparo se agarraba con todas sus fuerzas y se entraba
+			cada vez más adentro, no pudo el gigante echarla fuera
+			con sus toses, y se ahogaba cada vez más, dando resoplidos
+			que hacían estremecer las puertas, y aun las paredes
+			mismas. Mientras tanto trabajaba doña Amparo por buscar
+			una salida opuesta a la boca, y al mismo tiempo iba arañando
+			con las patitas y manitas las entrañas del gigante.
+			Salió al fin doña Amparo por donde pudo, trayéndose
+			detrás las tripas y el corazón de don Bruno;
+			y entonces dio éste el último resoplido, estiró
+			una pata, después otra, hizo un visaje horrible, y
+			se quedó muerto. Oyose al mismo tiempo un trueno horroroso,
+			y se hundió todo, todo el castillo. Pero lo más
+			raro era que las piedras no caían para abajo, sino
+			que se las llevaban para arriba un enjambre de diablitos
+			chicos 
+			 que cargaban con ellas y se perdían a lo lejos.
+			Los había de todos colores, amarillos, verdes, azules,
+			encarnados; lo único que no había eran blancos,
+			y los que abundaban más eran los verdes.</p>  <p>Al hundirse,
+			o más bien al desaparecer el castillo, encontráronse
+			Pelusa y doña Amparo al pie de una tapia muy alta
+			de cristal purísimo y muy claro que rodeaba a un jardín
+			delicioso. Veíanse perfectamente a través del
+			cristal los macizos de flores del jardín, las fuentes
+			cristalinas y las largas calles de árboles. Por una
+			de éstas venían paseando del brazo una señora
+			muy hermosa y un caballero muy guapo: ella, toda vestida
+			de blanco, con gargantilla de oro y un pelo rubio rizado
+			que le arrastraba hasta el suelo; él, con bigote rubio,
+			levita toda bordada de oro, pantalones de tisú de
+			plata y sombrero de copa con plumas blancas. Parecían,
+			sin embargo, muy tristes y acongojados, y la señora
+			decía llorando:</p>  <p>-¡Ay, mi niña! ¿Dónde
+			estará mi niña a estas horas?</p>  <p>-¡No llores,
+			mujer! -le contestaba el caballero-. Quizás llegará
+			hoy.</p>  <p>Pero la verdad era que él también estaba
+			llorando.</p>  <p>Comprendió Pelusita en seguida que aquéllos
+			eran su papá y su mamá, y fuera de sí
+			de alegría empezó a dar golpes en el cristal,
+			gritando:</p>  <p>-¡Papá! ¡Mamá!</p>  <p>Pero ellos no oían,
+			porque estaban todavía encantados. 
+			 Entonces Pelusa
+			y doña Amparo dieron la vuelta a toda la tapia para
+			ver si encontraban alguna puerta donde llamar o alguna ventana
+			por donde meterse dentro. Pero no había nada de eso:
+			el cristal duro como una roca se extendía por todas
+			partes igual, terso y bruñido, sin ofrecer agujero
+			ni resquicio alguno.</p>
+		 
+			<gap unit="graphic" n="Dio golpes en el cristal, gritando: ¡Papá! ¡Mamá!"/>      
+			<p>Entonces vio Pelusa que su papá
+			y su mamá entraban en una glorieta de naranjos, lilas
+			y azucenas y se sentaban a una mesa muy bien puesta, con
+			mantel adamascado y vajilla de plata. No había más
+			que dos cubiertos; pero la señora dijo llorando a
+			un criado: 
+			</p>  <p>-Que pongan la sillita de la niña, por
+			si acaso viene hoy.</p>  <p>Puso en seguida el criado un silloncito
+			de niño y un cubierto pequeñito de plata con
+			un vasito de oro en que Pelusa recordó haber bebido
+			muchas veces cuando era muy chiquita. La niña, partida
+			el alma, de pena, decía desolada:</p>
+
+			<l>¡Ay, quién fuera pajarito!</l> <l> ¡Ay, quién fuera
+			pajarito,</l> <l> para saltar esa tapia</l> <l> y dar a mi madre un besito!</l>
+			
+			<p>No bien dijo estas palabras apareció volando la
+			bandada de jilgueritos, que la rodearon consolándola
+			con sus alegres pitidos. Traían una hoja de col muy
+			grande, y, haciendo en ella una camita de rosas, colocaron
+			a Pelusita dentro, y sosteniéndola entre todos, con
+			sus piquitos la elevaron suavemente por encima de la tapia,
+			y la dejaron sobre la mesa en que comían sus padres,
+			a tiempo que la mamá repetía llorando:</p>  <p>-Pero
+			¿dónde estará mi niña?...</p>  <p>-¡Aquí
+			estoy, mamá! ¡Aquí estoy, papá! -exclamó
+			Pelusa poniéndose en pie, con doña Amparo en
+			la mano, sobre la hojita de col y la camita de rosas.</p>  <p>Entonces
+			se abrazaron los tres, y estuvieron mes y medio seguido dándose
+			besos, mientras los jilgueritos 
+			 cantaban preciosas variaciones
+			sobre el tema. ¡Alegría!... ¡Alegría!... ¡Alegría!...</p>
+			 <p>Y aquí se acabó mi cuento, con pan y pimiento;
+			y si alguien quiere saber más, que compre un viejo.</p>
+
+			<milestone unit="line"/>
+
+			<p>¡Ah! Se me olvidaba decir
+			que doña Amparo sigue viviendo en la calle de Zorrilla,
+			núm. 12; pero ha tomado también otro cuarto
+			bajo en la calle de San Bernardino, núm. 14, donde
+			pasa muchas horas del día y recibe a sus amigos.</p> 
+		</body>
+	</text>
+ 
+</TEI>
