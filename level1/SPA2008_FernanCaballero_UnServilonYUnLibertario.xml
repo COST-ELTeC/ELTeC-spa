@@ -23,7 +23,7 @@
 				<measure unit="pages">247</measure>
 			</extent>
 			<publicationStmt>
-				<p>Incorporado a ELTeC el <date>2019-01-11</date></p>
+				<p>Incorporado a ELTeC el <date>2019-01-20</date></p>
 			</publicationStmt>
 			<sourceDesc>
 				<bibl type="firstEdition">
@@ -60,8 +60,8 @@
 			</textDesc>
 		</profileDesc>
 		<revisionDesc>
-			<change when="2019-01-16">Anotación formato ELTeC: Paula Serrano López</change>
-			<change when="2019-01-16">Revisión formato ELTeC y correcciones varias: Borja Navaro Colorado</change>
+			<change when="2019-01-19">Anotación formato ELTeC: Paula Serrano López</change>
+			<change when="2019-01-20">Revisión formato ELTeC y correcciones varias: Borja Navaro Colorado</change>
 		</revisionDesc>
 	</teiHeader>
 	<text>
