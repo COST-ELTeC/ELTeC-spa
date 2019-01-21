@@ -3,7 +3,7 @@
 	<teiHeader>
 		<fileDesc>
 			<titleStmt>
-				<title> : Un servilón y un liberalito, ó Tres almas de Dios : novela : Edición ELTeC </title>
+				<title>Un servilón y un liberalito, ó Tres almas de Dios : Edición ELTeC </title>
 				<author ref="viaf:9859150">Caballero, Fernán (1796-1877)</author>
 				<respStmt>
 					<resp>Principal</resp>
@@ -23,11 +23,11 @@
 				<measure unit="pages">247</measure>
 			</extent>
 			<publicationStmt>
-				<p>Incorporado a ELTeC el <date>2019-01-11</date></p>
+				<p>Incorporado a ELTeC el <date>2019-01-20</date></p>
 			</publicationStmt>
 			<sourceDesc>
-				<bibl type="firstEdition">
-					<publisher> Imprenta del Establecimiento de Mellado </publisher>
+				<bibl type="copyText">
+					<publisher>Imprenta del Establecimiento de Mellado </publisher>
 					<pubPlace>Madrid</pubPlace>
 					<date>1863</date>
 					<idno type="BDH">bdh0000185562</idno>
@@ -60,8 +60,8 @@
 			</textDesc>
 		</profileDesc>
 		<revisionDesc>
-			<change when="2019-01-16">Anotación formato ELTeC: Paula Serrano López</change>
-			<change when="2019-01-16">Revisión formato ELTeC y correcciones varias: Borja Navaro Colorado</change>
+			<change when="2019-01-19">Anotación formato ELTeC: Paula Serrano López</change>
+			<change when="2019-01-20">Revisión formato ELTeC y correcciones varias: Borja Navaro Colorado</change>
 		</revisionDesc>
 	</teiHeader>
 	<text>

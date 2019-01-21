@@ -26,7 +26,7 @@
 			</titleStmt>
 			<extent><!-- size of the text, in pages and words -->
 				<measure unit="words">51135</measure>
-				<measure unit="pages" >267</measure>
+				<measure unit="pages">267</measure>
 			</extent>
 			<publicationStmt>
 				<p>Incorporado a ELTeC el <date>2018-10-01</date></p>
@@ -58,8 +58,8 @@
 		</encodingDesc>
 		<profileDesc>
 			<langUsage>
-				<language ident="spa" usage="99">Español Castellano</language>
-				<language ident="lat" usage="01">Latín</language>
+				<language ident="SPA" usage="99">Español Castellano</language>
+				<language ident="LAT" usage="01">Latín</language>
 			</langUsage>
 			<textDesc>
 				<authorGender xmlns="http://distantreading.net/eltec/ns" key="M"/>  
@@ -123,7 +123,7 @@
 				<p>«No, no irás a la escuadra, porque allí no hacen falta estantiguas como tú. Si tuvieras cuarenta años, como cuando fuiste a la tierra del Fuego y me trajiste aquellos collares verdes de los indios... Pero ahora... Ya sé yo que ese calzonazos de Marcial te ha calentado los cascos anoche y esta mañana, hablándote de batallas. Me parece que el Sr. Marcial y yo tenemos que reñir... Vuélvase él a los barcos si quiere, para que le quiten la pierna que le queda... ¡Oh, San José bendito! Si en mis quince hubiera sabido yo lo que era la gente de mar... ¡Qué tormento! ¡Ni un día de reposo! <pb n="21"/> Se casa una para vivir con su marido, y a lo mejor viene un despacho de Madrid que en dos palotadas me lo manda qué sé yo a dónde, a la Patagonia, al Japón o al mismo infierno. Está una diez o doce meses sin verle, y al fin, si no se le comen los señores salvajes, vuelve hecho una miseria, tan enfermo y amarillo que no sabe una qué hacer para volverle a su color natural... Pero pájaro viejo no entra en jaula, y de repente viene otro despachito de Madrid... Vaya usted a Tolón, a Brest, a Nápoles, acá o acullá, donde le da la gana al bribonazo del Primer Cónsul... ¡Ah!, si todos hicieran lo que yo digo, ¡qué pronto las pagaría todas juntas ese caballerito que trae tan revuelto al mundo!»</p>
 				<p>Mi amo miró sonriendo una mala estampa clavada en la pared, y que, torpemente iluminada por ignoto artista, representaba al Emperador Napoleón, caballero en un corcel verde, con el célebre redingote embadurnado de bermellón. Sin duda la impresión que dejó en mí aquella obra de arte, que contemplé durante cuatro años, fue causa de que modificara mis ideas respecto al traje de contrabandista del grande hombre, y en lo sucesivo me lo representé vestido de cardenal y montado en un caballo verde.</p>
 				<pb n="22"/>
-				<p>«Esto no es vivir -continuó Doña Francisca agitando los brazos-. Dios me perdone; pero aborrezco el mar, aunque dicen que es una de sus mejores obras. ¡No sé para qué sirve la Santa Inquisición si no convierte en cenizas esos endiablados barcos de guerra! Pero vengan acá y díganme: ¿Para qué es eso de estarse arrojando balas y más balas, sin más ni más, puestos sobre cuatro tablas que, si se quiebran, arrojan al mar centenares de infelices? ¿No es esto tentar a Dios? ¡Y estos hombres se vuelven locos cuando oyen un cañonazo! ¡Bonita gracia! A mí se me estremecen las carnes cuando los oigo, y si todos pensaran como yo, no habría más guerras en el mar... y todos los cañones se convertirían en campanas. Mira, Alonso -añadió deteniéndose ante su marido-, me parece que ya os han derrotado bastantes veces. ¿Queréis otra? Tú y esos otros tan locos como tú, ¿no estáis satisfechos después de la del 14?<note n="foot" ><p>Así se llamaba al combate del cabo de San Vicente.</p></note>.</p>
+				<p>«Esto no es vivir -continuó Doña Francisca agitando los brazos-. Dios me perdone; pero aborrezco el mar, aunque dicen que es una de sus mejores obras. ¡No sé para qué sirve la Santa Inquisición si no convierte en cenizas esos endiablados barcos de guerra! Pero vengan acá y díganme: ¿Para qué es eso de estarse arrojando balas y más balas, sin más ni más, puestos sobre cuatro tablas que, si se quiebran, arrojan al mar centenares de infelices? ¿No es esto tentar a Dios? ¡Y estos hombres se vuelven locos cuando oyen un cañonazo! ¡Bonita gracia! A mí se me estremecen las carnes cuando los oigo, y si todos pensaran como yo, no habría más guerras en el mar... y todos los cañones se convertirían en campanas. Mira, Alonso -añadió deteniéndose ante su marido-, me parece que ya os han derrotado bastantes veces. ¿Queréis otra? Tú y esos otros tan locos como tú, ¿no estáis satisfechos después de la del 14?<note><p>Así se llamaba al combate del cabo de San Vicente.</p></note>.</p>
 				<p>D. Alonso apretó los puños al oír aquel triste recuerdo, y no profirió un juramento de marino por respeto a su esposa.</p>
 				<p>«La culpa de tu obstinación en ir a la escuadra <pb n="23"/> -añadió la dama cada vez más furiosa-, la tiene el picarón de Marcial, ese endiablado marinero, que debió ahogarse cien veces, y cien veces se ha salvado para tormento mío. Si él quiere volver a embarcarse con su pierna de palo, su brazo roto, su ojo de menos y sus cincuenta heridas, que vaya en buen hora, y Dios quiera que no vuelva a parecer por aquí...; pero tú no irás, Alonso, tú no irás, porque estás enfermo y porque has servido bastante al Rey, quien por cierto te ha recompensado muy mal; y yo que tú, le tiraría a la cara al señor Generalísimo de mar y tierra los galones de capitán de navío que tienes desde hace diez años... A fe que debían haberte hecho almirante cuando menos, que harto lo merecías cuando fuiste a la expedición de África y me trajiste aquellas cuentas azules que, con los collares de los indios, me sirvieron para adornar la <gap unit="graphic" n="urna"/>  urna de la Virgen del Carmen.</p>
 				<p>-Sea o no almirante, yo debo ir a la escuadra, Paquita -dijo mi amo-. Yo no puedo faltar a ese combate. Tengo que cobrar a los ingleses cierta cuenta atrasada.</p>
@@ -9853,7 +9853,7 @@ escuadra española en aquella memorable ocasión.
 creo hiperbólicas las alabanzas de que fue objeto después del
 combate y en los días de su muerte
 
-     <note >
+     <note>
       
 
       <p>
