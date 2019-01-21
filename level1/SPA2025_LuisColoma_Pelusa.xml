@@ -29,14 +29,14 @@
 				<p>Incorporado a ELTeC el <date>2019-01-20</date></p>
 			</publicationStmt>
 			<sourceDesc>
-				<bibl type="source">
+				<bibl type="copyText">
 					<publisher> Casa editorial Saturnino Calleja-Fernández</publisher>
 					<pubPlace>Madrid</pubPlace>
 					<date>1876</date>
 					<idno type="BDH">bdh0000141303</idno>
 					<ref target="http://bdh-rd.bne.es/viewer.vm?id=0000141303">Biblioteca Digital Hispánica - Biblioteca Nacional de España</ref>
 					<relatedItem>
-						<bibl type="copyText">
+						<bibl type="source">
 							<publisher>Biblioteca Virtual Miguel de Cervantes</publisher>
 							<pubPlace>Universidad de Alicante</pubPlace>
 							<ref target="http://www.cervantesvirtual.com/nd/ark:/59851/bmcq23w0">Biblioteca Virtual Miguel de Cervantes</ref>
