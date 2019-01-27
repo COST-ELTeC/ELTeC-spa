@@ -34,7 +34,6 @@
 					<author>Juan Valera y Alcalá-Galiano</author>
 					<title>Pepita Jiménez</title>
 					<publisher>Revista de España Tomo XXXVII</publisher>
-					<ref target="http://www.cervantesvirtual.com/obra-visor/revista-de-espana--15/html/0275ffea-82b2-11df-acc7-002185ce6064.html">Biblioteca Virtual Miguel de Cervantes</ref>
 					<pubPlace>Madrid</pubPlace>
 					<date>1874</date>
 					<relatedItem>
@@ -120,9 +119,9 @@
 			 </div>
 		</front> 
 	 <body>  
-			<div type="vol" n="SPA2017001">
+			<div type="part" n="SPA2017001">
 			 <head>I. Cartas de mi sobrino </head> 
-			 <div type="group">
+			 <div type="letter">
 				<head>22 de Marzo</head>
 				<p>Querido tío y venerado maestro:
 				  Hace cuatro días que llegué con toda felicidad a este lugar de mi
@@ -501,7 +500,7 @@
 				  escribiré a Vd. a menudo y tan por extenso como me tiene encargado, si
 				  bien no tanto como hoy, para no pecar de prolijo.</p> 
 				  </div>
-				<div type="group">
+				<div type="letter">
 				<head>28 de Marzo</head> 
 				<p>Me voy cansando de mi residencia en
 				  este lugar, y cada día siento más deseo de volverme con Vd. y
@@ -747,7 +746,7 @@
 				  contentará con aceptar la mano y el corazón de mi padre, que en
 				  nada es inferior a ella.</p> <pb n="40"/> 
 			 </div> 
-			 <div type="group">
+			 <div type="letter">
 				<head>4 de Abril</head> 
 				<p>La monotonía de mi vida en este
 				  lugar empieza a fastidiarme bastante, y no porque la vida mía en otras
@@ -862,7 +861,7 @@
 				  estas cosas; si hay algo de enfermizo en esta disposición de mi
 				  ánimo.</p> 
 			 </div><pb n="46"/> 
-			 <div type="group">
+			 <div type="letter">
 				<head>8 de Abril</head> 
 				<p>Siguen las diversiones campestres, en
 				  que tengo que intervenir muy a pesar mío.</p> 
@@ -1099,7 +1098,7 @@
 				  sacerdote para dar al fuego que devora mi alma el alimento sano y bueno que
 				  debe tener.</p> 
 			</div>
-			 <div type="group">
+			 <div type="letter">
 				<head>14 de Abril</head> 
 				<p>Sigo haciendo la misma vida de siempre
 				  y detenido aquí a ruegos de mi padre.</p> 
@@ -1265,7 +1264,7 @@
 				  veo lanzado en medio del mundo, y distraído de mis estudios,
 				  meditaciones y oraciones por mil objetos profanos.</p> 
 			 </div> 
-			 <div type="group">
+			 <div type="letter">
 				<head>20 de Abril</head> 
 				<p>Las últimas cartas de Vd.,
 				  queridísimo tío, han sido de grata consolación para mi
@@ -1406,7 +1405,7 @@
 				  interés que por mí se toma y que yo de todo corazón le
 				  agradezco.</p> 
 			 </div><pb n="73"/> 
-				<div type="group">
+				<div type="letter">
 				<head>4 de Mayo</head> 
 				<p>Extraño es que en tantos
 				  días, yo no haya tenido tiempo para escribir a Vd.; pero tal es la
@@ -1882,7 +1881,7 @@
 				  de mí para malo ni para bueno, tendré el gusto de abrazar a Vd. y
 				  de lograr la dicha de ser sacerdote.</p> 
 			 </div> <pb n="96"/> 
-			 <div type="group">
+			 <div type="letter">
 				<head>7 de Mayo</head> 
 				<p>Todas las noches, de nueve a doce,
 				  tenemos, como ya indiqué a Vd., tertulia en casa de Pepita. Van cuatro o
@@ -2010,7 +2009,7 @@
 				  llagará en el muslo y me quebrantará en ese combate, para que yo
 				  sea vencedor siendo vencido.</p> 
 			 </div><pb n="102"/> 
-			 <div type="group">
+			 <div type="letter">
 				<head>12 de Mayo</head> 
 				<p>Antes de lo que yo pensaba, querido
 				  tío, me decidió mi padre a que montase en Lucero. Ayer, a las
@@ -2212,7 +2211,7 @@
 				  silencio, si la tentación llega a asaltarme de veras; y tratar de
 				  abandonar cuanto antes este pueblo y de volverme con Vd.</p> 
 			 </div> 
-			 <div type="group">
+			 <div type="letter">
 				<head>19 de Mayo</head> 
 				<p>Gracias a Dios y a Vd. por las nuevas
 				  cartas y nuevos consejos que me envía. Hoy los necesito más que
@@ -2357,7 +2356,7 @@
 				  huir. Si en lo que falta para terminar el mes, mi padre no me da su venia y no
 				  viene conmigo, me escapo como un ladrón; me fugo sin decir nada.</p> 
 			 </div><pb n="118"/> 
-			 <div type="group">
+			 <div type="letter">
 				<head>23 de Mayo</head> 
 				<p>Soy un vil gusano y no un hombre: soy
 				  el oprobio y la abyección de la humanidad; soy un hipócrita.</p> 
@@ -2411,7 +2410,7 @@
 				  Escriba Vd. a mi padre que me dé licencia para irme. Si es menester,
 				  dígaselo todo. Socórrame Vd. ¡Sea Vd. mi amparo!</p> 
 			 </div> 
-			 <div type="group">
+			 <div type="letter">
 				<head>30 de Mayo</head> 
 				<p>Dios me ha dado fuerzas ara resistir y
 				  he resistido.</p> 
@@ -2519,7 +2518,7 @@
 				  pecaron, sino de que no pecaron». Yo, con todo, sabré resistir y
 				  no pecar. Dios me protege.</p> 
 			 </div> 
-			 <div type="group">
+			 <div type="letter">
 				<head>6 de Junio</head> 
 				<p>La nodriza de Pepita, hoy su ama de llaves, es, como dice mi
 				  padre, una buena pieza de arrugadillo: picotera, alegre y hábil como
@@ -2611,7 +2610,7 @@
 				  traiciones y en dos falsías. Había faltado a Dios y a ella.</p> 
 				<p>Soy un ser abominable.</p> 
 			 </div> 
-			 <div type="group">
+			 <div type="letter">
 				<head>11 de Junio</head> 
 				<p>Aún es tiempo de remediarlo todo. Pepita sanará de
 				  su amor y olvidará la flaqueza que ambos tuvimos.</p> 
@@ -2652,7 +2651,7 @@
 				  él la arrojaré de allí, como Cristo arrojó del
 				  templo a los condenados mercaderes.</p> 
 			 </div> 
-			<div type="group">
+			<div type="letter">
 				<head>18 de Junio</head> 
 				<p>Ésta será la última carta que yo escriba a
 				  Vd.</p> 
@@ -2727,7 +2726,7 @@
 			 
 		  	<milestone unit="line"/>
 			<pb n="134"/><pb n="135"/> 
-			<div type="vol" n="SPA2017002">
+			<div type="part" n="SPA2017002">
 			 <head>II. Paralipómenos </head> 
 			 <p>No hay más cartas de D. Luis de
 				Vargas que las que hemos transcrito. Nos quedaríamos, pues, sin
@@ -5560,7 +5559,7 @@
 				los anales del pueblo.</p> 
 		   <milestone unit="line"/> <pb n="267"/> 
 		   </div>
-		   <div type="vol" n="SPA2017003">
+		   <div type="part" n="SPA2017003">
 			 <head>III. Epílogo. Cartas de mi hermano </head> 
 			 <p>La historia de Pepita y Luisito debiera
 				terminar aquí. Este epílogo está de sobra; pero el
