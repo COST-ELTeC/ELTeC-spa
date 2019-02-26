@@ -13,11 +13,6 @@
 					<resp>Edición ELTeC</resp>
 					<name>Borja Navarro Colorado</name>
 				</respStmt>
-				<respStmt>
-					<resp>Corrección del texto, anotación TEI, supervisión y edición Biblioteca Virtual Miguel de Cervantes</resp>
-					<name>Alex Bia</name>
-					<name>Ana López Díaz</name>
-				</respStmt>
 			</titleStmt>
 			<extent>
 				<measure unit="words">111968</measure>
@@ -50,6 +45,11 @@
 							</respStmt>
 							<pubPlace>Madrid</pubPlace>
 							<date when="1986"/>
+							<respStmt>
+								<resp>Corrección del texto, anotación TEI, supervisión y edición Biblioteca Virtual Miguel de Cervantes</resp>
+								<name>Alex Bia</name>
+								<name>Ana López Díaz</name>
+							</respStmt>
 						</bibl>
 					</relatedItem>
 				</bibl>
