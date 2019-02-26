@@ -34,6 +34,11 @@
 							<pubPlace>Universidad de Alicante</pubPlace>
 							<ref target="http://www.cervantesvirtual.com/obra/el-senor-de-bembibre--0/">Biblioteca Virtual Miguel de Cervantes</ref>
 							<date when="19990702"/>
+							<respStmt>
+								<resp>Corrección del texto, anotación TEI, supervisión y edición Biblioteca Virtual Miguel de Cervantes</resp>
+								<name>Alex Bia</name>
+								<name>Ana López Díaz</name>
+							</respStmt>
 						</bibl>
 					</relatedItem>
 					<relatedItem>
@@ -45,11 +50,6 @@
 							</respStmt>
 							<pubPlace>Madrid</pubPlace>
 							<date when="1986"/>
-							<respStmt>
-								<resp>Corrección del texto, anotación TEI, supervisión y edición Biblioteca Virtual Miguel de Cervantes</resp>
-								<name>Alex Bia</name>
-								<name>Ana López Díaz</name>
-							</respStmt>
 						</bibl>
 					</relatedItem>
 				</bibl>
