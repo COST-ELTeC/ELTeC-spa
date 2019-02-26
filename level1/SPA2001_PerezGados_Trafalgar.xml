@@ -13,16 +13,6 @@
 					<resp>Edición ELTeC: revisión de texto, etiquetado y codificación ELTeC</resp>
 					<name>Borja Navarro Colorado</name>
 				</respStmt>
-				<respStmt>
-					<resp>Corrección del texto, anotación TEI, supervisión y edición Biblioteca Virtual Miguel de Cervantes</resp>
-					<name>Marisa Payá</name>
-					<name>Isabel Narros</name>
-					<name>Carmen Hernández Segovia</name>
-					<name>Raquel Pérez Barroso</name>
-					<name>Sonia Jover Sánchez</name>
-				</respStmt>
-
-
 			</titleStmt>
 			<extent><!-- size of the text, in pages and words -->
 				<measure unit="words">51135</measure>
@@ -50,6 +40,14 @@
 					<date when="20020522"/>
 					<ref target="http://www.cervantesvirtual.com/obra/trafalgar--0/">HTML version downloaded on <date>2018-02-01</date>
 					</ref>
+					<respStmt>
+						<resp>Corrección del texto, anotación TEI, supervisión y edición Biblioteca Virtual Miguel de Cervantes</resp>
+						<name>Marisa Payá</name>
+						<name>Isabel Narros</name>
+						<name>Carmen Hernández Segovia</name>
+						<name>Raquel Pérez Barroso</name>
+						<name>Sonia Jover Sánchez</name>
+					</respStmt>
 				</bibl>
 			</sourceDesc>
 		</fileDesc>
