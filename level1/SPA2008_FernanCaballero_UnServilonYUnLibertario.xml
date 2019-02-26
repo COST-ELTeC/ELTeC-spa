@@ -13,10 +13,6 @@
 					<resp>Edición ELTeC</resp>
 					<name>Paula Serrano López </name>
 				</respStmt>
-				<respStmt>
-					<resp> Transformación automática de HTML a XML (HTML2XML 2.0),Etiquetado del texto en XML-TEI, Revisión del etiquetado </resp>
-					<name>Sonia Jover Sánchez</name>
-				</respStmt>
 			</titleStmt>
 			<extent>
 				<measure unit="words">22719</measure>
@@ -38,6 +34,10 @@
 							<pubPlace>Universidad de Alicante</pubPlace>
 							<ref target="http://www.cervantesvirtual.com/obra/un-servilon-y-un-liberalito-o-tres-almas-de-dios-novela--0/">Biblioteca Virtual Miguel de Cervantes</ref>
 							<date when="20071205"/>
+							<respStmt>
+								<resp> Transformación automática de HTML a XML (HTML2XML 2.0),Etiquetado del texto en XML-TEI, Revisión del etiquetado </resp>
+								<name>Sonia Jover Sánchez</name>
+							</respStmt>
 						</bibl>
 					</relatedItem>
 				</bibl>
