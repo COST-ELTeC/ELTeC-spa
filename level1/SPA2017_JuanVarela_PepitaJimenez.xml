@@ -13,15 +13,6 @@
 					<resp>Edición ELTeC</resp>
 					<name>Raquel Rocamora Montenegro</name>
 				</respStmt>
-				<respStmt>
-					<resp>Corrección del texto, anotación TEI, supervisión y edición Biblioteca Virtual Miguel de Cervantes</resp>
-					<name>Alex Bia</name>
-					<name>Mayte Ávalos Coloma</name>
-					<name>Marisa Payá</name>
-					<name>Isabel Narros</name>
-					<name>Gabriel Marí</name>
-					<name>Jorge Villar</name>
-				</respStmt>
 			</titleStmt>
 			<extent>
 					<measure unit="words">56743</measure>
@@ -42,6 +33,15 @@
 							<pubPlace>Universidad de Alicante</pubPlace>
 							<ref target="http://www.cervantesvirtual.com/obra-visor/pepita-jimenez--0/html/">Biblioteca Virtual Miguel de Cervantes</ref>
 							<date when="2003-06-16"/>
+							<respStmt>
+								<resp>Corrección del texto, anotación TEI, supervisión y edición Biblioteca Virtual Miguel de Cervantes</resp>
+								<name>Alex Bia</name>
+								<name>Mayte Ávalos Coloma</name>
+								<name>Marisa Payá</name>
+								<name>Isabel Narros</name>
+								<name>Gabriel Marí</name>
+								<name>Jorge Villar</name>
+							</respStmt>
 						</bibl>
 					</relatedItem>
 				</bibl>
