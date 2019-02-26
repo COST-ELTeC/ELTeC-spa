@@ -13,12 +13,6 @@
 					<resp>Edición ELTeC</resp>
 					<name>Borja Navarro Colorado</name>
 				</respStmt>
-				<respStmt>
-					<resp>Corrección del texto, anotación TEI, supervisión y edición Biblioteca Virtual Miguel de Cervantes</resp>
-					<name>Marisa Payá</name>
-					<name>Isabel Narros</name>
-					<name>Josefina Carrión</name>
-				</respStmt>
 			</titleStmt>
 			<extent>
 				<measure unit="words">54338</measure>
@@ -35,6 +29,12 @@
 					<idno>003664</idno>
 					<ref target="http://www.cervantesvirtual.com/obra/sab--0/">Biblioteca Virtual Miguel de Cervantes</ref>
 					<date when="2014-03-13"/>
+					<respStmt>
+						<resp>Corrección del texto, anotación TEI, supervisión y edición Biblioteca Virtual Miguel de Cervantes</resp>
+						<name>Marisa Payá</name>
+						<name>Isabel Narros</name>
+						<name>Josefina Carrión</name>
+					</respStmt>
 					<relatedItem>
 						<bibl type="printEdition">
 							<publisher>Imprenta Calle del Barco n.º 26.</publisher>
