@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 	<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="SPA2016" xml:lang="SPA"> 
 		<teiHeader>
 			<fileDesc> 
@@ -15,7 +15,7 @@
 					</respStmt>
 				</titleStmt> 
 				<extent>
-			        	<measure unit="words">59 554</measure>
+			        	<measure unit="words">59554</measure>
 			        </extent>
 				<publicationStmt> 
 					<p>Incorporado a ELTeC el <date>2019-18-01</date></p>
