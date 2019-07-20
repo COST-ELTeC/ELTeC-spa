@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="SPA1007" xml:lang="SPA">
 	<teiHeader>
 		<fileDesc>
@@ -15,7 +15,7 @@
 				</respStmt>
 			</titleStmt>
 			<extent>
-				<measure unit="words">54 494</measure>
+				<measure unit="words">54494</measure>
 				<measure unit="pages">368</measure>
 			</extent>
 			<publicationStmt>
