@@ -8,12 +8,8 @@
 					<respStmt>
 						<resp>Edición ELTeC</resp>
 						<name>Lidia Martí Barchín</name>
-					</respStmt>
-					<respStmt>
-						<resp>Principal</resp>
 						<name>Borja Navarro Colorado</name>
 					</respStmt>
-
 				</titleStmt>
 				<extent>
 						<measure unit="words">55015</measure>
@@ -33,14 +29,12 @@
 							<name>Manuel Sánchez Quero</name>
 							<name>Sonia Jover Sánchez</name>
 						</respStmt>
-						<relatedItem>
-							<bibl type="printEdition">
-								<publisher>Imprenta y Litografía de La Girnalda</publisher>
-								<pubPlace>Madrid</pubPlace>
-								<date>1878</date>
-								<ref target="http://bdh-rd.bne.es/viewer.vm?id=0000250027">Biblioteca Digital Hispánica</ref>
-							</bibl>
-						</relatedItem>
+					</bibl>
+					<bibl type="firstEdition">
+						<publisher>Imprenta y Litografía de La Guirnalda. Calle de las Pozas, núm 12.</publisher>
+						<pubPlace>Madrid</pubPlace>
+						<date>1878</date>
+						<ref target="http://bdh-rd.bne.es/viewer.vm?id=0000250027">Biblioteca Digital Hispánica</ref>
 					</bibl>
 				</sourceDesc>
 			</fileDesc>
