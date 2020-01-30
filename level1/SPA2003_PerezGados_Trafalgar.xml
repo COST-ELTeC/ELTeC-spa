@@ -4,13 +4,9 @@
 		<fileDesc>
 			<titleStmt>
 				<title>Trafalgar :  edición ELTeC</title>
-				<author ref="viaf:71395987">Galdós, Benito Pérez (1843-1920)</author>
+				<author ref="viaf:71395987">Pérez Galdós, Benito (1843-1920)</author>
 				<respStmt>
-					<resp>Principal</resp>
-					<name>Borja Navarro Colorado</name>
-				</respStmt>
-				<respStmt>
-					<resp>Edición ELTeC: revisión de texto, etiquetado y codificación ELTeC</resp>
+					<resp>Edición ELTeC</resp>
 					<name>Borja Navarro Colorado</name>
 				</respStmt>
 			</titleStmt>
@@ -22,17 +18,23 @@
 				<p>Incorporado a ELTeC el <date>2018-10-01</date></p>
 			</publicationStmt>
 			<sourceDesc>
-				<bibl type="copyText">
+				<bibl type="firstEdition">
+					<author>B. Pérez Galdós</author>
+					<title>Trafalgar</title>
+					<pubPlace>Madrid</pubPlace>
+					<publisher>Imp. de J. Noguera, a cargo de M. Martínez. Calle de Bordadores, núm 7.</publisher>
+					<date>1873</date>
+				</bibl>
+				<bibl type="printSource">
 					<author>B. Pérez Galdós</author>
 					<title>Episodios Nacionales. T. I. Trafalgar: edición ilustrada por Enrique y Arturo
 					Mélida</title>
 					<pubPlace>Madrid</pubPlace>
 					<publisher>Administración de La Guirnalda y Episodios Nacionales</publisher>
-					<date>1882</date>
-					
+					<date>1882</date>					
 				</bibl>
-				<bibl>
-					<title>Trafalgar / Benito Pérez Galdós; edición ilustrada por Enrique y Arturo Mélida</title>
+				<bibl type="digitalSource">
+					<title>Trafalgar</title>
 					<author>Benito Pérez Galdós</author>
 					<publisher>Biblioteca Virtual Miguel de Cervantes Saavedra</publisher>
 					<pubPlace>Universidad de Alicante</pubPlace>
@@ -67,7 +69,8 @@
 			</textDesc>
 		</profileDesc>
 		<revisionDesc>
-			<change when="2018-09-01">Borja Navarro Colorado: Revisión del texto, anotación y adaptación a ELTeC-1</change>
+			<change when="2018-09-01">Revisión del texto, anotación y edición ELTeC : Borja Navarro Colorado</change>
+			<change when="2020-01-30">Corrección información bibliográfica : Borja Navarro Colorado</change>
 		</revisionDesc>
 	</teiHeader>
 	<text>
