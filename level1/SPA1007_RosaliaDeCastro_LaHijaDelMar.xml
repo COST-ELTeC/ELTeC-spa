@@ -26,18 +26,16 @@
 					<publisher>Imprenta de J. Compañel </publisher>
 					<pubPlace>Vigo</pubPlace>
 					<date>1859</date>
-					<relatedItem>
-						<bibl type="CopyText">
-							<publisher>Biblioteca Virtual Miguel de Cervantes Saavedra</publisher>
-							<pubPlace>Universidad de Alicante</pubPlace>
-							<ref target="http://www.cervantesvirtual.com/obra/la-hija-del-mar--1/">Biblioteca Virtual Miguel de Cervantes</ref>
-							<date when="2005-02-28"/>
-							<respStmt>
-								<resp>Revisión de formato en WordPerfect 9, Transformación automática de HTML a XML (HTML2XML 2.0), Etiquetado de la obra en XML-TEI</resp>
-								<name>Julia Pozo, Manuel Sánchez Quero</name>
-							</respStmt>
-						</bibl>
-					</relatedItem>
+				</bibl>	
+				<bibl type="digitalSource">
+					<publisher>Biblioteca Virtual Miguel de Cervantes Saavedra</publisher>
+					<pubPlace>Universidad de Alicante</pubPlace>
+					<ref target="http://www.cervantesvirtual.com/obra/la-hija-del-mar--1/">Biblioteca Virtual Miguel de Cervantes</ref>
+					<date when="2005-02-28"/>
+					<respStmt>
+						<resp>Revisión de formato en WordPerfect 9, Transformación automática de HTML a XML (HTML2XML 2.0), Etiquetado de la obra en XML-TEI</resp>
+						<name>Julia Pozo, Manuel Sánchez Quero</name>
+					</respStmt>
 				</bibl>
 			</sourceDesc>
 		</fileDesc>
