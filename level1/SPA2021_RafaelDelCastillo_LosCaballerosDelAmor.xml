@@ -6,12 +6,9 @@
 					<title> Los caballeros del amor (Memorias del reinado de Carlos III) : edición ELTeC </title> 
 					<author ref="viaf:46419719">Castillo, Rafael del (1830-1908)</author>
 					<respStmt>
-						<resp>Principal</resp>
-						<name>Borja Navarro Colorado</name>
-					</respStmt>
-					<respStmt>
 						<resp>Edición ELTeC</resp>
 						<name>Judit Martínez Climent</name>
+						<name>Borja Navarro Colorado</name>
 					</respStmt>
 
 				</titleStmt>
@@ -33,15 +30,13 @@
 							<resp> Corrección del texto, anotación TEI, supervisión y edición Biblioteca Virtual Miguel de Cervantes </resp>
 							<name> Josefina Carrión </name>
 						</respStmt>
-						<relatedItem>
-							<bibl type="printEdition">
-								<publisher>Jaime Seix</publisher>
-								<pubPlace>Barcelona</pubPlace>
-								<date>1878-1879</date>
-								<idno type="BDH">bdh0000013419</idno>
-								<ref target="http://bdh-rd.bne.es/viewer.vm?id=0000013419"> Biblioteca Digital Hispánica - Biblioteca Nacional de España </ref>
-							</bibl>
-						</relatedItem>
+					</bibl>
+					<bibl type="firstEdition">
+						<publisher>Jaime Seix</publisher>
+						<pubPlace>Barcelona</pubPlace>
+						<date>1878-1879</date>
+						<idno type="BDH">bdh0000013419</idno>
+						<ref target="http://bdh-rd.bne.es/viewer.vm?id=0000013419"> Biblioteca Digital Hispánica - Biblioteca Nacional de España </ref>
 					</bibl>
 				</sourceDesc>
 			</fileDesc>	
