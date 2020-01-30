@@ -3,13 +3,9 @@
 	 <teiHeader>
  		 <fileDesc>
    			 <titleStmt>
-   				 <title>Ricardo : Edición ELTeC </title>
-   				 <author ref="viaf:34167700">Castelar y Ripoll, Emilio (1832-1899)</author>
-   				 <respStmt>
-					<resp>Principal</resp>
-					<name>Borja Navarro Colorado</name>
-				</respStmt>
-   				 <respStmt>
+   				<title>Ricardo : Edición ELTeC </title>
+   				<author ref="viaf:34167700">Castelar y Ripoll, Emilio (1832-1899)</author>
+   				<respStmt>
 					<resp>Edición ELTeC</resp>
 					<name>Alba Rodríguez Jiménez</name>
 					<name>Borja Navarro Colorado</name>
@@ -34,16 +30,14 @@
 						<name>Carmen Hernández Segovia</name>
 						<name>Sonia Jover Sánchez</name>
 					</respStmt>
-		    			<relatedItem>
-						<bibl type="printEdition">
-							<publisher>Librería de Leocadio López, Editor</publisher>
-							<pubPlace>Madrid</pubPlace>
-							<date>1877</date>
-							<idno type="BDH">bdh0000007546</idno>
-							<ref target="http://bdh-rd.bne.es/viewer.vm?id=0000007546">Biblioteca Digital Hispánica - Biblioteca Nacional de España</ref>
-						</bibl>
-		    			</relatedItem>
-    				</bibl>
+		    	</bibl>	
+				<bibl type="firstEdition">
+					<publisher>Librería de Leocadio López, Editor</publisher>
+					<pubPlace>Madrid</pubPlace>
+					<date>1877</date>
+					<idno type="BDH">bdh0000007546</idno>
+					<ref target="http://bdh-rd.bne.es/viewer.vm?id=0000007546">Biblioteca Digital Hispánica - Biblioteca Nacional de España</ref>
+				</bibl>
 			</sourceDesc>
 		</fileDesc>
 		<encodingDesc n="eltec-1">
@@ -58,13 +52,14 @@
 			<textDesc>
 				<authorGender xmlns="http://distantreading.net/eltec/ns" key="M"/>
 				<size xmlns="http://distantreading.net/eltec/ns" key="medium"/>
-				<canonicity xmlns="http://distantreading.net/eltec/ns" key="medium"/>
+				<canonicity xmlns="http://distantreading.net/eltec/ns" key="low"/>
 				<timeSlot xmlns="http://distantreading.net/eltec/ns" key="T2"/>
 			</textDesc>
   		</profileDesc>
   		<revisionDesc>
   				<change when="2019-01-16">Anotación parcial formato ELTeC (encabezado): Alba Rodríguez Jiménez</change>
   				<change when="2019-01-16">Anotación completa formato ELTeC: Borja Navarro Colorado</change>
+                <change when="2020-01-30">Corrección etiquetas bibliográficas: Borja Navarro Colorado</change>
   		</revisionDesc>
  	</teiHeader>
 	<text>
