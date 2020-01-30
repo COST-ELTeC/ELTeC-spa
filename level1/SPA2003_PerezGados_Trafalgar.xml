@@ -1,5 +1,5 @@
 <?xml-model href="../../WG1/distantreading.github.io/Schema/eltec-1.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<TEI xml:id="SPA2001" xml:lang="SPA" xmlns="http://www.tei-c.org/ns/1.0">
+<TEI xml:id="SPA2003" xml:lang="SPA" xmlns="http://www.tei-c.org/ns/1.0">
 	<teiHeader xmlns="http://www.tei-c.org/ns/1.0">
 		<fileDesc>
 			<titleStmt>
@@ -82,7 +82,7 @@
 			<gap unit="graphic" n="portada"/>
 		</front>
 		<body>
-			<div type="chapter" n="SPA2001001">
+			<div type="chapter" n="SPA2003001">
 				<head>-I-</head>
 				<p>Se me permitirá que antes de referir el gran suceso de que fui testigo, diga algunas palabras sobre mi infancia, explicando por qué extraña manera me llevaron los azares de la vida a presenciar la terrible catástrofe de nuestra marina.</p>
 				<p>Al hablar de mi nacimiento, no imitaré a la mayor parte de los que cuentan hechos de su propia vida, quienes empiezan nombrando su parentela, las más veces noble, siempre hidalga por lo menos, si no se dicen descendientes del mismo Emperador de Trapisonda. Yo, en esta parte, no puedo adornar mi libro con sonoros apellidos; y fuera de mi madre, a quien conocí por poco tiempo, no tengo noticia de ninguno de mis ascendientes, si no es <pb n="6"/> de Adán, cuyo parentesco me parece indiscutible. Doy principio, pues, a mi historia como Pablos, el buscón de Segovia: afortunadamente Dios ha querido que en esto sólo nos parezcamos.</p>
@@ -108,7 +108,7 @@
 				<p>A este sentimiento consagré mi edad viril y a él consagro esta faena de mis últimos años, poniéndole por genio tutelar o ángel custodio de mi existencia escrita, ya que lo fue de mi existencia real. Muchas cosas voy a contar. ¡Trafalgar, Bailén, Madrid, Zaragoza, Gerona, Arapiles!... De todo esto diré alguna cosa, si no os falta la paciencia. Mi relato no será tan bello como debiera, pero haré todo lo posible para que sea verdadero.</p>
 			</div>
 			<pb n="18"/>
-			<div type="chapter" n="SPA2001002">
+			<div type="chapter" n="SPA2003002">
 				<head>-II-</head>
 				<p>En uno de los primeros días de Octubre de aquel año funesto (1805), mi noble amo me llamó a su cuarto, y mirándome con su habitual severidad (cualidad tan sólo aparente, pues su carácter era sumamente blando), me dijo:</p>
 				<p><gap unit="graphic" n="persona"/> «Gabriel, ¿eres tú hombre de valor?»</p>
@@ -138,7 +138,7 @@
 				<p>Antes de pasar adelante, quiero dar de éste algunas noticias, así como de su hidalga consorte, para mejor conocimiento de lo que va a pasar.</p>
 			</div>
 			<pb n="26"/>
-			<div type="chapter" n="SPA2001003">
+			<div type="chapter" n="SPA2003003">
 				<head>-III-</head>
 				<p>D. Alonso Gutiérrez de Cisniega pertenecía a una antigua familia del mismo Vejer. Consagráronle a la carrera naval, y desde su juventud, siendo guardia marina, se distinguió honrosamente en el ataque que los ingleses dirigieron contra la Habana en 1748. Formó parte de la expedición que salió de Cartagena contra Argel en 1775, y también se halló en el ataque de Gibraltar por el Duque de Crillon en 1782. Embarcose más tarde para la expedición al estrecho de Magallanes en la corbeta <hi rend="italic">Santa María de la Cabeza</hi>, que mandaba Don Antonio de Córdova; también se halló en los gloriosos combates que sostuvo la escuadra anglo-española contra la francesa delante de Tolón en 1793, y, por último, terminó su gloriosa carrera en el desastroso encuentro del cabo de San Vicente, mandando el navío <hi rend="italic">Mejicano</hi>, uno de los que tuvieron que
 rendirse.</p>
@@ -340,7 +340,7 @@ la guerra contra el vergonzoso <foreign xml:lang="lat">statu quo</foreign>de Do�
    <pb n="33"/>
    
 
-   <div type="chapter"  n="SPA2001004">
+   <div type="chapter"  n="SPA2003004">
 		<head>-IV-</head>
     
 
@@ -1389,7 +1389,7 @@ concluido mi combate naval.
    <pb n="54"/>
    
 
-   <div type="chapter"  n="SPA2001005">
+   <div type="chapter"  n="SPA2003005">
     
 
     <head>-V-</head>
@@ -1798,7 +1798,7 @@ impedirle ir a la escuadra.
    <pb n="67"/>
    
 
-   <div type="chapter"  n="SPA2001006">
+   <div type="chapter"  n="SPA2003006">
     <head>-VI-</head>
     
 
@@ -2387,7 +2387,7 @@ expansivos.
    <pb n="81"/>
    
 
-   <div type="chapter"  n="SPA2001007">
+   <div type="chapter"  n="SPA2003007">
     <head>-VII-</head>
     
 
@@ -2771,7 +2771,7 @@ las once del día, sin novedad en la salud y con el alma alegre.
    <pb n="91"/>
    
 
-   <div type="chapter"  n="SPA2001008">
+   <div type="chapter"  n="SPA2003008">
     <head>-VIII-</head>
     
 
@@ -3488,7 +3488,7 @@ la mañana siguiente muy temprano.
    <pb n="114"/>
    
 
-   <div type="chapter" n="SPA2001009">
+   <div type="chapter" n="SPA2003009">
     <head>-IX-</head>
     
 
@@ -4078,7 +4078,7 @@ para alguna cosa útil.
    <pb n="130"/>
    
 
-   <div type="chapter" n="SPA2001010">
+   <div type="chapter" n="SPA2003010">
     <head>-X-</head>
     
 
@@ -4536,7 +4536,7 @@ cañonazo.
    <pb n="142"/>
    
 
-   <div type="chapter" n="SPA2001011">
+   <div type="chapter" n="SPA2003011">
     <head>-XI-</head>
     
 
@@ -5348,7 +5348,7 @@ penetraron en el barco vencido.
    <pb n="160"/>
    
 
-   <div type="chapter"  n="SPA2001012">
+   <div type="chapter"  n="SPA2003012">
     <head>-XII-</head>
     
 
@@ -6246,7 +6246,7 @@ pensamientos reproducida por los sentidos.
    <pb n="181"/>
    
 
-   <div type="chapter" n="SPA2001013">
+   <div type="chapter" n="SPA2003013">
     <head>-XIII-</head>
     
 
@@ -7142,7 +7142,7 @@ de hombres de talento».
    <pb n="201"/>
    
 
-   <div type="chapter" n="SPA2001014">
+   <div type="chapter" n="SPA2003014">
     <head>-XIV-</head>
     
 
@@ -7849,7 +7849,7 @@ escala.
    <pb n="217"/>
    
 
-   <div type="chapter"  n="SPA2001015">
+   <div type="chapter"  n="SPA2003015">
     <head>-XV-</head>
     
 
@@ -8977,7 +8977,7 @@ no supe lo que ocurrió.
    <pb n="242"/>
    
 
-   <div type="chapter" n="SPA2001016">
+   <div type="chapter" n="SPA2003016">
     <head>-XVI-</head>
     <p>
      Volvió, no sé cuándo, a iluminar
@@ -9594,7 +9594,7 @@ de hombros diciendo: «Yo no puedo estar en todas partes».
    <pb n="256"/>
    
 
-   <div type="chapter" n="SPA2001017">
+   <div type="chapter" n="SPA2003017">
     <head>-XVII-</head>
     
     <p>
