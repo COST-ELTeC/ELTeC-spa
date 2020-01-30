@@ -6,12 +6,8 @@
                 <title ref="viaf:219960627">Fortunata y Jacinta : dos historias de casadas : edición ELTeC</title>
                 <author ref="viaf:71395987">Pérez Galdós, Benito (1843-1920)</author>
                 <respStmt>
-                    <resp>Principal</resp>
-                        <name>Borja Navarro Colorado</name>
-                    </respStmt>
-                    <respStmt>
-                        <resp>Edición ELTeC</resp>
-                    <name>Borja Navarro Colorado</name>
+                  <resp>Edición ELTeC</resp>
+                  <name>Borja Navarro Colorado</name>
                 </respStmt>
             </titleStmt>
             <extent>
@@ -27,22 +23,20 @@
                     <publisher>Imprenta de La Guirnalda</publisher>
                     <pubPlace>Madrid</pubPlace>
                     <date>1887</date>
-                    <relatedItem>
-                        <bibl type="digitalSource">
-                            <publisher>Biblioteca Virtual Miguel de Cervantes Saavedra</publisher>
-                            <pubPlace>Universidad de Alicante</pubPlace>
-                            <ref target="http://www.cervantesvirtual.com/obra/fortunata-y-jacinta-dos-historias-de-casadas--0/">Biblioteca Virtual Miguel de Cervantes</ref>
-                            <date when="20010607"/>
-                            <respStmt>
-                                <resp>Corrección del texto, anotación TEI, supervisión y edición Biblioteca Virtual Miguel de Cervantes</resp>
-                                <name>Marisa Payá</name>
-                                <name>Isabel Narros</name>
-                                <name>Mª Ángeles Cabanillas</name>
-                                <name>Sonia Jover Sánchez</name>
-                                <name>Josefina Carrión</name>
-                            </respStmt>
-                        </bibl>
-                    </relatedItem>
+                </bibl>
+                <bibl type="digitalSource">
+                  <publisher>Biblioteca Virtual Miguel de Cervantes Saavedra</publisher>
+                  <pubPlace>Universidad de Alicante</pubPlace>
+                  <ref target="http://www.cervantesvirtual.com/obra/fortunata-y-jacinta-dos-historias-de-casadas--0/">Biblioteca Virtual Miguel de Cervantes</ref>
+                  <date when="20010607"/>
+                  <respStmt>
+                    <resp>Corrección del texto, anotación TEI, supervisión y edición Biblioteca Virtual Miguel de Cervantes</resp>
+                    <name>Marisa Payá</name>
+                    <name>Isabel Narros</name>
+                    <name>Mª Ángeles Cabanillas</name>
+                    <name>Sonia Jover Sánchez</name>
+                    <name>Josefina Carrión</name>
+                  </respStmt>
                 </bibl>
             </sourceDesc>
         </fileDesc>
