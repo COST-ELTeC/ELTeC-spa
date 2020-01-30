@@ -28,30 +28,26 @@
 					<pubPlace>Madrid</pubPlace>
 					<date>1844</date>
 					<idno type="BDH">bdh0000246543</idno>
-					<relatedItem>
-						<bibl type="source">
-							<publisher>Biblioteca Virtual Miguel de Cervantes Saavedra</publisher>
-							<pubPlace>Universidad de Alicante</pubPlace>
-							<ref target="http://www.cervantesvirtual.com/obra/el-senor-de-bembibre--0/">Biblioteca Virtual Miguel de Cervantes</ref>
-							<date when="19990702"/>
-							<respStmt>
-								<resp>Corrección del texto, anotación TEI, supervisión y edición Biblioteca Virtual Miguel de Cervantes</resp>
-								<name>Alex Bia</name>
-								<name>Ana López Díaz</name>
-							</respStmt>
-						</bibl>
-					</relatedItem>
-					<relatedItem>
-						<bibl type="CopyText">
-							<publisher>Ediciones Cátedra</publisher>
-							<respStmt>
-								<name>Rubio Cremades, Enrique</name>
-								<resp>editor</resp>
-							</respStmt>
-							<pubPlace>Madrid</pubPlace>
-							<date when="1986"/>
-						</bibl>
-					</relatedItem>
+				</bibl>
+				<bibl type="digitalSource">
+					<publisher>Biblioteca Virtual Miguel de Cervantes Saavedra</publisher>
+					<pubPlace>Universidad de Alicante</pubPlace>
+					<ref target="http://www.cervantesvirtual.com/obra/el-senor-de-bembibre--0/">Biblioteca Virtual Miguel de Cervantes</ref>
+					<date when="19990702"/>
+					<respStmt>
+						<resp>Corrección del texto, anotación TEI, supervisión y edición Biblioteca Virtual Miguel de Cervantes</resp>
+						<name>Alex Bia</name>
+						<name>Ana López Díaz</name>
+					</respStmt>
+				</bibl>
+				<bibl type="unspecified">
+					<publisher>Ediciones Cátedra</publisher>
+					<respStmt>
+						<name>Rubio Cremades, Enrique</name>
+						<resp>editor</resp>
+					</respStmt>
+					<pubPlace>Madrid</pubPlace>
+					<date when="1986"/>
 				</bibl>
 			</sourceDesc>
 		</fileDesc>
