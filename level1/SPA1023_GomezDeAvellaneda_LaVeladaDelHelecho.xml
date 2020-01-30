@@ -2,15 +2,13 @@
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="SPA1023" xml:lang="SPA">
 	<teiHeader> 
 		<fileDesc> <titleStmt> 	<title>La velada del helecho o El donativo del diablo: novela : edición ELTeC</title> 	<author ref="viaf:76328537">Gómez de Avellaneda, Gertrudis (1814-1873)</author>
-				<respStmt>
-					<resp>Principal</resp>
-					<name>Borja Navarro Colorado</name>
-				</respStmt>
-				<respStmt>
-					<resp>Edición ELTeC</resp>
-					<name> Laura Marcela García Ramírez</name>
-				</respStmt>
-			</titleStmt> <extent>
+			<respStmt>
+				<resp>Edición ELTeC</resp>
+				<name> Laura Marcela García Ramírez</name>
+				<name>Borja Navarro Colorado</name>
+			</respStmt>
+			</titleStmt>
+			<extent>
 				<measure unit="words">19748</measure>
 				<measure unit="pages">26</measure>
 			</extent>		
@@ -29,13 +27,11 @@
 						<name>Gabriel Marí</name>
 						<name>Julia Pozo</name>
 					</respStmt>
-					<relatedItem>
-						<bibl type="printEdition">
-							<publisher> Imprenta de Las Novedades, a cargo de J. Heredia </publisher>
-							<pubPlace>Madrid</pubPlace>
-							<date>1857</date>
-						</bibl>
-					</relatedItem>
+				</bibl>
+				<bibl type="firstEdition">
+					<publisher>Imprenta de Las Novedades, a cargo de J. Heredia </publisher>
+					<pubPlace>Madrid</pubPlace>
+					<date>1857</date>
 				</bibl>
 			</sourceDesc>
 		</fileDesc>
@@ -56,8 +52,9 @@
 				<timeSlot xmlns="http://distantreading.net/eltec/ns" key="T1"/>  </textDesc> 
 		</profileDesc>
 		<revisionDesc>
-			<change when="2019-01-18"> Anotación formato ELTeC: Laura Marcela García Ramírez</change>
-			<change when="2019-04-14"> Revisión y corrección formato ELTeC: Borja Navarro Colorado</change>
+			<change when="2019-01-18"> Anotación formato ELTeC : Laura Marcela García Ramírez</change>
+			<change when="2019-04-14"> Revisión y corrección formato ELTeC : Borja Navarro Colorado</change>
+			<change when="2020-01-30"> Corrección etiquetas bibliográficas : Borja Navarro Colorado</change>
 		</revisionDesc>
 	</teiHeader>
 	
