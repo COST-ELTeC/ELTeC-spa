@@ -5,13 +5,10 @@
 				<titleStmt>
 					<title ref="viaf:310211175">Doña Luz: edición ELTeC</title> 
 					<author ref="viaf:46770556">Valera y Alcalá-Galiano, Juan (1824-1905)</author>
-					<respStmt>
-		 				<resp>Principal</resp>
-						<name>Borja Navarro Colorado</name>
-					</respStmt>
 		 			<respStmt>
 		 				<resp>Edición ELTeC</resp>
 						<name>Lourdes Fernández Andreu</name>
+						<name>Borja Navarro Colorado</name>
 					</respStmt>
 				</titleStmt> 
 				<extent>
@@ -26,23 +23,21 @@
 						<pubPlace>Madrid</pubPlace>
 						<pubPlace>París</pubPlace>
 						<date>1879</date>
-						<relatedItem>
-							<bibl type="CopyText">
-								<publisher>Biblioteca Virtual Miguel de Cervantes Saavedra</publisher>
-								<pubPlace>Universidad de Alicante </pubPlace>
-								<ref target="www.cervantesvirtual.com/obra/dona-luz--0/">Biblioteca Virtual Miguel de Cervantes</ref>
-						   	 	<date when="2003-08-11"/>
-								<respStmt>
-									<resp>Transformación automática de HTML a XML (HTML2XML 2.0), corrección y etiquetado del texto en XML-TEI, supervisión del texto, revisión del etiquetado e inclusión de hipervínculos a la edición facsímil Biblioteca Virtual Miguel de Cervantes Saavedra</resp>
-									<name>Alex Bia</name>
-								        <name>Rosa María Torregrosa Román</name>
-								        <name>Gabriel Marí</name>
-								        <name>Josefina Carrión</name>
-								        <name>Jorge Villar</name>
-					 		        </respStmt>
-						 	</bibl>
-			           	 	</relatedItem>
-				        </bibl>
+					</bibl>
+					<bibl type="digitalSource">
+						<publisher>Biblioteca Virtual Miguel de Cervantes Saavedra</publisher>
+						<pubPlace>Universidad de Alicante </pubPlace>
+						<ref target="www.cervantesvirtual.com/obra/dona-luz--0/">Biblioteca Virtual Miguel de Cervantes</ref>
+					  	 	<date when="2003-08-11"/>
+						<respStmt>
+							<resp>Transformación automática de HTML a XML (HTML2XML 2.0), corrección y etiquetado del texto en XML-TEI, supervisión del texto, revisión del etiquetado e inclusión de hipervínculos a la edición facsímil Biblioteca Virtual Miguel de Cervantes Saavedra</resp>
+							<name>Alex Bia</name>
+						    <name>Rosa María Torregrosa Román</name>
+						    <name>Gabriel Marí</name>
+						    <name>Josefina Carrión</name>
+						    <name>Jorge Villar</name>
+					    </respStmt>
+					</bibl>
 				</sourceDesc>
 	      	 	</fileDesc>
 	      	 	<encodingDesc n="eltec-1">
