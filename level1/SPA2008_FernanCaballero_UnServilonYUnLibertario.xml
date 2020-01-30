@@ -6,12 +6,9 @@
 				<title>Un servilón y un liberalito, ó Tres almas de Dios : Edición ELTeC </title>
 				<author ref="viaf:9859150">Caballero, Fernán (1796-1877)</author>
 				<respStmt>
-					<resp>Principal</resp>
-					<name>Borja Navarro Colorado</name>
-				</respStmt>
-				<respStmt>
 					<resp>Edición ELTeC</resp>
 					<name>Paula Serrano López </name>
+					<name>Borja Navarro Colorado</name>
 				</respStmt>
 			</titleStmt>
 			<extent>
@@ -22,24 +19,25 @@
 				<p>Incorporado a ELTeC el <date>2019-01-20</date></p>
 			</publicationStmt>
 			<sourceDesc>
-				<bibl type="copyText">
+				<bibl type="firstEdition">
+					<date>1857</date>
+				</bibl>
+				<bibl type="printSource">
 					<publisher>Imprenta del Establecimiento de Mellado </publisher>
 					<pubPlace>Madrid</pubPlace>
 					<date>1863</date>
 					<idno type="BDH">bdh0000185562</idno>
 					<ref target="http://bdh-rd.bne.es/viewer.vm?id=0000185562">Biblioteca Digital Hispánica - Biblioteca Nacional de España</ref>
-					<relatedItem>
-						<bibl type="source"> 
-							<publisher>Biblioteca Virtual Miguel de Cervantes Saavedra</publisher>
-							<pubPlace>Universidad de Alicante</pubPlace>
-							<ref target="http://www.cervantesvirtual.com/obra/un-servilon-y-un-liberalito-o-tres-almas-de-dios-novela--0/">Biblioteca Virtual Miguel de Cervantes</ref>
-							<date when="20071205"/>
-							<respStmt>
-								<resp> Transformación automática de HTML a XML (HTML2XML 2.0),Etiquetado del texto en XML-TEI, Revisión del etiquetado </resp>
-								<name>Sonia Jover Sánchez</name>
-							</respStmt>
-						</bibl>
-					</relatedItem>
+				</bibl>
+				<bibl type="digitalSource"> 
+					<publisher>Biblioteca Virtual Miguel de Cervantes Saavedra</publisher>
+					<pubPlace>Universidad de Alicante</pubPlace>
+					<ref target="http://www.cervantesvirtual.com/obra/un-servilon-y-un-liberalito-o-tres-almas-de-dios-novela--0/">Biblioteca Virtual Miguel de Cervantes</ref>
+					<date when="20071205"/>
+					<respStmt>
+						<resp> Transformación automática de HTML a XML (HTML2XML 2.0),Etiquetado del texto en XML-TEI, Revisión del etiquetado </resp>
+						<name>Sonia Jover Sánchez</name>
+					</respStmt>
 				</bibl>
 			</sourceDesc>
 		</fileDesc>
