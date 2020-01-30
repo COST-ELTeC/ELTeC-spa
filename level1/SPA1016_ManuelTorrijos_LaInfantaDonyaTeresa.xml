@@ -32,15 +32,13 @@
 							<resp>Etiquetado del texto en XML-TEI</resp>
 							<name>Josefina Carrión</name>
 						</respStmt>
-						<relatedItem>
-							<bibl type="printEdition"> 
-								<publisher>Imprenta de Ginés Hernández y Artés</publisher>
-								<pubPlace>Madrid</pubPlace>
-								<date>1857</date>
-								<ref target="http://bdh-rd.bne.es/viewer.vm?id=0000246543">Biblioteca Digital Hispánica - Biblioteca Nacional de España</ref>
-								<idno type="BDH">bdh0000042221</idno>
-							</bibl>
-						</relatedItem>
+					</bibl>	
+					<bibl type="firstEdition"> 
+						<publisher>Imprenta de Ginés Hernández y Artés</publisher>
+						<pubPlace>Madrid</pubPlace>
+						<date>1857</date>
+						<ref target="http://bdh-rd.bne.es/viewer.vm?id=0000246543">Biblioteca Digital Hispánica - Biblioteca Nacional de España</ref>
+						<idno type="BDH">bdh0000042221</idno>
 					</bibl>
 				</sourceDesc>
 			</fileDesc>
