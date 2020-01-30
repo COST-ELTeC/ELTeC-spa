@@ -6,10 +6,6 @@
 				<title ref="viaf:183080784">La Regenta :  Edición ELTeC</title>
 				<author ref="viaf:17218138">Alas, Leopoldo (1852-1901)</author>
 				<respStmt>
-					<resp>Principal</resp>
-					<name>Borja Navarro Colorado</name>
-				</respStmt>
-				<respStmt>
 					<resp>Edición ELTeC</resp>
 					<name>Borja Navarro Colorado</name>
 				</respStmt>
@@ -23,34 +19,31 @@
 				<p>Incorporado a ELTeC el <date>2019-06-28</date></p>
 			</publicationStmt>
 			<sourceDesc>
-				<bibl type="printEdition">
+				<bibl type="printSource">
 					<publisher>Librería de Fernando Fé</publisher>
 					<pubPlace>Madrid</pubPlace>
 					<date>1901</date>
-					<relatedItem>
-						<bibl type="firstEdition">
-							<publisher>Daniel Cortezo y Cía</publisher>
-							<pubPlace>Barcelona</pubPlace>
-							<date>1884-1885</date>
-							<idno type="BDH">bdh0000212416</idno>
-							<ref target="http://bdh.bne.es/bnesearch/detalle/bdh0000212416">Biblioteca Digital Hispánica - Biblioteca Nacional de España</ref>
-						
-						<bibl type="digitalSource">
-							<publisher>Biblioteca Virtual Miguel de Cervantes Saavedra</publisher> 
-							<pubPlace>Universidad de Alicante</pubPlace>
-							<idno>002761</idno>
-							<date when="20020521"/>
-							<respStmt>
-								<resp>Edición y etiqueta TEI Biblioteca Virtual Miguel de Cervantes</resp>
-								<name>Marisa Payá</name>
-								<name>Isabel Narros</name>
-								<name>Raquel Pérez Barroso</name>
-								<name>Carmen Hernández Segovia</name>
-								<name>Sonia Jover Sánchez</name>
-							</respStmt>
-						</bibl>						
-						</bibl>
-					</relatedItem> 
+				</bibl>
+				<bibl type="firstEdition">
+					<publisher>Daniel Cortezo y Cía</publisher>
+					<pubPlace>Barcelona</pubPlace>
+					<date>1884-1885</date>
+					<idno type="BDH">bdh0000212416</idno>
+					<ref target="http://bdh.bne.es/bnesearch/detalle/bdh0000212416">Biblioteca Digital Hispánica - Biblioteca Nacional de España</ref>
+				</bibl>		
+				<bibl type="digitalSource">
+					<publisher>Biblioteca Virtual Miguel de Cervantes Saavedra</publisher> 
+					<pubPlace>Universidad de Alicante</pubPlace>
+					<idno>002761</idno>
+					<date when="20020521"/>
+					<respStmt>
+						<resp>Edición y etiqueta TEI Biblioteca Virtual Miguel de Cervantes</resp>
+						<name>Marisa Payá</name>
+						<name>Isabel Narros</name>
+						<name>Raquel Pérez Barroso</name>
+						<name>Carmen Hernández Segovia</name>
+						<name>Sonia Jover Sánchez</name>
+					</respStmt>
 				</bibl>
 			</sourceDesc>
 		</fileDesc>
