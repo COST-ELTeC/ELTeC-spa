@@ -6,12 +6,9 @@
 				<title ref="viaf:201886664">Pepita Jiménez : edición ELTeC</title>
 				<author ref="viaf:46770556">Valera y Alcalá-Galiano, Juan (1824-1905)</author>
 				<respStmt>
-					<resp>Principal</resp>
-					<name>Borja Navarro Colorado</name>
-				</respStmt>
-				<respStmt>
 					<resp>Edición ELTeC</resp>
 					<name>Raquel Rocamora Montenegro</name>
+					<name>Borja Navarro Colorado</name>
 				</respStmt>
 			</titleStmt>
 			<extent>
@@ -27,23 +24,21 @@
 					<publisher>Revista de España Tomo XXXVII</publisher>
 					<pubPlace>Madrid</pubPlace>
 					<date>1874</date>
-					<relatedItem>
-						<bibl type="source">
-							<publisher>Biblioteca Virtual Miguel de Cervantes Saavedra</publisher>
-							<pubPlace>Universidad de Alicante</pubPlace>
-							<ref target="http://www.cervantesvirtual.com/obra-visor/pepita-jimenez--0/html/">Biblioteca Virtual Miguel de Cervantes</ref>
-							<date when="2003-06-16"/>
-							<respStmt>
-								<resp>Corrección del texto, anotación TEI, supervisión y edición Biblioteca Virtual Miguel de Cervantes</resp>
-								<name>Alex Bia</name>
-								<name>Mayte Ávalos Coloma</name>
-								<name>Marisa Payá</name>
-								<name>Isabel Narros</name>
-								<name>Gabriel Marí</name>
-								<name>Jorge Villar</name>
-							</respStmt>
-						</bibl>
-					</relatedItem>
+				</bibl>
+				<bibl type="digitalSource">
+					<publisher>Biblioteca Virtual Miguel de Cervantes Saavedra</publisher>
+					<pubPlace>Universidad de Alicante</pubPlace>
+					<ref target="http://www.cervantesvirtual.com/obra-visor/pepita-jimenez--0/html/">Biblioteca Virtual Miguel de Cervantes</ref>
+					<date when="2003-06-16"/>
+					<respStmt>
+						<resp>Corrección del texto, anotación TEI, supervisión y edición Biblioteca Virtual Miguel de Cervantes</resp>
+						<name>Alex Bia</name>
+						<name>Mayte Ávalos Coloma</name>
+						<name>Marisa Payá</name>
+						<name>Isabel Narros</name>
+						<name>Gabriel Marí</name>
+						<name>Jorge Villar</name>
+					</respStmt>
 				</bibl>
 			</sourceDesc>
 		</fileDesc>
