@@ -35,13 +35,11 @@
 						<name>Isabel Narros</name>
 						<name>Josefina Carrión</name>
 					</respStmt>
-					<relatedItem>
-						<bibl type="printEdition">
-							<publisher>Imprenta Calle del Barco n.º 26.</publisher>
-							<pubPlace>Madrid</pubPlace>
-							<date>1841</date>
-						</bibl>					
-					</relatedItem>
+				</bibl>
+				<bibl type="firstEdition">
+					<publisher>Imprenta Calle del Barco n.º 26.</publisher>
+					<pubPlace>Madrid</pubPlace>
+					<date>1841</date>
 				</bibl>
 			</sourceDesc>
 		</fileDesc>
