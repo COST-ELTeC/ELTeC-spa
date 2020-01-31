@@ -6,7 +6,7 @@
    <title ref="viaf:211738325">Su único hijo : edición ELTeC</title>
    <author ref="viaf:17218138">Alas, Leopoldo (1852-1901)</author>
    <respStmt>
-    <resp>Principal y edición ELTeC</resp>
+    <resp>Edición ELTeC</resp>
     <name>Borja Navarro Colorado</name>
    </respStmt>
   </titleStmt>
@@ -24,21 +24,19 @@
     <date>1890</date>
     <idno type="BDH">bdh0000058866</idno>
     <ref target="bdh-rd.bne.es/viewer.vm?id=0000058866">Biblioteca Digital Hispánica - Biblioteca Nacional de España</ref>
-    <relatedItem>
-     <bibl type="digitalSource">
-      <publisher>Biblioteca Virtual Miguel de Cervantes Saavedra</publisher>
-      <pubPlace>Universidad de Alicante</pubPlace>
-      <idno>005087</idno>
-      <ref target="http://www.cervantesvirtual.com/obra/su-unico-hijo--0/">Copyright © Universidad de Alicante, Banco Santander Central Hispano 1999-2001.</ref>
-      <date when="20040702"/>
-      <respStmt>
-       <resp>Etiquetado del texto en XML-TEI</resp>
-       <name>Alejandro Ramos Rodríguez</name>
-       <name>Sonia Jover Sánchez</name>
-      </respStmt>
-     </bibl>
-    </relatedItem>
-   </bibl>
+    </bibl>
+    <bibl type="digitalSource">
+     <publisher>Biblioteca Virtual Miguel de Cervantes Saavedra</publisher>
+     <pubPlace>Universidad de Alicante</pubPlace>
+     <idno>005087</idno>
+     <ref target="http://www.cervantesvirtual.com/obra/su-unico-hijo--0/">Copyright © Universidad de Alicante, Banco Santander Central Hispano 1999-2001.</ref>
+     <date when="20040702"/>
+     <respStmt>
+      <resp>Etiquetado del texto en XML-TEI</resp>
+      <name>Alejandro Ramos Rodríguez</name>
+      <name>Sonia Jover Sánchez</name>
+     </respStmt>
+    </bibl>
   </sourceDesc>
  </fileDesc>
  <encodingDesc n="eltec-1">
