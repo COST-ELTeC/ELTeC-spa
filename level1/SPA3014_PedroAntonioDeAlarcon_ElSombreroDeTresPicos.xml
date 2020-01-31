@@ -6,8 +6,8 @@
           <title ref="viaf:174986886">El sombrero de tres picos :  edición ELTeC</title>
           <author ref="viaf:44294383">Alarcón, Pedro Antonio de  (1833-1891) </author>
           <respStmt>
-	    <resp>Edición ELTeC</resp>
-	    <name>Borja Navarro Colorado</name>
+      	    <resp>Edición ELTeC</resp>
+	          <name>Borja Navarro Colorado</name>
           </respStmt>
         </titleStmt>
         <extent>
@@ -17,27 +17,28 @@
           <p>Incorporado a ELTeC el <date>2019-08-21</date></p>
         </publicationStmt>
         <sourceDesc>
-          <bibl type="printEdition">
+          <bibl type="firstEdition">
+            <date>1874</date>
+          </bibl>
+          <bibl type="printSource">
             <publisher>Imprenta Pérez Dubrull</publisher>
             <pubPlace>Madrid</pubPlace>
-            <date>1882</date> <!-- Author's final edition. First edition: 1874 -->
-            <relatedItem>
-              <bibl type="digitalSource">
-                <publisher>Biblioteca Virtual Miguel de Cervantes Saavedra</publisher>
-                <pubPlace>Universidad de Alicante</pubPlace>
-                <idno>000018</idno>
-                <ref target="http://www.cervantesvirtual.com/obra/el-sombrero-de-tres-picos--0/">Copyright Universidad de Alicante, Banco Santander Central Hispano 1999-2001.</ref>
-                <date when="20041026"/>
-                <respStmt>
-                  <resp>Transformación automática de HTML a XML (HTML2XML 2.0)</resp>
-                  <name>Manuel Sánchez Quero</name>
-                </respStmt>
-                <respStmt>
-                  <resp>Etiquetado del texto en XML-TEI</resp>
-                  <name>Mari Carmen Jerez Gaona</name>
-                </respStmt>
-              </bibl>
-            </relatedItem>
+            <date>1882</date> <!-- Author's final edition. | Últmima edición en vida del autor. -->
+          </bibl>
+          <bibl type="digitalSource">
+            <publisher>Biblioteca Virtual Miguel de Cervantes Saavedra</publisher>
+            <pubPlace>Universidad de Alicante</pubPlace>
+            <idno>000018</idno>
+            <ref target="http://www.cervantesvirtual.com/obra/el-sombrero-de-tres-picos--0/">Copyright Universidad de Alicante, Banco Santander Central Hispano 1999-2001.</ref>
+            <date when="20041026"/>
+            <respStmt>
+              <resp>Transformación automática de HTML a XML (HTML2XML 2.0)</resp>
+              <name>Manuel Sánchez Quero</name>
+            </respStmt>
+            <respStmt>
+              <resp>Etiquetado del texto en XML-TEI edición Biblioteca Virtual Miguel de Cervantes</resp>
+              <name>Mari Carmen Jerez Gaona</name>
+            </respStmt>
           </bibl>
         </sourceDesc>
       </fileDesc>
