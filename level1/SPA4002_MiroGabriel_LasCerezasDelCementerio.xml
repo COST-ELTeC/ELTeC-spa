@@ -22,14 +22,12 @@
 					<publisher>E. Domenech</publisher>
 					<pubPlace>Barcelona</pubPlace>
 					<date>1910</date>
-					<relatedItem>
-						<bibl type="digitalSource">
-							<publisher>Biblioteca Digital Hispánica</publisher>
-							<pubPlace>Madrid</pubPlace>
-							<idno type="BDH">bdh0000107203</idno>
-							<ref target="http://bdh-rd.bne.es/viewer.vm?id=0000107203">Biblioteca Digital Hispánica - Biblioteca Nacional de España</ref>
-						</bibl>
-					</relatedItem>
+				</bibl>	
+				<bibl type="digitalSource">
+					<publisher>Biblioteca Digital Hispánica</publisher>
+					<pubPlace>Madrid</pubPlace>
+					<idno type="BDH">bdh0000107203</idno>
+					<ref target="http://bdh-rd.bne.es/viewer.vm?id=0000107203">Biblioteca Digital Hispánica - Biblioteca Nacional de España</ref>
 				</bibl>
 			</sourceDesc>
 		</fileDesc>
