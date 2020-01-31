@@ -25,25 +25,21 @@
 					<date>1910</date>
 					<idno type="BDH"> bdh0000204489</idno>
 					<ref target="http://bdh-rd.bne.es/viewer.vm?id=0000204489">Biblioteca Digital Hispánica - Biblioteca Nacional de España</ref>
-					<relatedItem>
-						<bibl type="digitalSource">
-						<publisher>Biblioteca Virtual Miguel de Cervantes Saavedra</publisher>
-						<pubPlace>Universidad de Alicante</pubPlace>
-						<ref target="http://www.cervantesvirtual.com/obra/a-todo-honor--0/">Copyright Biblioteca Virtual Miguel de Cervantes Banco Santander Central Hispano 1999-2005.</ref>
-						<date when="20170711"/>
-						<respStmt>
-				  			<resp>Edición Biblioteca Virtual Miguel de Cervantes</resp>
-		       					<name>Josefina Carrión</name>
-						</respStmt>
-						<relatedItem>
-							<bibl type="printEdition">
-								<publisher>Imprenta de José Blass y Cía.</publisher>
-								<pubPlace>Madrid</pubPlace>
-								<date>1909</date>
-							</bibl>
-						</relatedItem>
-						</bibl>
-					</relatedItem>
+				</bibl>	
+				<bibl type="digitalSource">
+					<publisher>Biblioteca Virtual Miguel de Cervantes Saavedra</publisher>
+					<pubPlace>Universidad de Alicante</pubPlace>
+					<ref target="http://www.cervantesvirtual.com/obra/a-todo-honor--0/">Copyright Biblioteca Virtual Miguel de Cervantes Banco Santander Central Hispano 1999-2005.</ref>
+					<date when="20170711"/>
+					<respStmt>
+				  		<resp>Edición Biblioteca Virtual Miguel de Cervantes</resp>
+		       			<name>Josefina Carrión</name>
+					</respStmt>
+				</bibl>
+				<bibl type="printSource">
+					<publisher>Imprenta de José Blass y Cía.</publisher>
+					<pubPlace>Madrid</pubPlace>
+					<date>1909</date>
 				</bibl>
 			</sourceDesc>
 		</fileDesc>
