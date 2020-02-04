@@ -15,9 +15,15 @@
    				<measure unit="words">59587</measure>
 				<measure unit="pages">87</measure>
 			</extent>
-   			<publicationStmt>
-   				<p>Incorporado a ELTeC el <date>2020-01-29</date></p>
-   			</publicationStmt>
+			<publicationStmt>
+				<publisher ref="https://distant-reading.net">COST Action "Distant Reading for European Literary History" (CA16204)</publisher>
+				<distributor ref="https://zenodo.org/communities/eltec/">Zenodo.org</distributor>
+				<date when="2020-01-29"/>
+				<availability>
+					<licence target="https://creativecommons.org/licenses/by/4.0/"/>
+				</availability>
+				<ref type="doi" target="https://doi.org/10.5281/zenodo.3462435"/>
+			</publicationStmt>
    			<sourceDesc>
    				<bibl type="firstEdition">
    					<publisher>Editor, D. I. Boix y Cª</publisher>
