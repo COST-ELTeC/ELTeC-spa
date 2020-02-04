@@ -8,20 +8,24 @@
 				<author ref="viaf:27087132">Alarcón, Pedro Antonio de (1833-1891)</author>
 				<respStmt>
 					<resp>Edición ELTeC</resp>
-					<name>Rodríguez Rojas Jaime Alejandro</name>
+					<name>Jaime Alejandro Rodríguez Rojas</name>
 					<name>Borja Navarro Colorado</name>
 				</respStmt>
 		</titleStmt>
-			<extent>
-				<measure unit="words">95023</measure>
-				<measure unit="pages">204</measure>
-			</extent>
-		<publicationStmt>
-					<p>Incorporado a ELTeC el <date>2020-02-03</date></p>
-		</publicationStmt>
-
-   
-   <sourceDesc>
+		<extent>
+			<measure unit="words">95023</measure>
+			<measure unit="pages">204</measure>
+		</extent>
+           <publicationStmt>
+               <publisher ref="https://distant-reading.net">COST Action "Distant Reading for European Literary History" (CA16204)</publisher>
+               <distributor ref="https://zenodo.org/communities/eltec/">Zenodo.org</distributor>
+               <date when="2020-02-03"/>
+               <availability>
+                   <licence target="https://creativecommons.org/licenses/by/4.0/"/>
+               </availability>
+               <ref type="doi" target="https://doi.org/10.5281/zenodo.3462435"/>
+           </publicationStmt>
+	   <sourceDesc>
 		<bibl type="firstEdition">
 		<publisher>Medina y Navarro Eds</publisher>
 		<pubPlace>Madrid</pubPlace>

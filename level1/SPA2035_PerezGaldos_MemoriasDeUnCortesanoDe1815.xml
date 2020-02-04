@@ -18,9 +18,15 @@
 				<measure unit="words">51031</measure>
 				<measure unit="pages">272</measure>
 			</extent>
-			<publicationStmt> 
-				<p>Incorporado a ELTeC el <date>2019-02-26</date></p>
-			</publicationStmt> 
+       		<publicationStmt>
+           		<publisher ref="https://distant-reading.net">COST Action "Distant Reading for European Literary History" (CA16204)</publisher>
+           		<distributor ref="https://zenodo.org/communities/eltec/">Zenodo.org</distributor>
+           		<date when="2019-02-26"/>
+           		<availability>
+           	       <licence target="https://creativecommons.org/licenses/by/4.0/"/>
+       	       </availability>
+  	           <ref type="doi" target="https://doi.org/10.5281/zenodo.3462435"/>
+           </publicationStmt>
 			<sourceDesc> 
 				<bibl type="digitalSource">
 					<title>Memorias de un cortesano de 1815 / por B. Pérez Galdós</title>

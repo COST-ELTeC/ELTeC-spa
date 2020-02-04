@@ -17,9 +17,15 @@
 					<measure unit="pages">1830</measure>
 					<measure unit="vols">2</measure>
 				</extent>
-				<publicationStmt>
-					<p>Incorporado a ELTeC el <date>2019-04-18</date></p> 
-				</publicationStmt>
+           		<publicationStmt>
+               		<publisher ref="https://distant-reading.net">COST Action "Distant Reading for European Literary History" (CA16204)</publisher>
+               		<distributor ref="https://zenodo.org/communities/eltec/">Zenodo.org</distributor>
+               		<date when="2019-04-18"/>
+               		<availability>
+            	       <licence target="https://creativecommons.org/licenses/by/4.0/"/>
+        	       </availability>
+    	           <ref type="doi" target="https://doi.org/10.5281/zenodo.3462435"/>
+	           </publicationStmt>
 				<sourceDesc>
 					<bibl type="digitalSource">
 						<publisher> Biblioteca Virtual Miguel de Cervantes Saavedra </publisher>
