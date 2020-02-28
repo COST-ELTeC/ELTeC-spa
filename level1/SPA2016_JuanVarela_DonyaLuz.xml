@@ -33,7 +33,7 @@
 					<bibl type="digitalSource">
 						<publisher>Biblioteca Virtual Miguel de Cervantes Saavedra</publisher>
 						<pubPlace>Universidad de Alicante </pubPlace>
-						<ref target="www.cervantesvirtual.com/obra/dona-luz--0/">Biblioteca Virtual Miguel de Cervantes</ref>
+						<ref target="http://www.cervantesvirtual.com/obra/dona-luz--0/">Biblioteca Virtual Miguel de Cervantes</ref>
 					  	 	<date when="2003-08-11"/>
 						<respStmt>
 							<resp>Transformación automática de HTML a XML (HTML2XML 2.0), corrección y etiquetado del texto en XML-TEI, supervisión del texto, revisión del etiquetado e inclusión de hipervínculos a la edición facsímil Biblioteca Virtual Miguel de Cervantes Saavedra</resp>

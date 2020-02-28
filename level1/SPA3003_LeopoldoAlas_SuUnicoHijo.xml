@@ -29,7 +29,7 @@
     <pubPlace>Madrid</pubPlace>
     <date>1890</date>
     <idno type="BDH">bdh0000058866</idno>
-    <ref target="bdh-rd.bne.es/viewer.vm?id=0000058866">Biblioteca Digital Hispánica - Biblioteca Nacional de España</ref>
+    <ref target="http://bdh-rd.bne.es/viewer.vm?id=0000058866">Biblioteca Digital Hispánica - Biblioteca Nacional de España</ref>
     </bibl>
     <bibl type="digitalSource">
      <publisher>Biblioteca Virtual Miguel de Cervantes Saavedra</publisher>

@@ -31,7 +31,7 @@
 					 <pubPlace>Madrid</pubPlace>
 					 <date>1881</date>
 					 <idno type="BDH">bdh0000243326</idno>
-					<ref target="bdh-rd.bne.es/viewer.vm?id=0000243326">Biblioteca Digital Hispánica - Biblioteca Nacional de España</ref>
+					<ref target="http://bdh-rd.bne.es/viewer.vm?id=0000243326">Biblioteca Digital Hispánica - Biblioteca Nacional de España</ref>
 				</bibl>
 				<bibl type="printSource">
 					<publisher>Est. Tipolitográfico "Sucesores de Rivadeneyra"</publisher>
