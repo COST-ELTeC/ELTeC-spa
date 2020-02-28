@@ -70,7 +70,7 @@
 		</teiHeader>
 		<text>
 			<front>
-				<div type="titlePage">
+				<div type="titlepage">
 					<gap unit="graphic"/> 
 					<p>Los</p>
 					<p>caballeros del amor</p>
@@ -84,7 +84,7 @@
 					<p>Calle de Dóu, núm 15, (antigua universidad)</p>
 					<p>1978</p>
 				</div>
-				<div type= "liminar">
+				<div type= "liminal">
 					<head> Prólogo. Un amor criminal </head>
 						<p> Sobre las cinco de la tarde de un día de Otoño del año 1776, los bosques de Valsain se hallaban invadidos por una multitud alegre,
 						inquieta y bulliciosa que les recorría en todas direcciones, dando gritos de júbilo. </p> 
@@ -317,7 +317,7 @@
 				</div>
 			</front>
 			<body>
-				<div type="vol" n="1">
+				<div type="group" n="1">
 					<head>Tomo Primero</head> 
 				
 				<div type="chapter" n="SPA202101">
@@ -30527,7 +30527,7 @@
 				<trailer> FIN DEL TOMO PRIMERO </trailer>
 				<milestone unit="line"/> 
   </div>
-				<div type="vol" n="2">
+				<div type="group" n="2">
 					<head> Tomo segundo </head> 
 				
 				<div type="chapter" n="SPA2021109">

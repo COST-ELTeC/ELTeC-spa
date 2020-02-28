@@ -77,7 +77,7 @@
 	</teiHeader> 
 	<text>
 		<front> 
-			<div type="titlePage"> 
+			<div type="titlepage"> 
 			 	<p>La</p>
 				<p>Regenta</p>
 				<p>por</p> 
@@ -92,7 +92,7 @@
 			<gap/>
 		</front>
 		<body>
-			<div type="vol" n="1"> 
+			<div type="group" n="1"> 
 				<head>Tomo I</head>
 				<pb n="1"/> 
 				<div type="chapter" n="SPA3002001">
@@ -16817,7 +16817,7 @@
 		  <trailer><gap unit="graphic"/>FIN DE LA PRIMERA PARTE</trailer> 
 		</div>
 
-		<div type="vol" n="2"> 
+		<div type="group" n="2"> 
 		  <head>Tomo II</head>
 		  <pb n="1"/> 
 		  <div type="chapter" n="SPA3002016"> 

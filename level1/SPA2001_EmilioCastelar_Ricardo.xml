@@ -70,13 +70,13 @@
  	</teiHeader>
 	<text>
 		 <front>
-			 <div type="titlePage">
+			 <div type="titlepage">
 				<p>Historia de un corazón</p>
 				<p>Ricardo</p>
 			</div>
 		</front>
 		<body>
-		<div type="volume" n="1">
+		<div type="group" n="1">
 		   <milestone unit="frontpage"/>
 		   <div type="chapter" n="SPA2001001">
 		   <head>Capítulo primero. Los vapores del vino y los vapores de la idea.</head>
@@ -6869,7 +6869,7 @@ no adivinaba que Jaime se había enamorado de Elena.
 		<trailer>Fin del tomo primero.</trailer>
    </div>
 
-   <div type="volume" n="2">
+   <div type="group" n="2">
    <milestone unit="frontpage"/>
    <div type="chapter" n="SPA2001009">
    <head>Capítulo primero. La felicidad.</head>

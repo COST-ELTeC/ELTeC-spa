@@ -85,7 +85,7 @@
         </front>
         <body>
             <pb n="5"/>
-            <div type="vol" n="1">
+            <div type="group" n="1">
                 <head>Parte primera</head>
                 <div type="chapter" n="SPA3001001">
                     <head>-I- Juanito Santa Cruz</head>
@@ -21581,7 +21581,7 @@ pulmonía de la finas, le apunta, tira, y me le deja seco.
     </trailer>
    </div>
 
-   <div type="vol" n="2">
+   <div type="group" n="2">
       <head>Parte segunda</head>
 
       <pb n="5"/>
@@ -40159,7 +40159,7 @@ nadie.
 
    
 
-   <div type="vol" n="3">
+   <div type="group" n="3">
    <head>Parte tercera</head>    
 
      <pb n="5"/>
@@ -57795,7 +57795,7 @@ salada.
 
    </div>
 
-   <div type="vol" n="4">
+   <div type="group" n="4">
     <head>Parte cuarta</head>
 
    <pb n="5"/>

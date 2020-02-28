@@ -120,7 +120,7 @@
 			 </div>
 		</front> 
 	 <body>  
-			<div type="part" n="SPA2017001">
+			<div type="group" n="SPA2017001">
 			 <head>I. Cartas de mi sobrino </head> 
 			 <div type="letter">
 				<head>22 de Marzo</head>
@@ -2727,7 +2727,7 @@
 			 
 		  	<milestone unit="line"/>
 			<pb n="134"/><pb n="135"/> 
-			<div type="part" n="SPA2017002">
+			<div type="group" n="SPA2017002">
 			 <head>II. Paralipómenos </head> 
 			 <p>No hay más cartas de D. Luis de
 				Vargas que las que hemos transcrito. Nos quedaríamos, pues, sin
@@ -5560,7 +5560,7 @@
 				los anales del pueblo.</p> 
 		   <milestone unit="line"/> <pb n="267"/> 
 		   </div>
-		   <div type="part" n="SPA2017003">
+		   <div type="group" n="SPA2017003">
 			 <head>III. Epílogo. Cartas de mi hermano </head> 
 			 <p>La historia de Pepita y Luisito debiera
 				terminar aquí. Este epílogo está de sobra; pero el

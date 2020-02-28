@@ -68,7 +68,7 @@
 	</teiHeader>
 	<text>
 		<front>
-			<div type="titlePage">
+			<div type="titlepage">
 				<p>Miguel de Unamuno</p>
 				<p>Niebla</p>
 				<p>(Nivola)</p> 
@@ -79,7 +79,7 @@
 				<p>Buenos Aires, Libertad 172</p>
 				<p>1914</p>				 
 			</div>
-			<div  type="liminar">
+			<div  type="liminal">
 				<head>Prólogo</head>
 				<p>Se empeña don Miguel de Unamuno en que ponga yo un prólogo a este su libro en que se relata la tan lamentable historia de mi buen amigo Augusto Pérez y su misteriosa muerte, y yo no puedo menos sino escribirlo, porque los deseos del señor Unamuno son para mí mandatos, en la más genuina acepción de este vocablo. Sin haber yo llegado al extremo de escepticismo hamletiano de mi pobre amigo Pérez, que llegó hasta a dudar de su propia existencia, estoy por lo menos firmemente persuadido de que carezco de eso que los psicólogos llaman libre albedrío, aunque para mi consuelo creo también que tampoco goza don Miguel de él.</p>
 				<p>Parecerá acaso extraño a alguno de nuestros lectores que sea yo, un perfecto desconocido en la república de las letras españolas, quien prologue un libro de don Miguel que es ya ventajosamente conocido en ella, cuando la costumbre es que sean los escritores más conocidos los que hagan en los prólogos la presentación de aquellos otros que lo sean menos. Pero es que nos hemos puesto de acuerdo don Miguel y yo para alterar esta perniciosa costumbre, invirtiendo los términos, y que sea el desconocido el que al conocido presente. Porque en rigor los libros más se compran por el cuerpo del texto que no por el prólogo, y es natural por lo tanto que cuando un joven principiante como yo desee darse a conocer, en vez de pedir a un veterano de las letras que le escriba un prólogo de presentación, debe rogarle que le permita ponérselo a una de sus obras. Y esto es a la vez resolver uno de los problemas de ese eterno pleito de los jóvenes y los viejos.</p>
@@ -108,7 +108,7 @@
 				<p>Y con esto acabo.</p>
 				<p>VÍCTOR GOTI.</p>
 			</div>
-			<div type="liminar">
+			<div type="liminal">
 				<head>Post-prólogo</head>
 				<p>De buena gana discutiría aquí alguna de las afirmaciones de mi prologuista, Víctor Goti, pero como estoy en el secreto de su existencia —la de Goti—, prefiero dejarle la entera responsabilidad de lo que en ese su prólogo dice. Además, como fui yo quien le rogué que me lo escribiese, comprometiéndome de antemano —o sea <foreign xml:lang="lat">a priori</foreign>— a aceptarlo tal y como me lo diera, no es cosa ni de que lo rechace, ni siquiera de que me ponga a corregirlo y rectificarlo ahora a trasmano —o sea <foreign xml:lang="lat">a posteriori—.</foreign> Pero otra cosa es que deje pasar ciertas apreciaciones suyas sin alguna mía.</p>
 				<p>No sé hasta qué punto sea lícito hacer uso de confidencias vertidas en el seno de la más íntima amistad y llevar al público opiniones o apreciaciones que no las destinaba a él quien las profiriera. Y Goti ha cometido en su prólogo la indiscreción de publicar juicios míos que nunca tuve intención de que se hiciesen públicos. O por lo menos nunca quise que se publicaran con la crudeza con que en privado los exponía.</p>
