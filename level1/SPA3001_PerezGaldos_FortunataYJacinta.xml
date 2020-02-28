@@ -70,7 +70,7 @@
     </teiHeader>
     <text>
         <front>
-            <div type="titlePage">
+            <div type="titlepage">
                 <p>Fortunata</p>
                 <p>y</p>
                 <p>Jacinta</p>
@@ -89,8 +89,8 @@
                 <head>Parte primera</head>
                 <div type="chapter" n="SPA3001001">
                     <head>-I- Juanito Santa Cruz</head>
-                    <div type="group">
-                        <head>-I-</head>     
+                    <milestone unit="subchapter" rend="Roman numeral"/>
+                    <head>-I-</head>
                     <p>Las noticias más remotas que tengo de
 la persona que lleva este nombre me las ha dado Jacinto María
 Villalonga, y alcanzan al tiempo en que este amigo mío y el otro y
@@ -449,10 +449,9 @@ contar a uno cómo y cuándo se la ha comido otro, haciendo el cuento
 muy a lo vivo, se entiende, y describiendo la cara que ponía, el
 gusto que le daba la masticación, la gana con que tragaba y el
 reposo con que digería.</p>
-        </div>
 
-        <div type="group">
-           <head>-II-</head>
+        <milestone unit="subchapter" rend="Roman numeral"/>
+        <p>-II-</p>
 
       <p>Empezó entonces para Barbarita nueva
 época de sobresaltos. Si antes sus oraciones fueron pararrayos
@@ -668,7 +667,6 @@ hay que
        , París es muy malo; pero también
 es muy bueno».
       </p>
-      </div>
     </div>
     
 
@@ -677,8 +675,8 @@ es muy bueno».
 
     <div type="chapter" n="SPA3001002">
         <head>-II- Santa Cruz y Arnaiz. Vistazo histórico sobre el comercio matritense</head>
-        <div type="group">
-		<head>-I-</head>
+        <milestone unit="subchapter" rend="Roman numeral"/>
+		<p>-I-</p>
                 <p>Don Baldomero Santa Cruz era hijo de
 otro D. Baldomero Santa Cruz que en el siglo pasado tuvo ya tienda
 de paños del Reino en la calle de la Sal, en el mismo local que
@@ -933,9 +931,9 @@ jáquima con un letrero que diga:
        </emph>
        ...».
       </p>
-     </div>
-     <div type="group">
-	<head>-II-</head>
+
+     <milestone unit="subchapter" rend="Roman numeral"/>
+	   <p>-II-</p>
         <p>Nació Barbarita Arnaiz en la calle de
 Postas, esquina al callejón de San Cristóbal, en uno de aquellos
 oprimidos edificios que parecen estuches 
@@ -1232,11 +1230,9 @@ descender a la familiaridad con las alumnas ricas, reconocían, por
 encima de todo sentimiento envidioso, que ninguna niña tenía cosas
 tan bonitas como la de la tienda de Filipinas.
       </p>
-      </div>
-     
 
-     <div type="group">
-        <head>-III-</head>
+     <milestone unit="subchapter" rend="Roman numeral"/>
+     <p>-III-</p>
       
 
       <p>Esta niña y otras del barrio, bien
@@ -1517,11 +1513,9 @@ fue el 3 de Mayo de 1835, y se casaron en Santa Cruz, sin aparato,
 instalándose en la casa del esposo, que era una de las mejores del
 barrio, en la plazuela de la Leña.
       </p>
-     </div>
-     
 
-     <div type="group">
-         <head>-IV-</head>
+     <milestone unit="subchapter" rend="Roman numeral"/>
+     <p>-IV-</p>
       <p>A los dos meses de casados, y después
 de una temporadilla en que Barbarita estuvo algo distraída,
 melancólica y como con ganas de llorar, alarmando mucho a su madre,
@@ -1781,11 +1775,10 @@ Barbarita declaraba riendo que con estos teje-manejes se había
 vuelto, sin saberlo, una doña Beatriz Galindo para latines y una
 catedrática universal.
       </p>
-     </div>
      
 
-     <div type="group">
-         <head>-V-</head>
+     <milestone unit="subchapter" rend="Roman numeral"/>
+    <p>-V-</p>
       <p>En este interesante periodo de la
 crianza del heredero, desde el 45 para acá, sufrió la casa de Santa
 Cruz la transformación impuesta por los tiempos, y que fue
@@ -2175,11 +2168,9 @@ alguno de la familia; y aseguró que si su hermano se obstinaba en
 quitarlos, ella se los llevaría a su casa para ponerlos en el
 comedor, haciendo juego con los aparadores.
       </p>
-     </div>
-     
 
-     <div type="group">
-         <head>-VI-</head>
+     <milestone unit="subchapter" rend="Roman numeral"/>
+    <p>-VI-</p>
       <p>Aquella gran mujer, Isabel Cordero de
 Arnaiz, dotada de todas las agudezas del traficante y de todas las
 triquiñuelas económicas del ama de gobierno, fue agraciada además
@@ -2428,14 +2419,13 @@ Jacinta, pescó marido al año siguiente. ¡Y qué marido!... Pero al
 llegar aquí, me veo precisado a cortar esta hebra, y paso a referir
 ciertas cosas que han de preceder a la boda de Jacinta.
       </p>
-     </div>
     </div>
     <pb n="76"/>
 
     <div type="chapter" n="SPA3001003">
       <head>-III- Estupiñá</head>
-         <div type="group">
-        <head>-I-</head>
+        <milestone unit="subchapter" rend="Roman numeral"/>
+        <p>-I-</p>
         <p>En la tienda de Arnaiz, junto a la
 reja que da a la calle de San Cristóbal, hay actualmente tres
 sillas de madera curva de Viena, las cuales sucedieron hace años a
@@ -2698,14 +2688,10 @@ vara de San José. Y como pasaban meses y meses sin que se renovase
 el género, y allí no había más que maulas y vejeces, el trueno fue
 gordo y repentino. Un día le embargaron todo, y Estupiñá salió de
 la tienda con tanta pena como dignidad.
-      </p>
-      
+      </p>     
 
-     </div>
-     
-
-     <div type="group">
-        <head>-II-</head>
+     <milestone unit="subchapter" rend="Roman numeral"/>
+     <p>-II-</p>
         <p>Aquel gran filósofo no se entregó a la
 desesperación. Viéronle sus amigos tranquilo y resignado. En su
 aspecto y en el reposo de su semblante había algo de Sócrates,
@@ -2896,11 +2882,9 @@ idea de que Barbarita se enterara de aquel chasco del Viático.
 Afortunadamente, o no lo supo, o si lo supo no se dio nunca por
 entendida.
       </p>
-     </div>
      
-
-     <div type="group">
-        <head>-III-</head>
+     <milestone unit="subchapter" rend="Roman numeral"/>
+     <p>-III-</p>
       <p>Cuando conocí personalmente a este
 insigne hijo de Madrid, andaba ya al ras con los sesenta años; pero
 los llevaba muy bien. Era de estatura menos que mediana, regordete
@@ -3077,14 +3061,10 @@ Santa Cruz no hubiera hecho aquella visita, esta historia no se
 habría escrito. Se hubiera escrito otra, eso sí, porque por do
 quiera que el hombre vaya lleva consigo su novela; pero esta
 no.
-      </p>
-      
+      </p>     
 
-     </div>
-     
-
-     <div type="group">
-        <head>-IV-</head>
+     <milestone unit="subchapter" rend="Roman numeral"/>
+      <p>-IV-</p>
          <p>Juanito reconoció el número 11 en la
 puerta de una tienda de aves y huevos. Por allí se había de entrar
 sin duda, pisando plumas y aplastando cascarones. Preguntó a dos
@@ -3367,15 +3347,14 @@ Pascuas, pero en vez de entrar por la zapatería, Juanito, a quien
 sin duda no cansaba la escalera, entraba siempre por el
 establecimiento de huevos de la Cava.
       </p>
-     </div>
     </div>
 
     <pb n="104"/>
 
     <div type="chapter" n="SPA300104">
      <head>-IV- Perdición y salvamento del Delfín</head>
-       <div type="group">
-          <head>-I-</head>
+       <milestone unit="subchapter" rend="Roman numeral"/>
+          <p>-I-</p>
             <p>Pasados algunos días, cuando ya
 Estupiñá andaba por ahí restablecido aunque algo cojo, Barbarita
 empezó a notar en su hijo inclinaciones nuevas y algunas mañas que
@@ -3694,9 +3673,9 @@ su alma le declaraba que aquella gran mujer y madre tenía tratos
 con el Espíritu Santo, y que su proyecto era un verdadero caso de
 infalibilidad.
       </p>
-     </div>
-     <div type="group">
-      <head>-II-</head>
+     
+     <milestone unit="subchapter" rend="Roman numeral"/>
+    <p>-II-</p>
       <p>Porque Jacinta era una chica de
 prendas excelentes, modestita, delicada, cariñosa y además muy
 bonita. Sus lindos ojos estaban ya declarando la sazón de su alma o
@@ -3923,15 +3902,14 @@ como la habían perseguido en sus partos, cual si la historia la
 rondara deseando tener algo que ver con ella. Isabel Cordero y D.
 Juan Prim expiraron con pocas horas de diferencia.
       </p>
-     </div>
     </div>
 
     <pb n="120"/>
     
     <div type="chapter" n="SPA300105">
       <head>-V- Viaje de novios</head>
-       <div type="group">
-        <head>-I-</head>
+       <milestone unit="subchapter" rend="Roman numeral"/>
+        <p>-I-</p>
       <p>La boda se verificó en Mayo del 71.
 Dijo D. Baldomero con muy buen juicio que pues era costumbre que se
 largaran los novios, acabadita de recibir la bendición, a correrla
@@ -4239,9 +4217,9 @@ y... cosa natural, sus amigos fueron a verle... y uno de estos
 amigos, al subir la escalera de piedra, encontró una muchacha que
 se estaba comiendo un huevo crudo... ¿Qué tal?...
       </p>
-     </div>
-     <div type="group">
-        <head>-II-</head>
+     
+     <milestone unit="subchapter" rend="Roman numeral"/>
+        <p>-II-</p>
           <p>-Un huevo crudo... ¡qué asco! -exclamó
 Jacinta escupiendo una salivita-. ¿Qué se puede esperar de quien se
 enamora de una mujer que come huevos crudos?...
@@ -4737,9 +4715,9 @@ de mantón, sortijillas y pañuelo a la cabeza, una nuera que dice
        </emph>
        y no sabe leer».
       </p>
-     </div>
-     <div type="group">
-        <head>-III-</head>
+     
+     <milestone unit="subchapter" rend="Roman numeral"/>
+        <p>-III-</p>
           <p>«Quedamos en que no hay más
 cuentos».
       </p>
@@ -5100,9 +5078,9 @@ no algún
        </emph>
        por ahí».
       </p>
-     </div>
-     <div type="group">
-        <head>-IV-</head>
+
+     <milestone unit="subchapter" rend="Roman numeral"/>
+        <p>-IV-</p>
           <p>Jacinta no tenía ninguna especie de
 erudición. Había leído muy pocos libros. Era completamente
 ignorante en cuestiones de geografía artística; y sin embargo,
@@ -5683,12 +5661,11 @@ amable. Así es como te quiero yo.
        Pasado un ratito, dormía como un
 ángel... dormían los dos.
       </p>
-     </div>
 
      <pb n="155"/>
 
-     <div type="group">
-        <head>-V-</head>
+     <milestone unit="subchapter" rend="Roman numeral"/>
+        <p>-V-</p>
          <p>«¿Sabes lo que se me ha ocurrido?
 -dijo Santa Cruz a su mujer dos días después en la estación de
 Valencia-. Me parece una tontería que vayamos tan pronto a Madrid.
@@ -6060,9 +6037,9 @@ siempre una criatura de Dios, ¿verdad?... y yo, después que me
 divertí con ella, la dejé abandonada en medio de las calles...
 justo... su destino es el destino de las perras... Di que sí».
       </p>
-     </div>
-     <div type="group">
-      <head>-VI-</head>
+
+     <milestone unit="subchapter" rend="Roman numeral"/>
+      <p>-VI-</p>
       <p>Jacinta estaba alarmadísima, medio
 muerta de miedo y de dolor. No sabía qué hacer ni qué decir. «Hijo
 mío -exclamó limpiando el sudor de la frente de su marido-, ¡cómo
@@ -6441,9 +6418,9 @@ trabajo reconocerla.
        «¿Y la otra?...». porque esto era lo
 que importaba.
       </p>
-     </div>
-     <div type="group">
-      <head>-VII-</head>
+     
+     <milestone unit="subchapter" rend="Roman numeral"/>
+    <p>-VII-</p>
       <p>Santa Cruz tardó algún tiempo en dar
 la debida respuesta. Hacía rayas en el suelo con el bastón. Por fin
 se expresó así:
@@ -6692,14 +6669,13 @@ regalos.
 tenía por puño la cabeza de una cotorra.
       </p>
      </div>
-    </div>
 
     
     <pb n="177"/>
 
     <div type="chapter" n="SPA300106">
       <head>-VI- Más y más pormenores referentes a esta ilustre familia</head>
-      <div type="group">
+      <milestone unit="subchapter" rend="Roman numeral"/>
          <head>-I-</head>
             <p>Pasaban meses, pasaban años, y en
 aquella dichosa casa todo era paz y armonía. No se ha conocido en
@@ -6854,9 +6830,10 @@ verdad, se debe la formación del terreno democrático sobre que se
 asienta la sociedad española. De una conversación entre Arnaiz y
 Estupiñá han salido las siguientes noticias:
       </p>
-     </div>
-     <div type="group">
-      <head>-II-</head>
+     
+     <milestone unit="subchapter" rend="Roman numeral"/>
+
+     <p>-II-</p>
         <p>Ya sabemos que la madre de D.
 Baldomero Santa Cruz y la de Gumersindo y Barbarita Arnaiz eran
 parientes y venían del Trujillo extremeño y albardero. La actual
@@ -7108,9 +7085,9 @@ necesitados
        </emph>
        .
       </p>
-     </div>
-     <div type="group">
-        <head>-III-</head>
+     
+     <milestone unit="subchapter" rend="Roman numeral"/>
+        <p>-III-</p>
            <p>Los de Santa Cruz vivían en su casa
 propia de la calle de Pontejos, dando frente a la plazuela del
 mismo nombre; finca comprada al difunto Aparisi, uno de los socios
@@ -7396,11 +7373,11 @@ de teatro por la tarde sueltan el grito en la escena más
 interesante, distrayendo a los actores y enfureciendo al público...
 todos, en una palabra, le interesaban igualmente.
       </p>
-     </div>
+     
 
      <pb n="197"/>
 
-     <div type="group">
+     <milestone unit="subchapter" rend="Roman numeral"/>
         <head>-IV-</head>
       <p>Y de tal modo se iba enseñoreando de
 su alma el afán de la maternidad, que pronto empezó a embotarse en
@@ -7673,8 +7650,8 @@ sin esfuerzo cual si se dijeran por sí solas, porque, en fin, los
 comentarios sobre la sucesión tenían como una base en la renovación
 de las probabilidades de ella.
       </p>
-     </div>
-     <div type="group">
+     
+     <milestone unit="subchapter" rend="Roman numeral"/>
       <head>-V-</head>
       <p>Hacía mal Barbarita, pero muy mal, en
 burlarse de la manía de su hija. ¡Como si ella no tuviera también
@@ -8185,14 +8162,14 @@ un surtido tan variado como excelente, y el buen señor conservaba,
 entre ciertos hábitos tenaces del antiguo hortera, el de reservar
 los cigarros mejores para los domingos.
       </p>
-     </div>
+
     </div>   
 
     <pb n="213"/>
 
     <div type="chapter" n="SPA300107">
      <head>-VII- Guillermina, virgen y fundadora</head>
-        <div type="group">
+        <milestone unit="subchapter" rend="Roman numeral"/>
          <head>-I-</head>
            <p>De cuantas personas entraban en
 aquella casa, la más agasajada por toda la familia de Santa Cruz
@@ -8528,8 +8505,8 @@ departamento de lo otro, de modo que me quepan allí doscientos o
 trescientos huérfanos, y puedan vivir bien y educarse y ser buenos
 cristianos».
       </p>
-     </div>
-     <div type="group">
+
+     <milestone unit="subchapter" rend="Roman numeral"/>
       <head>-II-</head>
       <p>
        «Un edificio 
@@ -8981,8 +8958,8 @@ había comido en casa.
 deteniéndola, y ambas se miraban con picardía; -con veinte duros
 que le sonsaques hay bastante».
       </p>
-     </div>
-     <div type="group">
+     
+     <milestone unit="subchapter" rend="Roman numeral"/>
       <head>-III-</head>
       <p>«En Bolsa no se supo nada. Yo lo supe
 en el Bolsín a las diez -dijo Villalonga-. Fui al Casino a llevar
@@ -9394,14 +9371,13 @@ volviendo muy anticonstitucional.
 Don Baldomero y Barbarita besaron a sus hijos y se fueron a
 acostar. Esto mismo hicieron Jacinta y su marido.
       </p>
-     </div>
     </div>
 
     <pb n="239"/>
 
     <div type="chapter" n="SPA300108">
      <head>-VIII- Escenas de la vida íntima</head>
-         <div type="group">
+         <milestone unit="subchapter" rend="Roman numeral"/>
            <head>-I-</head>
             <p>A poco de acostarse notó Jacinta que
 su marido dormía profundamente. Observábale desvelada, tendiendo
@@ -9578,8 +9554,8 @@ quería gustar también
 serlo, sino la pura, que en su pureza misma tenía para él su
 picante.
       </p>
-     </div>
-     <div type="group">
+     
+     <milestone unit="subchapter" rend="Roman numeral"/>
       <head>-II-</head>
         <p>Por lo dicho se habrá comprendido que
 el Delfín era un hombre enteramente desocupado. Cuando se casó,
@@ -9858,8 +9834,8 @@ hombre en un puro éxtasis. Otros melómanos furiosos vio la dama en
 el palco; pero ya había concluido el cuarto acto y Juan no
 parecía.
       </p>
-      </div>
-      <div type="group">
+      
+      <milestone unit="subchapter" rend="Roman numeral"/>
        <head>-III-</head>
          <p>Si todo lo que les pasa a las personas
 superiores mereciera una efeméride, es fácil que en una hoja de
@@ -10443,8 +10419,8 @@ Paganismo
        </title>
        ...?
       </p>
-     </div>
-     <div type="group">
+     
+     <milestone unit="subchapter" rend="Roman numeral"/>
       <head>-IV-</head>
         <p>-Basta, basta, no cite usted más obras
 ni me enseñe más carteras. Ya le dije que no me gustan libros por
@@ -11253,11 +11229,11 @@ y huyó despavorida hacia el interior de la casa, temerosa de que le
 conocieran en la cara el desquiciamiento que aquel condenado hombre
 había producido en su alma.
       </p>
-     </div>
+
 
      <pb n="277"/>
 
-     <div type="group">
+     <milestone unit="subchapter" rend="Roman numeral"/>
       <head>-V-</head>
       <p>¡Cómo estuvo aquel día la pobrecita!
 No se enteraba de lo que le decían, no veía ni oía nada. Era como
@@ -11955,14 +11931,13 @@ en él con atención amante. Cuando se durmió de veras, la centinela
 abandonó su puesto para correr al lado de Guillermina con quien
 tenía pendiente una interesantísima conferencia.
       </p>
-     </div>
     </div>
 
     <pb n="289"/>
 
     <div type="chapter" n="SPA300109">
      <head>-IX- Una visita al Cuarto Estado</head>
-       <div type="group">
+       <milestone unit="subchapter" rend="Roman numeral"/>
          <head>-I-</head>
       <p>Al día siguiente, el Delfín estaba
 poco más o menos lo mismo. Por la mañana, mientras Barbarita y
@@ -12276,11 +12251,10 @@ cuadril, volaron por aquellos corredores.
        «Vamos -dijo Guillermina a su guía-,
 no las riñas tanto, que también tú eres buena...».
       </p>
-     </div>
 
      <pb n="298"/>
 
-     <div type="group">
+     <milestone unit="subchapter" rend="Roman numeral"/>
        <head>-II-</head>
           <p>Avanzaron por el corredor, y a cada
 paso un estorbo. Bien era un brasero que se estaba encendiendo, con
@@ -12854,8 +12828,8 @@ pasos hacia donde Ido estaba. Este no necesitó más que verla venir;
 y saliendo rápidamente del cuarto, volvió al poco con una criatura
 de la mano.
       </p>
-     </div>
-     <div type="group">
+     
+     <milestone unit="subchapter" rend="Roman numeral"/>
       <head>-III-</head>
       <p>«¡El Dulce Nombre!...» exclamó la
 Pacheco viendo entrar aquel adefesio, y todos los demás lanzaron
@@ -13231,8 +13205,8 @@ satisfacción de ir a la compra. Todos los individuos de la familia,
 cuando se encontraban uno frente a otro, se echaban a reír, y el
 más risueño era D. José, porque... ¡si supieran...
       </p>
-     </div>
-     <div type="group">
+     
+     <milestone unit="subchapter" rend="Roman numeral"/>
        <head>-IV-</head>
        <p>Echose mi hombre a la calle, y tiró
 por la de Mira el Río baja, cuya cuesta es tan empinada que se
@@ -13544,8 +13518,8 @@ figurones que tendremos una
        </emph>
        .
       </p>
-     </div>
-     <div type="group">
+     
+     <milestone unit="subchapter" rend="Roman numeral"/>
        <head>-V-</head>
        <p>Ido seguía corroborando, aunque no
 había entendido aquello de la 
@@ -13742,12 +13716,11 @@ Piedad, al cuartel de la Guardia Cevil y al Dipósito de las Aguas,
 y luego hacer un racimo de horca con Castelar, Pi, Figueras,
 Martos, Bicerra y los demás, por moderaos, por moderaos...».
       </p>
-     </div>
 
      
      <pb n="330"/>
 
-     <div type="group">
+     <milestone unit="subchapter" rend="Roman numeral"/>
       <head>-VI-</head>
         <p>Dijo el 
 
@@ -14200,8 +14173,8 @@ la luz. Dormía la mona de carne.
 entre las personas que miraban por la ventana, estaba Jacinta,
 acompañada de su doncella.
       </p>
-     </div>
-     <div type="group">
+     
+     <milestone unit="subchapter" rend="Roman numeral"/>
       <head>-VII-</head>
       <p>Había presenciado parte de la escena y
 estaba aterrada. «Ya le pasó lo peor -dijo Nicanora saliendo a
@@ -15002,8 +14975,8 @@ despedirlas a la puerta de la calle, con el pequeño en brazos. Y le
 movía la manecita para hacerle saludar a las dos mujeres hasta que
 doblaron la esquina de la calle del Bastero.
       </p>
-     </div>
-     <div type="group">
+     
+     <milestone unit="subchapter" rend="Roman numeral"/>
       <head>-VIII-</head>
       <p>A las nueve del día siguiente ya
 estaban allí otra vez ama y doncella, esperando a Guillermina, que
@@ -15510,8 +15483,8 @@ comprendido quedose en pie; mas luego tomó una cesta vacía que allí
 estaba, la puso boca abajo y acomodó su respetable persona en
 ella.
       </p>
-     </div>
-     <div type="group">
+     
+     <milestone unit="subchapter" rend="Roman numeral"/>
        <head>-IX-</head>
          <p>Desde que se cruzaron las primeras
 palabras de aquella conferencia, que no dudo en llamar 
@@ -16188,14 +16161,13 @@ en cualquier estudio, y eres un hombre. Con tu piojín a cuestas,
 serías el San Cristóbal más hermoso que se podría ver. Adiós,
 adiós...».
       </p>
-     </div>
     </div>
 
     <pb n="376"/>
 
     <div type="chapter" n="SPA300110">
      <head>-X- Más escenas de la vida íntima</head>
-        <div type="group">
+        <milestone unit="subchapter" rend="Roman numeral"/>
           <head>-I-</head>
             <p>Saliendo por los corredores, decía
 Guillermina a su amiga:
@@ -16779,8 +16751,8 @@ semejante al del artista que crea o compone, y también un poco de
 venganza, tal y como en alma tan noble podía producirse esta
 pasión.
       </p>
-     </div>
-     <div type="group">
+     
+     <milestone unit="subchapter" rend="Roman numeral"/>
         <head>-II-</head>
         <p>Cuando fue al cuarto del Delfín,
 Barbarita le hacía tomar a este un tazón de té con coñac. En el
@@ -17592,8 +17564,8 @@ vida.
        Se durmieron como dos ángeles, mejilla
 con mejilla.
       </p>
-     </div>
-     <div type="group">
+     
+     <milestone unit="subchapter" rend="Roman numeral"/>
       <head>-III-</head>
         <p>24 de Diciembre.</p>
         <p>Por la mañana encargó Barbarita a
@@ -18115,8 +18087,8 @@ un saco lleno de monedas de cinco duros. Al
        depositó Guillermina sobre un voluminoso fardo que
 contenía... ¡mil onzas!
       </p>
-     </div>
-     <div type="group">
+     
+     <milestone unit="subchapter" rend="Roman numeral"/>
       <head>-IV-</head>
       <p>Los dependientes que estaban haciendo
 el recuento y balance, metían en las arcas de hierro los cartuchos
@@ -18669,8 +18641,8 @@ debe ir tu
        </emph>
        es a la Inclusa.
       </p>
-     </div>
-     <div  type="group">
+     
+     <milestone unit="subchapter" rend="Roman numeral"/>
       <head>-V-</head>
       <p>
        ¡Excelente y alegre cena la de aquella
@@ -19054,8 +19026,8 @@ mi alma, volveré... ¿Veis cómo me quiere?, ¿lo veis?... Con que
 portarse bien todos, y no regañar. Al que sea malo, no le quiero
 yo...».
       </p>
-     </div>
-     <div type="group">
+     
+     <milestone unit="subchapter" rend="Roman numeral"/>
       <head>-VI-</head>
       <p>
        No se le cocía el pan a Barbarita
@@ -19519,8 +19491,8 @@ el último párrafo de una historia que te he referido por entregas.
 Y se acabó. Asunto agotado... Pero es tarde, hija mía, nos
 acostaremos, dormiremos y mañana...
       </p>
-     </div>
-     <div type="group">
+     
+     <milestone unit="subchapter" rend="Roman numeral"/>
       <head>-VII-</head>
       <p>
        «No, no, no -gritó Jacinta más bien
@@ -20011,8 +19983,8 @@ abandono, aunque lo mande quien lo mande. Es mío».
       <p>
        -Como que te ha costado tu dinero.
       </p>
-     </div>
-     <div  type="group">
+     
+     <milestone unit="subchapter" rend="Roman numeral"/>
       <head>-VIII-</head>
       <p>El chico le echó los brazos al cuello
 y miró a los demás con rencor, como indignado de la nota infamante
@@ -20607,14 +20579,14 @@ que ahora mismo vamos a llevárselo,
        </emph>
        ...».
       </p>
-     </div>
+    
     </div>
 
     <pb n="457"/>
     
     <div type="chapter" n="SPA300111">
      <head>-XI- Final, que viene a ser principio</head>
-     <div type="group">
+     <milestone unit="subchapter" rend="Roman numeral"/>
        <head>-I-</head>
          <p>
        Quien manda, manda. Resolviose la
@@ -21033,8 +21005,8 @@ volver y aproximarse cautelosa.
 preguntó el Delfín que sentía el ardor de una curiosidad
 febril.
       </p>
-     </div>
-     <div type="group">
+     
+     <milestone unit="subchapter" rend="Roman numeral"/>
       <head>-II-</head>
       <p>
        -Te diré... desde que le vi, me dije:
@@ -21346,8 +21318,8 @@ eran en aquella triste historia como las uvas desgranadas que
 quedan en el fondo del cesto después de sacar los racimos. Eran las
 más maduras, y quizás por esto las más sabrosas.
       </p>
-     </div>
-     <div type="group">
+     
+     <milestone unit="subchapter" rend="Roman numeral"/>
       <head>-III-</head>
         <p>
        En los siguientes días, la observadora
@@ -21602,10 +21574,9 @@ res? Tira por aquí, tira por allá, y nada. La res no cae. Y cuando
 más descuidado está el cazador, viene callandito por detrás una
 pulmonía de la finas, le apunta, tira, y me le deja seco.
       </p>
-     </div>
     </div>
     <trailer>
-	<date>Madrid.-Enero de 1886.</date>
+    	<date>Madrid.-Enero de 1886.</date>
         FIN DE LA PRIMERA PARTE
     </trailer>
    </div>
@@ -21617,7 +21588,7 @@ pulmonía de la finas, le apunta, tira, y me le deja seco.
  
       <div type="chapter" n="SPA300112">
          <head>-I- Maximiliano Rubín</head>
-	   <div type="group">
+	       <milestone unit="subchapter" rend="Roman numeral"/>
             <head>-I-</head>
             <p>
        La venerable tienda de tirador de oro
@@ -22010,11 +21981,10 @@ la Península, ardiendo por los cuatro costados, era una inmensa
 pira a la cual cada español había llevado su tea y el Gobierno
 soplaba.
       </p>
-     </div>
 
      <pb n="15"/>
 
-     <div type="group">
+     <milestone unit="subchapter" rend="Roman numeral"/>
       <head>-II-</head>
 
       <p>
@@ -22349,9 +22319,8 @@ carnes. ¡Si cuando iba a su casa y estaban en ella Rufinita
 Torquemada o la señora de Samaniego con su hija Olimpia, se metía
 en la cocina por no verse obligado a saludarlas...!
       </p>
-     </div>
 
-     <div type="group">
+     <milestone unit="subchapter" rend="Roman numeral"/>
       <head>-III-</head>
       <p>
        De esta manera aquel misántropo llegó
@@ -22817,8 +22786,8 @@ indulgencia de Rubín, que salió tras él hasta la puerta, diciéndole
 entre otras tonterías: «¡Valiente hipócrita estás tú... narices!
 Estos silfidones, a lo mejor la pegan».
       </p>
-     </div>
-     <div type="group">
+     
+     <milestone unit="subchapter" rend="Roman numeral"/>
       <head>-IV-</head>
       <p>
        Maximiliano bajó la escalera como la
@@ -23240,8 +23209,8 @@ calor hasta la madrugada? Y eso que me eché encima cuatro mantas.
        , que es, según
 decía mi Jáuregui, el peor tiempo de Madrid.
       </p>
-     </div>
-     <div type="group">
+     
+     <milestone unit="subchapter" rend="Roman numeral"/>
       <head>-V-</head>
       <p>
        -¿Va usted esta noche a casa de doña
@@ -23624,13 +23593,13 @@ movían, atarugaba el bolsillo como quien ataca un arma. ¡Creeríase
 que le había salido un tumor en la pierna!...
       </p>
      </div>
-    </div>
+    
 
     <pb n="53"/>
 
     <div type="chapter" n="SPA300113">
      <head>-II- Afanes y contratiempos de un redentor</head>
-     <div type="group">
+     <milestone unit="subchapter" rend="Roman numeral"/>
        <head>-I-</head>
          <p>Grande fue el asombro de Fortunata
 aquella noche cuando vio que Maximiliano sacaba puñados de monedas
@@ -23929,8 +23898,8 @@ martirizaba cruelmente.
        «Eso... según... -dijo ella plegando
 su entrecejo-. Me iría o no me iría...».
       </p>
-     </div>
-     <div type="group">
+     
+     <milestone unit="subchapter" rend="Roman numeral"/>
       <head>-II-</head>
       <p>
        Maximiliano quería saberlo todo. Era
@@ -24207,8 +24176,8 @@ se encontrarían más que dolores de cabeza y otras molestias
 físicas; pero a ver, que le sacaran algún acto ignominioso, ni
 siquiera una falta.
       </p>
-     </div>
-     <div type="group">
+     
+     <milestone unit="subchapter" rend="Roman numeral"/>
       <head>-III-</head>
       <p>
        Una de las cosas a que Maximiliano
@@ -24350,8 +24319,8 @@ la honradez y ensayándose en practicarla, eran dos seres que valían
 cualquier dinero, o en otros términos, dignos de que se les
 facilitaran los medios de continuar su campaña virtuosa.
       </p>
-     </div>
-     <div type="group">
+     
+     <milestone unit="subchapter" rend="Roman numeral"/>
       <head>-IV-</head>
       <p>
        La única visita que recibían era la de
@@ -24658,8 +24627,8 @@ yo!...
 noche!... ¡Pero calcula tú, mujer... ser honrada, ser casada,
 señora de Tal... persona decente...!».
       </p>
-     </div>
-     <div type="group">
+     
+     <milestone unit="subchapter" rend="Roman numeral"/>
       <head>-V-</head>
       <p>
        Maximiliano solía contar algunos
@@ -24936,8 +24905,8 @@ mandarla a la
 escabecharla y ponerla en salmuera, y poco a poco se iba aplacando
 la fierecilla hasta que se quedaba como un guante.
       </p>
-     </div>
-     <div type="group">
+     
+     <milestone unit="subchapter" rend="Roman numeral"/>
       <head>-VI-</head>
       <p>
        Maximiliano, gozoso de ver que su tía
@@ -25287,8 +25256,8 @@ tarde y Papitos tenía que madrugar. El sobrino y la cocinerita
 entraron sin hacer ruido en sus respectivas madrigueras, como los
 conejos cuando oyen los pasos del cazador.
       </p>
-     </div>
-     <div type="group">
+     
+     <milestone unit="subchapter" rend="Roman numeral"/>
       <head>-VII-</head>
       <p>
        La declaración de Maximiliano había
@@ -25595,11 +25564,11 @@ proyectado, siendo evidente que Olmedo habló en términos tan
 revelarle su pensamiento en la primera ocasión, para que en lo
 sucesivo midiera y pesara mejor sus palabras.
       </p>
-     </div>
+
 
      <pb n="105"/>
 
-     <div type="group">
+     <milestone unit="subchapter" rend="Roman numeral"/>
       <head>-VIII-</head>
       <p>
        Aquella noche fue también mala para
@@ -25846,8 +25815,8 @@ predicador y el de agente de aquello que Rubín llamaba
        </emph>
        .
       </p>
-     </div>
-     <div type="group">
+     
+     <milestone unit="subchapter" rend="Roman numeral"/>
       <head>-IX-</head>
       <p>
        Maximiliano comunicó a Olmedo sus
@@ -26225,13 +26194,12 @@ bien -dijo doña Lupe mirando severísimamente a su sobrino-.
 Siéntate que hay para rato».
       </p>
      </div>
-    </div>
-
+    
     <pb n="121"/>
 
     <div type="chapter" n="SPA300114">
      <head>-III- Doña Lupe la de los Pavos</head>
-     <div type="group">
+     <milestone unit="subchapter" rend="Roman numeral"/>
       <head>-I-</head>
       <p>
        Maximiliano no se sentó, doña Lupe sí,
@@ -26568,11 +26536,10 @@ Torquemada, haciendo una perfecta
        con los dedos pulgar e índice y
 enseñándosela a su interlocutora.
       </p>
-     </div>
 
      <pb n="129"/>
 
-     <div type="group">
+     <milestone unit="subchapter" rend="Roman numeral"/>
       <head>-II-</head>
       <p>
        Doña Lupe contempló la 
@@ -26910,8 +26877,7 @@ género humano a impedirme esta resolución; yo no discutiré, yo no
 diré una palabra; pero a donde voy, voy, y al que se me ponga por
 delante, sea quien sea, le piso y sigo mi camino».
       </p>
-     </div>
-     <div type="group">
+     <milestone unit="subchapter" rend="Roman numeral"/>
       <head>-III-</head>
       <p>
        Doña Lupe se quedó que no sabía lo que
@@ -27219,8 +27185,8 @@ jinetes del Circo de Price los papeles que les ponen delante cuando
 saltan sobre los caballos? Pues así rompo yo una pared si me la
 ponen entre ella y yo».
       </p>
-     </div>
-     <div type="group">
+     
+     <milestone unit="subchapter" rend="Roman numeral"/>
       <head>-IV-</head>
       <p>
        Este símil hubo de impresionar
@@ -27558,8 +27524,8 @@ fue este: «Mi tía se ablanda; mi tía se da a partido. Y como
 Fortunata no le debe dinero, ni se lo deberá nunca, porque estoy yo
 para impedirlo, ha de llegar día en que sean amigas».
       </p>
-     </div>
-     <div type="group">
+     
+     <milestone unit="subchapter" rend="Roman numeral"/>
       <head>-V-</head>
       
       <p>
@@ -27768,16 +27734,13 @@ limosna por las calles que pedir a mi tía un préstamo de dos
 pesetas... Mientras más amigos, más claros».
       </p>
      </div>
-    </div>
 
-    
-    
     <pb n="161"/>
     
     <div type="chapter" n="SPA300115">
      <head>-IV- Nicolás y Juan Pablo Rubín.Propónense nuevas artes y medios de redención</head>
      
-     <div type="group">
+     <milestone unit="subchapter" rend="Roman numeral"/>
       <head>-I-</head>
       <p>
        Hallábase doña Lupe, en el fondo de su
@@ -28068,11 +28031,10 @@ motas al zángano de Carlos
        </emph>
        .
       </p>
-     </div>
 
      <pb n="169"/>
 
-     <div type="group">
+     <milestone unit="subchapter" rend="Roman numeral"/>
       <head>-II-</head>
       <p>
        Durmiose Maxi aquella noche arrullado
@@ -28352,11 +28314,10 @@ a la viuda se le requemaba la sangre con esto. Véase, pues, cómo se
 entendía mejor con el más antipático de sus sobrinos que con el más
 simpático.
       </p>
-     </div>
 
      <pb n="177"/>
 
-     <div type="group">
+     <milestone unit="subchapter" rend="Roman numeral"/>
       <head>-III-</head>
       <p>
        Conocedor Nicolás de la tremenda
@@ -28739,8 +28700,8 @@ Fortunata la visita del clérigo, para que estuviese prevenida.
 sin miedo y con sinceridad; basta con esto. Dile cómo estoy y que
 no la podré ver hasta mañana».
       </p>
-     </div>
-     <div type="group">
+     
+     <milestone unit="subchapter" rend="Roman numeral"/>
       <head>-IV-</head>
       <p>
        El aviso, puntualmente transmitido por
@@ -29239,8 +29200,8 @@ tampoco».
        -Perfectamente -dijo el curita,
 acercando su sillón todo lo más que acercarse podía.
       </p>
-     </div>
-     <div type="group">
+     
+     <milestone unit="subchapter" rend="Roman numeral"/>
       <head>-V-</head>
       <p>
        Para que ningún malicioso interprete
@@ -29733,8 +29694,8 @@ que andan pulmonías.
 amigo donde le solían dar, en aquella crítica hora, el remedio de
 su debilidad de estómago.
       </p>
-     </div>
-     <div type="group">
+     
+     <milestone unit="subchapter" rend="Roman numeral"/>
       <head>-VI-</head>
       <p>
        En la noche de aquel memorable día, y
@@ -30102,8 +30063,8 @@ besugo».
 después, con los lengüetazos que le daba al plato, lo dejaba como
 si lo hubiera lavado.
       </p>
-     </div>
-     <div type="group">
+     
+     <milestone unit="subchapter" rend="Roman numeral"/>
       <head>-VII-</head>
       <p>
        Juan Pablo prestaba atención muy
@@ -30543,11 +30504,10 @@ su sobrino-; tal para cual... Parece que la han cogido con lazo. En
 manos de una persona inteligente, esta mujer podría enderezarse,
 porque no debe de tener mal fondo. Pero yo dudo que tú...».
       </p>
-     </div>
 
      <pb n="224"/>
 
-     <div type="group">
+     <milestone unit="subchapter" rend="Roman numeral"/>
       <head>-VIII-</head>
       <p>
        Doña Lupe era persona de buen gusto y
@@ -30815,13 +30775,12 @@ tú libre».
 Fortunata a las Micaelas.
       </p>
      </div>
-    </div>
 
     <pb n="232"/>
 
     <div type="chapter" n="SPA300116">
      <head>-V- Las Micaelas por fuera</head>
-     <div  type="group">
+     <milestone unit="subchapter" rend="Roman numeral"/>
       <head>-I-</head>
       <p>
        Hay en Madrid tres conventos
@@ -31087,8 +31046,8 @@ cualquiera; pero cuando se cerró otra vez, pareciole al enamorado
 chico cosa diferente de todo lo que contiene el mundo en el
 vastísimo reino de las puertas.
       </p>
-     </div>
-     <div type="group">
+     
+     <milestone unit="subchapter" rend="Roman numeral"/>
       <head>-II-</head>
       <p>
        Echó a andar hacia Madrid por el
@@ -31285,8 +31244,8 @@ cortarle a su criada
        </emph>
        que pensaba tener.
       </p>
-     </div>
-     <div type="group">
+     
+     <milestone unit="subchapter" rend="Roman numeral"/>
       <head>-III-</head>
       <p>
        A la mañana siguiente, Maximiliano
@@ -31435,13 +31394,13 @@ para sí estas doctrinas escandalosas porque era difícil expresarlas
 delante de las madres.
       </p>
      </div>
-    </div>
+    
 
     <pb n="252"/>
 
     <div type="chapter" n="SPA300117">
      <head>-VI- Las Micaelas por dentro</head>
-     <div type="group">
+     <milestone unit="subchapter" rend="Roman numeral"/>
       <head>-I-</head>
       <p>
        Cuando las dos madres aquellas, la
@@ -31681,11 +31640,10 @@ adiós ilusión. Su voz era bronca, más de hombre que de mujer, y su
 lenguaje vulgarísimo, revelando una naturaleza desordenada, con
 alternativas misteriosas de depravación y de afabilidad.
       </p>
-     </div>
 
      <pb n="259"/>
 
-     <div type="group">
+     <milestone unit="subchapter" rend="Roman numeral"/>
       <head>-II-</head>
       <p>
        Después que se reconocieron, callaron
@@ -32260,8 +32218,8 @@ la fiera le decía.
 y verás qué morrazo te doy... ¡Qué facha!, cañamón, pata y
 media...».
       </p>
-     </div>
-     <div type="group">
+     
+     <milestone unit="subchapter" rend="Roman numeral"/>
       <head>-III-</head>
       <p>
        La faz napoleónica, lívida y con la
@@ -32556,8 +32514,8 @@ maternal
        y de pasión no satisfecha, que estuvo tres días sin
 poder apartarlo del pensamiento.
       </p>
-     </div>
-     <div type="group">
+     
+     <milestone unit="subchapter" rend="Roman numeral"/>
       <head>-IV-</head>
       <p>
        Desde el corredor alto se veía parte
@@ -32836,8 +32794,8 @@ sobredorada; pero muy
 en lo hondo, que no paró mientes en la increíble tontería de llamar
 mona a una custodia.
       </p>
-     </div>
-     <div type="group">
+     
+     <milestone unit="subchapter" rend="Roman numeral"/>
       <head>-V-</head>
       <p>
        Y no pudo en muchos días apartar de su
@@ -33042,11 +33000,10 @@ valen estos si no van acompañados del ejercicio al aire libre y de
 la gimnasia, y esto era lo que ella quería aplicar, el mundo, la
 vida y al mismo tiempo principios.
       </p>
-     </div>
 
      <pb n="292"/>
 
-     <div type="group">
+     <milestone unit="subchapter" rend="Roman numeral"/>
       <head>-VI-</head>
       <p>
        Con las 
@@ -33382,8 +33339,8 @@ todo el espinazo, y sentía que las insinuaciones de su compañera
 concordaban con sentimientos que ella tenía muy guardados, como se
 guardan las armas peligrosas.
       </p>
-     </div>
-     <div type="group">
+     
+     <milestone unit="subchapter" rend="Roman numeral"/>
       <head>-VII-</head>
       <p>
        Sorprendidas por una monja en esta
@@ -33604,8 +33561,8 @@ monte. Con que, cuidadito...».
 quitaban el velo, las más próximas a Fortunata notaron que esta se
 sonreía.
       </p>
-     </div>
-     <div type="group">
+     
+     <milestone unit="subchapter" rend="Roman numeral"/>
       <head>-VIII-</head>
       <p>
        Es cosa muy cargante para el
@@ -33932,8 +33889,8 @@ arranque del alma. También le decía esto la forma,
        </emph>
        encerrada en la custodia.
       </p>
-     </div>
-     <div type="group">
+     
+     <milestone unit="subchapter" rend="Roman numeral"/>
       <head>-IX-</head>
       <p>
        Llegada la noche, y recogidas las 
@@ -34456,8 +34413,8 @@ ni a
 grande que sea un absurdo siempre tiene cabida en el
 inconmensurable hueco de la mente humana.
       </p>
-     </div>
-     <div type="group">
+     
+     <milestone unit="subchapter" rend="Roman numeral"/>
       <head>-X-</head>
       <p>
        Por la mañana tempranito, la Superiora
@@ -35239,15 +35196,13 @@ como una escolta de burlesca artillería, haciendo un ruido de mil
 demonios y disparándole bala rasa de groserías e injurias.
       </p>
      </div>
-    </div>
-
     
 
     <pb n="342"/>
 
     <div type="chapter" n="SPA300118">
      <head>-VII- La boda y la luna de miel</head>
-     <div type="group">
+     <milestone unit="subchapter" rend="Roman numeral"/>
       <head>-I-</head>
       <p>
        Por fin se acordó que Fortunata
@@ -35573,8 +35528,8 @@ llamaron a la puerta; corrió a abrir la mona, y Fortunata no supo
 lo que le pasaba cuando vio entrar en la sala a Mauricia la
 Dura.
       </p>
-     </div>
-     <div type="group">
+     
+     <milestone unit="subchapter" rend="Roman numeral"/>
       <head>-II-</head>
       <p>
        El sentimiento que le inspiraba
@@ -36371,11 +36326,10 @@ allí a que su tía despachase a la corredora. Cuando esta se fue no
 quiso Fortunata salir a despedirla, por temor de que dijese algo
 que la pudiera comprometer.
       </p>
-     </div>
 
      <pb n="364"/>
 
-     <div type="group">
+     <milestone unit="subchapter" rend="Roman numeral"/>
       <head>-III-</head>
       <p>
        Maximiliano habló a su futura de las
@@ -36783,8 +36737,8 @@ Maxi y al poco rato se quedaba dormido con la boca abierta,
 haciendo una mueca que lo mismo podía ser de dolor que de
 ironía.
       </p>
-     </div>
-     <div type="group">
+     
+     <milestone unit="subchapter" rend="Roman numeral"/>
       <head>-IV-</head>
       <p>
        Al ver dormido a su esposo, pareciole
@@ -37168,8 +37122,8 @@ penoso tumulto de cerrojos que se descorrían, de puertas que se
 franqueaban, de tabiques transparentes y de hombres que se colaban
 en su casa filtrándose por las paredes.
       </p>
-     </div>
-     <div type="group">
+     
+     <milestone unit="subchapter" rend="Roman numeral"/>
       <head>-V-</head>
       <p>
        A la mañana siguiente, Maxi estaba
@@ -37522,11 +37476,10 @@ quisiera casar conmigo; pues no señor, sale Maxi y... ¡tras!, me
 pone en el disparadero de casarme, y nada, cuando apenas lo pienso,
 bendición al canto... ¿Pero es verdad que estoy casada yo?...».
       </p>
-     </div>
 
      <pb n="393"/>
 
-     <div type="group">
+     <milestone unit="subchapter" rend="Roman numeral"/>
       <head>-VI-</head>
       <p>
        Miraba el hueso del dátil que se
@@ -37898,11 +37851,10 @@ tan atrevida. Por corresponder, iba él a decir
 como el hombre prudente que reserva para los casos graves el uso de
 las armas.
       </p>
-     </div>
 
      <pb n="400"/>
 
-     <div type="group">
+     <milestone unit="subchapter" rend="Roman numeral"/>
       <head>-VII-</head>
       <p>
        Ya de noche pasó Fortunata a su casa.
@@ -38357,8 +38309,8 @@ quieras; pero esto es una gran idea.
        El ilustrado joven se zambulló en un
 mar de meditaciones.
       </p>
-     </div>
-     <div type="group">
+     
+     <milestone unit="subchapter" rend="Roman numeral"/>
       <head>-VIII-</head>
       <p>
        Las visitas a la casa de Cirila
@@ -38720,8 +38672,8 @@ y tú me cubres a mí de fango. Yo te di mi honor limpio, y me lo
 devuelves sucio. Yo te di mi nombre, y haces de él una caricatura.
 El último favor te pido... la verdad, dime la verdad».
       </p>
-     </div>
-     <div type="group">
+     
+     <milestone unit="subchapter" rend="Roman numeral"/>
       <head>-IX-</head>
       <p>
        Fortunata movió la lengua y agitó los
@@ -38978,8 +38930,8 @@ a la botica de Samaniego, y le
 casa del paseo de Santa Engracia, un poquito más arriba de los
 almacenes de la Villa.
       </p>
-     </div>
-     <div type="group">
+     
+     <milestone unit="subchapter" rend="Roman numeral"/>
       <head>-X-</head>
       <p>
        Tomó Maxi un coche para ir a Chamberí
@@ -39256,8 +39208,8 @@ procesión de gente tras sí. El médico de guardia
 la cabeza, que no tenía importancia, le mandó a su casa al cuidado
 de los guardias de Orden Público.
       </p>
-     </div>
-     <div type="group">
+     
+     <milestone unit="subchapter" rend="Roman numeral"/>
       <head>-XI-</head>
       <p>
        Cuando entró el malaventurado chico en
@@ -39658,8 +39610,8 @@ usted.
        Cogió la prudente señora el
 portamonedas que estaba aún bien repleto y se lo guardó.
       </p>
-     </div>
-     <div type="group">
+     
+     <milestone unit="subchapter" rend="Roman numeral"/>
       <head>-XII-</head>
       <p>
        Hay motivos para creer que cuando
@@ -40199,7 +40151,6 @@ físicamente, tampoco le vendría mal... esto sin ofender a
 nadie.
       </p>
      </div>
-    </div>
     <trailer>
      <date>Madrid.-Mayo de 1886.</date>
      FIN DE LA PARTE SEGUNDA
@@ -40215,7 +40166,7 @@ nadie.
 
        <div type="chapter" n="SPA300119">
          <head>-I- Costumbres turcas</head>
-            <div type="group">
+            <milestone unit="subchapter" rend="Roman numeral"/>
             <head>-I-</head>
       <p>
        Juan Pablo Rubín no podía vivir sin
@@ -40446,8 +40397,8 @@ todo
        esto es una comedia y que sólo se trata de saber a
 quién le toca mamar y a quién no».
       </p>
-     </div>
-     <div type="group">
+     
+     <milestone unit="subchapter" rend="Roman numeral"/>
       <head>-II-</head>
       <p>
        Don Evaristo González Feijoo merece
@@ -40773,11 +40724,10 @@ es aquel que sólo pide unos cuantos días más de empleo para poder
 reclinar sobre la almohada de las Clases Pasivas una frente cargada
 de años, de sustos y de servicios.
       </p>
-     </div>
 
      <pb n="19"/>
 
-     <div type="group">
+     <milestone unit="subchapter" rend="Roman numeral"/>
       <head>-III-</head>
       <p>
        De ocho a diez estaba el café
@@ -41350,11 +41300,10 @@ todos los terrones de azúcar que podía, y se marchaba a su casa,
 despidiéndose de cada uno particularmente con apretón de manos a
 espaldarazo.
       </p>
-     </div>
 
      <pb n="29"/>
 
-     <div type="group">
+     <milestone unit="subchapter" rend="Roman numeral"/>
       <head>-IV-</head>
       <p>
        Rubín, después de su fracaso en el
@@ -41687,8 +41636,8 @@ alborotó. El amo intervino...
        Emigración. Desde el día siguiente
 Juan Pablo trasladó sus reales a otro café.
       </p>
-     </div>
-     <div type="group">
+     
+     <milestone unit="subchapter" rend="Roman numeral"/>
       <head>-V-</head>
       <p>
        El primero que hubo de seguirle fue
@@ -41937,8 +41886,8 @@ el café. Aquel sueño plácido, Samaniego se lo trocaba en angustiosa
 pesadilla. No pudo más, y una noche, sin decir nada, levantó el
 vuelo hacia otras regiones.
       </p>
-     </div>
-     <div type="group">
+     
+     <milestone unit="subchapter" rend="Roman numeral"/>
       <head>-VI-</head>
       <p>
        En esta nueva emigración, deseando
@@ -42616,13 +42565,13 @@ alfonsino... a la fuerza. ¡Vaya un compromiso... Re-Dios, qué
 compromiso...!».
       </p>
      </div>
-    </div>
+    
 
     <pb n="58"/>
 
     <div type="chapter" n="SPA300120">
      <head>-II- La restauración vencedora</head>
-     <div type="group">
+     <milestone unit="subchapter" rend="Roman numeral"/>
       <head>-I-</head>
       <p>
        Me ha contado Jacinta que una noche
@@ -42951,8 +42900,8 @@ anarquista replicó en tono muy seguro:
        «Bueno, pues es verdad. Yo te declaro
 que es verdad».
       </p>
-     </div>
-     <div type="group">
+     
+     <milestone unit="subchapter" rend="Roman numeral"/>
       <head>-II-</head>
       <p>
        Quedose Jacinta como una estatua, y al
@@ -43254,8 +43203,8 @@ desgracia ser así, tan simplona... Como que estamos a merced de
 esas... secuestradoras, que de tiempo en tiempo nos prestan a
 nuestros propios maridos para que no alborotemos...
       </p>
-     </div>
-     <div type="group">
+     
+     <milestone unit="subchapter" rend="Roman numeral"/>
       <head>-III-</head>
       <p>
        Esta última queja puso al señorito de
@@ -43752,8 +43701,8 @@ despedidas cara a cara no son buenas para romper.
 mandes, niñita de mi alma, monísima... más salada que el terrón de
 los mares.
       </p>
-     </div>
-     <div type="group">
+     
+     <milestone unit="subchapter" rend="Roman numeral"/>
       <head>-IV-</head>
       <p>
        A la siguiente mañana, Jacinta se
@@ -44423,13 +44372,13 @@ fin, tras laboriosa discusión, prevaleció este criterio, como verá
 el que siga leyendo.
       </p>
      </div>
-    </div>
+    
 
     <pb n="96"/>
 
     <div type="chapter" n="SPA300121">
      <head>-III- La revolución vencida</head>
-     <div type="group">
+     <milestone unit="subchapter" rend="Roman numeral"/>
       <head>-I-</head>
       <p>
        Quien supiera o pudiera apartar el
@@ -44974,8 +44923,8 @@ No dirá Jacinta que...».
        Salió de puntillas, como se sale de la
 casa en que hay un enfermo grave.
       </p>
-     </div>
-     <div type="group">
+     
+     <milestone unit="subchapter" rend="Roman numeral"/>
       <head>-II-</head>
       <p>
        En el resto de aquel aciago día, dicho
@@ -45346,13 +45295,13 @@ Dorotea, que se quedó junto a ella, la oyó cantando, a media voz y
 con las manos cruzadas, las coplas místicas de las Micaelas.
       </p>
      </div>
-    </div>
+    
 
     <pb n="117"/>
     
     <div type="chapter" n="SPA300122">
      <head>-IV- Un curso de filosofía práctica</head>
-     <div type="group">
+     <milestone unit="subchapter" rend="Roman numeral"/>
       <head>-I-</head>
       <p>
        Dos o tres veces fue D. Evaristo al
@@ -45881,8 +45830,8 @@ había.
 poco; tiempo tienes de picar espuelas. Hoy lo recibiría mal. Está
 muy reciente la herida».
       </p>
-     </div>
-     <div type="group">
+     
+     <milestone unit="subchapter" rend="Roman numeral"/>
       <head>-II-</head>
       <p>
        «Pues lo que es hoy sí que no me quedo
@@ -46279,8 +46228,8 @@ vengo por la
        </emph>
        , como dice el payo...
       </p>
-     </div>
-     <div type="group">
+     
+     <milestone unit="subchapter" rend="Roman numeral"/>
       <head>-III-</head>
       <p>
        Como lo que debe suceder sucede, y no
@@ -46522,8 +46471,8 @@ señalándote media paga».
        -¡Pero qué hombre más raro, y qué
 manera de querer! -pensaba Fortunata.
       </p>
-     </div>
-     <div type="group">
+     
+     <milestone unit="subchapter" rend="Roman numeral"/>
       <head>-IV-</head>
       <p>
        Aquel día comieron juntos; expansión
@@ -46843,11 +46792,10 @@ corazón.
 los brazos del sillón, notó ¡ay!, que el cuerpo le pesaba más; pero
 mucho más que antes.
       </p>
-     </div>
 
      <pb n="150"/>
 
-     <div type="group">
+     <milestone unit="subchapter" rend="Roman numeral"/>
       <head>-V-</head>
       <p>
        No pararon aquí las observaciones
@@ -47239,8 +47187,8 @@ le causaban, prodigole aquella noche, hasta que se separaron, los
 cariños y cuidados de una hija amantísima con el mejor de los
 padres.
       </p>
-     </div>
-     <div type="group">
+     
+     <milestone unit="subchapter" rend="Roman numeral"/>
       <head>-VI-</head>
       <p>
        Al siguiente día, Feijoo le dijo al
@@ -47623,8 +47571,8 @@ Francisca?...
        -Bueno; aunque me envenenara.
 Mejor.
       </p>
-     </div>
-     <div type="group">
+     
+     <milestone unit="subchapter" rend="Roman numeral"/>
       <head>-VII-</head>
       <p>
        Al verse otra vez en su casa y sola,
@@ -48108,8 +48056,8 @@ mucho
        , y que la situación
 duraría... a todo tirar, a todo tirar, tres o cuatro meses.
       </p>
-     </div>
-     <div type="group">
+     
+     <milestone unit="subchapter" rend="Roman numeral"/>
       <head>-VIII-</head>
       <p>
        La primera vez que D. Evaristo visitó
@@ -48642,8 +48590,8 @@ estoy de prisa... no puedo detenerme... Hijo, vamos.
        Y abriéndose paso, salió con el chico
 de Rubín.
       </p>
-     </div>
-     <div type="group">
+     
+     <milestone unit="subchapter" rend="Roman numeral"/>
       <head>-IX-</head>
       <p>
        Al cual dijo en la puerta: «¿Hacia
@@ -49185,8 +49133,8 @@ bonita; pero las formas no lo son menos. Entre una sociedad sin
 principios, y una sociedad sin formas, no sé yo con cuál me
 quedaría».
       </p>
-     </div>
-     <div type="group">
+     
+     <milestone unit="subchapter" rend="Roman numeral"/>
       <head>-X-</head>
       <p>
        Fortunata había comprendido. Hacía
@@ -49655,16 +49603,12 @@ el mal en la medida que la Providencia ha concedido a la iniciativa
 humana.
       </p>
      </div>
-    </div>
-
-    
-    
     <pb n="214"/>
     
 
     <div type="chapter" n="SPA300123">
      <head>-V- Otra restauración</head>
-     <div type="group">
+     <milestone unit="subchapter" rend="Roman numeral"/>
       <head>-I-</head>
       <p>
        Las personas muy rutinarias y
@@ -49924,11 +49868,10 @@ fin, si se pone muy pesadito, no tendré más remedio que ir. Y no es
 flojo el paseo que tengo que dar, de aquí a Puerta de
 Moros...».
       </p>
-     </div>
 
      <pb n="223"/>
 
-     <div type="group">
+     <milestone unit="subchapter" rend="Roman numeral"/>
       <head>-II-</head>
       <p>
        Un lunes por la tarde, doña Lupe entró
@@ -50430,11 +50373,10 @@ los expertos vaticinan sin poder decir en qué se fundan, y que
 llegan a ser efectivos sin que se sepa cómo, pues aunque se les
 sienta venir, no se ve el disimulado mecanismo que los trae.
       </p>
-     </div>
 
      <pb n="234"/>
 
-     <div type="group">
+     <milestone unit="subchapter" rend="Roman numeral"/>
       <head>-III-</head>
       <p>
        En los primeros días que sucedieron a
@@ -50731,8 +50673,8 @@ visiones y de la botella de coñac; pero lo hizo a
        </emph>
        , para acabar más pronto.
       </p>
-     </div>
-     <div type="group">
+     
+     <milestone unit="subchapter" rend="Roman numeral"/>
       <head>-IV-</head>
       <p>
        Aquella noche se fueron a Variedades,
@@ -50974,13 +50916,12 @@ ella se puso algo más apañadita, de modo que resultase siempre la
 conveniente distancia.
       </p>
      </div>
-   </div>
-
+   
     <pb n="248"/>
 
     <div  type="chapter" n="SPA300124">
      <head>-VI- Naturalismo espiritual</head>
-      <div type="group">
+      <milestone unit="subchapter" rend="Roman numeral"/>
        <head>-I-</head>
        <p>
        Al entrar en la calle de Mira el Río,
@@ -51555,8 +51496,8 @@ debía Mauricia.
 ahora, créelo, me alegraría de que me debiera lo menos doscientos,
 para perdonárselos también».
       </p>
-     </div>
-     <div type="group">
+     
+     <milestone unit="subchapter" rend="Roman numeral"/>
       <head>-II-</head>
       <p>
        Dos horas antes de la señalada para
@@ -52017,8 +51958,8 @@ En un momento que cogió a Fortunata sola, le dijo temblorosa:
 «Arrepiéntete de todo, chica, pero de todo... Somos muy malas... tú
 no sabes bien lo malas que somos».
       </p>
-     </div>
-     <div type="group">
+     
+     <milestone unit="subchapter" rend="Roman numeral"/>
       <head>-III-</head>
       <p>
        Se acercaba la hora, y en el patio
@@ -52512,8 +52453,8 @@ tres
        veces aludir a esto; pero la prudencia y un
 sentimiento de delicadeza retuvieron su charlatana lengua.
       </p>
-     </div>
-     <div type="group">
+     
+     <milestone unit="subchapter" rend="Roman numeral"/>
       <head>-IV-</head>
       <p>
        En el portal de su casa se separaron;
@@ -53070,8 +53011,8 @@ le dé un ochavo, siempre da las gracias con la misma boquita de
 merengue. Vaya... Mentira me parece que he de verme en mis cuatro
 paredes...».
       </p>
-     </div>
-     <div type="group">
+     
+     <milestone unit="subchapter" rend="Roman numeral"/>
       <head>-V-</head>
       <p>
        Cuando Fortunata, después de un ratito
@@ -53538,8 +53479,8 @@ lance... me imita, remedando mi movimiento, cuando la cogí por los
 brazos... ¿Qué dirán, Dios mío, qué dirán? Me parece oírlas... Que
 soy un trasto y que me debían mandar a presidio».
       </p>
-     </div>
-     <div type="group">
+     
+     <milestone unit="subchapter" rend="Roman numeral"/>
       <head>-VI-</head>
       <p>
        Cuando subía la escalera de su casa,
@@ -53849,8 +53790,8 @@ la boca.
        Pero sin oír la respuesta, se volvió a
 dormir.
       </p>
-     </div>
-     <div type="group">
+     
+     <milestone unit="subchapter" rend="Roman numeral"/>
       <head>-VII-</head>
       <p>
        Al día siguiente Fortunata se sentía
@@ -54205,11 +54146,10 @@ que el amigo Feijoo lo entendiese, porque ya se sabe que no se daba
 buena mano para encontrar las palabras que en el lenguaje corriente
 expresan las cosas espirituales y enrevesadas.
       </p>
-     </div>
 
      <pb n="324"/>
 
-     <div type="group">
+     <milestone unit="subchapter" rend="Roman numeral"/>
       <head>-VIII-</head>
       <p>
        Lo peor del caso fue que aún no había
@@ -54524,8 +54464,8 @@ desde la noche antes aquel tema de recoger un niño huérfano, y
 encariñada con ella, le costaba mucho trabajo desecharla. ¡Manía de
 imitación!
       </p>
-     </div>
-     <div type="group">
+     
+     <milestone unit="subchapter" rend="Roman numeral"/>
       <head>-IX-</head>
       <p>
        Doña Lupe la invitó, dos días después
@@ -54830,8 +54770,8 @@ desordenada, en la cual había más baúles que sillas, y dos cómodas.
 Guillermina cerró la puerta, e invitando a Fortunata a ocupar una
 silla, sentose ella en un cofre.
       </p>
-     </div>
-     <div type="group">
+     
+     <milestone unit="subchapter" rend="Roman numeral"/>
       <head>-X-</head>
       <p>
        Fortunata no sabía qué decir, ni qué
@@ -55293,8 +55233,8 @@ acciones y sentimientos tenía aquella infeliz en su espíritu, como
 la tenemos todos, representación que se aclara o se oscurece, según
 los casos, y que en aquel resplandecía como un foco de luz.
       </p>
-     </div>
-     <div type="group">
+     
+     <milestone unit="subchapter" rend="Roman numeral"/>
       <head>-XI-</head>
       <p>
        Abriose la puerta y entró Severiana
@@ -55565,15 +55505,14 @@ la Verba. Sr. Pepe, ¿me hace usted esos gatillos o no?... ¡peinetas
 se debían volver!».
       </p>
      </div>
-    </div>
-
+    
     
     
     <pb n="356"/>
     
     <div type="chapter" n="SPA300125">
      <head>-VII- La idea... la pícara idea</head>
-     <div type="group">
+     <milestone unit="subchapter" rend="Roman numeral"/>
       <head>-I-</head>
       <p>
        Guillermina vivía, como antes se ha
@@ -56064,11 +56003,10 @@ Tarde o temprano, Manolo me habría dado esos cuartos. ¡Ah!, yo le
 conozco bien. ¡Si es un angelote, un bendito, un alma de
 Dios...!
       </p>
-     </div>
 
      <pb n="364"/>
 
-     <div type="group">
+     <milestone unit="subchapter" rend="Roman numeral"/>
       <head>-II-</head>
       <p>
        No les duró mucho el regocijo, porque
@@ -56526,8 +56464,8 @@ cristales de un mirador, y luego una voz que llamaba a Guillermina.
 Asomose esta. Fortunata oyó claramente la voz de doña Bárbara
 preguntando: «¿Está ahí Jacinta?».
       </p>
-     </div>
-     <div type="group">
+     
+     <milestone unit="subchapter" rend="Roman numeral"/>
       <head>-III-</head>
       <p>
        La santa vaciló antes de dar
@@ -56919,11 +56857,10 @@ Cruz que había perdido el conocimiento, y Moreno, poniendo una cara
 entre burlesca y consternada, se dejó decir: «Estas cosas le pasan
 a mi querida tía por meterse a redentora».
       </p>
-     </div>
 
      <pb n="381"/>
 
-     <div type="group">
+     <milestone unit="subchapter" rend="Roman numeral"/>
       <head>-IV-</head>
       <p>
        Bajó Fortunata los peldaños riendo...
@@ -57168,11 +57105,10 @@ doña Lupe ensordece la casa riñendo a Papitos porque, al aviar las
 lámparas, ha vertido casi todo el mineral... y gracias que es de
 día, que si es de noche y hay luz, incendio seguro.
       </p>
-     </div>
 
      <pb n="389"/>
 
-     <div type="group">
+     <milestone unit="subchapter" rend="Roman numeral"/>
       <head>-V-</head>
       <p>
        Lo que había soñado se le quedó a la
@@ -57851,7 +57787,6 @@ salada.
        -Hasta mañana.
       </p>
      </div>
-    </div>
 
     <trailer>
      <date>Madrid.Diciembre de 1886.</date>
@@ -57868,7 +57803,7 @@ salada.
     <div type="chapter" n="SPA300126">
      <head>-I- En la calle del Ave-María</head>
 
-     <div type="group">
+     <milestone unit="subchapter" rend="Roman numeral"/>
       <head>-I-</head>
       <p>
        Segismundo Ballester (el licenciado en
@@ -58325,8 +58260,8 @@ que ayer tarde trinqué la Biblia y leí el pasaje aquel de...».
 los ojos, cayó al instante en profundo sueño, cual si se hubiera
 bebido todo el láudano de la farmacia.
       </p>
-     </div>
-     <div type="group">
+     
+     <milestone unit="subchapter" rend="Roman numeral"/>
       <head>-II-</head>
       <p>
        Fortunata no se acostó en la cama,
@@ -58767,8 +58702,8 @@ el suelo, entró Rubín en la botica diciendo a su regente: «Buenos
 días, amigo Ballester. No le había visto. Iba a tomar un poco el
 aire. Y usted, ¿qué tal?».
       </p>
-     </div>
-     <div type="group">
+     
+     <milestone unit="subchapter" rend="Roman numeral"/>
       <head>-III-</head>
       <p>
        «Yo, bueno... conque a tomar el
@@ -59108,8 +59043,8 @@ Casta que vengas de día, porque esta calamidad de Rubín tiene la
 cabeza como un cesto, y me temo que si se queda solo envenene a
 toda la parroquia».
       </p>
-     </div>
-     <div type="group">
+     
+     <milestone unit="subchapter" rend="Roman numeral"/>
       <head>-IV-</head>
       <p>
        Aquella noche, después de comer,
@@ -59514,8 +59449,8 @@ tomaron otra de coco.
 Lupe y doña Casta, Aurora se secreteó con Fortunata: «Se han ido
 todos esta tarde... El primo Manolo va también con ellos».
       </p>
-     </div>
-     <div type="group">
+     
+     <milestone unit="subchapter" rend="Roman numeral"/>
       <head>-V-</head>
       <p>
        Aquí cuadra bien decir que Fortunata y
@@ -59939,8 +59874,8 @@ botica, se puso muy tieso, y estirándose todo lo posible sobre la
 base de sus zapatillas, les siguió con la vista hasta que
 desaparecieron en lo alto de la calle.
       </p>
-     </div>
-     <div type="group">
+     
+     <milestone unit="subchapter" rend="Roman numeral"/>
       <head>-VI-</head>
       <p>
        Iban pasando los cansados días del
@@ -60208,8 +60143,8 @@ el cabello, como quien estimula la generación de una idea, y dijo:
 «Pues si efectivamente no le ha dado nada, hay que reconocer que
 ese hombre es el mayor de los indecentes».
       </p>
-     </div>
-     <div type="group">
+     
+     <milestone unit="subchapter" rend="Roman numeral"/>
       <head>-VII-</head>
       <p>
        Apretaba el calor, y las escenas que
@@ -60654,11 +60589,10 @@ ojos. Poco después, cuando salió un instante, encontró a doña Lupe
 lloriqueando. «Está perdido -le dijo la señora de Jáuregui-,
 enteramente perdido... Ya esto no tiene soldadura».
       </p>
-     </div>
 
      <pb n="66"/>
 
-     <div type="group">
+     <milestone unit="subchapter" rend="Roman numeral"/>
       <head>-VIII-</head>
       <p>
        Aquella tarde pasaron las dos pobres
@@ -60942,13 +60876,10 @@ que les atrapo el
        -Me parece que no -volvió a decir
 Fortunata, pensándolo cada vez más.
       </p>
-     </div>
-
-     
      
      <pb n="73"/>
 
-     <div type="group">
+     <milestone unit="subchapter" rend="Roman numeral"/>
       <head>-IX-</head>
       <p>
        La noticia del regreso de los de Santa
@@ -61286,8 +61217,7 @@ se la tiene que comer... -dijo guardando la bola-. Como me llamo
 Segismundo, se la tiene que tragar, y entonces diré como mi tocayo:
 '¡Vive Dios que pudo ser!'».
       </p>
-     </div>
-     <div type="group">
+     <milestone unit="subchapter" rend="Roman numeral"/>
       <head>-X-</head>
       <p>
        Aquella noche, cuando Maxi subió a
@@ -61770,8 +61700,8 @@ puedo sufrir.
 le contemplaban mientras tomó el chocolate, admiradas de que lo
 tomase con ganas. Las ganas teníalas la bestia, él no.
       </p>
-     </div>
-     <div type="group">
+     
+     <milestone unit="subchapter" rend="Roman numeral"/>
       <head>-XI-</head>
       <p>
        A eso de las diez salió Fortunata para
@@ -62149,8 +62079,8 @@ contrastes, era la señora del comadrón una mujer chistosísima, que
 contaba las cosas con mucha sal. En cambio, D. Francisco de Quevedo
 no tenía más chiste que el que podría tener un caimán.
       </p>
-     </div>
-     <div type="group">
+     
+     <milestone unit="subchapter" rend="Roman numeral"/>
       <head>-XII-</head>
       <p>
        Aurora y Fortunata, después de cumplir
@@ -62400,13 +62330,12 @@ confundiera y abrumara. Ya Dios las había hecho a todas iguales...
 para poderlas perdonar a todas.
       </p>
      </div>
-    </div>
-
+    
     <pb n="104"/>
 
     <div type="chapter" n="SPA300127">
      <head>-II- Insomnio</head>
-     <div type="group">
+     <milestone unit="subchapter" rend="Roman numeral"/>
       <head>-I-</head>
       <p>
        A las doce de un hermoso día de
@@ -62834,8 +62763,8 @@ gana que uno tiene...!
        -Pero la tengo yo, canastos -dijo el
 médico.
       </p>
-     </div>
-     <div type="group">
+     
+     <milestone unit="subchapter" rend="Roman numeral"/>
       <head>-II-</head>
       <p>
        Por la tarde pidió Moreno su coche y
@@ -63329,8 +63258,8 @@ pero tonto de remate... Ya no sé pensar. No sé adónde diablos se me
 ha ido la razón... Esta mujer me ha embrujado... Nada, enteramente
 imbécil».
       </p>
-     </div>
-     <div type="group">
+     
+     <milestone unit="subchapter" rend="Roman numeral"/>
       <head>-III-</head>
       <p>
        En la soledad de su alcoba, encontrose
@@ -63639,8 +63568,8 @@ misas lo menos... y a tratar de tú a la
 eso!... Pero en fin, saque o no saque, es una felicidad ser
 así...».
       </p>
-     </div>
-     <div type="group">
+     
+     <milestone unit="subchapter" rend="Roman numeral"/>
       <head>-IV-</head>
       <p>
        Guillermina dio dos golpecitos en la
@@ -64134,8 +64063,8 @@ bendecirán.
 sonriendo de un modo que le heló la sangre a su generosa tía-. Sí,
 no me parece mal. Y lo estrenaríamos tú y yo...
       </p>
-     </div>
-     <div type="group">
+     
+     <milestone unit="subchapter" rend="Roman numeral"/>
       <head>-V-</head>
       <p>
        Despidiose Guillermina a la puerta de
@@ -64640,8 +64569,8 @@ te pego con tu propio bastón.
        Y él estaba tan abstraído que ni
 siquiera la sintió salir.
       </p>
-     </div>
-     <div type="group">
+     
+     <milestone unit="subchapter" rend="Roman numeral"/>
       <head>-VI-</head>
       <p>
        Comió con regular apetito en compañía
@@ -64972,15 +64901,12 @@ puerta y aplicó su oído. No sentía ningún rumor. No había luz.
 Y se alejó de puntillas.
       </p>
      </div>
-    </div>
-
-    
 
     <pb n="159"/>
 
     <div type="chapter" n="SPA300128">
      <head>-III- Disolución</head>
-     <div type="group">
+     <milestone unit="subchapter" rend="Roman numeral"/>
         <head>-I-</head>
       <p>
        A mediados de Noviembre, Fortunata
@@ -65369,8 +65295,8 @@ risa, lo mismo que el barreño de agua. Papitos, que entró en el
 comedor con los cuchillos ya limpios, fue el choque que la hizo
 salir de su abstracción.
       </p>
-     </div>
-     <div type="group">
+     
+     <milestone unit="subchapter" rend="Roman numeral"/>
       <head>-II-</head>
       <p>
        El día de San Eugenio propuso doña
@@ -65735,8 +65661,8 @@ quedó trabajando un momento más, y decía para sí: «Estas tontas son
 terribles, cuando les entra la rabia. Pero ya se aplacará. Pues no
 faltaría más... Estaría bueno...».
       </p>
-     </div>
-     <div  type="group">
+     
+     <milestone unit="subchapter" rend="Roman numeral"/>
       <head>-III-</head>
       <p>
        Una tarde, doña Lupe vio entrar a su
@@ -66108,8 +66034,8 @@ ella (pues estaba sentado en una banqueta junto al sofá) en actitud
 semejante a la que toman los amantes de teatro cuando van a decirse
 algo muy bonito en décimas o quintillas.
       </p>
-     </div>
-     <div type="group">
+     
+     <milestone unit="subchapter" rend="Roman numeral"/>
       <head>-IV-</head>
       
 
@@ -66518,8 +66444,8 @@ no pegó los ojos en toda la noche.
 de sí, y gemía, al moverse, como si tuviera molido a palos su ruin
 y desdichado cuerpo.
       </p>
-     </div>
-     <div type="group">
+     
+     <milestone unit="subchapter" rend="Roman numeral"/>
       <head>-V-</head>
       <p>
        Creo que fue el día de la Concepción
@@ -66807,8 +66733,8 @@ sintió verla salir de su casa. Los treinta mil reales quedaron bien
 agasajaditos en un rincón de la cómoda. Eran para doña Lupe como un
 hijo adoptivo a quien quería como a los hijos propios.
       </p>
-     </div>
-     <div type="group">
+     
+     <milestone unit="subchapter" rend="Roman numeral"/>
       <head>-VI-</head>
       <p>
        La evasión (pues así debe llamársela)
@@ -67115,8 +67041,8 @@ mejores consejos daba. Verdad que ella hizo tanto caso de estos
 consejos como de las coplas de Calaínos; pero no dejaba de conocer
 que eran excelentes, y que debió al pie de la letra seguirlos.
       </p>
-     </div>
-     <div type="group">
+     
+     <milestone unit="subchapter" rend="Roman numeral"/>
       <head>-VII-</head>
       <p>
        De aquel anciano chocho y que más bien
@@ -67586,13 +67512,13 @@ del diablo! Si consigo yo ponerte bueno, mi querida tía,
 remedio que hincar la jeta y darme lo que necesito».
       </p>
      </div>
-    </div>
+    
 
     <pb n="221"/>
 
     <div type="chapter" n="SPA300129">
      <head>-IV- Vida nueva</head>
-     <div type="group">
+     <milestone unit="subchapter" rend="Roman numeral"/>
       <head>-I-</head>
       <p>
        El 4 del mes de Enero, Fortunata
@@ -67969,11 +67895,10 @@ tienen que callar la boca».
 de ella tomaba fuerza para soportar aquella vida solitaria y
 tristísima.
       </p>
-     </div>
 
      <pb n="229"/>
 
-     <div type="group">
+     <milestone unit="subchapter" rend="Roman numeral"/>
       <head>-II-</head>
       <p>
        Una mañana, al levantarse, vio que
@@ -68337,13 +68262,12 @@ tenía para no rebajarse. «A fina me ganará; pero a orgullosa
 no».
       </p>
      </div>
-    </div>
-
+    
     <pb n="239"/>
 
     <div type="chapter" n="SPA300130">
      <head>-V- La razón de la sinrazón</head>
-     <div type="group">
+     <milestone unit="subchapter" rend="Roman numeral"/>
       <head>-I-</head>
       <p>
        La mejoría de Maximiliano continuaba,
@@ -68676,8 +68600,8 @@ tener siempre tres o cuatro pares en buen uso. ¿Y por qué no las
 lleva ella? Porque no sale. Luego está enferma... Enferma, ¿de
 qué?».
       </p>
-     </div>
-     <div type="group">
+     
+     <milestone unit="subchapter" rend="Roman numeral"/>
       <head>-II-</head>
       <p>
        
@@ -69084,8 +69008,8 @@ todas las gracias que allí se decían, hasta las más zafias y
 groseras, aunque sin participar mucho de la estrepitosa alegría de
 aquella gente.
       </p>
-     </div>
-     <div type="group">
+     
+     <milestone unit="subchapter" rend="Roman numeral"/>
       <head>-III-</head>
       <p>
        Comió Rubín aquella noche
@@ -69432,8 +69356,8 @@ mente propósitos de venganza con proyectos de suicidio, pues estaba
 el infeliz como el náufrago que patalea en medio de las olas, y ya
 no podía más, ya no podía más. Se ahogaba.
       </p>
-     </div>
-     <div type="group">
+     
+     <milestone unit="subchapter" rend="Roman numeral"/>
       <head>-IV-</head>
       <p>
        En la noche de aquel aciago día, que
@@ -69772,8 +69696,8 @@ enséñemela usted... y el pollo... enséñemelo también».
        empujándole hacia la puerta-.
 Mañana los verá... Vaya ahora a decirle esto a su tía.
       </p>
-     </div>
-     <div type="group">
+     
+     <milestone unit="subchapter" rend="Roman numeral"/>
       <head>-V-</head>
       <p>
        El interés con que doña Lupe esperaba
@@ -70008,8 +69932,8 @@ cosa es decir uno de buena fe que se mata, y otra cosa es
 hacerlo... Pero en fin, yo sigo en mis trece, y al fin, me lo
 tendré que pegar, no habrá más remedio».
       </p>
-     </div>
-     <div type="group">
+     
+     <milestone unit="subchapter" rend="Roman numeral"/>
       <head>-VI-</head>
       <p>
        Estuvo con un humor de mil diablos
@@ -70341,13 +70265,12 @@ sabes que tengo mucho carácter... de cogerte y mandarte para acá
 por tránsitos de la Guardia civil».
       </p>
      </div>
-    </div>
-
+    
     <pb n="291"/>
 
     <div type="chapter" n="SPA300131">
      <head>-VI- Final</head>
-     <div type="group">
+     <milestone unit="subchapter" rend="Roman numeral"/>
       <head>-I-</head>
       <p>
        Fortunata sintió ruido en la puerta y
@@ -70686,8 +70609,8 @@ pero la cara de Ido del Sagrario no era nueva para él, y creía
 haberla visto en alguna parte, aunque no recordaba dónde ni
 cuándo.
       </p>
-     </div>
-     <div type="group">
+     
+     <milestone unit="subchapter" rend="Roman numeral"/>
       <head>-II-</head>
       <p>
        La primera vez que Ballester vio a
@@ -70948,11 +70871,10 @@ siempre que sonaba la campanilla creía que era ella, y se preparaba
 a recibirla, arreglando la cama y poniéndose con la mayor decencia
 posible, trémula de emoción y esperanza.
       </p>
-     </div>
 
      <pb n="305"/>
 
-     <div type="group">
+     <milestone unit="subchapter" rend="Roman numeral"/>
       <head>-III-</head>
       <p>
        El bautizo se celebró con modestia
@@ -71341,8 +71263,8 @@ ceño.
 perece nunca. La maldad engendra y los buenos se aniquilan en la
 esterilidad».
       </p>
-     </div>
-     <div type="group">
+     
+     <milestone unit="subchapter" rend="Roman numeral"/>
       <head>-IV-</head>
       <p>
        «Tío, por Dios, tío, despierte usted»
@@ -71856,8 +71778,8 @@ sus razones tendrá, naturalmente... ¡Vaya con la señora esta qué
 genio gasta!, ¡y cómo me trata! ¿No sabe quién soy? Pues soy
 Josef... el Idumeo... profesor en partos... intelectuales».
       </p>
-     </div>
-     <div type="group">
+     
+     <milestone unit="subchapter" rend="Roman numeral"/>
       <head>-V-</head>
       <p>
        «Cállese usted, so 
@@ -72176,12 +72098,11 @@ tabique, tuvo al fin que levantarse en busca de agua. Al volverse a
 acostar sintió bastante frío, y con estas alternativas de frío y
 calor estuvo hasta la mañana.
       </p>
-     </div>
-
+     
      
      
      <pb n="331"/>
-     <div type="group">
+     <milestone unit="subchapter" rend="Roman numeral"/>
       <head>-VI-</head>
       <p>
        Ballester fue temprano, y a ella le
@@ -72676,8 +72597,8 @@ pareceres respecto a lo que se debía hacer con la agresora. Subió
 más gente, y el obrador, con tanto vocear y las pisadas de los que
 entraban y salían, parecía un infierno.
       </p>
-     </div>
-     <div type="group">
+     
+     <milestone unit="subchapter" rend="Roman numeral"/>
       <head>-VII-</head>
       <p>
        La primera que llegó a la casa de la
@@ -73180,8 +73101,8 @@ sirve usted para madre... ¡Ángel de Dios!, hace dos horas que está
 rabiando... Si usted no se enmienda, tendremos que mirar por
 él.
       </p>
-     </div>
-     <div type="group">
+     
+     <milestone unit="subchapter" rend="Roman numeral"/>
       <head>-VIII-</head>
       <p>
        Abrió y entraron todos
@@ -73613,9 +73534,9 @@ pero...».
        -No las tiene usted todas consigo...
 Ni yo tampoco.
       </p>
-     </div>
+     
      <pb n="360"/>
-     <div type="group">
+     <milestone unit="subchapter" rend="Roman numeral"/>
       <head>-IX-</head>
       <p>
        Izquierdo entró con una botella de
@@ -74066,8 +73987,8 @@ entraba Segismundo,
        asombrándose mucho de ver al filósofo otra vez
 allí.
       </p>
-     </div>
-     <div type="group">
+     
+     <milestone unit="subchapter" rend="Roman numeral"/>
       <head>-X-</head>
       <p>
        «¡Demonio de chico! -dijo a Izquierdo
@@ -74632,8 +74553,8 @@ una buena cuna...
       <p>
        La dama se reía; todas se reían.
       </p>
-     </div>
-     <div type="group">
+     
+     <milestone unit="subchapter" rend="Roman numeral"/>
       <head>-XI-</head>
       <p>
        El dictamen de Quevedo no fue
@@ -75164,8 +75085,8 @@ cuidarse, y ya hablaremos. El
        señor de Ballester queda
 encargado de la ejecución del presente decreto.
       </p>
-     </div>
-     <div type="group">
+     
+     <milestone unit="subchapter" rend="Roman numeral"/>
       <head>-XII-</head>
       <p>
        Por la tarde llegó doña Lupe muy
@@ -75609,8 +75530,8 @@ amiguito y nada más... Y mi niño es de quien es, y no hay otro en
        , ni le habrá, ¿verdad?... ¿verdad,
 gloria, cielo, alegría del mundo?».
       </p>
-     </div>
-     <div type="group">
+     
+     <milestone unit="subchapter" rend="Roman numeral"/>
       <head>-XIII-</head>
       <p>
        Todo esto era muy bonito y muy tierno;
@@ -76055,11 +75976,10 @@ y desplegando los labios, apenas dijo: «
        </emph>
        ...».
       </p>
-     </div>
 
      <pb n="409"/>
 
-     <div type="group">
+     <milestone unit="subchapter" rend="Roman numeral"/>
       <head>-XIV-</head>
       <p>
        «¡Caracoles!, esta mujer se va... ¡Y
@@ -76542,11 +76462,10 @@ rezar en voz alta. Segunda empezó a escandalizar, y en aquel
 momento llegaba Segismundo, quien sabedor en la escalera de lo que
 ocurría, entró en la casa y en la alcoba más muerto que vivo.
       </p>
-     </div>
 
      <pb n="419"/>
 
-     <div type="group">
+     <milestone unit="subchapter" rend="Roman numeral"/>
       <head>-XV-</head>
       <p>
        Mientras estuvo allí el Padre Nones,
@@ -76863,8 +76782,8 @@ tuviera, vamos, aunque no la tuviera... ¡Ah!, el mundo entonces
 sería como debía ser, y no pasarían las muchas cosas malas que
 pasan...».
       </p>
-     </div>
-     <div type="group">
+     
+     <milestone unit="subchapter" rend="Roman numeral"/>
       <head>-XVI-</head>
       <p>
        En el entierro de la señora de Rubín
@@ -77395,7 +77314,6 @@ pensamiento. Resido en las estrellas. Pongan al llamado Maximiliano
 Rubín en un palacio o en un muladar... lo mismo da».
       </p>
      </div>
-    </div>
 
    <trailer>
     <date>Madrid.-Junio de 1887.</date>
