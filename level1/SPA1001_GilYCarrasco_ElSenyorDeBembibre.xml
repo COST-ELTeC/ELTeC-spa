@@ -74,14 +74,14 @@
 	</teiHeader>
 	<text>
 		<front>
-			<div type="titlePage">
+			<div type="titlepage">
 				<p>El señor de Bembibre,</p>
 				<p>Novela original</p>
 				<p>por D. Enrique Gil y Carrasco</p>
 				<p>Madrid; 1844.</p>
 				<p>Establecimiento tipográfico, de D. Francisco de P. Mellado</p>
 			</div>
-			<div type="liminar"> 
+			<div type="liminal"> 
 				<p>Nota preliminar: Edición digital a partir de la de Madrid, Establecimiento tipográfico de Francisco de Paula y Mellado, 1844 y cotejada con la edición crítica de Enrique Rubio Cremades, Madrid, Cátedra, 1986.</p>
 			</div>
 		</front>
