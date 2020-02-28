@@ -70,7 +70,7 @@
 	</teiHeader>
 	<text>
 		<front>
-			<div type="titlePage">
+			<div type="titlepage">
 				<p>Sab</p>
 				<p>Novela original</p>
 				<p>por</p>
@@ -113,7 +113,7 @@
 		</front>
 		<body>
 			<pb n="7"/>
-			<div type="part">
+			<div type="group">
     				<head>Primera parte</head>
 				<div type="chapter" n="SPA1021001">
 					<head>Capítulo I</head>
@@ -520,8 +520,8 @@ caer sobre un ribazo.
 
 <pb n="27"/>
 
-<div>
-<head type="chapter" n="SPA1021002">Capítulo II</head>
+<div type="chapter" n="SPA1021002">
+<head>Capítulo II</head>
 
 <quote>
 <l>Diré que su frente brilla</l>
@@ -782,8 +782,8 @@ precedieron a la época en que comenzamos a referirla.</p>
 
 <pb n="39"/>
 
-<div>
-<head type="chapter" n="SPA1021003">Capítulo III</head>
+<div type="chapter" n="SPA1021003">
+<head>Capítulo III</head>
 
 <quote>
 	<l>Mujer quiero con caudal.</l>
@@ -1096,8 +1096,8 @@ conocido!
 </div>
 <pb n="55"/>
 
-<div>
-<head type="chapter" n="SPA1021004">Capítulo IV</head>
+<div type="chapter" n="SPA1021004">
+<head>Capítulo IV</head>
 
 <quote>
 <l>No hay mal para el amor correspondido,</l>
@@ -1370,8 +1370,8 @@ de Enrique no era una de ellas.</p>
 
 <pb n="69"/>
 
-<div>
-<head type="chapter" n="SPA1021005">Capítulo V</head>
+<div type="chapter" n="SPA1021005">
+<head>Capítulo V</head>
 
 <quote>
 <l>... La tormenta umbría</l>
@@ -3395,8 +3395,8 @@ a paso largo, sirviendo de guía a los viajeros.</p>
 
 <pb n="173"/>
 
-<div>
-<head type="chapter" n="SPA1021011">Capítulo XI</head>
+<div type="chapter" n="SPA1021011">
+<head>Capítulo XI</head>
 
 <quote>
 <l>¿Cuál es vuestro designio?</l>
@@ -3805,7 +3805,7 @@ que el reloj sonaba distintamente las doce.</p></div>
 
 <pb n="5"/>
 
-<div type="part">
+<div type="group">
 	<head>Segunda parte</head>
 
 <div type="chapter" n="SPA1021012">
@@ -5841,13 +5841,15 @@ los vemos cada día en el mundo. ¡Placer y dolor! Pero
 el placer es un desterrado del cielo, que no se detiene en
 ninguna parte. El dolor es un hijo del infierno, que no abandona
 su presa sino cuando la ha despedazado.</p>
-</div>
+
+<trailer>FIN</trailer>
+
 </div>
 
-<pb n="112"/><trailer>FIN</trailer></body>
+<pb n="112"/>
 
-<back>
-<div>
+
+<div type="chapter" n="SPA1021017">
 <head>Conclusión</head>
 <quote xml:lang="ITA">
 	<l>Siá ciasscun l'interno affanno,</l>
@@ -6634,6 +6636,7 @@ podido olvidar la hija de los trópicos, al esclavo
 que descansa en una humilde sepultura bajo aquel hermoso
 cielo?</p>
 </div>
-</back>
+</div>
+</body>
 </text>
 </TEI>
