@@ -106,7 +106,7 @@
 			<p>Habían discutido sin alterarse sobre los precios de los cereales en aquel año; graduado la exportación de quesos que tuviera Friburgo; y aun entraban ya en la enumeración de las arbitrariedades y rapiñas del gobernador austriaco, a quien cordialmente detestaban a pesar de sufrir pacientemente su yugo, cuando se vieron de pronto interrumpidas sus importantes conversaciones por la bulliciosa tropa que invadió sus dominios y desterró de ellos para siempre toda esperanza de calma. En balde los más ancianos, que son por lo común los más tenaces, intentaron repetidas veces reanudar el roto hilo de sus agradables pláticas; imposible era entenderse en medio de la algazara de la joven cuadrilla que intentaba continuar en la sala el baile comenzado en el campo, y para acallar a unos y disipar el enojo de otros, Juan Bautista creyó lo más prudente anunciar en alta voz que iban a dar las nueve, y que le parecía conveniente pasar a la otra sala donde la refacción los esperaba.</p>
 			<p>Nadie oyó con disgusto tan halagüeñain vitación y en un instante se vieron sitiadas por todos lados dos largas mesas, colocadas paralelamente en medio del cuadrilongo que formaba el nuevo recinto, las que, cubiertas por blancos manteles, ostentaban <pb n="5"/> a porfía los más ricos quesos del país y las más exquisitas mantecas, alternando con promontorios de sazonadas y diversas frutas, y flanqueadas por anchas ánforas llenas de vino, y por cestillos de mimbres atestados de tortas de cebada amasadas con manteca, y de blancos panecillos de trigo.</p>
 			<p>Durante algunos minutos preocupó tanto a los convidados de Keller la presencia de aquellos apetitosos objetos que no se limitaba a gozar con el solo sentido de la vista, que reinó gran silencio en toda la compañía y pudo oírse el ruido del viento que arreciaba por instantes, probando que el inconstante cielo de la Suiza había hecho suceder la tempestad a la deliciosa calma con que comenzó la noche.</p>
-			<p>Sin embargo, la gente desvelada no parecía inquietarse por aquel cambio repentino a que están asaz habituados los moradores del país, y como la estación alejaba los temores de una <foreign xml:lang="fra">avalanche</foreign> <note><p>Creemos que nuestros ilustrados lectores no ignorarán que las <foreign xml:lang="fra">avalanches</foreign>, fenómeno el más terrible y extraordinario de los que presenta la naturaleza en los Alpes, consisten en la precipitación de enormes masas de nieve o de hielo que con un ruido semejante al trueno, se desprenden y ruedan desde las  montañas a los valles, arrastrando cuanto se opone a su paso, y causando a veces grandísimos daños. En nuestros Pirineos, donde también se experimentan, aunque con menos violencia y estragos, se llaman <foreign xml:lang="eng">valudes</foreign>.</p></note>, ni los silbidos del viento, ni los sordos y dilatados truenos que devolvían las montañas, interrumpieron las inequívocas señales con que daban a entender a Juan Bautista que encontraban verdaderamente deliciosa la colación prevenida.</p>
+			<p>Sin embargo, la gente desvelada no parecía inquietarse por aquel cambio repentino a que están asaz habituados los moradores del país, y como la estación alejaba los temores de una <foreign xml:lang="fra">avalanche</foreign> <ref target="SPA1023N01">[1]</ref>, ni los silbidos del viento, ni los sordos y dilatados truenos que devolvían las montañas, interrumpieron las inequívocas señales con que daban a entender a Juan Bautista que encontraban verdaderamente deliciosa la colación prevenida.</p>
 			<p>Dos personas únicamente hacían poco honor a los incitantes manjares; eran Ida y Arnoldo, que aprovechándose de la general distracción entablaron en voz baja el diálogo siguiente.</p>
 	</div> 
 	<div type="chapter" n="SPA1023002">
@@ -776,20 +776,10 @@
 			 que exijáis sea un potentado vuestro yerno.</p> 		
 					<p>-No, ciertamente -dijo Keller-; ni un potentado ni un mendigo; ni
 			 más ni menos que mi hija; pero sabed, Kessman, que el día que se
-			 case Ida llevará por dote a su marido un  <foreign xml:lang="fra">alpage</foreign> de primer clase con una  <emph>sennte</emph>
-			  <note><p>En Suiza se da el nombre de <foreign xml:lang="fra">alpage</foreign> o <foreign xml:lang="fra">alpe</foreign> a la extensión de
-			terreno de pasto que es propiedad de alguno, y se llama <emph>sennte</emph> el número de vacas que se
-			alimenta de él. El valor de un <foreign xml:lang="fra">alpage</foreign> varía según su
-			extensión y la calidad de su pasto.</p></note>
-			
-			de doscientas vacas de las mejores del país, con la	añadidura de trescientos ducados de Berna
-
-			<note><p>El ducado de oro de Berna equivale a poco más de once francos y medio de Francia.</p></note>
-
-			en buena moneda de oro.</p> 		
+			 case Ida llevará por dote a su marido un  <foreign xml:lang="fra">alpage</foreign> de primer clase con una  <emph>sennte</emph> <ref target="SPA1023N02">[2]</ref> de doscientas vacas de las mejores del país, con la	añadidura de trescientos ducados de Berna <ref target="SPA1023N03">[3]</ref> en buena moneda de oro.</p> 		
 					<p>-¿Os bastaría -dijo Arnoldo-, que esa dote pudiera ser
 			 aumentada por el marido de Ida con mil piezas de oro de treinta y dos  <foreign xml:lang="deu">franken</foreign>
-			  <note><p>Cada pieza de oro de treinta y dos <foreign xml:lang="deu">franken</foreign> vale en el cambio con la moneda francesa cuarenta y siete francos y dos céntimos. Es decir, nueve duros españoles próximamente.</p>  </note></p>                           
+			 <ref target="SPA1023N04">[4]</ref></p>                           
 			 <p>-¿Qué duda cabe? -contestó el ganadero, que no
 			 sabía qué pensar de todo aquello. Os he dicho que no ambiciono
 			 por yerno un potentado, que me contento con que mi hija no caiga con su dote en
@@ -1682,6 +1672,14 @@
 			 Charmey, en el acto de su aparición en el mundo,  <emph>el donativo del diablo</emph>.</p>
 		</div> 
 		<trailer>Fin de <title>La velada del helecho</title></trailer> 
-	 </body> 
+	 </body>
+	 <back>
+		<div type="notes">
+			<note xml:id="SPA1023N01"><p>Creemos que nuestros ilustrados lectores no ignorarán que las <foreign xml:lang="fra">avalanches</foreign>, fenómeno el más terrible y extraordinario de los que presenta la naturaleza en los Alpes, consisten en la precipitación de enormes masas de nieve o de hielo que con un ruido semejante al trueno, se desprenden y ruedan desde las  montañas a los valles, arrastrando cuanto se opone a su paso, y causando a veces grandísimos daños. En nuestros Pirineos, donde también se experimentan, aunque con menos violencia y estragos, se llaman <foreign xml:lang="eng">valudes</foreign>.</p></note>
+			<note xml:id="SPA1023N02"><p>En Suiza se da el nombre de <foreign xml:lang="fra">alpage</foreign> o <foreign xml:lang="fra">alpe</foreign> a la extensión de terreno de pasto que es propiedad de alguno, y se llama <emph>sennte</emph> el número de vacas que se alimenta de él. El valor de un <foreign xml:lang="fra">alpage</foreign> varía según su extensión y la calidad de su pasto.</p></note>
+			<note xml:id="SPA1023N03">El ducado de oro de Berna equivale a poco más de once francos y medio de Francia.</note>
+			<note xml:id="SPA1023N04"><p>Cada pieza de oro de treinta y dos <foreign xml:lang="deu">franken</foreign> vale en el cambio con la moneda francesa cuarenta y siete francos y dos céntimos. Es decir, nueve duros españoles próximamente.</p></note>
+		</div>
+	</back>
   </text>
 </TEI>
