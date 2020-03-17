@@ -60,7 +60,7 @@
 			<textDesc>
 				<authorGender xmlns="http://distantreading.net/eltec/ns" key="F"/>
 				<size xmlns="http://distantreading.net/eltec/ns" key="medium"/>
-				<reprintCount xmlns="http://distantreading.net/eltec/ns" key="high"/>
+				<canonicity xmlns="http://distantreading.net/eltec/ns" key="high"/>
 				<timeSlot xmlns="http://distantreading.net/eltec/ns" key="T1"/>
 			</textDesc>
 		</profileDesc>
@@ -190,7 +190,7 @@ estrofa pudo entender perfectamente el viajero:</p>
 <l> pues no la tiene la ingrata</l>
 <l> que adora mi corazón.</l>
 
-<ref target="SPA1021N01">[1]</ref>
+<ref target="#SPA1021N01">[1]</ref>
 
 </quote>
 
@@ -229,7 +229,7 @@ de Puerto Príncipe, que se reduce a un pantalón
 de cotín de anchas rayas azules, y una camisa de hilo,
 también listada, ceñida a la cintura por una
 correa de la que pende un ancho machete, y cubierta la cabeza
-con un sombrero de Yarey bastante alicaído <ref target="SPA1021N02">[2]</ref>: 
+con un sombrero de Yarey bastante alicaído <ref target="#SPA1021N02">[2]</ref>: 
 <pb n="13"/>
 
 traje
@@ -238,7 +238,7 @@ clima abrasador.</p>  <p>El extranjero rompió el silencio
 y hablando en castellano con una pureza y facilidad que parecían
 desmentir su fisonomía septentrional, dijo al labriego:</p>
  <p>-Buen amigo, tendrá Vd. la bondad de decirme si la
-casa que desde aquí se divisa es la del Ingenio <ref target="SPA1021N03">[3]</ref> 
+casa que desde aquí se divisa es la del Ingenio <ref target="#SPA1021N03">[3]</ref> 
 de Bellavista, perteneciente a don Carlos de B...</p>  <p>El campesino
 hizo una reverencia y contestó:</p>  <p>-Sí señor,
 todas las tierras que se ven allá abajo, pertenecen
@@ -266,7 +266,7 @@ cada año, porque entonces más de cien negros
 trabajaban en sus cañaverales; pero los tiempos han
 variado y el propietario actual de Bellavista no tiene en
 él sino cincuenta negros, ni excede 
-<pb n="15"/> su Zafra <ref target="SPA1021N04">[4]</ref>
+<pb n="15"/> su Zafra <ref target="#SPA1021N04">[4]</ref>
  de seis mil panes de azúcar.</p>  <p>-Vida muy fatigosa deben de
 tener los esclavos en estas fincas -observó el extranjero-,
 y no me admira se disminuya tan considerablemente su número.</p>
@@ -345,7 +345,7 @@ más melancólica y
 también algo de desdeñosa.</p>  <p>-Es -dijo volviendo
 a fijar los ojos en el extranjero-, que a veces es libre
 y noble el alma, aunque el cuerpo sea esclavo y villano.
-Pero ya es de noche y voy a conducir a su merced <ref target="SPA1021N05">[5]</ref> 
+Pero ya es de noche y voy a conducir a su merced <ref target="#SPA1021N05">[5]</ref> 
 al ingenio ya próximo.</p>  <p>La observación del mulato era
 exacta. El sol, como arrancado violentamente del hermoso
 cielo de Cuba, había cesado de alumbrar aquel país
@@ -354,7 +354,7 @@ y la luna pálida y melancólica se acercaba
 lentamente a tomar posesión de sus dominios.</p>  <p>El extranjero
 siguió a su guía sin interrumpir la conversación:</p>
  <p>-¿Conque eres esclavo de don Carlos?</p>  <p>-Tengo el honor de
-ser su mayoral <ref target="SPA1021N06">[6]</ref>
+ser su mayoral <ref target="#SPA1021N06">[6]</ref>
 
 <pb n="20"/> en este ingenio.</p>  <p>-¿Cómo te llamas?</p>
  <p>-Mi nombre de bautismo es Bernabé, mi madre me llamó
@@ -461,12 +461,12 @@ que brilla entre nubes oscuras, y como si una idea repentina
 aclarase sus dudas, exclamó después de un instante
 de reflexión:</p>  <p>-¡Enrique Otway! Ese nombre lo mismo
 que vuestra fisonomía indican un origen extranjero...
-¡Vos <ref target="SPA1021N07">[7]</ref> sois pues, sin duda el futuro esposo de la señorita
+¡Vos <ref target="#SPA1021N07">[7]</ref> sois pues, sin duda el futuro esposo de la señorita
 de B...!</p>  <p>-No te engañas, joven, yo soy en efecto
 Enrique Otway, futuro esposo de Carlota, y el mismo que procurará
 no sea un mal para ti su unión con tu señorita:
 lo mismo que ella, te prometo hacer menos dura tu triste
-condición de esclavo. Pero he aquí la taranquela <ref target="SPA1021N08">[8]</ref>:
+condición de esclavo. Pero he aquí la taranquela <ref target="#SPA1021N08">[8]</ref>:
 ya no necesito guía. A 
 <pb n="26"/> Dios, Sab, puedes continuar
 tu camino.</p>  <p>Enrique metió espuelas a su caballo, que
@@ -1089,9 +1089,9 @@ Pero escucha, Carlota, te ofrezco volver dentro de quince
 días.</p>  <p>-¡Quince días! -exclamó Carlota
 con infantil impaciencia-. ¡Ah, no!, papá tiene proyectado
 un paseo a Cubitas, con el doble objeto de visitar las estancias
-<ref target="SPA1021N09">[9]</ref> que tiene 
+<ref target="#SPA1021N09">[9]</ref> que tiene 
 <pb n="57"/> allí, y que veamos Teresa y yo las famosas
-cuevas <ref target="SPA1021N10">[10]</ref>
+cuevas <ref target="#SPA1021N10">[10]</ref>
 que tú tampoco has visto. Este viaje está
 señalado para dentro de ocho días y es preciso
 que vengas para acompañarnos.</p>  <p>Iba Enrique a contestar
@@ -1194,7 +1194,7 @@ capa de plomo: las nubes, tan bajas que se confundían
 con las sombras de los bosques, eran de un pardo oscuro con
 anchas bandas de color de fuego. Ninguna hoja se estremecía,
 ningún sonido interrumpía el silencio pavoroso
-de la naturaleza. Bandadas de auras <ref target="SPA1021N11">[11]</ref>
+de la naturaleza. Bandadas de auras <ref target="#SPA1021N11">[11]</ref>
 poblaban el aire, oscureciendo
 la luz rojiza del sol poniente; y los perros baja y espeluznada
 la 
@@ -1275,7 +1275,7 @@ es tan terrible como presagian estas negras nubes y esta
 calma espantosa, tú, que conoces a palmo este país,
 sabrás en dónde refugiarte con Enrique. Porque
 por solitarios que sean estos campos no faltará un
-bohío <ref target="SPA1021N12">[12]</ref>
+bohío <ref target="#SPA1021N12">[12]</ref>
 <pb n="67"/> en que poneros al abrigo de la tormenta. ¡Sab!,
 yo te recomiendo mi Enrique.</p>  <p>Un relámpago más
 vivo que los anteriores, y casi al mismo tiempo el estampido
@@ -1682,19 +1682,19 @@ de un arroyo. Era el jardín un cuadro perfecto, y
 los otros tres frentes los formaban arcos de juncos cubiertos
 por vistosos festones de cambutera y balsamina, cuyas flores
 carmíneas y doradas libaban zumbando los colibrís
-<ref target="SPA1021N13">[13]</ref>
+<ref target="#SPA1021N13">[13]</ref>
 brillantes como esmeraldas 
 <pb n="89"/> y topacios. Sab había
 reunido en aquel pequeño recinto todas las flores
 que más amaba Carlota. Allí lucía la
 astronomía, de pomposos ramilletes morados, la azucena
 y la rosa, la clavellina
-<ref target="SPA1021N14">[14]</ref>
+<ref target="#SPA1021N14">[14]</ref>
 y el jazmín, la modesta violeta
 y el orgulloso girasol enamorado del rey de los astros, la
 variable malva-rosa
-<ref target="SPA1021N15">[15]</ref>, la aleluya con sus flores nacaradas,
-y la Pasionaria <ref target="SPA1021N16">[16]</ref>
+<ref target="#SPA1021N15">[15]</ref>, la aleluya con sus flores nacaradas,
+y la Pasionaria <ref target="#SPA1021N16">[16]</ref>
 ofreciendo en su cáliz maravilloso
 las sagradas insignias de la pasión del Redentor.
 En medio del jardín había un pequeño
@@ -2447,7 +2447,7 @@ en efecto cierta armonía entre aquella naturaleza
 y aquella mujer, ambas tan jóvenes y tan hermosas.</p>
  <p>En tanto costaba esfuerzos a Teresa contener a sus dos tiernas
 compañeras. Una 
-<pb n="129"/> campanilla <ref target="SPA1021N17">[17]</ref>, un pájaro que
+<pb n="129"/> campanilla <ref target="#SPA1021N17">[17]</ref>, un pájaro que
 revolotease sobre ella, cualquier objeto excitaba sus infantiles
 deseos y querían bajar del carruaje para posesionarse
 de él.</p>  <p>La noche se acercaba mientras tanto, y sus
@@ -2459,15 +2459,15 @@ masas de sombras.</p>  <p>A medida que se aproximaban a Cubitas
 el aspecto de la naturaleza era más sombrío:
 bien pronto desapareció casi del todo la vigorosa
 y variada vegetación de la tierra prieta, y la roja
-no ofreció más que esparramados yuraguanos <ref target="SPA1021N18">[18]</ref>,
-<pb n="130"/> jagüey <ref target="SPA1021N19">[19]</ref>, que parecían
+no ofreció más que esparramados yuraguanos <ref target="#SPA1021N18">[18]</ref>,
+<pb n="130"/> jagüey <ref target="#SPA1021N19">[19]</ref>, que parecían
 en la noche figuras caprichosas de un mundo fantástico.
 y algún ingrato 
 El cielo empero era más hermoso en estos lugares:
 tachonábase por grados de innumerables estrellas,
 y cual otro ejército de estrellas errantes poblábase
 el aire de fúlgidos cocuyos, admirables luciérnagas
-de los climas tropicales <ref target="SPA1021N20">[20]</ref>.</p>
+de los climas tropicales <ref target="#SPA1021N20">[20]</ref>.</p>
 
 <p>Carlota detuvo de repente su caballo
 e hizo observar al mulato una luz vacilante y pálida
@@ -2494,7 +2494,7 @@ con un resplandor más vivo,
 <pb n="132"/> y Enrique y las dos señoritas
 manifestaron una sorpresa igual a la de las niñas.
 El señor de B..., testigo ya muchas veces de este
-fenómeno <ref target="SPA1021N21">[21]</ref>, se divertía con la admiración
+fenómeno <ref target="#SPA1021N21">[21]</ref>, se divertía con la admiración
 de sus jóvenes compañeros.</p>  <p>-Los naturalistas
 -les dijo- os darían del fenómeno que estáis
 mirando una explicación menos 
@@ -2853,7 +2853,7 @@ con cierto aire melancólico-, porque aún no
 habéis llegado a ser lo que yo soy y los años
 hallan todavía algo que quitaros. El árbol
 viejo del monte, cuando ya seco y sin jugo sólo alimenta
-curujeyes <ref target="SPA1021N22">[22]</ref>, ve pasar años tras años sin que
+curujeyes <ref target="#SPA1021N22">[22]</ref>, ve pasar años tras años sin que
 ellos le traigan mudanza. Él 
 <pb n="152"/> resiste a los huracanes
 y a las lluvias, a los rigores del sol y a la aridez de la
@@ -4065,7 +4065,7 @@ de haber leído algunos minutos en voz baja, que no
 permitía oír distintamente las palabras, profirió
 por fin más alto: «Venid a mí los que estéis
 cargados y fatigados, y yo os aliviaré»
-<ref target="SPA1021N23">[23]</ref>.</p> 
+<ref target="#SPA1021N23">[23]</ref>.</p> 
 <pb n="24"/>
 <p> Después
 de estas tiernas y consoladoras palabras, que repitió

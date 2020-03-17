@@ -59,7 +59,7 @@
 			<textDesc>
 				<authorGender xmlns="http://distantreading.net/eltec/ns" key="F"/>
 				<size xmlns="http://distantreading.net/eltec/ns" key="short"/>
-				<reprintCount xmlns="http://distantreading.net/eltec/ns" key="high"/>
+				<canonicity xmlns="http://distantreading.net/eltec/ns" key="high"/>
 				<timeSlot xmlns="http://distantreading.net/eltec/ns" key="T2"/>
 			</textDesc>
 		</profileDesc>
@@ -116,7 +116,7 @@
 					Haremos aun más; toda vez que en
 					ello le complazcamos, le haremos conocer a sus moradores, y
 					tendremos, según la expresión de una amiga nuestra de infinito
-					talento y gracia <ref target="SPA2008N01">[1]</ref>, un rato de
+					talento y gracia <ref target="#SPA2008N01">[1]</ref>, un rato de
 					<emph>
 					comadreo
 					</emph>.
@@ -593,7 +593,7 @@
 					de D. José eran tan conocidas en el pueblo, que para pintarla
 					burlescamente, habían inventado sus paisanos, que necesitan poco
 					para ejercitar su humor burlesco, el siguiente chascarrillo.
-					<ref target="SPA2008N02">[2]</ref></p>
+					<ref target="#SPA2008N02">[2]</ref></p>
 					<p>
 					Contábase que D. José entró un día en
 					su casa cuando menos se le aguardaba y halló a un amante con su
@@ -1856,7 +1856,7 @@
 					sibarita en sus refinamientos de lujo, que mandaba su ropa a
 					lavarse a la Habana, por parecerle que no se lavaba bastante bien
 					en España, que es el país de Europa en que la lavan mejor.
-					<ref target="SPA2008N03">[3]</ref>
+					<ref target="#SPA2008N03">[3]</ref>
 					Había venido a la Península a traer a un hijo suyo al
 					colegio de artillería; había después permanecido en Madrid, donde
 					conoció a Leopoldo; y cuando auyentada por las circunstancias
@@ -2116,7 +2116,7 @@
 					tan frita la sangre, que se me van y vienen unos ímpetus feroces de
 					ahogarle entre mis manos. ¡Sí, sí! llegará el caso en que no pueda
 					contener mi ira, y el día menos pensado se quedarán estáticos los
-					coquineros <ref target="SPA2008N04">[4]</ref>, y estupefactos los vandeanos de segunda edición, al ver en
+					coquineros <ref target="#SPA2008N04">[4]</ref>, y estupefactos los vandeanos de segunda edición, al ver en
 					una de las torres litografiado a un maestre de escuela
 					</p>
 					<p>
@@ -2859,7 +2859,7 @@
 					</p>
 					<p>
 					-El Faro de San Sebastián
-					<ref target="SPA2008N05">[5]</ref>
+					<ref target="#SPA2008N05">[5]</ref>
 					-dijo con una especie de asomo de bosquejo de sonrisa el
 					grave Don José.
 					</p>
@@ -3488,7 +3488,7 @@
 					-Sí que lo sé -gritó contrariada la
 					niña-. El que tocó la flauta fue Ardaz, y el francés que le quería
 					oír era el que estaba de guardia en la Puerta de Tierra.
-					<ref target="SPA2008N06">[6]</ref>
+					<ref target="#SPA2008N06">[6]</ref>
 					</p>
 					<p>
 					A la madrugada siguiente, Ardaz, de
