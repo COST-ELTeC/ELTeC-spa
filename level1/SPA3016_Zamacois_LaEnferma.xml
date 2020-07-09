@@ -29,7 +29,7 @@
 					<idno>ne008</idno>
 					<pubPlace>University of Würzburg</pubPlace>
 					<date when="2020"/>
-            	</bibl>
+				</bibl>
 				<bibl type="digitalSource">Gutenberg<date when="2015">2015</date>, <idno>48302</idno>, <ref target="http://www.gutenberg.org/ebooks/48302"/>.</bibl>
 				<bibl type="printSource">Compañía Ibero-Americana de Publicaciones, Madrid, <date when="1903">1903</date></bibl>
 				<bibl type="firstEdition"><date when="1896">1896</date></bibl>
