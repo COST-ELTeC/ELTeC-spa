@@ -57,7 +57,7 @@
 		<revisionDesc>
 			<change when="2015-04-07">José Calvo Tello : Initial TEI version.</change>
 			<change when="2020-07-20">LB convert to ELTeC-1</change>
-			<change when="2020-07-17">Borja Navarro Colorado : revisión de etiquetado ELTeC y anotación complementaria</change>
+			<change when="2020-07-20">Borja Navarro Colorado : revisión de etiquetado ELTeC y anotación complementaria</change>
 		</revisionDesc>
 	</teiHeader>
 	<text>
