@@ -53,6 +53,9 @@
 		<profileDesc>
 			<langUsage>
 				<language ident="SPA">Español</language>
+				<language ident="ENG">Inglés</language>
+				<language ident="FRA">Francés</language>
+				<language ident="LAT">Latín</language>
 			</langUsage>
 			<textDesc>
 				<authorGender xmlns="http://distantreading.net/eltec/ns" key="M"/>
