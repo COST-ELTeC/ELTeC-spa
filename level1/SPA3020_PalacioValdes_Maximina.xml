@@ -57,6 +57,9 @@
 			<langUsage>
 				<language ident="SPA">Español</language>
 				<language ident="LAT">Latín</language>
+				<language ident="FRA">Francés</language>
+				<language ident="ENG">Inglés</language>
+				<language ident="ITA">Italiano</language>
 			</langUsage>
 			<textDesc>
 				<authorGender xmlns="http://distantreading.net/eltec/ns" key="M"/>
