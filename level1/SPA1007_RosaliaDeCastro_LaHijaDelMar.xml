@@ -6,12 +6,9 @@
 				<title ref="viaf:185147744">La hija del mar : edición ELTeC</title>
 				<author ref="viaf:51711491">Castro, Rosalía de (1837-1885)</author>
 				<respStmt>
-					<resp>Principal</resp>
-					<name>Borja Navarro Colorado</name>
-				</respStmt>
-				<respStmt>
 					<resp>Edición ELTeC</resp>
 					<name>Lara Tomás Caballero</name>
+					<name>Borja Navarro Colorado</name>
 				</respStmt>
 			</titleStmt>
 			<extent>
@@ -39,8 +36,9 @@
 					<ref target="http://www.cervantesvirtual.com/obra/la-hija-del-mar--1/">Biblioteca Virtual Miguel de Cervantes</ref>
 					<date when="2005-02-28"/>
 					<respStmt>
-						<resp>Revisión de formato en WordPerfect 9, Transformación automática de HTML a XML (HTML2XML 2.0), Etiquetado de la obra en XML-TEI</resp>
-						<name>Julia Pozo, Manuel Sánchez Quero</name>
+						<resp>Revisión de formato, transformación automática de HTML a XML (HTML2XML 2.0), etiquetado de la obra en XML-TEI</resp>
+						<name>Julia Pozo</name>
+						<name>Manuel Sánchez Quero</name>
 					</respStmt>
 				</bibl>
 			</sourceDesc>
@@ -50,9 +48,9 @@
 		</encodingDesc>
 		<profileDesc>
 			<langUsage>
-				<language ident="SPA" usage="96">Español</language>
-				<language ident="FRA" usage="3">Francés</language>
-				<language ident="GIG" usage="1">Gallego</language>
+				<language ident="SPA">Español</language>
+				<language ident="FRA">Francés</language>
+				<language ident="GIG">Gallego</language>
 			</langUsage>	
 			<textDesc>
 				<authorGender xmlns="http://distantreading.net/eltec/ns" key="F"/>
@@ -63,6 +61,7 @@
 		</profileDesc>
 		<revisionDesc>
 			<change when="2019-01-18">Anotación formato ELTeC y revisión del texto: Lara Tomás Caballero</change>
+			<change when="2019-01-18">Revisión anotación y correcciones varias : Borja Navarro Colorado</change>
 		</revisionDesc>	
 	</teiHeader>
 	<text>
@@ -70,7 +69,7 @@
 			<div type="titlepage">
 				<p>La hija del mar</p>
 				<p>por Rosalía de Castro</p>
-				<p>Virgo; 1859</p>
+				<p>Vigo; 1859</p>
 				<p>Imprenta de J. Compañel</p>
 			</div>
 			<div type="liminal">
