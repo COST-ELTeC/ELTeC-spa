@@ -12224,6 +12224,7 @@
    </div>
   </body>
   <back>
+  	<div type="notes">
    <note xml:id="SPA2011N01"><p>Emblema amoroso que significa: <emph>Os amo ardientemente, y aguardo
       con impaciencia el instante en que os dignéis concederme una cita, si de ese favor me juzgáis
       merecedor.</emph></p></note>
@@ -12274,8 +12275,7 @@
      el culto católico.</p></note>
    <note target="SPA2011N19"><p>Hay autores que varían esta fecha.</p>
    </note>
-
-
+	</div>
   </back>
  </text>
 </TEI>
