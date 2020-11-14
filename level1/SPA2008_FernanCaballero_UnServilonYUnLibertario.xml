@@ -1,4 +1,8 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
+    <?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
+            schematypens="http://relaxng.org/ns/structure/1.0"?>
+    <?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
+            schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="SPA2008" xml:lang="SPA">
 	<teiHeader>
 		<fileDesc>
@@ -16,26 +20,23 @@
 				<measure unit="pages">247</measure>
 			</extent>
            <publicationStmt>
-               <publisher ref="https://distant-reading.net">COST Action "Distant Reading for European Literary History" (CA16204)</publisher>
-               <distributor ref="https://zenodo.org/communities/eltec/">Zenodo.org</distributor>
-               <date when="2019-01-20"/>
-               <availability>
-                   <licence target="https://creativecommons.org/licenses/by/4.0/"/>
-               </availability>
-               <ref type="doi" target="https://doi.org/10.5281/zenodo.3462435"/>
-           </publicationStmt>
-			<sourceDesc>
-				<bibl type="firstEdition">
+<publisher ref="https://distant-reading.net">COST Action "Distant Reading for European Literary History" (CA16204)</publisher>
+<distributor ref="https://zenodo.org/communities/eltec/">Zenodo.org</distributor><date when="2020-11-14"/>
+<availability><licence target="https://creativecommons.org/licenses/by/4.0/"/></availability>
+<ref type="doi" target="https://doi.org/10.5281/zenodo.3462435">ELTeC</ref>
+<ref type="doi" target="https://doi.org/10.5281/zenodo.4271467">ELTeC release 1.0.0</ref>
+<ref type="doi" target="https://doi.org/10.5281/zenodo.">ELTeC-$textLang</ref>
+<ref type="doi" target="https://doi.org/10.5281/zenodo.">ELTeC-$textLang release </ref>
+</publicationStmt>
+			<sourceDesc><bibl type="firstEdition">
 					<date>1857</date>
-				</bibl>
-				<bibl type="printSource">
+				</bibl><bibl type="printSource">
 					<publisher>Imprenta del Establecimiento de Mellado </publisher>
 					<pubPlace>Madrid</pubPlace>
 					<date>1863</date>
 					<idno type="BDH">bdh0000185562</idno>
 					<ref target="http://bdh-rd.bne.es/viewer.vm?id=0000185562">Biblioteca Digital Hispánica - Biblioteca Nacional de España</ref>
-				</bibl>
-				<bibl type="digitalSource"> 
+				</bibl><bibl type="digitalSource"> 
 					<publisher>Biblioteca Virtual Miguel de Cervantes Saavedra</publisher>
 					<pubPlace>Universidad de Alicante</pubPlace>
 					<ref target="http://www.cervantesvirtual.com/obra/un-servilon-y-un-liberalito-o-tres-almas-de-dios-novela--0/">Biblioteca Virtual Miguel de Cervantes</ref>
@@ -44,8 +45,7 @@
 						<resp> Transformación automática de HTML a XML (HTML2XML 2.0),Etiquetado del texto en XML-TEI, Revisión del etiquetado </resp>
 						<name>Sonia Jover Sánchez</name>
 					</respStmt>
-				</bibl>
-			</sourceDesc>
+				</bibl></sourceDesc>
 		</fileDesc>
 		<encodingDesc n="eltec-1">
 			<p/>
@@ -53,8 +53,8 @@
 		<profileDesc>
 			<langUsage>
 				<language ident="SPA" usage="97">Español</language>
-				<language ident="LAT" usage= "01">Latín</language>
-				<language ident="FRA" usage= "02">Francés</language>
+				<language ident="LAT" usage="01">Latín</language>
+				<language ident="FRA" usage="02">Francés</language>
 			</langUsage>
 			<textDesc>
 				<authorGender xmlns="http://distantreading.net/eltec/ns" key="F"/>
@@ -64,6 +64,7 @@
 			</textDesc>
 		</profileDesc>
 		<revisionDesc>
+<change when="2020-11-14">Converted by checkUp script for new release</change>
 			<change when="2019-01-19">Anotación formato ELTeC: Paula Serrano López</change>
 			<change when="2019-01-20">Revisión formato ELTeC y correcciones varias: Borja Navaro Colorado</change>
 		</revisionDesc>
@@ -116,7 +117,7 @@
 					Haremos aun más; toda vez que en
 					ello le complazcamos, le haremos conocer a sus moradores, y
 					tendremos, según la expresión de una amiga nuestra de infinito
-					talento y gracia <ref target="#SPA2008N01">[1]</ref>, un rato de
+					talento y gracia <ref target="#SPA2008N01">[1]</ref><ref target="#SPA2008N01">[1]</ref>, un rato de
 					<emph>
 					comadreo
 					</emph>.
@@ -593,7 +594,7 @@
 					de D. José eran tan conocidas en el pueblo, que para pintarla
 					burlescamente, habían inventado sus paisanos, que necesitan poco
 					para ejercitar su humor burlesco, el siguiente chascarrillo.
-					<ref target="#SPA2008N02">[2]</ref></p>
+					<ref target="#SPA2008N02">[2]</ref><ref target="#SPA2008N02">[2]</ref></p>
 					<p>
 					Contábase que D. José entró un día en
 					su casa cuando menos se le aguardaba y halló a un amante con su
@@ -1856,7 +1857,7 @@
 					sibarita en sus refinamientos de lujo, que mandaba su ropa a
 					lavarse a la Habana, por parecerle que no se lavaba bastante bien
 					en España, que es el país de Europa en que la lavan mejor.
-					<ref target="#SPA2008N03">[3]</ref>
+					<ref target="#SPA2008N03">[3]</ref><ref target="#SPA2008N03">[3]</ref>
 					Había venido a la Península a traer a un hijo suyo al
 					colegio de artillería; había después permanecido en Madrid, donde
 					conoció a Leopoldo; y cuando auyentada por las circunstancias
@@ -2116,7 +2117,7 @@
 					tan frita la sangre, que se me van y vienen unos ímpetus feroces de
 					ahogarle entre mis manos. ¡Sí, sí! llegará el caso en que no pueda
 					contener mi ira, y el día menos pensado se quedarán estáticos los
-					coquineros <ref target="#SPA2008N04">[4]</ref>, y estupefactos los vandeanos de segunda edición, al ver en
+					coquineros <ref target="#SPA2008N04">[4]</ref><ref target="#SPA2008N04">[4]</ref>, y estupefactos los vandeanos de segunda edición, al ver en
 					una de las torres litografiado a un maestre de escuela
 					</p>
 					<p>
@@ -2859,7 +2860,7 @@
 					</p>
 					<p>
 					-El Faro de San Sebastián
-					<ref target="#SPA2008N05">[5]</ref>
+					<ref target="#SPA2008N05">[5]</ref><ref target="#SPA2008N05">[5]</ref>
 					-dijo con una especie de asomo de bosquejo de sonrisa el
 					grave Don José.
 					</p>
@@ -3488,7 +3489,7 @@
 					-Sí que lo sé -gritó contrariada la
 					niña-. El que tocó la flauta fue Ardaz, y el francés que le quería
 					oír era el que estaba de guardia en la Puerta de Tierra.
-					<ref target="#SPA2008N06">[6]</ref>
+					<ref target="#SPA2008N06">[6]</ref><ref target="#SPA2008N06">[6]</ref>
 					</p>
 					<p>
 					A la madrugada siguiente, Ardaz, de

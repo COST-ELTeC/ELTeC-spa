@@ -1,6 +1,10 @@
-<?xml-model href="../../WG1/distantreading.github.io/Schema/eltec-1.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<TEI xml:id="SPA2003" xml:lang="SPA" xmlns="http://www.tei-c.org/ns/1.0">
-	<teiHeader xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?>
+    <?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
+            schematypens="http://relaxng.org/ns/structure/1.0"?>
+    <?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
+            schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="SPA2003" xml:lang="SPA">
+	<teiHeader>
 		<fileDesc>
 			<titleStmt>
 				<title>Trafalgar :  edición ELTeC</title>
@@ -15,31 +19,28 @@
 				<measure unit="pages">267</measure>
 			</extent>
             <publicationStmt>
-                <publisher ref="https://distant-reading.net">COST Action "Distant Reading for European Literary History" (CA16204)</publisher>
-                <distributor ref="https://zenodo.org/communities/eltec/">Zenodo.org</distributor>
-                <date when="2018-10-01"/>
-                <availability>
-                    <licence target="https://creativecommons.org/licenses/by/4.0/"/>
-                </availability>
-                <ref type="doi" target="https://doi.org/10.5281/zenodo.3462435"/>
-            </publicationStmt>
-			<sourceDesc>
-				<bibl type="firstEdition">
+<publisher ref="https://distant-reading.net">COST Action "Distant Reading for European Literary History" (CA16204)</publisher>
+<distributor ref="https://zenodo.org/communities/eltec/">Zenodo.org</distributor><date when="2020-11-14"/>
+<availability><licence target="https://creativecommons.org/licenses/by/4.0/"/></availability>
+<ref type="doi" target="https://doi.org/10.5281/zenodo.3462435">ELTeC</ref>
+<ref type="doi" target="https://doi.org/10.5281/zenodo.4271467">ELTeC release 1.0.0</ref>
+<ref type="doi" target="https://doi.org/10.5281/zenodo.">ELTeC-$textLang</ref>
+<ref type="doi" target="https://doi.org/10.5281/zenodo.">ELTeC-$textLang release </ref>
+</publicationStmt>
+			<sourceDesc><bibl type="firstEdition">
 					<author>B. Pérez Galdós</author>
 					<title>Trafalgar</title>
 					<pubPlace>Madrid</pubPlace>
 					<publisher>Imp. de J. Noguera, a cargo de M. Martínez. Calle de Bordadores, núm 7.</publisher>
 					<date>1873</date>
-				</bibl>
-				<bibl type="printSource">
+				</bibl><bibl type="printSource">
 					<author>B. Pérez Galdós</author>
 					<title>Episodios Nacionales. T. I. Trafalgar: edición ilustrada por Enrique y Arturo
 					Mélida</title>
 					<pubPlace>Madrid</pubPlace>
 					<publisher>Administración de La Guirnalda y Episodios Nacionales</publisher>
 					<date>1882</date>					
-				</bibl>
-				<bibl type="digitalSource">
+				</bibl><bibl type="digitalSource">
 					<title>Trafalgar</title>
 					<author>Benito Pérez Galdós</author>
 					<publisher>Biblioteca Virtual Miguel de Cervantes Saavedra</publisher>
@@ -56,8 +57,7 @@
 						<name>Raquel Pérez Barroso</name>
 						<name>Sonia Jover Sánchez</name>
 					</respStmt>
-				</bibl>
-			</sourceDesc>
+				</bibl></sourceDesc>
 		</fileDesc>
 		<encodingDesc n="eltec-1">
 			<p/>
@@ -75,6 +75,7 @@
 			</textDesc>
 		</profileDesc>
 		<revisionDesc>
+<change when="2020-11-14">Converted by checkUp script for new release</change>
 			<change when="2018-09-01">Revisión del texto, anotación y edición ELTeC : Borja Navarro Colorado</change>
 			<change when="2020-01-30">Corrección información bibliográfica : Borja Navarro Colorado</change>
 		</revisionDesc>
@@ -130,7 +131,7 @@
 				<p>«No, no irás a la escuadra, porque allí no hacen falta estantiguas como tú. Si tuvieras cuarenta años, como cuando fuiste a la tierra del Fuego y me trajiste aquellos collares verdes de los indios... Pero ahora... Ya sé yo que ese calzonazos de Marcial te ha calentado los cascos anoche y esta mañana, hablándote de batallas. Me parece que el Sr. Marcial y yo tenemos que reñir... Vuélvase él a los barcos si quiere, para que le quiten la pierna que le queda... ¡Oh, San José bendito! Si en mis quince hubiera sabido yo lo que era la gente de mar... ¡Qué tormento! ¡Ni un día de reposo! <pb n="21"/> Se casa una para vivir con su marido, y a lo mejor viene un despacho de Madrid que en dos palotadas me lo manda qué sé yo a dónde, a la Patagonia, al Japón o al mismo infierno. Está una diez o doce meses sin verle, y al fin, si no se le comen los señores salvajes, vuelve hecho una miseria, tan enfermo y amarillo que no sabe una qué hacer para volverle a su color natural... Pero pájaro viejo no entra en jaula, y de repente viene otro despachito de Madrid... Vaya usted a Tolón, a Brest, a Nápoles, acá o acullá, donde le da la gana al bribonazo del Primer Cónsul... ¡Ah!, si todos hicieran lo que yo digo, ¡qué pronto las pagaría todas juntas ese caballerito que trae tan revuelto al mundo!»</p>
 				<p>Mi amo miró sonriendo una mala estampa clavada en la pared, y que, torpemente iluminada por ignoto artista, representaba al Emperador Napoleón, caballero en un corcel verde, con el célebre redingote embadurnado de bermellón. Sin duda la impresión que dejó en mí aquella obra de arte, que contemplé durante cuatro años, fue causa de que modificara mis ideas respecto al traje de contrabandista del grande hombre, y en lo sucesivo me lo representé vestido de cardenal y montado en un caballo verde.</p>
 				<pb n="22"/>
-				<p>«Esto no es vivir -continuó Doña Francisca agitando los brazos-. Dios me perdone; pero aborrezco el mar, aunque dicen que es una de sus mejores obras. ¡No sé para qué sirve la Santa Inquisición si no convierte en cenizas esos endiablados barcos de guerra! Pero vengan acá y díganme: ¿Para qué es eso de estarse arrojando balas y más balas, sin más ni más, puestos sobre cuatro tablas que, si se quiebran, arrojan al mar centenares de infelices? ¿No es esto tentar a Dios? ¡Y estos hombres se vuelven locos cuando oyen un cañonazo! ¡Bonita gracia! A mí se me estremecen las carnes cuando los oigo, y si todos pensaran como yo, no habría más guerras en el mar... y todos los cañones se convertirían en campanas. Mira, Alonso -añadió deteniéndose ante su marido-, me parece que ya os han derrotado bastantes veces. ¿Queréis otra? Tú y esos otros tan locos como tú, ¿no estáis satisfechos después de la del 14? <ref target="#SPA2003N01">[1]</ref>.</p>
+				<p>«Esto no es vivir -continuó Doña Francisca agitando los brazos-. Dios me perdone; pero aborrezco el mar, aunque dicen que es una de sus mejores obras. ¡No sé para qué sirve la Santa Inquisición si no convierte en cenizas esos endiablados barcos de guerra! Pero vengan acá y díganme: ¿Para qué es eso de estarse arrojando balas y más balas, sin más ni más, puestos sobre cuatro tablas que, si se quiebran, arrojan al mar centenares de infelices? ¿No es esto tentar a Dios? ¡Y estos hombres se vuelven locos cuando oyen un cañonazo! ¡Bonita gracia! A mí se me estremecen las carnes cuando los oigo, y si todos pensaran como yo, no habría más guerras en el mar... y todos los cañones se convertirían en campanas. Mira, Alonso -añadió deteniéndose ante su marido-, me parece que ya os han derrotado bastantes veces. ¿Queréis otra? Tú y esos otros tan locos como tú, ¿no estáis satisfechos después de la del 14? <ref target="#SPA2003N01">[1]</ref><ref target="#SPA2003N01">[1]</ref>.</p>
 				<p>D. Alonso apretó los puños al oír aquel triste recuerdo, y no profirió un juramento de marino por respeto a su esposa.</p>
 				<p>«La culpa de tu obstinación en ir a la escuadra <pb n="23"/> -añadió la dama cada vez más furiosa-, la tiene el picarón de Marcial, ese endiablado marinero, que debió ahogarse cien veces, y cien veces se ha salvado para tormento mío. Si él quiere volver a embarcarse con su pierna de palo, su brazo roto, su ojo de menos y sus cincuenta heridas, que vaya en buen hora, y Dios quiera que no vuelva a parecer por aquí...; pero tú no irás, Alonso, tú no irás, porque estás enfermo y porque has servido bastante al Rey, quien por cierto te ha recompensado muy mal; y yo que tú, le tiraría a la cara al señor Generalísimo de mar y tierra los galones de capitán de navío que tienes desde hace diez años... A fe que debían haberte hecho almirante cuando menos, que harto lo merecías cuando fuiste a la expedición de África y me trajiste aquellas cuentas azules que, con los collares de los indios, me sirvieron para adornar la <gap unit="graphic" n="urna"/>  urna de la Virgen del Carmen.</p>
 				<p>-Sea o no almirante, yo debo ir a la escuadra, Paquita -dijo mi amo-. Yo no puedo faltar a ese combate. Tengo que cobrar a los ingleses cierta cuenta atrasada.</p>
@@ -346,7 +347,7 @@ la guerra contra el vergonzoso <foreign xml:lang="lat">statu quo</foreign>de Do�
    <pb n="33"/>
    
 
-   <div type="chapter"  n="SPA2003004">
+   <div type="chapter" n="SPA2003004">
 		<head>-IV-</head>
     
 
@@ -1395,7 +1396,7 @@ concluido mi combate naval.
    <pb n="54"/>
    
 
-   <div type="chapter"  n="SPA2003005">
+   <div type="chapter" n="SPA2003005">
     
 
     <head>-V-</head>
@@ -1804,7 +1805,7 @@ impedirle ir a la escuadra.
    <pb n="67"/>
    
 
-   <div type="chapter"  n="SPA2003006">
+   <div type="chapter" n="SPA2003006">
     <head>-VI-</head>
     
 
@@ -2393,7 +2394,7 @@ expansivos.
    <pb n="81"/>
    
 
-   <div type="chapter"  n="SPA2003007">
+   <div type="chapter" n="SPA2003007">
     <head>-VII-</head>
     
 
@@ -2777,7 +2778,7 @@ las once del día, sin novedad en la salud y con el alma alegre.
    <pb n="91"/>
    
 
-   <div type="chapter"  n="SPA2003008">
+   <div type="chapter" n="SPA2003008">
     <head>-VIII-</head>
     
 
@@ -5354,7 +5355,7 @@ penetraron en el barco vencido.
    <pb n="160"/>
    
 
-   <div type="chapter"  n="SPA2003012">
+   <div type="chapter" n="SPA2003012">
     <head>-XII-</head>
     
 
@@ -7855,7 +7856,7 @@ escala.
    <pb n="217"/>
    
 
-   <div type="chapter"  n="SPA2003015">
+   <div type="chapter" n="SPA2003015">
     <head>-XV-</head>
     
 
@@ -9187,7 +9188,7 @@ reserva y nos quedamos
      a la cola. Nelson, que no era ningún rana, vio
 nuestra línea y dijo: «Pues si la corto por dos puntos distintos, y
 les cojo entre dos fuegos, no se me escapa ni tanto así de navío».
-Así lo hizo el maldito, y como nuestra línea era tan larga, <hi rend="italic"> la cabeza no podía ir en auxilio de la cola</hi><ref target="#SPA2003N02">[2]</ref>. Nos derrotó por partes, atacándonos en dos fuertes
+Así lo hizo el maldito, y como nuestra línea era tan larga, <hi rend="italic"> la cabeza no podía ir en auxilio de la cola</hi><ref target="#SPA2003N02">[2]</ref><ref target="#SPA2003N02">[2]</ref>. Nos derrotó por partes, atacándonos en dos fuertes
 columnas dispuestas al modo de cuña, que es, según dicen, el modo
 de combatir que usaba el capitán moro Alejandro Magno, y que hoy
 dicen usa también Napoleón. Lo cierto es que nos envolvió y nos
@@ -9842,7 +9843,7 @@ escuadra española en aquella memorable ocasión.
     <p>
      Sin negar el mérito de Gravina, yo
 creo hiperbólicas las alabanzas de que fue objeto después del
-combate y en los días de su muerte <ref target="#SPA2003N03">[3]</ref>.
+combate y en los días de su muerte <ref target="#SPA2003N03">[3]</ref><ref target="#SPA2003N03">[3]</ref>.
 Todo indicaba que Gravina era un cumplido caballero y un
 valiente marino; pero quizás por demasiado cortesano carecía de
 aquella resolución que da el constante hábito de la guerra, y
