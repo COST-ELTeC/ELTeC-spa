@@ -1,9 +1,6 @@
-<?xml version="1.0" encoding="UTF-8"?>
-    <?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
-            schematypens="http://relaxng.org/ns/structure/1.0"?>
-    <?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
-            schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="SPA2011" xml:lang="SPA">
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
+            schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
+            schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="SPA2011" xml:lang="SPA">
  <teiHeader>
   <fileDesc>
    <titleStmt>
@@ -782,14 +779,14 @@
     <p>Sacó del pecho un ramo simbólico de flores, algo ajado ya y que tuvo ocasión de componer
      aquel mismo día a prevención, y lo arrojó resueltamente a cierto punto junto al cenador, por
      donde debiera pasar precisamente la joven árabe.</p>
-    <p>Contenía solo estas tres flores enigmáticas: mirto, balsamina y amigdálida<ref target="#SPA2011N01">[1]</ref><ref target="#SPA2011N01">[1]</ref>.</p>
+    <p>Contenía solo estas tres flores enigmáticas: mirto, balsamina y amigdálida<ref target="#SPA2011N01">[1]</ref>.</p>
     <p>El ramillete permaneció largo rato en tierra, lo cual fue un signo de desesperación para el
      pretendiente, cuya imprudente osadía iba acaso a costarle cara, si su empeño recibía una
      negativa o un desprecio.</p>
     <p>La astuta dama, a quien en realidad no se había ocultado la acción de Veremundo, y que
      disimulándolo solo esperaba una ocasión de no ser vista, retrocedió unos pasos afectando
      distracción, y arrojó sobre el ramillete una capuchina enredada en un tallo de espino blanco
-      <ref target="#SPA2011N02">[2]</ref><ref target="#SPA2011N02">[2]</ref>, después de lo cual retiróse precipitadamente al otro
+      <ref target="#SPA2011N02">[2]</ref>, después de lo cual retiróse precipitadamente al otro
      extremo del jardín.</p>
     <milestone unit="subchapter"/>
 
@@ -1288,7 +1285,7 @@
      torres, alminares y esbeltos minaretes afiligranados y esmaltados de azulejos, reflejaban el
      brillo esplendente, fosfórico, del sol de ocaso.</p>
     <p>Y dominando el caserío de esa informe masa de edificios y monumentos árabes, la célebre
-     Colina Roja con su ruinoso templo de Diana <ref target="#SPA2011N03">[3]</ref><ref target="#SPA2011N03">[3]</ref>, su vieja
+     Colina Roja con su ruinoso templo de Diana <ref target="#SPA2011N03">[3]</ref>, su vieja
      atalaya coronada de estandartes moriscos tremolando, al aire y sus achatadas torres cuadradas
      que hundían sus medias lunas de hierro en un horizonte magnífico... cuadro poético, cuyos
      variados objetos resaltaban sobre el claroscuro de la montaña, marcando irregulares puntos que
@@ -4309,7 +4306,7 @@
       cierto os honran, en nombre del soberano de quien soy emisario, os absolviera en su nombre del
       nuevo juramento, si lo hicierais, aconsejándoos y restituyéndoos a vuestra opinión
       primitiva.</p>
-     <p>Hablando así, ambos personajes remontaban entonces el Monte-del-Gozo o del Humilladoiro<ref target="#SPA2011N04">[4]</ref><ref target="#SPA2011N04">[4]</ref>, pintoresca eminencia desde la cual veíanse, a través de la
+     <p>Hablando así, ambos personajes remontaban entonces el Monte-del-Gozo o del Humilladoiro<ref target="#SPA2011N04">[4]</ref>, pintoresca eminencia desde la cual veíanse, a través de la
       vaporosa neblina, las torres y cúpulas de la ciudad santificada por el sepulcro del Apóstol
       tutelar de España y los bultos indecisos de sus monumentos, que semejantes a los diseños medio
       borrados de un cuadro, vagaban en el límpido tinte del crepúsculo.</p>
@@ -4399,7 +4396,7 @@
       prominencias coronadas de granjas, cortijos y alquerías, verdes prados y valles cruzados por
       bullidores arroyos y saltos de agua que por do quier brotan en aquel terreno feraz; y rodeando
       la hermosa ciudad ceñida de vetustos muros, mil lugarcillos, y caseríos sembrados en las
-       afueras<ref target="#SPA2011N05">[5]</ref><ref target="#SPA2011N05">[5]</ref> contrastaban con las agujas aéreas de las torres
+       afueras<ref target="#SPA2011N05">[5]</ref> contrastaban con las agujas aéreas de las torres
       de sus iglesias, que hendían el espacio condensado aun por las livianas, brumas matutinas.</p>
      <p>Al Este las altísimas lomas tituladas del Viso y de Santa Marina, pobladas de bosques de
       olivos y que enlazan con las cordilleras del Norte el Son y el Monte del Gozo, hoy de San
@@ -5095,7 +5092,7 @@
      <p>Del mismo fundamento de este valle y de esta -gruta, alzábanse también a trechos pirámides
       de follaje esmaltadas de rosas blancas y encarnadas, formando arcos y caprichosos toldos, que
       parecían cerrar casi en su totalidad el espacio, y sobre todo, como una inmensa cortina gris
-      que rodeara aquel mágico jardín de Armida, el Monte Sorayo<ref target="#SPA2011N06">[6]</ref><ref target="#SPA2011N06">[6]</ref>
+      que rodeara aquel mágico jardín de Armida, el Monte Sorayo<ref target="#SPA2011N06">[6]</ref>
       proyectaba en el brumoso horizonte sus dentadas cumbres plomizas, recortando sus aéreos
       perfiles y hundiendo sus irregulares espectros en el vacío condensado por las nieblas
       matutinas.</p>
@@ -5216,7 +5213,7 @@
       y cuya herida era mortal.</p>
      <p>Vestía al estilo árabe, y en su alquicel de grana escarlata, campeaban africanas lunas y
       otros atributos, cifras e inscripciones, repitiéndose profusamente en caracteres cúficos el
-      tema dogmático y sacramental de los sectarios de Mahoma: LE GALIB ILLE ALLAH<ref target="#SPA2011N07">[7]</ref><ref target="#SPA2011N07">[7]</ref>.</p>
+      tema dogmático y sacramental de los sectarios de Mahoma: LE GALIB ILLE ALLAH<ref target="#SPA2011N07">[7]</ref>.</p>
      <p>La atmósfera enrarecida, condensada por aquella nube rosada de humo y vapores, daba a los
       objetos un colorido mágico y a través de ella aparecía en primer término aquel anciano de
       rostro indefinible, pero en cuyas atezadas facciones no era difícil traslucir una aspereza
@@ -5259,7 +5256,7 @@
       vértigo; han destrozado mi corazón los hombres, perros rabiosos, que no contentos con eso, han
       llevado su crueldad al extremo de proscribir mi libertad, mi albedrío, mis riquezas y mi alma,
       que en realidad no es mía; bebieron mi sangre maldecida, y trajeron junto a mi noche y día a
-       Eblis<ref target="#SPA2011N08">[8]</ref><ref target="#SPA2011N08">[8]</ref> para despedazar mi espíritu pobrecito.</p>
+       Eblis<ref target="#SPA2011N08">[8]</ref> para despedazar mi espíritu pobrecito.</p>
      <p>En aquel hondo lamento, fúnebre, doloroso y tristísimo, parecía exhalarse un sentimiento
       indecible, y revelábase al propio tiempo todo un vértigo de sangrienta e implacable
       cólera.</p>
@@ -5293,10 +5290,10 @@
      <p>La dueña, a quien había aludido el anciano, muda espectadora de aquella escena, marcó un
       signo de asentimiento hipócrita a las palabras del árabe, el cual continuó con uno de aquellos
       arranques de colérica rabia:</p>
-     <p>-Yo era un poderoso arráez<ref target="#SPA2011N09">[9]</ref><ref target="#SPA2011N09">[9]</ref> argelino que tenía a la mar
+     <p>-Yo era un poderoso arráez argelino que tenía a la mar
       por patria, libre, feliz y dueño de la inmensidad, dominando como un bajá en mi capitana de
       tres puentes, rodeado de esclavas bellas como houríes... poseía alcázares de mármol, jardines,
-       taifas<ref target="#SPA2011N10">[10]</ref><ref target="#SPA2011N10">[10]</ref> aguerridas, pabellones de granete, bellos y
+       taifas<ref target="#SPA2011N10">[10]</ref> aguerridas, pabellones de granete, bellos y
       suntuosos, y riquezas a montones; cuanto pudiera lisonjear el poderío, el amor propio y la
       ambición, eso mismo me pertenecía; era, en fin, un nabab, cuyos caudales perdíanse en la
       fábula por su inmensidad; y sin embargo, de tanta opulencia ¿qué me resta? Héme aquí reducido
@@ -6711,7 +6708,7 @@
       en la bóveda, le despertaron, sobresaltado el ánimo y receloso. Temía, en verdad, con harto
       fundamento, que pudiera ser víctima de cualquier asechanza por parte de aquellos bandos
       calumniadores que se permitieran inculparle la complicidad, cuando menos, en el asesinato de
-      su hermano D. Sancho de Castilla<ref target="#SPA2011N11">[11]</ref><ref target="#SPA2011N11">[11]</ref>.</p>
+      su hermano D. Sancho de Castilla<ref target="#SPA2011N11">[11]</ref>.</p>
      <p>Al propio tiempo un bulto indefinible avanzaba con solemne gravedad por la gran pieza, aun a
       despecho de la oposición tenaz de los camareros.</p>
      <p>-¡En nombre de Dios! exclamaba el desconocido con una calma solemne que tenía algo de
@@ -6774,7 +6771,7 @@
       causa más que justifique la viva curiosidad que experimento en este instante por conocer su
       objeto. Pero ahora recuerdo que esta noche no ha llovido; ¿cómo, pues, habéis podido mojaros
       tanto?</p>
-     <p>-Un mal paso de mi cabalgadura me ha arrojado al Astura<ref target="#SPA2011N12">[12]</ref><ref target="#SPA2011N12">[12]</ref>,
+     <p>-Un mal paso de mi cabalgadura me ha arrojado al Astura<ref target="#SPA2011N12">[12]</ref>,
       en las inmediaciones de Mansilla; venia el río bastante alto de madre, lo cual me ha puesto a
       riesgo de ser arrebatado por la corriente, demasiado impetuosa por las avenidas de las
       vertientes, acrecidas por las grandes lluvias.</p>
@@ -6798,7 +6795,7 @@
       hay que tomar en cuenta los inconvenientes del camino.</p>
      <p>-Ea, pues, abreviad si os place, puesto que tanto os urge la marcha, ca en negocios de tal
       monta, ocioso fuera entraros en detenimiento, y penoso por demás faceros andar desasosegado e
-      mustio, e por ende asaz desabrido como un cuitado o como un malandrín de cierto jaez<ref target="#SPA2011N13">[13]</ref><ref target="#SPA2011N13">[13]</ref>.</p>
+      mustio, e por ende asaz desabrido como un cuitado o como un malandrín de cierto jaez<ref target="#SPA2011N13">[13]</ref>.</p>
      <p>-Sí, tenéis razón, abreviemos, repuso el monje, el cual acercó todavía más el sillón a la
       cabecera del rey, que le escuchaba con marcado asombro, medio incorporado sobre la
       almohada.</p>
@@ -8333,7 +8330,7 @@
       arrancaba de la misma raíz del muro.</p>
      <p>Sobre aquella solitaria eminencia alzábase, semejante a una mole escueta y sombría, el
       santuario de Santa Susana, pobre y mezquino, sin concluir todavía y tal como le dejara su
-      ilustre fundador, el último obispo Gudesteo<ref target="#SPA2011N14">[14]</ref><ref target="#SPA2011N14">[14]</ref>.</p>
+      ilustre fundador, el último obispo Gudesteo<ref target="#SPA2011N14">[14]</ref>.</p>
      <p>Su humilde fábrica de mampostería alzábase apenas con un solo cuerpo murado, dominado por un
       campanario esbelto en forma de pirámide cónica, semejante a una columna funeraria y cuya aguja
       invisible hundíase perdida en las tinieblas de la noche.</p>
@@ -8839,7 +8836,7 @@
       les dejara libres.</p>
      <p>-De buen grado me pondría en manos del señor conde, dijo con una mansedumbre edificante; y
       aunque estoy seguro que correría indudablemente al martirio, no importa, me hallo dispuesto a
-      todo; pero mi misión en el mundo todavía no está cumplida: id y decidlo así a vuestro amo<ref target="#SPA2011N15">[15]</ref><ref target="#SPA2011N15">[15]</ref>.</p>
+      todo; pero mi misión en el mundo todavía no está cumplida: id y decidlo así a vuestro amo<ref target="#SPA2011N15">[15]</ref>.</p>
      <p>Estas palabras dirigidas al caudillo de los de Altamira, produjeron efecto en su ánimo:
       aquel hombre pareció conmoverse.</p>
      <p>-No creáis, repuso, que es mi voluntad tan depravada que me lleve hasta el sacrílego extremo
@@ -9182,7 +9179,7 @@
       preguntando a gritos con voz trémula:</p>
      <p>-»¿Dónde, dónde?</p>
      <p>»Un pechero que acertara a pasar entonces, lleno de entusiasmo repuso:</p>
-     <p>-»<emph>Allá alto: mira</emph><ref target="#SPA2011N16">[16]</ref><ref target="#SPA2011N16">[16]</ref>.</p>
+     <p>-»<emph>Allá alto: mira</emph><ref target="#SPA2011N16">[16]</ref>.</p>
      <p>»La anciana, aunque ciega, miró en efecto maquinalmente al cielo.</p>
      <p>»Y ¡cosa extraña! tuvo lugar entonces un nuevo, prodigio: aquella mujer vio el fenómeno.</p>
      <p>»Lo vio, sí, cernerse como una masa inflamada sobre un edificio gótico, especie de
@@ -9328,7 +9325,7 @@
       desgracia en estos tiempos de disturbios, y de la cual y sus consecuencias trataban de
       aprovecharse aquellos de común acuerdo con el emisario, pronto por su parte a jugar en esta
       partida hasta su vida misma, si fuere necesario.</p>
-     <p>Reinaba a la sazón en Toledo Yahyah-Ben-Ismail-el-Mahmun<ref target="#SPA2011N17">[17]</ref><ref target="#SPA2011N17">[17]</ref>, príncipe generoso y magnánimo, del cual conservamos más de un recuerdo grato<ref target="#SPA2011N18">[18]</ref><ref target="#SPA2011N18">[18]</ref>. Sus talentos diplomáticos adelantáronse a todo, y
+     <p>Reinaba a la sazón en Toledo Yahyah-Ben-Ismail-el-Mahmun, príncipe generoso y magnánimo, del cual conservamos más de un recuerdo grato<ref target="#SPA2011N18">[18]</ref>. Sus talentos diplomáticos adelantáronse a todo, y
       adelantáronse además al designio mismo de los monarcas cristianos. Pero su plan fracasó por
       desgracia, y el regio embajador hubo medio de huir, llevando consigo una hermosísima joven
       casi niña, delicada y tierna, llamada Hormesinda, nombre tradicional que le impusieran en
@@ -12187,7 +12184,7 @@
      bendita todas las noches, para ahuyentar la turba de fantasmas que le asaltara en su lecho,
      pellizcándole sin misericordia.</p>
     <p>Esto decía el vulgo.</p>
-    <p>Trece meses después, es decir, el día 25 de mayo de 1085<ref target="#SPA2011N19">[19]</ref><ref target="#SPA2011N19">[19]</ref>
+    <p>Trece meses después, es decir, el día 25 de mayo de 1085<ref target="#SPA2011N19">[19]</ref>
      Alfonso tomó por la fuerza de las armas a Toledo, que había estado en poder de los moros por
      espacio de 363 años. </p>
     <p>Después, en el de 1088 fue también depuesto Diego Peláez, obispo de Santiago, reemplazándole

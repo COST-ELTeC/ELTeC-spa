@@ -1,9 +1,6 @@
-<?xml version="1.0" encoding="UTF-8"?>
-    <?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
-            schematypens="http://relaxng.org/ns/structure/1.0"?>
-    <?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
-            schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="SPA3013" xml:lang="SPA">
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
+            schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
+            schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="SPA3013" xml:lang="SPA">
       <teiHeader>
             <fileDesc>
                   <titleStmt>
@@ -365,7 +362,7 @@
                               <p> Detuviéronse todos a su vista, quedando cada cual en su sitio en
                                     el más profundo silencio. Volvió entonces el niño hacia el
                                     cuadro de la Virgen sus grandes ojos azules, rebosando candor y
-                                    pureza, y con vocecita de ángel comenzó a decir:<ref target="#SPA3013N01">[1]</ref><ref target="#SPA3013N01">[1]</ref>
+                                    pureza, y con vocecita de ángel comenzó a decir:<ref target="#SPA3013N01">[1]</ref>
                               </p>
                               <l> Dulcísimo recuerdo de mi vida, </l>
 
@@ -1521,7 +1518,7 @@
                                     vocecita que jamás dejaba un mismo y pausado tono-. Ayer, en el
                                     consejillo, trataron del nombramiento de camarera, porque la
                                     verdad es que la posición de esa pobre Cisterna no puede ser más
-                                    desairada... Pues nada, hija, el ministro de Ultramar<ref target="#SPA3013N02">[2]</ref><ref target="#SPA3013N02">[2]</ref> tuvo la ocurrencia de
+                                    desairada... Pues nada, hija, el ministro de Ultramar<ref target="#SPA3013N02">[2]</ref> tuvo la ocurrencia de
                                     proponer que me hicieran a mí la oferta. </p>
 
                               <p> -¡Indecente! -gritó Leopoldina Pastor-. ¿Y tu marido no le ha dado
@@ -1826,7 +1823,7 @@
 
                               <p> - <foreign xml:lang="ENG"> Go on, Tom, go on! Run Through!...
                                           Carry them off! </foreign>
-                                    <ref target="#SPA3013N03">[3]</ref><ref target="#SPA3013N03">[3]</ref>... </p>
+                                    <ref target="#SPA3013N03">[3]</ref>... </p>
 
                               <p> Tom no se hizo repetir la orden: sacó el hercúleo pecho, tirando
                                     de las riendas, con el esfuerzo de aquellos antiguos aurigas
@@ -1999,7 +1996,7 @@
                                     saloncito; detúvose un momento en el dintel, detrás de las
                                     cortinas, y agobiado, con los bracitos colgando y caída la
                                     cabecita, siguió una galería que iba a parar a la <foreign xml:lang="ENG"> Nursery </foreign>
-                                    <ref target="#SPA3013N04">[4]</ref><ref target="#SPA3013N04">[4]</ref>, al destierro, a la Siberia
+                                    <ref target="#SPA3013N04">[4]</ref>, al destierro, a la Siberia
                                     de los niños, que el desapegado egoísmo de la condesa de
                                     Albornoz había importado para sus hijos de Inglaterra a su casa. </p>
 
@@ -2058,7 +2055,7 @@
 
                               <p> - <foreign xml:lang="ENG"> What's that, Miss?... You have to learn
                                           your piano lesson until eight o'clock... </foreign>
-                                    <ref target="#SPA3013N05">[5]</ref><ref target="#SPA3013N05">[5]</ref>
+                                    <ref target="#SPA3013N05">[5]</ref>
                               </p>
 
                               <p> Entonces huyó el niño de allí desolado; corrió ciego a la <foreign xml:lang="ENG"> Nursery </foreign> y se arrojó de cabeza
@@ -2165,7 +2162,7 @@
                                     Orloff con su ojo tuerto y su brazo manco!... Yo le he visto en
                                     París elegir cocinero en público concurso; acudieron diez a su
                                     palacio de la embajada rusa: yo fui del jurado, y probamos,
-                                    antes de fallar, ciento cuarenta platos <ref target="#SPA3013N06">[6]</ref><ref target="#SPA3013N06">[6]</ref>. ¡Ah!, no, no, Martínez; no
+                                    antes de fallar, ciento cuarenta platos <ref target="#SPA3013N06">[6]</ref>. ¡Ah!, no, no, Martínez; no
                                     es el comer mucho, lo que trae la indigestión... Mi santa madre
                                     lo decía: Tripa llena, alaba a Dios. </p>
 
@@ -3654,7 +3651,7 @@
                                     aristocracia. En el asiento de enfrente, un rufián con sombrero
                                     de copa un poco ladeado y largas patillas postizas, parecía
                                     parodiar a cierto prócer famoso que en aquel tiempo hacía gran
-                                    papel en las filas alfonsinas <ref target="#SPA3013N07">[7]</ref><ref target="#SPA3013N07">[7]</ref>. </p>
+                                    papel en las filas alfonsinas <ref target="#SPA3013N07">[7]</ref>. </p>
 
                               <p> Aquello no fue un bofetón, fue una coz, una patada del
                                     excelentísimo Martínez, que acababa de un golpe con las peinetas
@@ -5543,7 +5540,7 @@
                                     sobrino a la categoría de los espurios, tampoco consintió en
                                     designarle de otro modo que con el nombre de <emph> mi sobrino
                                           el conde consorte de Teba </emph>
-                                    <ref target="#SPA3013N08">[8]</ref><ref target="#SPA3013N08">[8]</ref>. </p>
+                                    <ref target="#SPA3013N08">[8]</ref>. </p>
 
                               <p> Susurraba la leyenda que el tío Frasquito llevaba en su cuerpo
                                     treinta y dos cosas postizas, entre las cuales se contaba una
@@ -5605,7 +5602,7 @@
 
                               <p> Y entre risas despreciativas y observaciones irónicas, comenzó a
                                     leer en su elegante carterita, donde estaban apuntados los
-                                    nombres de los nuevos ministros<ref target="#SPA3013N09">[9]</ref><ref target="#SPA3013N09">[9]</ref>... ¡Pero qué nombres, Virgen Santísima! ¡Si
+                                    nombres de los nuevos ministros<ref target="#SPA3013N09">[9]</ref>... ¡Pero qué nombres, Virgen Santísima! ¡Si
                                     aquello era cosa de morirse de risa!... Figueras, Castelar, Pi y
                                     Margall, los dos Salmerones, Nicolás y Paquito... Córdoba. </p>
 
@@ -6708,7 +6705,7 @@
                                     bolsillo del viejo, murmuró en lengua turca: </p>
 
                               <p> - <emph> ¡Olsum! </emph>
-                                    <ref target="#SPA3013N10">[10]</ref><ref target="#SPA3013N10">[10]</ref>... </p>
+                                    <ref target="#SPA3013N10">[10]</ref>... </p>
 
                               <p> Y levantándose de pronto, propuso al tío Frasquito pedir un
                                           <foreign xml:lang="ENG"> bowl de punch </foreign> bien
@@ -7571,7 +7568,7 @@
                                     de vigilia... En fin, insufrible; ninguno le paraba... ¡Y ella,
                                     unas rridiculeces!... Decían que dorrmía sobre una tarrrima, y
                                     ayunaba a pan y agua, y a ejemplo de no sé qué varrrón piadoso,
-                                    se disciplinaba con un gato <ref target="#SPA3013N11">[11]</ref><ref target="#SPA3013N11">[11]</ref>. </p>
+                                    se disciplinaba con un gato <ref target="#SPA3013N11">[11]</ref>. </p>
 
                               <p> -¡Qué atrocidad!... ¿Con un gato?... ¡Pero eso es imposible!... </p>
 
@@ -7727,7 +7724,7 @@
                               <p> Riéronse mucho todas las presentes de la ocurrencia de Diógenes, y
                                     este, más que por darles placer, por machacarles las liendres,
                                     contóles entonces que Dios no había formado a nuestra madre Eva
-                                    de la costilla de Adán, sino del rabo de una mona<ref target="#SPA3013N12">[12]</ref><ref target="#SPA3013N12">[12]</ref>... Porque aunque este fue
+                                    de la costilla de Adán, sino del rabo de una mona<ref target="#SPA3013N12">[12]</ref>... Porque aunque este fue
                                     su primer intento, y tenía ya la costilla en la mano para formar
                                     de ella a la que había de ser causa de tantas desdichas, una
                                     mona que le miraba hacer atentamente, arrebatóle de repente el
@@ -9062,7 +9059,7 @@
                                     </foreign> , en un suave murmurio que dejaba sobresalir lejos,
                                     cada vez más lejos, hasta convertirse en un eco apagado,
                                     misterioso, mágico, las vibrantes notas de la campanilla de
-                                    plata de Bellak, la cabra blanca <ref target="#SPA3013N13">[13]</ref><ref target="#SPA3013N13">[13]</ref>. </p>
+                                    plata de Bellak, la cabra blanca <ref target="#SPA3013N13">[13]</ref>. </p>
 
                               <p> El telón cayó entonces, y el público permaneció un segundo mudo,
                                     atónito, escuchando aún en aquel silencio que hubiera permitido
@@ -9734,7 +9731,7 @@
                                     España, había de allegar recursos de todos géneros para ser
                                     distribuidos abundantemente en el ejército a nombre de las
                                     señoras alfonsinas, preparando así los ánimos para secundar el
-                                          movimiento<ref target="#SPA3013N14">[14]</ref><ref target="#SPA3013N14">[14]</ref>. </p>
+                                          movimiento<ref target="#SPA3013N14">[14]</ref>. </p>
 
                               <p> El plan fue aprobado con entusiasmo por los prohombres del
                                     partido, y el gran Robinsón sólo pensó entonces, con la enérgica
@@ -11054,7 +11051,7 @@
 
                               <p> Y sus ojos fueron a buscar, entre las mil preciosidades que
                                     adornaban el estudio, una admirable cabeza, pintada por Pantoja,
-                                    de un capuchino<ref target="#SPA3013N15">[15]</ref><ref target="#SPA3013N15">[15]</ref> muerto, en
+                                    de un capuchino<ref target="#SPA3013N15">[15]</ref> muerto, en
                                     cuyo rostro resplandecía esa serena calma que deja impresa la
                                     muerte, como señal de predestinación, sobre la frente de los
                                     justos. Era, en efecto, aquella cabeza venerable el retrato de
@@ -13522,7 +13519,7 @@
                                     angustia: </p>
 
                               <p> - <foreign xml:lang="EUS"> ¡Aita San Ignazio..., salbazazu! </foreign>
-                                    <ref target="#SPA3013N16">[16]</ref><ref target="#SPA3013N16">[16]</ref>
+                                    <ref target="#SPA3013N16">[16]</ref>
                               </p>
 
                               <p> El peligro era inminente; hallábase una de las ruedas traseras
@@ -13828,7 +13825,7 @@
                                     gloria de sus montañas: </p>
 
                               <p> - <foreign xml:lang="EUS"> Aita San Ignazio... agur! </foreign>
-                                    <ref target="#SPA3013N17">[17]</ref><ref target="#SPA3013N17">[17]</ref>
+                                    <ref target="#SPA3013N17">[17]</ref>
                               </p>
 
                               <p> Luego, sin hacer caso de los furiosos aspavientos de Currita, que
@@ -14646,7 +14643,7 @@
                                     labios su pura sonrisa de niño; sobre su frente, amarilla como
                                     el marfil antiguo, un nimbo de cabellos blancos realzaba el tipo
                                     más peregrino de belleza moral que puede fingirse el hombre: la
-                                    inocencia con la cabeza blanca... <ref target="#SPA3013N18">[18]</ref><ref target="#SPA3013N18">[18]</ref>
+                                    inocencia con la cabeza blanca... <ref target="#SPA3013N18">[18]</ref>
                               </p>
 
                         </div>
@@ -15062,7 +15059,7 @@
                                     ministerio-regencia, del cual formaban parte el Gallego y el
                                     Laguna, quedando excluidos, por supuesto, <emph> el joven
                                           Telémaco y el respetable Mentor </emph>
-                                    <ref target="#SPA3013N19">[19]</ref><ref target="#SPA3013N19">[19]</ref>. </p>
+                                    <ref target="#SPA3013N19">[19]</ref>. </p>
 
                               <p> Quedóse este anonadado, púsose Jacobo furioso, y el señor Pulido,
                                     sin fuerzas para enarbolar el dedo indicador, sin alientos para

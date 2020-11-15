@@ -1,9 +1,6 @@
-<?xml version="1.0" encoding="UTF-8"?><!-- Ortografía antigua. Falta modernizar el texto. Falta también anotar cambios de idioma. -->
-    <?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
-            schematypens="http://relaxng.org/ns/structure/1.0"?>
-    <?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
-            schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="SPA2012" xml:lang="SPA">
+<?xml version="1.0" encoding="UTF-8"?><!-- Ortografía antigua. Falta modernizar el texto. Falta también anotar cambios de idioma. --><?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
+            schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
+            schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="SPA2012" xml:lang="SPA">
   <teiHeader>
    <fileDesc>
     <titleStmt>
@@ -1242,7 +1239,7 @@
 <p>—Estoy enterado, y voy á dictar mi sentencia, esclamó el rey, oido que hubo al relator.</p>
 <p>Y éste se echó otra vez de bruces al suelo.</p>
 <p>El rey volvió la cara á los veinte gigantes, á los que dió una órden muy precisa, pues consistió en una sola palabra, y aquellos veinte bárbaros se lanzaron súbitamente sobre los litigantes, á los que cortaron la cabeza en un abrir y cerrar de ojos.</p>
-<p>Luego se levantaron los ministros, felicitando al rey por su justa y sábia decision, y S. R. descendió del trono, y bajo el regio quitasol, precedido de sus ministros, llevando de la cadena á Diego horrorizado, salió de la plaza encaminándose á su palacio rodeado del pueblo que le victoreaba.<ref target="#SPA2012N01">[1]</ref><ref target="#SPA2012N01">[1]</ref></p>
+<p>Luego se levantaron los ministros, felicitando al rey por su justa y sábia decision, y S. R. descendió del trono, y bajo el regio quitasol, precedido de sus ministros, llevando de la cadena á Diego horrorizado, salió de la plaza encaminándose á su palacio rodeado del pueblo que le victoreaba.<ref target="#SPA2012N01">[1]</ref></p>
 </div>
 
 <div type="chapter" n="SPA2012009">
@@ -1420,7 +1417,7 @@
 <p>Seguidamente echóse la tierra amontonada en los bordes, y, lleno el hoyo, el pueblo se puso á bailar sobre los esclavos, cuyos horribles gritos salian de la tierra como desgarradoras maldiciones del averno.</p>
 <p>Diego no creia lo mismo que estaba presenciando.</p>
 <p>Y esta era, sin embargo, la antigua y constantemente observada costumbre en aquel pais de enterrar vivos á los esclavos á la muerte de su señor.</p>
-<p>El rey volvióse tranquila y magestuosamente, seguido de los grandes, á su palacio, y el pueblo se quedó haciendo las últimas honras al príncipe, bailando y cantando sobre la fosa donde se habian enterrado vivos sus siervos.<ref target="#SPA2012N02">[2]</ref><ref target="#SPA2012N02">[2]</ref></p>
+<p>El rey volvióse tranquila y magestuosamente, seguido de los grandes, á su palacio, y el pueblo se quedó haciendo las últimas honras al príncipe, bailando y cantando sobre la fosa donde se habian enterrado vivos sus siervos.<ref target="#SPA2012N02">[2]</ref></p>
 </div>
 
 <div type="chapter" n="SPA2012011">
@@ -1670,7 +1667,7 @@
 <p>Y la negra, cogiendo la cabeza de Diego y sujetándola con un brazo, abrióle con una mano un ojo, mientras con la otra procuraba destilar en él leche de su pecho.</p>
 <p>Ya dijimos antes que la negra tenia otro hijo de pocos dias.</p>
 <p>Repitió la misma operacion en el otro ojo, y el dolor fué instantáneamente pasando.</p>
-<p>El remedio que la negra empleó, es el único eficaz que se conoce en aquel pais, como antídoto de la maligna espuma de la serpiente <emph>copra</emph> <ref target="#SPA2012N03">[3]</ref><ref target="#SPA2012N03">[3]</ref>.</p>
+<p>El remedio que la negra empleó, es el único eficaz que se conoce en aquel pais, como antídoto de la maligna espuma de la serpiente <emph>copra</emph> <ref target="#SPA2012N03">[3]</ref>.</p>
 </div>
 
 <div type="chapter" n="SPA2012013">

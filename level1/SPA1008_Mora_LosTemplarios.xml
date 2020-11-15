@@ -1,9 +1,6 @@
-<?xml version="1.0" encoding="UTF-8"?><!-- Faltaría el tomo 2. Dejo solo el 1 por ser muy amplio. -->
-    <?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
-            schematypens="http://relaxng.org/ns/structure/1.0"?>
-    <?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
-            schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="SPA1008" xml:lang="SPA">
+<?xml version="1.0" encoding="UTF-8"?><!-- Faltaría el tomo 2. Dejo solo el 1 por ser muy amplio. --><?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
+            schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
+            schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="SPA1008" xml:lang="SPA">
   <teiHeader>
    <fileDesc>
     <titleStmt>
@@ -2849,7 +2846,7 @@ eso es tan estrecha la senda de la virtud; por eso es tan ancho el camino del cr
 caballeros casados, los cuales vivan honestamente y poniendo a disposición del común de la
 orden los bienes que posean y en adelante adquieran ambos cónyuges, dejando el esposo por su
 fallecimiento la mitad de su hacienda a la viuda para que subsista hasta su muerte, en cuyo caso
-los Templarios entran posesión de esta otra parte de los bienes.<ref target="#SPA1008N01">[1]</ref><ref target="#SPA1008N01">[1]</ref></p>
+los Templarios entran posesión de esta otra parte de los bienes.<ref target="#SPA1008N01">[1]</ref></p>
 <p>
  -Eso generalmente lo verifican los esposos que tienen hijos.
 </p>
@@ -8610,7 +8607,7 @@ embajador del rey don Sancho de Castilla.
  La hermosa dama, el gracioso niño, casi todos los caballeros y el resto del acompañamiento
 se dirigieron a una de las principales posadas o kanes de la ciudad, mientras que el joven
 embajador, acompañado de otro caballero, fue conducido por la espaciosa y célebre plaza de
-Vivarambla, y subiendo a una pequeña colina, penetraron en el suntuoso y reciente <ref target="#SPA1008N02">[2]</ref><ref target="#SPA1008N02">[2]</ref> alcázar de los reyes moros.</p>
+Vivarambla, y subiendo a una pequeña colina, penetraron en el suntuoso y reciente <ref target="#SPA1008N02">[2]</ref> alcázar de los reyes moros.</p>
 <p>
  Aun cuando todavía no hacía muchos años se había erigido en el suelo de Granada este
 edificio portentoso, maravilla del mundo, con todo, la fama de su magnificencia se había
@@ -8849,7 +8846,7 @@ significativas...
 arrogancia del mensajero.
 </p>
 <p>
- -Rey de Granada, rey de Marruecos: sabed que mi rey y señor tiene para vosotros <emph> en una mano el pan en la otra el palo</emph>. <ref target="#SPA1008N03">[3]</ref><ref target="#SPA1008N03">[3]</ref></p>
+ -Rey de Granada, rey de Marruecos: sabed que mi rey y señor tiene para vosotros <emph> en una mano el pan en la otra el palo</emph>. <ref target="#SPA1008N03">[3]</ref></p>
 <p>
  Todos los que se hallaban presentes no pudieron menos de admirarse al oír aquella notable
 embajada, cuyo tono amenazador anunciaba que muy pronto la guerra había de comenzar más
@@ -15390,7 +15387,7 @@ a verme, porque si no estuviera tan postrado como me tiene mi enfermedad, nadie 
 impedido que yo no hubiese ido a socorreros; mas vos haréis conmigo lo que yo no he podido
 hacer con vos, que es veniros vos luego a mí, porque quiero hacer en vos mercedes que sean
 semejantes a vuestros servicios. -A la vuestra buena mujer nos encomendamos la mía y yo, y
-Dios sea con vosotros-. De Alcalá de Henares a dos de Enero. Era de 1333 años. -EL REY-. <ref target="#SPA1008N04">[4]</ref><ref target="#SPA1008N04">[4]</ref></p>
+Dios sea con vosotros-. De Alcalá de Henares a dos de Enero. Era de 1333 años. -EL REY-. <ref target="#SPA1008N04">[4]</ref></p>
 <p>
  Al concluir su lectura, las lágrimas se rodaban de los ojos del héroe; pero aquel llanto ahora
 estaba mezclado de gozo, porque a los nobles corazones les place que se reconozca por los
@@ -19139,7 +19136,7 @@ para vuestros pies; pretendéis en un instante recorrer de polo a polo el univer
 cabalgando sobre el sol, tener su carro y sus luces, y después sepultaros en los abismos del mar
 y de la tierra y sorprender la cuna del coral y el secreto de los volcanes, y luego, todavía no
 satisfecho, volveríais a la región etérea y preguntaríais a los astros que adónde iban sin vuestro
-permiso, pediríais también informes a los aerolitos<ref target="#SPA1008N05">[5]</ref><ref target="#SPA1008N05">[5]</ref> de los últimos confines de la atmósfera, de
+permiso, pediríais también informes a los aerolitos<ref target="#SPA1008N05">[5]</ref> de los últimos confines de la atmósfera, de
 dónde han caído, o bien les exigiríais la descripción de la materia cósmica de otros planetas, si
 por ventura de allí vienen; pretenderíais adivinar las intenciones de los cometas, y penetrando con
 sublime osadía en el seno de las nubes, arrancarles sus flamígeros rayos, y con el vagido de
@@ -21503,7 +21500,7 @@ asistencia.
 </p>
 <p>
  -¡Eso es imposible! ¡Me querrás hacer creer que no han contado con la asistencia de todos los
-caballeros de las Casas <ref target="#SPA1008N06">[6]</ref><ref target="#SPA1008N06">[6]</ref> de Castilla para la elección del nuevo maestre? Según las prácticas
+caballeros de las Casas <ref target="#SPA1008N06">[6]</ref> de Castilla para la elección del nuevo maestre? Según las prácticas
 establecidas, y conforme el espíritu de nuestra regla, para tales actos deben reunirse todos los
 caballeros. Lo contrario es una injusticia, de la cual yo mismo me quejaré al gran maestre.
 </p>
@@ -23405,7 +23402,7 @@ frotada con una pasta maravillosa, cuyo secreto nadie sino otra persona posee en
 más valga; ni jamás el fuego
  <emph>
   filosófico
- </emph><ref target="#SPA1008N07">[7]</ref><ref target="#SPA1008N07">[7]</ref> usado por los químicos podrá compararse con las
+ </emph><ref target="#SPA1008N07">[7]</ref> usado por los químicos podrá compararse con las
 maravillas que encierra en su seno esta luz azulada, que hace poco hirió vuestros ojos.
 </p>
 <p>
@@ -23586,7 +23583,7 @@ inundado de asombro, de dignidad y gratitud por la grandeza de mis descubrimient
 hombres serán casi inmortales y se aproximarán cuanto es posible a ser la imagen de Dios, no
 ya en la esfera del pensamiento, sino en el fecundo teatro de la acción, de la esfera práctica.
 Gozarán casi como Dios de la omnipresencia; se mudarán las relaciones del tiempo y del espacio;
-multiplicará el hombre la actividad de sus sentidos<ref target="#SPA1008N08">[8]</ref><ref target="#SPA1008N08">[8]</ref>; se explicarán las leyes ahora misteriosas de los presentimientos; la inteligencia humana asistirá gozosa al espectáculo de tanta actividad, de
+multiplicará el hombre la actividad de sus sentidos<ref target="#SPA1008N08">[8]</ref>; se explicarán las leyes ahora misteriosas de los presentimientos; la inteligencia humana asistirá gozosa al espectáculo de tanta actividad, de
 tanta y tan variada vida como hierve, lucha y resplandece en el seno de la naturaleza; sus palabras
 irán, envueltas en el rayo; sus ojos, ayudados por instrumentos portentosos, acaso descubrirán
 nuevos seres habitadores de los astros; sus labios en la copa de la vitalidad científica gustarán el
@@ -24090,7 +24087,7 @@ vertiginoso del fluido esencialmente vital, y conserva en el cuerpo humano, sin 
 deterioro, la parte más pura, oleosa y saludable de la sangre, <foreign xml:lang="LAT"> sincerior sanguinis succus</foreign>. Hecha esta brevísima explicación acerca de este pasmoso medicamento, sólo me resta deciros que un
 hombre, graduando la dosis según la razón combinada de su complexión y del tiempo que
 pretenda renunciar a la vida, puede sin el menor peligro suspender todas las funciones de su
-organismo, proporcionándose así como una especie de catalepsia<ref target="#SPA1008N09">[9]</ref><ref target="#SPA1008N09">[9]</ref> de la duración que más le
+organismo, proporcionándose así como una especie de catalepsia<ref target="#SPA1008N09">[9]</ref> de la duración que más le
 plazca. Así, pues, el hombre que a los treinta años suspendió su vida, puede muy bien levantarse
 joven, lozano y gozoso después de un siglo, y vivir y viajar y amar y conocer ciencias nuevas,
 trajes diversos, costumbres distintas, imperios recientes, razas, fisonomías, civilizaciones e
@@ -24946,7 +24943,7 @@ formaba una de esas cabezas amartilladas, como dirían hoy nuestros frenólogos.
 </p>
 <p>
  Estaba envuelto en un sayo negro de velarte; los calzones eran también negros del mejor paño
-treinteno<ref target="#SPA1008N10">[10]</ref><ref target="#SPA1008N10">[10]</ref>, y las calzas eran igualmente negras. Todo su aspecto, en fin, era el de un avispado golilla. El personaje que acabamos de describir abrazó con muestras del más acendrado cariño
+treinteno<ref target="#SPA1008N10">[10]</ref>, y las calzas eran igualmente negras. Todo su aspecto, en fin, era el de un avispado golilla. El personaje que acabamos de describir abrazó con muestras del más acendrado cariño
 a uno de los dos caminantes, mientras que el otro permanecía con cierto aire de reserva. Según
 todas las trazas, el habitante misterioso de la abadía y el primero de los dos jinetes eran muy
 íntimos amigos, en tanto que el segundo no parecía haber visto jamas a tal personaje.
@@ -27130,7 +27127,7 @@ suspiros. Luego, con una entonación fresca y brillante como la de un ruiseñor 
 se la oyó entonar una triste canción llena de melodía:
 </p>
 
-  <l>La flor del amaranto<ref target="#SPA1008N11">[11]</ref><ref target="#SPA1008N11">[11]</ref></l>
+  <l>La flor del amaranto<ref target="#SPA1008N11">[11]</ref></l>
   <l>Que antes pisaba la gentil doncella,</l>
   <l>Ora me ofrece con su tinta bella</l>
   <l>Símbolo triste de mi eterno llanto.</l>
@@ -27143,7 +27140,7 @@ mirando al suelo con la actitud de buscar flores, volvió a cantar otra vez con 
 y vibrante, sólo que entonces el aire era más rápido, más popular, pero no menos expresivo:
 </p>
 
-  <l>La que encuentra helecho<ref target="#SPA1008N12">[12]</ref><ref target="#SPA1008N12">[12]</ref> en flor</l>
+  <l>La que encuentra helecho<ref target="#SPA1008N12">[12]</ref> en flor</l>
   <l>La mañana de San Juan,</l>
   <l>Verá cumplirse el afán</l>
   <l>De su apasionado amor.</l>
@@ -27292,7 +27289,7 @@ algún día llegase a sucederte alguna desgracia...
 la tierra, dijo con ademán extraviado:
 </p>
 <p>
- -¡Mira!... Busco flores, busco la flor del amor<ref target="#SPA1008N13">[13]</ref><ref target="#SPA1008N13">[13]</ref> y... ¡no la encuentro!
+ -¡Mira!... Busco flores, busco la flor del amor<ref target="#SPA1008N13">[13]</ref> y... ¡no la encuentro!
 </p>
 <p>
  La joven comenzó a sollozar.

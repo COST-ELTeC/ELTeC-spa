@@ -1,9 +1,6 @@
-<?xml version="1.0" encoding="UTF-8"?>
-    <?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
-            schematypens="http://relaxng.org/ns/structure/1.0"?>
-    <?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
-            schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="SPA2010" xml:lang="SPA"> 
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
+            schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
+            schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="SPA2010" xml:lang="SPA"> 
 <teiHeader>
     <fileDesc>
         <titleStmt>
@@ -606,7 +603,7 @@ Rodrigo levantándose.-¿De qué se me acusa?
      -Tenéis razón, caballero; no me había
 olvidado de que era un crimen a los ojos de los regentes del reino
 la defensa de las libertades patrias... Decid a vuestro amo que la
-víctima está dispuesta al sacrificio <ref target="#SPA2010N01">[1]</ref><ref target="#SPA2010N01">[1]</ref>.
+víctima está dispuesta al sacrificio <ref target="#SPA2010N01">[1]</ref>.
     </p>
     
 
@@ -2870,7 +2867,7 @@ de profundo descontento, y aun de amenaza.
      <title>
       Crónica
      </title>
-     <ref target="#SPA2010N02">[2]</ref><ref target="#SPA2010N02">[2]</ref>
+     <ref target="#SPA2010N02">[2]</ref>
      
      de Lorenzo de Padilla, autor contemporáneo, -luego que entró
 en Valladolid, para se más apoderar del reino, quitó las tenencias
@@ -2900,7 +2897,7 @@ años...»
 
     <p>
      El doctor Parra, que asistió a don
-Felipe en su maligna enfermedad, escribió así <ref target="#SPA2010N03">[3]</ref><ref target="#SPA2010N03">[3]</ref> al rey viudo don Fernando el Católico:
+Felipe en su maligna enfermedad, escribió así <ref target="#SPA2010N03">[3]</ref> al rey viudo don Fernando el Católico:
     </p>
     
 
@@ -4492,7 +4489,7 @@ pérdidas dolorosas.
      Algunos cadáveres habían quedado en la
 falda de la montaña, casi a los mismos postigos del lado Norte del
 castillo, y aún alguno agarrado fuertemente a las estacas de la
-segunda empalizada <ref target="#SPA2010N04">[4]</ref><ref target="#SPA2010N04">[4]</ref>; y estos hechos probaban a los escasos defensores de
+segunda empalizada <ref target="#SPA2010N04">[4]</ref>; y estos hechos probaban a los escasos defensores de
 aquella fortaleza, que si los insurrectos se atrevían a repetir el
 ataque con más fuerzas y nuevos bríos, y bajo la dirección de un
 jefe valiente y astuto, difícil sería contenerlos en tan denodado

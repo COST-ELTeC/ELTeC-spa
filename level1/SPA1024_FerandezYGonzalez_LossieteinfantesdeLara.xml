@@ -1,9 +1,6 @@
-<?xml version="1.0" encoding="UTF-8"?><!--La ortografía no está modernizada. Revisar todo el texto-->
-    <?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
-            schematypens="http://relaxng.org/ns/structure/1.0"?>
-    <?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
-            schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="SPA1024" xml:lang="SPA">
+<?xml version="1.0" encoding="UTF-8"?><!--La ortografía no está modernizada. Revisar todo el texto--><?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
+            schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
+            schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="SPA1024" xml:lang="SPA">
 	<teiHeader>
 		<fileDesc>
 			<titleStmt>
@@ -350,7 +347,7 @@ encontrar un modelo mejor para representar al arcángel rebelde.</p>
 <p>En aquellos momentos parecia uno de esos vampiros sedientos de sangre
 humana, que se levantan de su tumba maldita, cuando al mediar la noche
 suena la hora de las apariciones y de los maleficios. Doña Lambra
-entonces justificaba su nombre<ref target="#SPA1024N01">[1]</ref><ref target="#SPA1024N01">[1]</ref>.</p>
+entonces justificaba su nombre<ref target="#SPA1024N01">[1]</ref>.</p>
 
 <p>Pero cuando su alma se sentia halagada por un placer cualquiera, cuando
 por su pensamiento pasaban ardientes ilusiones, entonces aquel
@@ -3139,7 +3136,7 @@ Velazquez.</p>
 
 <p>Vivia este en un antiguo palacio cerca del alcázar condal, situado en el
 mismo punto que hoy ocupan las Carnicerías. Cuando estuvieron cerca,
-Diego se entró en una taberna<ref target="#SPA1024N02">[2]</ref><ref target="#SPA1024N02">[2]</ref>.</p>
+Diego se entró en una taberna<ref target="#SPA1024N02">[2]</ref>.</p>
 
 <p>Acudió desalado el tabernero al verá los siete hermanos, que eran muy
 conocidos en Búrgos, y se puso humildemente á sus órdenes. Diego pidió
@@ -4390,7 +4387,7 @@ algo.</p>
 
 <p>—¿Cuándo?</p>
 
-<p>—A la tercera vigilia<ref target="#SPA1024N03">[3]</ref><ref target="#SPA1024N03">[3]</ref>.</p>
+<p>—A la tercera vigilia<ref target="#SPA1024N03">[3]</ref>.</p>
 
 <p>—Bien, aun falta mucho tiempo: ahora es la media noche. Vete y ten
 presente que si no me traes esa carta, sabrá el conde, tu señor, que
@@ -5269,7 +5266,7 @@ pidiendo á voces otra nueva; la templé como pude, y me puse á cantar el
 romance de Roncesvalles, con el valiente Bernardo y el gigante Roldan:
 entonces, ya sabéis que yo soy muy trovador, aunque no he podido
 comprarme un sayo de sedilla y un laúd; en fin, lo que hace al caso es
-que el arcipreste <ref target="#SPA1024N04">[4]</ref><ref target="#SPA1024N04">[4]</ref> se asomó á la puerta, y me hizo entrar para que me
+que el arcipreste <ref target="#SPA1024N04">[4]</ref> se asomó á la puerta, y me hizo entrar para que me
 oyese su vieja manceba... una fea bruja perlática, mis señores. Y entre
 canto y danza, aventurando palabras, soltando embustes, saqué en claro
 que la abadesa de san Torcaz es tia de vuesas mercedes, señores
@@ -5312,7 +5309,7 @@ introducirme, y aquí de la dificultad, porque habéis de saber, mis
 buenos señores, que la abadía de san Torcaz...</p>
 
 <p>—Sí, ya sabemos que sus muros son fuertes, su cava profunda, sus torres
-altas, y que la guardan buenos ballesteros <ref target="#SPA1024N05">[5]</ref><ref target="#SPA1024N05">[5]</ref>, dijo Ruy.</p>
+altas, y que la guardan buenos ballesteros <ref target="#SPA1024N05">[5]</ref>, dijo Ruy.</p>
 
 <p>—Por lo mismo, continuó Alcaraban, mi empeño era dificultoso: pero puse
 el magín en tortura, y encontré un medio...</p>
@@ -5986,7 +5983,7 @@ repente se detuvo con espanto al ver ante sí aquella forma negra.</p>
 <p>El terror de Blanca se desvaneció, porque en la voz de la dueña habia
 reconocido á Ruy Gonzalez.</p>
 
-<p>—¡Rodrigo! <ref target="#SPA1024N06">[6]</ref><ref target="#SPA1024N06">[6]</ref> esclamó; ¿ores tú?</p>
+<p>—¡Rodrigo! <ref target="#SPA1024N06">[6]</ref> esclamó; ¿ores tú?</p>
 
 <p>—Sí, yo soy, esclamó el loco; pero silencio: ahí está Gonzalo.</p>
 
@@ -6019,7 +6016,7 @@ si asistiese á la cita de un amante. ¿No oyes ese laúd?</p>
 tiempo.</p>
 
 <p>Y asiendo á Blanca de una mano, la arrastró á la cámara, cuya puerta
-conocía, porque habia entrado muchas veces en ella <ref target="#SPA1024N07">[7]</ref><ref target="#SPA1024N07">[7]</ref>.</p>
+conocía, porque habia entrado muchas veces en ella <ref target="#SPA1024N07">[7]</ref>.</p>
 
 <p>—Pronto, esclamó Ruy Gonzalez cuando estuvieron dentro: vístete estas
 tocas de dueña, ponte esta saya, este manto y este mongil y haz de
@@ -8373,8 +8370,8 @@ ruinas, nada encontraríais de la córte de Aaab-el-Rajman el grande, mas
 que una mezquita bautizada, á la que el tiempo y los hombres han robado,
 el uno sus estucos, sus ajaracas, sus arcos labrados á maravilla, sus
 alicatados y sus artesones: los otros sus lámparas de oro, sus alkatifas
-de oriente, la <emph>maksura</emph> <ref target="#SPA1024N08">[8]</ref><ref target="#SPA1024N08">[8]</ref> de maderas y metales preciosos del califa,
-y el <emph>almimbar</emph> <ref target="#SPA1024N09">[9]</ref><ref target="#SPA1024N09">[9]</ref> lujosísimo de su gran faquí. No hallareis en esa
+de oriente, la <emph>maksura</emph>  de maderas y metales preciosos del califa,
+y el <emph>almimbar</emph> <ref target="#SPA1024N09">[9]</ref> lujosísimo de su gran faquí. No hallareis en esa
 ciudad casi desierta, si se compara con lo que fué en otro tiempo, con
 la Corthobah de los árabes, mas que algunos trozos derruidos de murallas
 y algunas cisternas: sus ochocientas mezquitas, cada una de las cuales
@@ -8394,7 +8391,7 @@ encontrareis algunos montones de tierra, cubiertos de yerba.</p>
 <p>Aquella poblacion, ó por mejor decir, aquel alcázar, era Medinat
 Azahrah, construido por el califa Aaab-el-Rajman Anasir por amor á una
 su esclava favorita, de estremada hermosura, cuyo nombro habia puesto al
-palacio <ref target="#SPA1024N10">[10]</ref><ref target="#SPA1024N10">[10]</ref>.</p>
+palacio <ref target="#SPA1024N10">[10]</ref>.</p>
 
 <p>Si nosotros tomáramos por nuestra cuenta la descripción de aquella
 maravilla de la ostentación oriental del califa Anasir, de seguro muchos
@@ -8576,7 +8573,7 @@ un instrumento de cuerda, diestrísimamente tañido, con que se acompañaba
 una dulce y armoniosa voz de mujer, fresca y pura como las auras de la
 noche.</p>
 
-<p>—Es mí hija Sayaradur <ref target="#SPA1024N11">[11]</ref><ref target="#SPA1024N11">[11]</ref>, que entretiene su vela, solía decir Almanzor
+<p>—Es mí hija Sayaradur <ref target="#SPA1024N11">[11]</ref>, que entretiene su vela, solía decir Almanzor
 con cierto orgullo satisfecho, al notar que los que le acompañaban
 escuchaban con delicia aquella música deliciosa.</p>
 
@@ -8734,7 +8731,7 @@ argentina, dulce, pero timbrada por un melancólico dolor:</p>
 
 <p>Sola yo muriendo vivo; tristes lagrimas derramo,</p>
 
-<p>Perlas que corren del alma, herida del desengaño. <ref target="#SPA1024N12">[12]</ref><ref target="#SPA1024N12">[12]</ref></p>
+<p>Perlas que corren del alma, herida del desengaño. <ref target="#SPA1024N12">[12]</ref></p>
 
 <p>Este romance cayó, por decirlo asi, nota á nota, frase á frase en el
 alma de Gustios de Lara. Cantado á aquella hora, con tal sentimiento de
@@ -8816,7 +8813,7 @@ soberano.</p>
 <p>No era Almanzor hombre que sufriese con calma el que fuese arrollada su
 bandera, y aunque no habia llegado aun la estación de la guerra, pregonó
 el <foreign xml:lang="ARA">Algihed</foreign> ó guerra santa; reunió bajo los muros de Córdoba un
-ejército de cinco mil lanzas <ref target="#SPA1024N13">[13]</ref><ref target="#SPA1024N13">[13]</ref>, y dejando al frente del gobierno á
+ejército de cinco mil lanzas <ref target="#SPA1024N13">[13]</ref>, y dejando al frente del gobierno á
 Mojanmet-Al-Madhi-bi-laj <emph>(el dirigido por Dios),</emph> primo del califa
 Hescham, á quien amaba y apreciaba tanto, por la perfecta hipocresía con
 que supo encubrir sus vicios, bajo apariencias y prácticas de virtud,
@@ -9236,7 +9233,7 @@ oro en la mano.</p>
 era Sayaradur; pero á tiempo Gaspar, como previendo la duda del conde,
 dijo:</p>
 
-<p>—Déjame tu lámpara, Kinza<ref target="#SPA1024N14">[14]</ref><ref target="#SPA1024N14">[14]</ref>, y adelántate.</p>
+<p>—Déjame tu lámpara, Kinza<ref target="#SPA1024N14">[14]</ref>, y adelántate.</p>
 
 <p>La doncella dejó la lámpara á Gaspar, atravesó la magnífica cámara en
 que se encontraban, y desapareció.</p>
@@ -9711,7 +9708,7 @@ los rubíes, las perlas y los balajes que antes habian constituido
 aquellas magníficas alhajas: encerró los fragmentos restantes en el
 cofrecillo, el cofrecillo en el arca, se vistió y llamó á sus doncellas.</p>
 
-<p>—¿Quien guarda la puerta de la Axarquia? <ref target="#SPA1024N15">[15]</ref><ref target="#SPA1024N15">[15]</ref>dijo.</p>
+<p>—¿Quien guarda la puerta de la Axarquia? <ref target="#SPA1024N15">[15]</ref>dijo.</p>
 
 <p>—El walí, ebu-Zabu.</p>
 
@@ -10164,7 +10161,7 @@ hombre á quien amo.</p>
 
 <p>—¿Y como piensas aliviar á estos infelices? dijo conmovido el obispo.</p>
 
-<p>—Quiero fundar un almarestan <ref target="#SPA1024N16">[16]</ref><ref target="#SPA1024N16">[16]</ref> para ellos en el mismo sitio en que
+<p>—Quiero fundar un almarestan <ref target="#SPA1024N16">[16]</ref> para ellos en el mismo sitio en que
 están sus barracas.</p>
 
 <p>—Pero si tu padre sabe...</p>
@@ -11325,7 +11322,7 @@ por Rajatul-laj.</p>
 <p>El walí le saludó con respeto, Sayaradur con ansiedad.</p>
 
 <p>—¿Qué noticias tienes que darnos, luz de la ciencia? esclamó la jóven:
-¿el Arcángel Azrael <ref target="#SPA1024N17">[17]</ref><ref target="#SPA1024N17">[17]</ref> ha tendido acaso por desgracia sus negras alas
+¿el Arcángel Azrael <ref target="#SPA1024N17">[17]</ref> ha tendido acaso por desgracia sus negras alas
 sobre el cristiano?</p>
 
 <p>—Los dias del rumy, contestó con acento grave el sábio, aun no están
@@ -12814,7 +12811,7 @@ veinte ginetes les siguieron á una respetuosa distancia.</p>
 <p>A todas luces Sayaradur guiaba; por lo que su padre la dijo sonriendo:</p>
 
 <p>—¡Por el Señor, benéfico y misericordioso, que esta es la primera vez
-que llevo tan hermoso adalid! <ref target="#SPA1024N18">[18]</ref><ref target="#SPA1024N18">[18]</ref>.</p>
+que llevo tan hermoso adalid! <ref target="#SPA1024N18">[18]</ref>.</p>
 
 <p>—¿Te pesa de ello, señor?</p>
 
@@ -12882,7 +12879,7 @@ soldados.</p>
 
 <p>—¿Y cuánto vale esta alhaja? dijo el receptor.</p>
 
-<p>—Esa alhaja vale dos millones de dinares <ref target="#SPA1024N19">[19]</ref><ref target="#SPA1024N19">[19]</ref>: dáme pues tu recibo.</p>
+<p>—Esa alhaja vale dos millones de dinares <ref target="#SPA1024N19">[19]</ref>: dáme pues tu recibo.</p>
 
 <p>El recaudador puso el recibo de un millón de dinares por el pontazgo de
 un hágib y de otro millón por su hija y de su guarda.</p>
@@ -12916,7 +12913,7 @@ lámpara, retrocedió.</p>
 
 <p>—Este es un lugar de idolatría, dijo.</p>
 
-<p>—No, es un santuario del Espíritu de Dios <ref target="#SPA1024N20">[20]</ref><ref target="#SPA1024N20">[20]</ref>, de un varan justo,
+<p>—No, es un santuario del Espíritu de Dios <ref target="#SPA1024N20">[20]</ref>, de un varan justo,
 caritativo, sábio y bueno.</p>
 
 <p>—La ley prohíbe las imágenes.</p>
@@ -14226,7 +14223,7 @@ de Abd-el-Rajman, (pie tuvo la fortuna de huir, y sabiendo que tú
 estabas retirado en este palacio, hizo correr las nuevas de tu muerte, y
 presentó en Corthobah, con las vestiduras imperiales á un desdichado que
 tuvo la desgracia de parecértese... Aquel muerto falso fué enterrado en
-la rauda <ref target="#SPA1024N22">[22]</ref><ref target="#SPA1024N22">[22]</ref> de tus mayores, y todos te creen muerto.</p>
+la rauda <ref target="#SPA1024N22">[22]</ref> de tus mayores, y todos te creen muerto.</p>
 
 <p>—Pues mejor, mucho mejor, dijo el califa; así me ahorro de que alguna
 vez me atormenten con quejas y con pretensiones... ¡me creen muerto!...
@@ -14531,7 +14528,7 @@ yatagan.</p>
 
 <p>—¡Oh! ella es una esclava mia, la mas hermosa de mis esclavas; una
 muchacha de catorce años que encontré en un bazar de Fez hace dos años
-en poder de un judio; es bayadera <ref target="#SPA1024N23">[23]</ref><ref target="#SPA1024N23">[23]</ref>. Baila de una manera incomparable
+en poder de un judio; es bayadera <ref target="#SPA1024N23">[23]</ref>. Baila de una manera incomparable
 una danza que ella ha inventado, que se ¡lama la <emph>Mariposa</emph>-, le
 fascinará: ademas la muchacha, que como te he dicho, es muy perspicaz y
 muy graciosa, está amaestrada por mi: se fingirá maga: ya hemos hecho la
@@ -14551,7 +14548,7 @@ mas triste, de encerrarla en un saco y arrojarla al Guadalquivir.</p>
 
 <p>—¿Están avisados nuestros amigos de Corthobah?</p>
 
-<p>—Al primer son de las atakebiias <ref target="#SPA1024N24">[24]</ref><ref target="#SPA1024N24">[24]</ref> los muecines <ref target="#SPA1024N25">[25]</ref><ref target="#SPA1024N25">[25]</ref> subirán á los
+<p>—Al primer son de las atakebiias  los muecines <ref target="#SPA1024N25">[25]</ref> subirán á los
 alminares y llamarán á la insurrección á los creyentes en nombre de
 Dios. Entonces los barrios de Axarquia y de Algufia se levantarán en
 masa, y si los de Adobar y Alquibla, donde se aposentan los soldados de
@@ -14971,7 +14968,7 @@ Mudarra al ver su larga cabellera negra.</p>
 
 <p>—¡Mi cabeza! ¡ah! ¿Eres el verdugo de los rebeldes?</p>
 
-<p>—Yo soy Mudarra <ref target="#SPA1024N26">[26]</ref><ref target="#SPA1024N26">[26]</ref>.</p>
+<p>—Yo soy Mudarra <ref target="#SPA1024N26">[26]</ref>.</p>
 
 <p>—¿Y qué me importa? esclamó con desprecio Al-Madhi.</p>
 
@@ -15681,7 +15678,7 @@ poner espanto.</p>
 <p>Por ejemplo, una noche en la plataforma de la torre de honor, apareció
 un fantasma blanco que agitaba sus brazos, largos como la aspas de un
 molino de viento, y lanzaba de tiempo en tiempo lúgubres gemidos; otras
-noches, tras una de las ventanas de la <emph>sala-rica</emph> <ref target="#SPA1024N27">[27]</ref><ref target="#SPA1024N27">[27]</ref>, se veia el
+noches, tras una de las ventanas de la <emph>sala-rica</emph> <ref target="#SPA1024N27">[27]</ref>, se veia el
 reflejo de una luz que aparecía y desaparecía por intérvalos iguales,
 dejando al desaparecer la ventana en tinieblas. Otras veces, y esto era
 lo que mas aterraba á los vecinos, la campana del palacio daba siete
@@ -18102,7 +18099,7 @@ tajo, y debajo haces de leña.</p>
 resguardadas por arqueros del conde soberano, y en fin, doscientos
 ballesteros, estendidos á lo largo de la barrera, aseguraban el campo.</p>
 
-<p>Antes de que llegase la hora de tercia <ref target="#SPA1024N28">[28]</ref><ref target="#SPA1024N28">[28]</ref> oyéronse por entrambas
+<p>Antes de que llegase la hora de tercia <ref target="#SPA1024N28">[28]</ref> oyéronse por entrambas
 poternas atabales y trompetas, y por la de la izquierda, acompañado de
 pages y escuderos, entró Mudarra Gonzalez, armado de todas piezas, en
 trance de guerra, ginete en un magnífico alazan árabe engualdrapado de
@@ -18175,7 +18172,7 @@ del palenque é hicieron sonar sus trompetas, se restableció el silencio.</p>
 <p>En él se decia que habiendo sido sentenciada doña Lambra á la hoguera
 por herejía, brujería y pacto con el diablo, habia apelado al juicio de
 Dios; y que habiéndosele concedido campo para aquel dia, su causa se
-decidiría por la prueba del duelo á la hora de sesta <ref target="#SPA1024N29">[29]</ref><ref target="#SPA1024N29">[29]</ref>; que el
+decidiría por la prueba del duelo á la hora de sesta <ref target="#SPA1024N29">[29]</ref>; que el
 mantenedor del tribunal era el piadoso caballero Ginés del Vado, y los
 campeones de doña Lambra, los nobles caballeros Gonzalo de Piedrahita,
 señor de Piedrahita, en primer lugar; y si este no pudiese tomar la
@@ -18245,7 +18242,7 @@ inclinaron sobre el arzón delantero: al tercero, los escúdelos soltaron
 las bridas, y el rey de armas del campo gritó con voz estentórea en
 francés, según el uso de aquellos tiempos:</p>
 
-<p><foreign xml:lang="FRA">—Legeres allér, legeres allér, é fair son debér</foreign> <ref target="#SPA1024N30">[30]</ref><ref target="#SPA1024N30">[30]</ref></p>
+<p><foreign xml:lang="FRA">—Legeres allér, legeres allér, é fair son debér</foreign> <ref target="#SPA1024N30">[30]</ref></p>
 
 <p>Apenas pronunciada estas palabras, Mudarra y Gonzalo-el-Rojo claváronlos
 acicates en los flancos de sus caballos, que partieron á rienda suelta:
@@ -18747,7 +18744,7 @@ esta manera, aunque grosera, memorable... metióle por la manga de una
 muy ancha camisa, y sacóle la cabeza por el cabezón; lióle paz en el
 rostro, con que le pasó á su familia, y recibió por su hijo de esta
 costumbre salió el refrán vulgar: <emph>entra por la manya y sale por el
-cabezón</emph> <ref target="#SPA1024N31">[31]</ref><ref target="#SPA1024N31">[31]</ref>.»</p>
+cabezón</emph> <ref target="#SPA1024N31">[31]</ref>.»</p>
 
 <p>La segunda ceremonia fué el casamiento de Mudarra y de Estrella; del
 cual fueron padrinos el conde soberano y la condesa su esposa: dícese

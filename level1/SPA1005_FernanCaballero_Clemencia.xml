@@ -1,9 +1,6 @@
-<?xml version="1.0" encoding="UTF-8"?>
-    <?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
-            schematypens="http://relaxng.org/ns/structure/1.0"?>
-    <?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
-            schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="SPA1005" xml:lang="SPA">
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
+            schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
+            schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="SPA1005" xml:lang="SPA">
       <teiHeader>
             <fileDesc>
                   <titleStmt>
@@ -337,7 +334,7 @@
                               me alcanza un gamo. Bien me se ocurre hacer lo que aquel que en tiempo
                               del imperio tiré al foro una cáscara de naranja rellena de luises,
                               gritando: <foreign xml:lang="FRA"> Prenez les louis et rejettez
-                                    l'écorce </foreign>;<ref target="#SPA1005N02">[2]</ref><ref target="#SPA1005N02">[2]</ref> pero no
+                                    l'écorce </foreign>;<ref target="#SPA1005N02">[2]</ref> pero no
                               me atrevo, y me atengo a la máxima de mis queridas y prudentes amigas
                               las golondrinas, que dicen al ver llegar el triste otoño y el frío
                               invierno: ¡Huir... huir... comadre Beatriiiiz! </p>
@@ -2810,7 +2807,7 @@
                                     calle, me he metido hasta aquí -añadió señalando un tobillo. </p>
 
 
-                              <p> -Póngale usted una losa <ref target="#SPA1005N03">[3]</ref><ref target="#SPA1005N03">[3]</ref> -dijo
+                              <p> -Póngale usted una losa <ref target="#SPA1005N03">[3]</ref> -dijo
                                     Alegría. </p>
 
 
@@ -4282,7 +4279,7 @@
                                     más chicoleos. Le dejé acabar su retahíla, y le dije: ¿Y qué
                                     más? -Me respondió que lo que deseaba era que le diese una
                                     cita-. Bien está, -le contesté-. ¿En dónde? -me preguntó-. En
-                                    San Marcos <ref target="#SPA1005N04">[4]</ref><ref target="#SPA1005N04">[4]</ref>, -le grité-, so
+                                    San Marcos <ref target="#SPA1005N04">[4]</ref>, -le grité-, so
                                     descabellado, y le volví la espalda. </p>
 
 
@@ -5156,7 +5153,7 @@
                               <head> Capítulo I </head>
 
 
-                              <p> Don Martín Ladrón de Guevara, padre de Fernando <ref target="#SPA1005N05">[5]</ref><ref target="#SPA1005N05">[5]</ref>, de cuyo gran caudal y
+                              <p> Don Martín Ladrón de Guevara, padre de Fernando <ref target="#SPA1005N05">[5]</ref>, de cuyo gran caudal y
                                     antigua nobleza tienen noticia nuestros lectores, era uno de
                                     esos señorones de tierra adentro, tan apegados a sus pueblos y a
                                     sus casas, que parece que forman, si puede decirse así, parte de
@@ -9376,7 +9373,7 @@
                               <p> -Pues diles que nada han perdido -dijo don Martín-. Si no hubieran
                                     sabido que era lo suyo lo que ardía, se lo hubiésemos ocultado;
                                     pero ya que lo saben, diles que la mitad de mis mieses está ahí
-                                    para suplir a cada cual lo que haya perdido <ref target="#SPA1005N06">[6]</ref><ref target="#SPA1005N06">[6]</ref>. </p>
+                                    para suplir a cada cual lo que haya perdido <ref target="#SPA1005N06">[6]</ref>. </p>
 
                               <p> Una alegría tan viva como entusiasta resplandeció en los ojos de
                                     Pablo, que volviéndose a un criado: </p>
@@ -9592,7 +9589,7 @@
 
                               <p> Pasaban en esto por el patio dos hombres llevando un gran caldero,
                                     y otro con un canasto de pan; era la comida a los presos de la
-                                    cárcel, a quien de diario se la enviaba don Martín <ref target="#SPA1005N07">[7]</ref><ref target="#SPA1005N07">[7]</ref>. </p>
+                                    cárcel, a quien de diario se la enviaba don Martín <ref target="#SPA1005N07">[7]</ref>. </p>
 
 
                               <p> -¡Eh! -gritó éste con su campanuda voz-: ¿quién os corre? Acá,
@@ -10655,14 +10652,14 @@
                                     los dos focos de ilustración, que son al mismo tiempo las dos
                                     capitales más cercanas, han sido, son y serán los dos mayores
                                     contrastes? ¿En qué ha mudado ese diario contacto las
-                                    respectivas y marcadas fisonomías de París y de Londres? <ref target="#SPA1005N08">[8]</ref><ref target="#SPA1005N08">[8]</ref>. </p>
+                                    respectivas y marcadas fisonomías de París y de Londres? <ref target="#SPA1005N08">[8]</ref>. </p>
 
                               <p> Es para nosotros un enigma el móvil que lleva a muchas personas de
                                     mérito y de talento a defender y aplaudir esa nivelación
                                     general, y cuál es la ventaja que de ella resultaría. Que un
                                     país sin pasado, sin historia, sin nacionalidad, sin
                                     tradiciones, adopte un carácter ajeno por no poseerlo propio,
-                                    como ha hecho la América del Norte <ref target="#SPA1005N09">[9]</ref><ref target="#SPA1005N09">[9]</ref> adoptando el inglés, y la del Sur adoptando el
+                                    como ha hecho la América del Norte <ref target="#SPA1005N09">[9]</ref> adoptando el inglés, y la del Sur adoptando el
                                     español, se comprende; pero que se afanen por hacer esto algunos
                                     hijos del país de Pelayo y del Cid, de Calderón y de Cervantes,
                                     para desechar el suyo y adoptar el ajeno, es lo que no concibe
@@ -13504,7 +13501,7 @@
                                     </emph> , y dice igualmente el profundo Balzac: «El
                                     cristianismo, pero sobre todo el catolicismo, siendo un sistema
                                     completo de represión de las tendencias depravadas del hombre,
-                                    es el mayor elemento de orden social. ¿Pero mientras?... <ref target="#SPA1005N10">[10]</ref><ref target="#SPA1005N10">[10]</ref>
+                                    es el mayor elemento de orden social. ¿Pero mientras?... <ref target="#SPA1005N10">[10]</ref>
                               </p>
 
                               <p> -¡Represión! ¡represión! -exclamó Sir George interrumpiendo a

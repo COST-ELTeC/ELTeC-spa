@@ -1,9 +1,6 @@
-<?xml version="1.0" encoding="UTF-8"?>
-    <?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
-            schematypens="http://relaxng.org/ns/structure/1.0"?>
-    <?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
-            schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="SPA2004" xml:lang="SPA"> 
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
+            schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
+            schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="SPA2004" xml:lang="SPA"> 
 
  <teiHeader>
   	<fileDesc>
@@ -5735,7 +5732,7 @@ al cabo de todo... -pronunció el jesuita, sonriéndose-.
 Quiere usted decirme que era <emph>cursi</emph>.</p>  <p>-¡Justamente!</p>  <p>-La Academia
 Española ha prohijado ya la palabrilla... -continuó
 el padre Manrique-, y la incluirá en su próximo
-Diccionario, como muy expresiva y generalizada <ref target="#SPA2004N01">[1]</ref><ref target="#SPA2004N01">[1]</ref>.</p>
+Diccionario, como muy expresiva y generalizada <ref target="#SPA2004N01">[1]</ref>.</p>
 
 <p> Por lo demás,
 desde que me leyó usted las cartas de Diego relativas

@@ -1,9 +1,6 @@
-<?xml version="1.0" encoding="UTF-8"?>
-    <?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
-            schematypens="http://relaxng.org/ns/structure/1.0"?>
-    <?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
-            schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="SPA" xml:id="SPA4017">
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
+            schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
+            schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="SPA" xml:id="SPA4017">
 	<teiHeader>
 		<fileDesc>
 			<titleStmt>
@@ -362,7 +359,7 @@
 						<p>—Que...</p>
 						<p>—¡A la de la expedición saltimbanqui!</p>
 						<p>Y Barnato, que ordinariamente, y lo mismo en los salones londonenses que en las tabernas de Kimberley y Johannesburgo, sentía particular orgullo en narrar ante una muchedumbre las aventuras de sus tiempos de «clown», no podía oír sin exasperarse que se le reprochase frente a frente, en conversación íntima, su antigua profesión.</p>
-						<p>Así que en cuanto Lord Denver recalcó los calificativos de titiritero y saltimbanqui, Barnato se levantó, e irguiendo su cor-pacho, no muy alto, pero tallado formidablemente, ágil, atlético y con los ojos de un gris aplomado, despidiendo luces, exclamó en voz alta, cogiendo nerviosamente el telegrama del doctor Jameson: <ref target="#SPA4017N01">[1]</ref><ref target="#SPA4017N01">[1]</ref>
+						<p>Así que en cuanto Lord Denver recalcó los calificativos de titiritero y saltimbanqui, Barnato se levantó, e irguiendo su cor-pacho, no muy alto, pero tallado formidablemente, ágil, atlético y con los ojos de un gris aplomado, despidiendo luces, exclamó en voz alta, cogiendo nerviosamente el telegrama del doctor Jameson: <ref target="#SPA4017N01">[1]</ref>
 						</p>
 						<p>—Sí, payaso, payaso hace veinte años, pero hoy el hombre más rico del Africa, y mañana tal vez el rey del continente.</p>
 						<p>—¡No estás mal rey!</p>
@@ -538,7 +535,7 @@
 						<p>—¡Basta!</p>
 						<p>Y se puso a palparle minuciosamente, por todo el cuerpo, a lo largo del pecho, los brazos y las piernas, registrando la ropa con cuidado.</p>
 						<p>Le descubrió, examinando el sombrero por el reverso, hízole sacarse los zapatos y midió detenidamente el espesor de las suelas.</p>
-						<p>—¡Está bien, puede usted vestirse! <ref target="#SPA4017N02">[2]</ref><ref target="#SPA4017N02">[2]</ref></p>
+						<p>—¡Está bien, puede usted vestirse! <ref target="#SPA4017N02">[2]</ref></p>
 						<p>Aceptó la invitación el judío, poniéndose los zapatos, el chaleco, la chaqueta y el gabán, sin que en estas operaciones le abandonara nunca la mirada escrutadora del señor de las patillas rubias.</p>
 						<p>El judío decía:</p>
 						<p>—Parece mentira que el señor «Sherif» desconfíe de mí..., ¡un negociante tan conocido en Kimberley!...</p>
@@ -963,7 +960,7 @@
 						<p>—... El cochero inglés, que tomé recientemente, se arrojó sobre el lacayo negro, y un hombre de hercúleos hombros y estatura de gigante, saltando al coche, abalanzóse sobre mí. Pensé al momento que se trataba de despojarme de mis joyas y me defendí a tiros de revólver. Se desbocaron los caballos, salté del coche. Me fijé en ti un momento... Y ese momento me fue fatal... ¡Oh, no te lo digo para echártelo en cara, mi defensor!... Pero mientras te miré, echado en el camino, desvanecido, chorreando sangre, otros dos hombres se echaron sobre mí, me desarmaron y antes que pudiera defenderme me encontré atada por todas partes y con los ojos vendados... ¡Y aquí estamos, hasta que esa gente nos saque!</p>
 						<p>—¿Pero no sabe usted dónde?</p>
 						<p>—Presumo que no muy lejos de Kimberley. Acaso nos encontremos en la galería de una mina. Pero ¿quién sabe dónde?... ¡Hay tantos escondrijos, tantos pozos perforados, tantas galerías cegadas!</p>
-						<p>—¿Y si no nos sacaran de aquí? <ref target="#SPA4017N03">[3]</ref><ref target="#SPA4017N03">[3]</ref></p>
+						<p>—¿Y si no nos sacaran de aquí? <ref target="#SPA4017N03">[3]</ref></p>
 						<p>—No pienses en ello, hijo mío. ¿Les hubiera costado algún trabajo acabar con nosotros si tal hubiese sido su propósito?</p>
 						<p>—¿Y por qué no lo han hecho?</p>
 						<p>—¡Quién lo sabe!... ¡Qué adelantaban con matarnos después de haberse apoderado de los diamantes que llevaba yo encima!... Yo creo que nos sacarán de aquí muy pronto, pues si hubieren querido otra cosa no nos habrían dejado el aguardiente, la carne y el pan.</p>
@@ -2525,7 +2522,7 @@
 						<p>Pero el vidrio era grueso, débil su brazo, y aquél resistió.</p>
 						<p>Por otra parte, la grandeza del espectáculo le impresionaba tanto, que quedó como clavado junto al cristal, mirando en éxtasis la endemoniada lucha.</p>
 						<p>Frank Van Eyck dio un brinco en dirección a la ventana, saltando por encima de la mesa.</p>
-						<p>El soldado inglés se disponía a saltar dentro de la habitación. <ref target="#SPA4017N04">[4]</ref><ref target="#SPA4017N04">[4]</ref></p>
+						<p>El soldado inglés se disponía a saltar dentro de la habitación. <ref target="#SPA4017N04">[4]</ref></p>
 						<p>La culata del fusil de Van Eyck le dio en el pecho y cayó el soldado en la calle, boca arriba.</p>
 						<p>Las manos de Frank asieron las paralelas de la escalera.</p>
 						<p>Subían por ella otros cinco soldados.</p>
@@ -4714,7 +4711,7 @@
 						<p>—No, aguarde. ¿Ha tenido usted alguna noticia respecto a la muchacha y al caballero que se hospedaban hace unos días en el <emph>Granel National Hotel?</emph></p>
 						<p>—Como usted me había encargado consagrarme únicamente a las cuestiones de orden público, no he querido meterme en el asunto del secuestro o lo que sea de esa muchacha.</p>
 						<p>—¿Pero ha tenido usted alguna noticia?</p>
-						<p>—Sí; el caballero que le acompañaba estuvo hablando ayer <emph>Entre las cadenas</emph> <ref target="#SPA4017N05">[5]</ref><ref target="#SPA4017N05">[5]</ref> con el corredor Jorge White, proponiéndole la venta de unas acciones de la «Goldfields». Como los periódicos habían hablado de él, la gente lo miró con insistencia. Al advertirlo, tomó en seguida un coche y no se le ha vuelto a ver <emph>Entre las cadenas</emph>.</p>
+						<p>—Sí; el caballero que le acompañaba estuvo hablando ayer <emph>Entre las cadenas</emph> <ref target="#SPA4017N05">[5]</ref> con el corredor Jorge White, proponiéndole la venta de unas acciones de la «Goldfields». Como los periódicos habían hablado de él, la gente lo miró con insistencia. Al advertirlo, tomó en seguida un coche y no se le ha vuelto a ver <emph>Entre las cadenas</emph>.</p>
 						<p>—Pues ocúpese en averiguar dónde vive ese sujeto, y si lo sabe deténgalo inmediatamente.</p>
 						<p>—A sus órdenes.</p>
 						<p>—No, aguarde todavía. ¿Ha oído usted hablar del bandido Brown, jefe de una cuadrilla que tiene su escondite en los montes Maluti?</p>
@@ -6600,7 +6597,7 @@
 						<p>»En opinión de los ministros la acción persistente, tanto dentro como fuera de la colonia, de la Asociación política denominada <emph>Liga Sudafricana</emph>, ha contribuido a empeorar la situación, porque no ha perdonado medio de atizar los odios entre la raza holandesa y la británica.</p>
 						<p>»Por consiguiente, el gobierno de esta colonia, deseoso de que se mantengan relaciones cordiales entre las dos razas que pueblan el sur del Africa, declara solemnemente que la Liga Sudafricana, fomentando cuantos motivos de disgusto puedan existir en esta región, lo hace con el objeto de dificultar las relaciones entre Inglaterra y el Transvaal.»</p>
 						<p>—Pero —interrumpió Lady Denver— no veo que ese documento demuestre, ni quiera demostrar que sea usted un auxiliar de Cecil Rhodes.</p>
-						<p>—Oiga usted, antes de formar opinión, el comentario que pone Kruger a esas palabras del gobierno del Cabo: <ref target="#SPA4017N06">[6]</ref><ref target="#SPA4017N06">[6]</ref></p>
+						<p>—Oiga usted, antes de formar opinión, el comentario que pone Kruger a esas palabras del gobierno del Cabo: <ref target="#SPA4017N06">[6]</ref></p>
 						<p>«De todos modos, la Liga Sudafricana no podría tener tan grande influencia si no contara con el apoyo y protección del gobierno de su majestad en Inglaterra, pensamiento tanto más verosímil, cuanto que los periódicos de la Liga se jactan de la influencia que ejercen en la política del gobierno inglés.</p>
 						<p>»E1 gobierno del Transvaal desdeñaría los alegatos de la</p>
 						<p>Liga si no viera acogidas sus ideas en los discursos de Londres y <emph>aparecer Libros Azules compuestos con artículos de los periódicos de la Liga.</emph></p>

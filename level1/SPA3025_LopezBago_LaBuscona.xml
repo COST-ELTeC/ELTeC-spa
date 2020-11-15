@@ -1,9 +1,6 @@
-<?xml version="1.0" encoding="UTF-8"?><!-- El texto tiene errores de OCR. Falta revisar en detalle y modernizar la ortografía. -->
-    <?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
-            schematypens="http://relaxng.org/ns/structure/1.0"?>
-    <?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
-            schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="SPA" xml:id="SPA3025">
+<?xml version="1.0" encoding="UTF-8"?><!-- El texto tiene errores de OCR. Falta revisar en detalle y modernizar la ortografía. --><?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
+            schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
+            schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="SPA" xml:id="SPA3025">
 	<teiHeader>
 		<fileDesc>
 			<titleStmt>
@@ -3303,7 +3300,7 @@ sangre, que sólo al juego debía los elementos con que podía atender á
 cubrir los gastos que originaba la vida de cuantos figuraban en la
 <foreign xml:lang="ENG">high-life</foreign>, que diría <emph>Almaviva</emph>, sin que nadie pudiese atribuir á
 malas artes, y sí solo á su arrojo y buena suerte, las ganancias
-adquiridas por este medio <ref target="#SPA3025N01">[1]</ref><ref target="#SPA3025N01">[1]</ref>.»</p>
+adquiridas por este medio <ref target="#SPA3025N01">[1]</ref>.»</p>
 
 <p>Así, salvo error de memoria, describía yo á este personaje en mi
 anterior novela, y así me parece conveniente transcribir aquí la copia
