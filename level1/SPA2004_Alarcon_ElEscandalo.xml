@@ -47,10 +47,10 @@
 			</encodingDesc>
 		<profileDesc>
 			<langUsage>
-    				<language ident="spa">Español</language>
-    				<language ident="lat">Latín</language>
-    				<language ident="eng">Inglés</language>
-    				<language ident="fra">Francés</language>
+    				<language ident="SPA">Español</language>
+    				<language ident="LAT">Latín</language>
+    				<language ident="ENG">Inglés</language>
+    				<language ident="FRA">Francés</language>
 			</langUsage>
 			<textDesc>
 				<authorGender xmlns="http://distantreading.net/eltec/ns" key="M"/>

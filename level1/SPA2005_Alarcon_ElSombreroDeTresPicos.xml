@@ -50,8 +50,8 @@
       </encodingDesc>
       <profileDesc>
         <langUsage>
-          <language ident="spa" usage="99">Español</language>
-          <language ident="lat" usage="01">Latín</language>
+          <language ident="SPA">Español</language>
+          <language ident="LAT">Latín</language>
         </langUsage>
         <textDesc>
           <authorGender xmlns="http://distantreading.net/eltec/ns" key="M"/>

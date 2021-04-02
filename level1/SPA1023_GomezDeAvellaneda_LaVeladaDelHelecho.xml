@@ -44,10 +44,10 @@
 		</encodingDesc>
 		<profileDesc>
 			<langUsage>
-				<language ident="spa" usage="99">Español</language>
-				<language ident="fra" usage="01">Francés</language>
-				<language ident="eng" usage="01">Inglés</language>
-				<language ident="deu" usage="01">Alemán</language>
+				<language ident="SPA">Español</language>
+				<language ident="FRA">Francés</language>
+				<language ident="ENG">Inglés</language>
+				<language ident="DEU">Alemán</language>
 			</langUsage>
 			<textDesc>
 				<authorGender xmlns="http://distantreading.net/eltec/ns" key="F"/>
