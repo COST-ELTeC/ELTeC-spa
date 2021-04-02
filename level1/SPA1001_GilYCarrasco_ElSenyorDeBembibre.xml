@@ -55,8 +55,8 @@
 		</encodingDesc>
 		<profileDesc>
 			<langUsage>
-    				<language ident="SPA" usage="99">Español</language>
-				<language ident="lat" usage="01">Latín</language>
+    			<language ident="SPA" usage="99">Español</language>
+				<language ident="LAT" usage="01">Latín</language>
 			</langUsage>
 			<textDesc>
 				<authorGender xmlns="http://distantreading.net/eltec/ns" key="M"/>
@@ -105,7 +105,7 @@ demasiadamente pesadas de Millán, que, sin duda, cuida más de la
 honra de su señor que de la caridad a que estamos obligados los
 cristianos.</p>
 
-	<p>-Lo que yo digo es que nuestro amo hace muy bien en no dar su hija a don Álvaro Yáñez, y en que <foreign xml:lang="lat">velis nolis</foreign> venga a ser condesa de Lemus y señora de media Galicia.</p>
+	<p>-Lo que yo digo es que nuestro amo hace muy bien en no dar su hija a don Álvaro Yáñez, y en que <foreign xml:lang="LAT">velis nolis</foreign> venga a ser condesa de Lemus y señora de media Galicia.</p>
 
     <p>
      -No hace bien tal -repuso el juicioso
@@ -835,7 +835,7 @@ con ventanas arabescas, entapizada de alfombras orientales y toda
 ella como pieza de aparato, adornada con todo el esplendor
 correspondiente al jefe temporal y espiritual de una orden tan
 famosa y opulenta. Los aspirantes dejaron al caballero a la puerta,
-después del acostumbrado <foreign xml:lang="lat">benedicite</foreign>, y uno que hacía la guardia en la
+después del acostumbrado <foreign xml:lang="LAT">benedicite</foreign>, y uno que hacía la guardia en la
 antecámara le introdujo al aposento de su tío. Era este un anciano
 venerable, alto y flaco de cuerpo, con barba y cabellos blancos, y
 una expresión ascética y recogida, si bien templada por una
@@ -1427,7 +1427,7 @@ yedra, y todo el recinto estaba rodeado aún de una muralla por
 donde trepaban las vides y zarzas. Aquel «campo de soledad mustio
 collado» había sido el 
 
-     <foreign xml:lang="lat">
+     <foreign xml:lang="LAT">
       Berdigum
      </foreign>
      romano.
@@ -3543,7 +3543,7 @@ feraz anfiteatro. El Cúa, encubierto por las interminables
 arboledas y sotos de sus orillas, corría por la izquierda al pie de
 la cordillera, besando la falda del antiguo 
 
-     <foreign xml:lang="lat">
+     <foreign xml:lang="LAT">
       Berdigum
      </foreign>
      , y bañando el monasterio de
@@ -9085,7 +9085,7 @@ como delegados suyos.
      Entonces los padrinos comenzaron a
 desarmarle y los circunstantes a cantar el salmo 
 
-     <foreign xml:lang="lat">
+     <foreign xml:lang="LAT">
       Nunc dimitis servum tuum, domine
      </foreign>
      , con voces
@@ -9111,7 +9111,7 @@ los caballeros todos tenían en las manos velas blanquísimas de cera
 encendidas. En cuanto descubrieron a don Álvaro, entonaron todos en
 voces regocijadas y altísimas el salmo 
 
-     <foreign xml:lang="lat">
+     <foreign xml:lang="LAT">
       Magnificat anima mea Dominum
      </foreign>
      , durante el
@@ -10031,7 +10031,7 @@ allí se descubrían, y tendiendo la mano a don Álvaro y
 apretándosela fuertemente, le dijo con los ojos alzados al cielo y
 con acento religioso y recogido: 
 
-     <foreign xml:lang="lat">
+     <foreign xml:lang="LAT">
       Dominus mihi custos et ego disperdam inimicos
 meos
      </foreign>
@@ -10099,7 +10099,7 @@ la demanda, que no dejaba de ofrecerlo grave.
      Toda esta gente acampó a la falda del
 antiguo monte 
 
-     <foreign xml:lang="lat">
+     <foreign xml:lang="LAT">
       Meduleum
      </foreign>
      , tan celebrado por su extraordinaria
@@ -10535,7 +10535,7 @@ aquel majestuoso ademán que tan bien cuadraba, el versículo que
 días antes había dicho a don Álvaro al tomar por segunda vez el
 mando del castillo: 
 
-     <foreign xml:lang="lat">
+     <foreign xml:lang="LAT">
       Dominus mihi custos, et ego disperdam inimicos
 meos
      </foreign>
@@ -12209,7 +12209,7 @@ turbio y atropellado, arrastrando en su creciente troncos de
 al pie de la colina donde todavía se divisaban las ruinas de la
 romana 
 
-     <foreign xml:lang="lat">
+     <foreign xml:lang="LAT">
       Berdigum
      </foreign>
      , despojados de sus verdes pámpanos,
@@ -12258,7 +12258,7 @@ suyas comenzaban con un versículo en que hasta allí parecía
 encerrarse su vida, y que tal vez era una profecía para lo
 venidero: 
 
-     <foreign xml:lang="lat">
+     <foreign xml:lang="LAT">
       Vigilavi et factus sum sicut passer solitarius in
 tecto.
      </foreign>
@@ -13062,7 +13062,7 @@ mirando el escudo a través de las lágrimas que empañaban sus
 cansados ojos, exclamó con una voz que parecía salir de un sepulcro
 leyendo la sagrada inscripción,
 
-     <foreign xml:lang="lat">
+     <foreign xml:lang="LAT">
       Nisi dominus custodierit civitatem, frustra
 vigilat qui custodit eam
      </foreign>
@@ -16035,7 +16035,7 @@ ansiosamente sus hojas. Estaba señalada la primera con aquel
 versículo melancólico que, según dijimos en otro lugar, venía a
 servir de epígrafe a aquellas desordenadas y tristísimas memorias: 
 
-     <foreign xml:lang="lat">
+     <foreign xml:lang="LAT">
       Vigilavi et factus sum sicut passer solitarius in
 tecto
      </foreign>
@@ -16109,7 +16109,7 @@ de Job, que decía:
     
 
     <quote>
-		<l n="0">¡<foreign xml:lang="lat">Ecce nunc in pulvere dormiam, et si mane me quaesieris, non subsistam</foreign>!</l>
+		<l n="0">¡<foreign xml:lang="LAT">Ecce nunc in pulvere dormiam, et si mane me quaesieris, non subsistam</foreign>!</l>
     </quote>
     
 

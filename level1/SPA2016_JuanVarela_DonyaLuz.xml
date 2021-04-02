@@ -52,14 +52,14 @@
 		  			<language ident="SPA" usage="94">Español</language> 
 		  			<language ident="LAT" usage="01">Latín</language>
 		  			<language ident="FRA" usage="02">Francés</language> 
-		  			<language ident="GRE" usage="01">Griego</language>
+		  			<language ident="ENG" usage="01">Inglés</language>
 			 	</langUsage> 
 			 	<textDesc>
 			 		<authorGender xmlns="http://distantreading.net/eltec/ns" key="M"/>
 			 		<size xmlns="http://distantreading.net/eltec/ns" key="medium"/>
-    	         		 	<reprintCount xmlns="http://distantreading.net/eltec/ns" key="high"/>
-    	         		 	<timeSlot xmlns="http://distantreading.net/eltec/ns" key="T2"/>
-             	 		</textDesc>
+    	         	<reprintCount xmlns="http://distantreading.net/eltec/ns" key="high"/>
+    	         	<timeSlot xmlns="http://distantreading.net/eltec/ns" key="T2"/>
+             	 </textDesc>
 	       		</profileDesc>  
 	      	 <revisionDesc>
 <change when="2020-11-14">Converted by checkUp script for new release</change>
@@ -761,12 +761,12 @@
 			 o predilecciones aristocráticas. Al contrario, siempre se ha obstinado
 			 en creer que no vale menos la gente de los lugares que la más encopetada
 			 de la corte. 
-			 <foreign xml:lang="lat">Mutatis mutandis</foreign>, todo le parece lo
+			 <foreign xml:lang="LAT">Mutatis mutandis</foreign>, todo le parece lo
 			 mismo: la mujer del alcalde es igual a una emperatriz o reina, la del escribano
 			 equivale a la duquesa más en moda en Madrid, y el majo Fulanito se le
 			 antoja más brioso, y gallardo, buen jinete, seductor, afable y ameno,
 			 que el más perfecto 
-			 <foreign xml:lang="eng">dandy</foreign> de cuantos ha conocido.</p> 
+			 <foreign xml:lang="ENG">dandy</foreign> de cuantos ha conocido.</p> 
 		  <p>Pero, mirándolo bien, esto no es
 			 espíritu democrático discreto, sino negro y desconsolador
 			 pesimismo. La democracia optimista y sana consiste, sin duda, en creer que la
@@ -888,12 +888,12 @@
 		  <p>Doña Luz tenía encantado a
 			 D. Anselmo y D. Anselmo a doña Luz. Para esto había diversas
 			 causas. Ahora que están en moda los 
-			 <foreign xml:lang="lat">schemas</foreign>, podremos representar los
+			 <foreign xml:lang="LAT">schemas</foreign>, podremos representar los
 			 espíritus del médico y de la señorita, como dos esferas
 			 muy excéntricas, pero tocándose y compenetrándose por un
 			 lado, donde formaban sendos casquetes unidos por la base; algo idéntico
 			 a la humanidad en el 
-			 <foreign xml:lang="lat">schema</foreign> del ser, a la 
+			 <foreign xml:lang="LAT">schema</foreign> del ser, a la 
 			 <emph>&gt;lenteja</emph> que los krausistas han hecho tan
 			 famosa. D. Anselmo y doña Luz tenían, pues, una lenteja
 			 espiritual mancomunada, donde se entendían a maravilla, quedando el
@@ -1096,7 +1096,7 @@
 			 tenía todo el 
 			 <emph>confort</emph>, toda la elegancia de un saloncito de
 			 una dama madrileña de las más 
-			 <foreign xml:lang="fra">comm'il faut</foreign>, a par de ciertas
+			 <foreign xml:lang="FRA">comm'il faut</foreign>, a par de ciertas
 			 singularidades poéticas del campo y de la aldea.</p> 
 		  <p>Dos ventanas daban al huerto, donde se
 			 veían acacias, álamos negros, flores, árboles frutales,
@@ -1173,7 +1173,7 @@
 			 Doña Luz andaba estudiando y comparando cómo aquellos dos autores
 			 habían puesto en acción dramática la misma sentencia: 
 			 <emph>No hay burlas con el amor</emph> y 
-			 <foreign xml:lang="fra">On ne badine pas avec l'amour</foreign>.</p> 
+			 <foreign xml:lang="FRA">On ne badine pas avec l'amour</foreign>.</p> 
 		  <p>No la impulsaba a este estudio la mera afición especulativa a
 			 la crítica literaria, sino un caso práctico, que hacía
 			 poco más de dos meses que se había presentado y que le interesaba
@@ -2786,12 +2786,12 @@
 			 pican dos o tres porque no lo son. En suma, aunque el diputado y su 
 			 <emph>alter-ego</emph> D. Paco eran casi tan avisados y
 			 prudentes como Ulises, a quien la propia Minerva, descendiendo 
-			 <foreign xml:lang="lat">ad-hoc</foreign> del Olimpo, inspiraba la más
+			 <foreign xml:lang="LAT">ad-hoc</foreign> del Olimpo, inspiraba la más
 			 severa justicia distributiva para repartir pedazos de buey asado en los
 			 banquetes a los héroes de la 
 			 <emph>Ilíada</emph>, o ya porque repartir 
 			 <emph>turrón</emph>es más arduo que repartir 
-			 <foreign xml:lang="eng">roastbeef</foreign>, o ya porque los electores de
+			 <foreign xml:lang="ENG">roastbeef</foreign>, o ya porque los electores de
 			 España son más descontentadizos que los semi-dioses y guerreros
 			 aqueos, ello es que el disgusto cundía y que había mar de fondo
 			 hasta en la misma capital del distrito.</p> 
@@ -2864,8 +2864,8 @@
 			 ricos y otros pobres. Pero por cima de esta consonancia perfecta en que estamos
 			 V. y yo, hay entre nosotros radicales diferencias, las cuales consisten en que
 			 nos hemos forjado muy distinto 
-			 <foreign xml:lang="eng">ideal</foreign>. Entiéndese por 
-			 <foreign xml:lang="eng">ideal</foreign>, palabrilla que está muy a la
+			 <foreign xml:lang="ENG">ideal</foreign>. Entiéndese por 
+			 <foreign xml:lang="ENG">ideal</foreign>, palabrilla que está muy a la
 			 moda, el término de las aspiraciones de cada uno. Su ideal de V. es que
 			 haya un gobierno que distribuya cuanto hay que distribuir, que todo lo arregle,
 			 que en todo se entrometa, que nos enseñe lo que hemos de aprender, que
@@ -2899,7 +2899,7 @@
 			 iniciativa individual y que es necesario que el Gobierno tome en todo la
 			 iniciativa, como si el Gobierno no estuviese compuesto de individuos. En suma,
 			 yo no tengo que presentar aquí todas las razones que contra mi 
-			 <foreign xml:lang="eng">ideal</foreign> se alegan. De sobra las saben V. y todo
+			 <foreign xml:lang="ENG">ideal</foreign> se alegan. De sobra las saben V. y todo
 			 el mundo. Lo que deseo que conste es que, a pesar de todas estas razones, yo
 			 estoy enamorado de mi irrealizable sistema, y considero apostasía
 			 trabajar en este otro archi-gubernamental que hoy priva, sin duda por aquel
@@ -3941,7 +3941,7 @@
 			 condiciones.</p> 
 		  <p>El orgullo de doña Luz se
 			 sentía vivamente lisonjeado. Aquel 
-			 <foreign xml:lang="eng">dandy</foreign>, aquel valiente, aquel hombre de porvenir
+			 <foreign xml:lang="ENG">dandy</foreign>, aquel valiente, aquel hombre de porvenir
 			 y de carrera, estaba allí postrado ante su hermosura, sin más
 			 resorte para tanto rendimiento que el repentino y ardiente amor que ella
 			 había sabido inspirarle.</p> 
