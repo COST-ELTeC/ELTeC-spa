@@ -36,7 +36,7 @@
 		</encodingDesc>
 		<profileDesc>
 			<langUsage>
-				<language ident="spa">Spanish</language>
+				<language ident="SPA">Spanish</language>
 			</langUsage>
 			<textDesc>
 				<authorGender xmlns="http://distantreading.net/eltec/ns" key="M"/>
@@ -1709,7 +1709,6 @@
 				<milestone unit="section"/>
 				<p>Días después los periódicos publicaron la siguiente noticia:</p>
 				<p>"Anoche, en el "rápido" Irún-París, se suicidó, disparándose un tiro, el señor A. S., muy conocido de la buena sociedad madrileña. Su muerte se relaciona con el trágico crimen de la calle Arenal, del que dimos oportuna cuenta a nuestros lectores. La gravedad de este drama es de tal naturaleza, que nos impide, por hoy, ser más explícitos".</p>
-
 			</div>
 		</body>
 		<back>

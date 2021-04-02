@@ -51,10 +51,10 @@
 </encodingDesc>
 	 <profileDesc> 
 		<langUsage> 
-		  <language ident="spa">Español</language> 
-		  <language ident="lat">Latín</language> 
-		  <language ident="fra">Francés</language> 
-		  <language ident="glg">Gallego</language> 
+		  <language ident="SPA">Español</language> 
+		  <language ident="LAT">Latín</language> 
+		  <language ident="FRA">Francés</language> 
+		  <language ident="GLG">Gallego</language> 
 		</langUsage>
 		<textDesc>
 			<authorGender xmlns="http://distantreading.net/eltec/ns" key="F"/>
@@ -3984,7 +3984,7 @@
 				respaldo, el péndulo solemne. También la mesa se le antojó
 				que tenía 
 				<emph>carácter</emph> o 
-				<foreign xml:lang="fra">cachet</foreign>, ese no sé qué de
+				<foreign xml:lang="FRA">cachet</foreign>, ese no sé qué de
 				arcaico que enamora a las cansadas imaginaciones modernas, y se confirmó
 				en ello al fijarse en el plato que le pusieron delante, en cuyo fondo campeaban
 				emblemas curiosísimos, que le trajeron a la memoria su edad infantil,
@@ -3997,9 +3997,9 @@
 				la izquierda <pb n="232"/> otro león y cuatro cruces de Malta en campo
 				de oro. Un casco con una cruz de Caravaca por cimera remataba el escudo: sobre
 				él se leía en una banderola la divisa: 
-				<foreign xml:lang="lat">Fortis in fide et regi fidelis</foreign>; bajo
+				<foreign xml:lang="LAT">Fortis in fide et regi fidelis</foreign>; bajo
 				el escudo, en otra banderola, 
-				<foreign xml:lang="lat">Per cruces ad triumphos</foreign>. ¡Resto
+				<foreign xml:lang="LAT">Per cruces ad triumphos</foreign>. ¡Resto
 				de algo glorioso, esculpida y dorada proa que recuerda al buque
 				náufrago! Distrajo a Gabriel de la contemplación del plato, su
 				cuñado que con inmenso cucharón de plata le servía una
@@ -4691,7 +4691,7 @@
 				tanto a la mano de su tío que este sintió el húmedo calor
 				y la <pb n="270"/> frescura de su sano aliento, murmuró
 				misteriosamente:</p> 
-			 <p>-<foreign xml:lang="glg">Mariquiña, voa, voa, que ch’ei de dar
+			 <p>-<foreign xml:lang="GLG">Mariquiña, voa, voa, que ch’ei de dar
 				  pan è ceboa.</foreign></p> 
 			 <p>A las primeras sílabas del
 				conjuro el insecto se bullió; a las segundas removió sus patas,
@@ -6887,7 +6887,7 @@
 				veía, en un grabado en madera, la faz pensativa y melancólica, la
 				espaciosa y abovedada frente del Maestro León; debajo un emblema, un
 				árbol con el hacha al pie y la leyenda siguiente: 
-				<foreign xml:lang="lat">ab ipso ferro</foreign>. La polilla se
+				<foreign xml:lang="LAT">ab ipso ferro</foreign>. La polilla se
 				había ensañado en el volumen, recortando caprichosos calados al
 				través de las hojas.</p> 
 			 <p>-Aquí tiene usted un libro

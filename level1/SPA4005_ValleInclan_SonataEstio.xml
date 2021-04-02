@@ -57,8 +57,8 @@
 		</encodingDesc>
 		<profileDesc>
 			<langUsage>
-    			<language ident="spa" usage="99">Español</language>
-   				<language ident="lat">Latín</language>
+    			<language ident="SPA" usage="99">Español</language>
+   				<language ident="LAT">Latín</language>
 			</langUsage>
 			<textDesc>
 				<authorGender xmlns="http://distantreading.net/eltec/ns" key="M"/>
@@ -271,7 +271,7 @@
 			</div>
 			<div type="chapter" n="SPA4005012">
 				<p>Entraron primero dos legas, que traían una gran bandeja de plata cargada de refrescos y confituras, y luego entró la Madre Abadesa, flotante el blanco hábito, que ostentaba la roja cruz de Santiago. Detúvose en la puerta, y con leve sonrisa, al par amable y soberana, saludó en latín:</p>
-				<p>—¡<foreign xml:lang="lat">Deo gratias</foreign>!</p>
+				<p>—¡<foreign xml:lang="LAT">Deo gratias</foreign>!</p>
 				<p>Nosotros respondimos en romance:</p>
 				<p>—¡A Dios sean dadas!</p>
 				<p>La Madre Abadesa tenía hermoso aspecto de infanzona: Era blanca y rubia, de buen donaire y de gran cortesanía. Sus palabras de bienvenida fueron éstas:</p>

@@ -53,8 +53,8 @@
 		</encodingDesc>
 		<profileDesc>		
 			<langUsage>
-				<language ident="spa">Español</language>
-				<language ident="lat">Latín</language>
+				<language ident="SPA">Español</language>
+				<language ident="LAT">Latín</language>
 			</langUsage>
 			<textDesc>
 				<authorGender xmlns="http://distantreading.net/eltec/ns" key="M"/>
@@ -1529,7 +1529,7 @@ consecuencias de aquella nueva calaverada.
 la locuacísima Rosa (que cuidó mucho de nombrar varias veces a su
 ama con los dos títulos en pleito), enteraron 
 
-      <foreign xml:lang="lat">
+      <foreign xml:lang="LAT">
        vellis nollis
       </foreign>
       al ceremonioso marqués de

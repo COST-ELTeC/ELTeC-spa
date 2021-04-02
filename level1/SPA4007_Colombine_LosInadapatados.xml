@@ -41,9 +41,9 @@
 		</encodingDesc>
 		<profileDesc>
 			<langUsage>
-    			<language ident="spa">Español</language>
-    			<language ident="lat">Latín</language>
-    			<language ident="ita">Italiano</language>
+    			<language ident="SPA">Español</language>
+    			<language ident="LAT">Latín</language>
+    			<language ident="ITA">Italiano</language>
 			</langUsage>
 			<textDesc>
 				<authorGender xmlns="http://distantreading.net/eltec/ns" key="F"/>
@@ -3578,8 +3578,7 @@ lo lejos recortando los picos en el espacio y el campo parecía dormido.
 La brisa, suave respiración, hacia hincharse a la tierra mojada en
 fecundante perfume, con sabor a mariscos y a frutas maduras.</p>
 
-<p>De vez en cuando el misterioso <foreign xml:lang="ita">ritornello</foreign>, que forma ese silencio de
-los campos, poblado de palpitaciones de seres vivos: plantas que crecen,
+<p>De vez en cuando el misterioso <foreign xml:lang="ITA">ritornello</foreign>, que forma ese silencio de los campos, poblado de palpitaciones de seres vivos: plantas que crecen,
 flores que rompen su botón y semillas que germinan, era rasgado por el
 ladrido de los perros o el grito de los gañanes velando en la próxima
 noria «Haya Vaca», a fin de que el animal continuase sus pasos. Llegaba
@@ -4739,15 +4738,15 @@ cabecera para pasar la noche de insomnio, Dolores entró en la sala,
 donde las devotas dirigían sus rezos en latín, sin entender el
 significado de las palabras, a la Madre de Jesús.</p>
 
-<p>—<foreign xml:lang="lat">Foederis arca</foreign>.</p>
+<p>—<foreign xml:lang="LAT">Foederis arca</foreign>.</p>
 
-<p>—<foreign xml:lang="lat">Janua Coeli</foreign>.</p>
+<p>—<foreign xml:lang="LAT">Janua Coeli</foreign>.</p>
 
 <p>Y los labriegos no acertaban a responder sin equivocarse:</p>
 
-<p>—<foreign xml:lang="lat">Ora pro nobis</foreign>.</p>
+<p>—<foreign xml:lang="LAT">Ora pro nobis</foreign>.</p>
 
-<p>—<foreign xml:lang="lat">Ora pro nobis</foreign>.</p>
+<p>—<foreign xml:lang="LAT">Ora pro nobis</foreign>.</p>
 
 </div>
 <div type="chapter" n="SPA4007012">
