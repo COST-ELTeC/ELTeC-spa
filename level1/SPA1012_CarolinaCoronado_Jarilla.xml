@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!-- Ortografía antigua. Falta modernizar el texto. -->
 
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="SPA1012" xml:lang="SPA">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="SPA1012" xml:lang="es">
 <teiHeader>
 	<fileDesc>
 		<titleStmt>
