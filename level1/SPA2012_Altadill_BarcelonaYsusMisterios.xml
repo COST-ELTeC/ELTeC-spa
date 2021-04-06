@@ -1,6 +1,10 @@
-<?xml version="1.0" encoding="UTF-8"?><!-- Ortografía antigua. Falta modernizar el texto. Falta también anotar cambios de idioma. --><?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
-            schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
-            schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="SPA2012" xml:lang="es">
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Ortografía antigua. Falta modernizar el texto. Falta también anotar cambios de idioma. -->
+<?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
+            schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
+            schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="SPA2012" xml:lang="es">
   <teiHeader>
    <fileDesc>
     <titleStmt>
@@ -18254,6 +18258,7 @@
 <p>Clara recogió su último aliento.</p>
 <p>FIN DE BARCELONA Y SUS MISTERIOS.</p>
 </div>
+
 
 <div type="chapter" n="SPA2012124">
 <head>EPÍLOGO</head>
