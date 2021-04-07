@@ -1,6 +1,9 @@
-<?xml version="1.0" encoding="UTF-8"?><?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
-            schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
-            schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="SPA3007" xml:lang="es">
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
+            schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
+            schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="SPA3007" xml:lang="es">
 	<teiHeader>
 		<fileDesc>
 			<titleStmt>
@@ -65,6 +68,7 @@
 <change when="2020-11-14">Converted by checkUp script for new release</change>
 			<change when="2019-12-17">Anotación formato ELTeC y revisión del texto : César Más Sánchez</change>
 			<change when="2020-01-27">Revisión de anotación formato ELTeC y cambios menores : Borja Navarro Colorado</change>
+			<change when="2021-04-07">Introducción de ID de idiomas : Borja Navarro Colorado</change>
 		</revisionDesc>
 	</teiHeader>
 	<text>
@@ -170,7 +174,7 @@
 				otros que los que giren y se desenvuelvan en
 				los grandes centros urbanizados a la moderna; si la levita y el 
 
-				<foreign>boudoir</foreign>
+				<foreign xml:lang="FRA">boudoir</foreign>
 
 				, y el banquero agiotista, y el
 				político venal, y el joven docto en todas las ciencias, pero,
@@ -326,10 +330,9 @@ encogiéndose de hombros:
 ¿Para qué vienes aquí? ¿Cuántas veces te he repetido que los
 Apóstoles? Pero 
 
-     <foreign>ab asino, lanam</foreign>
+     <foreign xml:lang="LAT">ab asino, lanam</foreign>
     
-	... ¿Cuántos dioses
-hay?...
+	... ¿Cuántos dioses hay?...
     </p>
     
 
@@ -388,7 +391,7 @@ nueve.
     <p>
      -
 
-    <emph>¡Resurge de<foreign>profundis</foreign></emph>
+    <emph>¡Resurge <foreign xml:lang="LAT">de profundis</foreign></emph>
     
      !... ¡Ánimas benditas,
 qué pedazo de animal... Y personas, ¿cuántas?
@@ -522,13 +525,13 @@ para que vuelvan al día siguiente, porque yo sé lo que sucediera de
 otro modo...; y házlo todo de buena gana, porque eso es tu
 obligación, pues eres lo que eres, 
 
-     <foreign>
+     <foreign xml:lang="LAT">
       sacerdos Domini nostri Jesuchristi
      </foreign>
      ,
 por lo cual digo con Él, 
 
-     <foreign>
+     <foreign xml:lang="LAT">
       sinite pueros venire ad me
      </foreign>
      : dejad que
@@ -538,7 +541,7 @@ corren y propalan que si salís de mis manos más burros de lo que
 vinisteis a ellas, como salieron otros muchachos que vinieron a mí
 antes que vosotros... ¡
 
-     <foreign>
+     <foreign xml:lang="LAT">
       Lingua corrupta
      </foreign>
      , carne mísera y
@@ -551,7 +554,7 @@ doctrina cristiana, a la vista está... Y como no quiero enfadarme,
 aunque motivos había para echaros uno a uno por el balcón abajo...
 vamos a otra cosa, y alabado sea Dios 
 
-     <foreign>
+     <foreign xml:lang="LAT">
       per omnia saecula saeculorum
      </foreign>
      , que lo
@@ -3422,7 +3425,7 @@ murmurando latines y fulminando conjuros, el padre Apolinar.
     <p>
      -
 
-     <foreign>
+     <foreign xml:lang="LAT">
       ¡De ira proterva... de iniquitatibus corum...
 libera me... libera me. Domine, et exaudi orationem
 meam!...
@@ -3430,7 +3433,7 @@ meam!...
      ¡Jesús, Jesús... Jesús, María y José!... ¡Furias,
 furias del averno!... ¡Ufff!... 
 
-     <foreign>
+     <foreign xml:lang="LAT">
       ¡Fugite... fugite!...
      </foreign>
      ¡Carne mísera!...
@@ -3546,7 +3549,7 @@ pegotón!... ¡Carne, carne concupiscente y corrompida!... Pero, en
 fin, más pasó Cristo por nosotros, con ser quien era...,
 ¡Desvergozadas!... 
 
-     <foreign>
+     <foreign xml:lang="LAT">
       Et dimite nobis, Domine, debita nostra, sicutnos
 dimitimus debitoribus nostris...
      </foreign>
@@ -3747,7 +3750,7 @@ también. Después, daré cuenta de todo al alcalde de mar de este
 Cabildo, para que sepa lo que ocurre; y allá se descuernen ellos...
 Yo, 
 
-     <foreign>
+     <foreign xml:lang="LAT">
       lavo inter inocentes manos meas.
      </foreign>
     </p>
@@ -3889,7 +3892,7 @@ murmurar estas palabras, en cuanto puso los pies en el portal:
     <p>
      -
 
-     <foreign>
+     <foreign xml:lang="LAT">
       ¡Domine, exaudi orationem meam!
      </foreign>
     </p>
@@ -4313,7 +4316,7 @@ barro frágil, carne mísera, y se cae, se cae cien veces cada hora.
 Mi ejemplo debiera ser de fortaleza, y lo es de... de chanfaina,
 Sidora, de chanfaina, porque no valemos un cuerno... 
 
-     <foreign>
+     <foreign xml:lang="LAT">
       ¡Domine, ni recordaris pecata mea!
      </foreign>
      Y
@@ -5348,7 +5351,7 @@ todo de espaldas, de brazos y de manos...
      Perdone la impaciencia del lector;
 pero necesito tomar esta figura desde más atrás, 
 
-     <foreign>
+     <foreign xml:lang="LAT">
       ab ovo
      </foreign>
      casi, para que resulte con todo
@@ -5358,7 +5361,7 @@ esta digresión, además del fin inmediato que lleva, ha de
 ahorrarnos otras por el estilo, despejándonos el terreno en que
 vamos a entrar, porque la especie abunda en ejemplares, y 
 
-     <foreign>
+     <foreign xml:lang="LAT">
       ab uno disce omnes.
      </foreign>
     </p>
@@ -6606,7 +6609,7 @@ tanto la atormentaba a ella.
      Don Venancio Liencres era un hombre
 completamente insignificante; 
 
-     <foreign>
+     <foreign xml:lang="LAT">
       intus et foris
      </foreign>
      ; pero en los casos
@@ -7918,7 +7921,7 @@ pies, columbraba el azadón, o el escoplo..., o el tirapié de las
 mocedades de su padre... ¡Ah, los pobres hombres! ¡Y cómo las
 atormentaban sin querer, cuando, ya encanecidos, se gloriaban, 
 
-     <foreign>
+     <foreign xml:lang="LAT">
       coram populo
      </foreign>
      y de ellas, de haber sido
@@ -11064,14 +11067,14 @@ de Abajo me oirán, y ya llegarás a saber si aquello que yo les diga
 se aprende en un par de meses... ¡Vaya con estos muchachos que
 nacen enseñados y con la palabra de Dios, 
 
-     <foreign>
+     <foreign xml:lang="LAT">
       verbum Dei
      </foreign>
      , entre los labios!... Y
 ahora dime: ¿qué tripa se te ha roto? ¿Qué me quieres? ¿Por qué me
 buscas, 
 
-     <foreign>
+     <foreign xml:lang="LAT">
       et quare conturbas me
      </foreign>
      ?
@@ -17084,7 +17087,7 @@ tomarlo a castigo de Dios...; que bien pudiera, ¡cuerno!, que bien
 pudiera tomarlo por esa banda sin pecado de vanidad. ¡Uf!...
 ¡Lenguas, lenguas; 
 
-     <foreign>
+     <foreign xml:lang="LAT">
       linguae corruptae
      </foreign>
      ; carne mísera, carne
@@ -22606,19 +22609,15 @@ mareante santanderino.
     </p>
     
 
-    <p>
+    <trailer>
      Santander, noviembre 1884.
-    </p>
+    </trailer>
    </div>
   </body>
   
   <back>
    <div type="liminal">
-    <head>
-     Significación de algunas voces técnicas y locales
-usadas en este libro para inteligencia de los lectores
-«profanos»
-    </head>
+    <head>Significación de algunas voces técnicas y locales usadas en este libro para inteligencia de los lectores «profanos»</head>
     <div>
      <head>A</head>
       <p>
@@ -23694,12 +23693,12 @@ y debe consignarse traducida aquí.
      <p>
       «
 
-      <foreign>
+      <foreign xml:lang="FRA">
        Lamanage
       </foreign>
       .- Profesión de los pilotos, 
 
-      <foreign>
+      <foreign xml:lang="FRA">
        lamaneurs.
       </foreign>
      </p>
@@ -23708,12 +23707,12 @@ y debe consignarse traducida aquí.
      <p>
       
 
-      <foreign>
+      <foreign xml:lang="FRA">
        Lamaneur
       </foreign>
       (del antiguo francés 
 
-      <foreign>
+      <foreign xml:lang="FRA">
        Laman
       </foreign>
       , literalmente 
@@ -23723,27 +23722,27 @@ y debe consignarse traducida aquí.
       </emph>
       - de 
 
-      <foreign>
+      <foreign xml:lang="DUT">
        lot
       </foreign>
       , plomo, y 
 
-      <foreign>
+      <foreign xml:lang="DUT">
        mann
       </foreign>
       , hombre-, en flamenco 
 
-      <foreign>
+      <foreign xml:lang="DUT">
        lotman
       </foreign>
       , en alemán 
 
-      <foreign>
+      <foreign xml:lang="DEU">
        lothsman
       </foreign>
       , porque los 
 
-      <foreign>
+      <foreign xml:lang="FRA">
        lamaneurs
       </foreign>
       se sirven ordinariamente de
@@ -23782,7 +23781,7 @@ Barcelona
       </emph>
       , del latín 
 
-      <foreign>
+      <foreign xml:lang="LAT">
        locomanens
       </foreign>
       , que es decir 
@@ -24582,26 +24581,17 @@ cambiar venga por el otro.
      
 
      <p>
-      
-
       <emph>
        ZONCHO
-      </emph>
-      , 
-
+      </emph>, 
       <emph>
        loc
       </emph>
       .- Carpancho.
      </p>
-     
 
     </div>
-    
-
    </div>
-   
-
   </back>
  </text>
 </TEI>
