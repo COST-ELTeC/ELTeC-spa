@@ -68,7 +68,7 @@
 <change when="2020-11-14">Converted by checkUp script for new release</change>
 			<change when="2019-12-17">Anotación formato ELTeC y revisión del texto : César Más Sánchez</change>
 			<change when="2020-01-27">Revisión de anotación formato ELTeC y cambios menores : Borja Navarro Colorado</change>
-			<change when="2021-04-07">Introducción de ID de idiomas : Borja Navarro Colorado</change>
+			<change when="2021-04-07">Introducción de ID de idiomas y reanotación de la sección "back"  : Borja Navarro Colorado</change>
 		</revisionDesc>
 	</teiHeader>
 	<text>
