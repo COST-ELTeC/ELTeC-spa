@@ -1,5 +1,8 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<!--Modernizada en parte. Revisar-->
+<?xml version="1.0" encoding="UTF-8"?><!--Modernizada en parte. Revisar-->
+    <?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
+            schematypens="http://relaxng.org/ns/structure/1.0"?>
+    <?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
+            schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="SPA2013" xml:lang="es">
 	<teiHeader>
       <fileDesc>
@@ -20,28 +23,24 @@
         	<measure unit="pages">750</measure>
 		</extent>
 		<publicationStmt>
-			<publisher ref="https://distant-reading.net">COST Action "Distant Reading for European Literary History" (CA16204)</publisher>
-			<distributor ref="https://zenodo.org/communities/eltec/">Zenodo.org</distributor>
-			<date when="2021-03-31"/>
-			<availability><licence target="https://creativecommons.org/licenses/by/4.0/"/></availability>
-			<ref type="doi" target="https://doi.org/10.5281/zenodo.3462435">ELTeC</ref>
-			<ref type="doi" target="https://doi.org/10.5281/zenodo.4271467">ELTeC release 1.0.0</ref>
-			<ref type="doi" target="https://doi.org/10.5281/zenodo.">ELTeC-$textLang</ref>
-			<ref type="doi" target="https://doi.org/10.5281/zenodo.">ELTeC-$textLang release </ref>
-		</publicationStmt>
-		<sourceDesc>
-			<bibl type="firstEdition">
+<publisher ref="https://distant-reading.net">COST Action "Distant Reading for European Literary History" (CA16204)</publisher>
+<distributor ref="https://zenodo.org/communities/eltec/">Zenodo.org</distributor><date when="2021-04-09"/>
+<availability><licence target="https://creativecommons.org/licenses/by/4.0/"/></availability>
+<ref type="doi" target="https://doi.org/10.5281/zenodo.3462435">ELTeC</ref>
+<ref type="doi" target="https://doi.org/10.5281/zenodo.4662444">ELTeC release 1.1.0</ref>
+<ref type="doi" target="https://doi.org/10.5281/zenodo.">ELTeC-$textLang</ref>
+<ref type="doi" target="https://doi.org/10.5281/zenodo.">ELTeC-$textLang release </ref>
+</publicationStmt>
+		<sourceDesc><bibl type="firstEdition">
 				<publisher>Imprenta de T. Fortanet</publisher>
 				<pubPlace>Madrid</pubPlace>
 				<date>1862</date>
-			</bibl>
-			<bibl type="digitalSource">
+			</bibl><bibl type="digitalSource">
 				<publisher>Biblioteca Digital Hispánica, Biblioteca Nacional de España</publisher>
 				<pubPlace>Madrid</pubPlace>
 				<ref target="http://bdh-rd.bne.es/viewer.vm?id=0000191113">Biblioteca Digital Hispánica</ref>
 				<idno type="bdh">0000191113</idno>
-			</bibl>
-		 </sourceDesc>
+			</bibl></sourceDesc>
 	</fileDesc>
 	<encodingDesc n="eltec-1">
 		<p/>
@@ -58,6 +57,7 @@
 		</textDesc>
 	</profileDesc>	
 		<revisionDesc>
+<change when="2021-04-09">Converted by checkUp script for new release</change>
 			<change when="2020-01-12">María Ivorra Pérez : Anotación formato ELTeC y revisión del texto</change>
 			<change when="2020-01-12">Rosana Lacalle Prieto : Anotación formato ELTeC y revisión del texto</change>
 			<change when="2020-01-12">Sabina Mihai : Anotación formato ELTeC y revisión del texto</change>
@@ -68,7 +68,7 @@
 
 	<text>
 	<front>
-		<div type="tittlePage">
+		<div type="titlepage">
 			<p>El duende de la corte</p>
 			<p>o</p>
 			<p>Memorias de un fraile</p>

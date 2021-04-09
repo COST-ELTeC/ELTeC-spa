@@ -1,11 +1,13 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<!-- Ortografía antigua. Falta modernizar el texto. -->
-
+<?xml version="1.0" encoding="UTF-8"?><!-- Ortografía antigua. Falta modernizar el texto. -->
+    <?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
+            schematypens="http://relaxng.org/ns/structure/1.0"?>
+    <?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
+            schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="SPA1012" xml:lang="es">
 <teiHeader>
 	<fileDesc>
 		<titleStmt>
-			<title>Jarilla : Edición ELTec</title>
+			<title>Jarilla : Edición ELTec : ELTeC edition</title>
 			<author ref="viaf:5738205">Coronado, Carolina (1820-1911)</author>
 			<respStmt>
 				<resp>Edición ELTec</resp>
@@ -18,31 +20,27 @@
 			<measure unit="pages">287</measure>
 		</extent>
 		<publicationStmt>
-			<publisher ref="https://distant-reading.net">COST Action "Distant Reading for European Literary History" (CA16204)</publisher>
-			<distributor ref="https://zenodo.org/communities/eltec/">Zenodo.org</distributor><date when="2021-03-31"/>
-			<availability><licence target="https://creativecommons.org/licenses/by/4.0/"/></availability>
-			<ref type="doi" target="https://doi.org/10.5281/zenodo.3462435">ELTeC</ref>
-			<ref type="doi" target="https://doi.org/10.5281/zenodo.4271467">ELTeC release 1.0.0</ref>
-			<ref type="doi" target="https://doi.org/10.5281/zenodo.">ELTeC-$textLang</ref>
-			<ref type="doi" target="https://doi.org/10.5281/zenodo.">ELTeC-$textLang release </ref>
-		</publicationStmt>
-		<sourceDesc>
-			<bibl type="firstEdition">
+<publisher ref="https://distant-reading.net">COST Action "Distant Reading for European Literary History" (CA16204)</publisher>
+<distributor ref="https://zenodo.org/communities/eltec/">Zenodo.org</distributor><date when="2021-04-09"/>
+<availability><licence target="https://creativecommons.org/licenses/by/4.0/"/></availability>
+<ref type="doi" target="https://doi.org/10.5281/zenodo.3462435">ELTeC</ref>
+<ref type="doi" target="https://doi.org/10.5281/zenodo.4662444">ELTeC release 1.1.0</ref>
+<ref type="doi" target="https://doi.org/10.5281/zenodo.">ELTeC-$textLang</ref>
+<ref type="doi" target="https://doi.org/10.5281/zenodo.">ELTeC-$textLang release </ref>
+</publicationStmt>
+		<sourceDesc><bibl type="firstEdition">
 				<pubPlace>Madrid</pubPlace>
 				<date>1850</date>
-			</bibl>
-			<bibl type="printSource">
+			</bibl><bibl type="printSource">
 				<publisher>Imprenta y fundición de M. Tello</publisher>
 				<pubPlace>Madrid</pubPlace>
 				<date>1873</date>
-			</bibl>
-			<bibl type="digitalSource">
+			</bibl><bibl type="digitalSource">
 				<publisher>Biblioteca Digital Hispánica - Biblioteca Nacional de España</publisher>
 				<pubPlace>Madrid</pubPlace>
 				<ref target="http://bdh-rd.bne.es/viewer.vm?id=0000120607">Biblioteca Digital Hispánica - Biblioteca Nacional de España</ref>
 				<idno type="BDH">bdh0000120607</idno>
-			</bibl>
-		</sourceDesc>
+			</bibl></sourceDesc>
 	</fileDesc>
 	<encodingDesc n="eltec-1">
 		<p/>
@@ -63,6 +61,7 @@
 			</textDesc>
 		</profileDesc>
 	<revisionDesc>
+<change when="2021-04-09">Converted by checkUp script for new release</change>
   		<change when="2021-01-15">Anotación parcial formato ELTeC y revisión del texto : Mónica Martí</change>
         <change when="2019-01-29">Anotación final formato ELTeC, revisión formato  y edición final del texto : Borja Navarro Colorado</change>
   	</revisionDesc>
@@ -93,7 +92,7 @@
 		<head>PRIMERA PARTE.</head>
 		<div type="chapter" n="SPA1012001">
 			<head>CAPÍTULO I</head>
-			<head>LOS TRES CASTILLOS DEL MORO REGÍO></head>
+			<head>LOS TRES CASTILLOS DEL MORO REGÍO&gt;</head>
 			<quote>
 				<l>El rey con sus ricos homes</l>
 				<l>Todos se habian espantado.</l>
@@ -2794,7 +2793,7 @@ el caballo, y voló como una exhalación tras del estandarte real.</p>
 
 <head>SEGUNDA PARTE.</head>
 
-<div type="chapter"  n="SPA1012013">
+<div type="chapter" n="SPA1012013">
 <head>CAPÍTULO I.</head>
 
 <head>SAN VICENTE FERRER.</head>
@@ -3056,7 +3055,7 @@ hacer brotar una chispa de virtud.</p>
 
 </div>
 
-<div type="chapter"  n="SPA1012014">
+<div type="chapter" n="SPA1012014">
 <head>CAPÍTULO II.</head>
 
 <head>LA REINA DOÑA LEONOR.</head>
@@ -3233,7 +3232,7 @@ existir.</p>
 
 </div>
 
-<div type="chapter"  n="SPA1012015">
+<div type="chapter" n="SPA1012015">
 <head>CAPÍTULO III.</head>
 
 <head>VENGANZA DE UNA PORTUGUESA.</head>
@@ -3568,7 +3567,7 @@ pavimento.</p>
 <p>Doña Inés la vio caer con una malvada alegría, y cerró la puerta
 marchándose tranquilamente.</p>
 </div>
-<div type="chapter"  n="SPA1012016">
+<div type="chapter" n="SPA1012016">
 <head>CAPÍTULO IV.</head>
 
 <head>CONTINUACION DE LA VENGANZA DE UNA PORTUGUESA.</head>
@@ -3832,7 +3831,7 @@ vestida de blanco y adornada de flores.</p>
 
 </div>
 
-<div type="chapter"  n="SPA1012017">
+<div type="chapter" n="SPA1012017">
 <head>CAPÍTULO V.</head>
 
 <head>EL GÉBORA.</head>
@@ -3958,7 +3957,7 @@ los heridos, o es uno de los que arrojan al Gébora entre los muertos?</p>
 
 </div>
 
-<div type="chapter"  n="SPA1012018">
+<div type="chapter" n="SPA1012018">
 <head>CAPÍTULO VI.</head>
 
 <head>¡PAZ, PAZ, PAZ!</head>
@@ -4031,7 +4030,7 @@ pecho. ¡Ay, tal vez al arrancarlo, tampoco brotaria sangre! ¡Ay si le
 viese Jarilla!</p>
 
 </div>
-<div type="chapter"  n="SPA1012019">
+<div type="chapter" n="SPA1012019">
 
 <head>CAPÍTULO VII.</head>
 
@@ -4227,7 +4226,7 @@ esta doncella.</p>
 <p>Jarilla no entendió palabra, y el poeta quedó estupefacto.</p>
 
 </div>
-<div type="chapter"  n="SPA1012020">
+<div type="chapter" n="SPA1012020">
 <head>CAPÍTULO VII.</head>
 
 <head>QUE EN EL SIGLO XV TENIAN LAS REINAS MUCHA HUMANIDAD.</head>
@@ -4427,7 +4426,7 @@ escoltando a la régia dama.</p>
 
 <div type="group">
 <head>PARTE TERCERA.</head>
-<div type="chapter"  n="SPA1012021">
+<div type="chapter" n="SPA1012021">
 
 <head>CAPÍTULO I.</head>
 
@@ -4589,7 +4588,7 @@ loco desesperado.</p>
 dirigió al aposento de Doña Inés, y la pidió una entrevista con Jarilla.</p>
 
 </div>
-<div type="chapter"  n="SPA1012022">
+<div type="chapter" n="SPA1012022">
 
 <head>CAPÍTULO II.</head>
 
@@ -4865,7 +4864,7 @@ al valle!</p>
 <p>—Sí, sí, llévame al valle, ¡sol! ¡sol! ¡luz!</p>
 
 </div>
-<div type="chapter"  n="SPA1012023">
+<div type="chapter" n="SPA1012023">
 <head>CAPÍTULO III.</head>
 
 <head>EN QUE VUELVE A HABLAR EL SEÑOR PÉREZ.</head>
@@ -5071,7 +5070,7 @@ atención.</p>
 <p>—Dios os lo pague, contestó enternecido, y se puso a rezar el rosario.</p>
 
 </div>
-<div type="chapter"  n="SPA1012024">
+<div type="chapter" n="SPA1012024">
 <head>CAPÍTULO IV.</head>
 
 <head>UN MAL HALLAZGO.</head>
@@ -5170,7 +5169,7 @@ causado. ¡Oh grave ocasión de espanto, ver que los buitres y los grajos
 acuden a este sitio! ¿quién sabe por qué presa?</p>
 
 </div>
-<div type="chapter"  n="SPA1012025">
+<div type="chapter" n="SPA1012025">
 <head>CAPÍTULO V.</head>
 
 <head>¿QUÉ ERA LO QUE HALLÓ ROMÁN A LA FALDA DE LA SIERRA DE MONSALUD?</head>
@@ -5292,7 +5291,7 @@ y rodaron por los tapices una corona de rosas blancas, y un collar de
 perlas que no sabemos quién se había dejado allí.</p>
 
 </div>
-<div type="chapter"  n="SPA1012026">
+<div type="chapter" n="SPA1012026">
 
 <head>CAPÍTULO VI.</head>
 
@@ -5457,7 +5456,7 @@ sin haber rezado su oración acostumbrada.</p>
 de la cruz.</p>
 
 </div>
-<div type="chapter"  n="SPA1012027">
+<div type="chapter" n="SPA1012027">
 <head>CAPÍTULO VII.</head>
 
 <head>EL ECO.</head>
@@ -5576,7 +5575,7 @@ resonante guantelete, y dijo entre dientes:</p>
 por los aires, Mahoma quiere que seas mía, y…… volveré.</p>
 
 </div>
-<div type="chapter"  n="SPA1012028">
+<div type="chapter" n="SPA1012028">
 
 <head>CAPÍTULO VIII.</head>
 
@@ -5774,7 +5773,7 @@ en nuestros tiempos no volverá a arder. Allá va atravesando el Gébora en
 su negro caballo… Ya llega al campo de D. Juan.</p>
 
 </div>
-<div type="chapter"  n="SPA1012029">
+<div type="chapter" n="SPA1012029">
 
 <head>CAPÍTULO IX</head>
 
@@ -5910,7 +5909,7 @@ no babeis amado como él, no podeis comprender su locura.</p>
 <p>¡Desgraciados los que amen como Román!</p>
 
 </div>
-<div type="chapter"  n="SPA1012030">
+<div type="chapter" n="SPA1012030">
 <head>CAPÍTULO X.</head>
 
 <head>LA APOSTASÍA.</head>
@@ -5979,7 +5978,7 @@ corcel, y atravesando las tierras que hoy se llaman del Regío, se
 dirigió al castillo de Salvatierra.</p>
 
 </div>
-<div type="chapter"  n="SPA1012031">
+<div type="chapter" n="SPA1012031">
 <head>CAPÍTULO XI.</head>
 
 <head>LA PROFECÍA DEL SEÑOR PÉREZ.</head>
@@ -6161,7 +6160,7 @@ composición.</p>
 <div type="group">
 
 <head>CUARTA PARTE</head>
-<div type="chapter"  n="SPA1012032">
+<div type="chapter" n="SPA1012032">
 
 <head>CAPÍTULO I.</head>
 
@@ -6334,7 +6333,7 @@ se arrojó otra vez en los brazos de su amante, y prorumpió en lágrimas.</p>
 
 </div>
 
-<div type="chapter"  n="SPA1012033">
+<div type="chapter" n="SPA1012033">
 <head>CAPÍTULO II.</head>
 
 <head>LA ENCINA DE MARÍA.</head>
@@ -6446,7 +6445,7 @@ Así es el color de su semblante.</p>
 despavorido a la virgen, y huyó como un demente por el valle.</p>
 
 </div>
-<div type="chapter"  n="SPA1012034">
+<div type="chapter" n="SPA1012034">
 <head>CAPÍTULO III.</head>
 
 <head>DONDE SE PREPARA EL ALLEGRO DE LA NOVELA.</head>
@@ -6566,7 +6565,7 @@ Bebieron ambos, y dijo Jarilla.</p>
 vestido.</p>
 
 </div>
-<div type="chapter"  n="SPA1012035">
+<div type="chapter" n="SPA1012035">
 <head>CAPÍTULO IV.</head>
 
 <head>Allegro.</head>
@@ -6694,7 +6693,7 @@ se desmayó.</p>
 oraciones cristianas.</p>
 
 </div>
-<div type="chapter"  n="SPA1012036">
+<div type="chapter" n="SPA1012036">
 <head>CAPÍTULO V.</head>
 
 <head>Allegro piumoso.</head>
@@ -6825,7 +6824,7 @@ esté resentida por sus agudos martirios; su sangre está en disolución.</p>
 <p>¡Pobre Jarilla!</p>
 
 </div>
-<div type="chapter"  n="SPA1012037">
+<div type="chapter" n="SPA1012037">
 
 <head>CAPÍTULO VI.</head>
 
@@ -7044,7 +7043,7 @@ vencer, y sin que podamos ser vencidos…</p>
 morir con ella; y luego, furioso consigo mismo, se desprendió de la
 gruta y huyó como un insensato.</p>
 </div>
-<div type="chapter"  n="SPA1012038">
+<div type="chapter" n="SPA1012038">
 <head>CAPÍTULO VII.</head>
 
 <head>Allegretto final.</head>
