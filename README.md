@@ -8,7 +8,7 @@ Spanish novel collection for the ELTeC (European Literary Text Collection). Nove
 
 General information about ELTeC releases is available at https://github.com/COST-ELTeC/ELTeC. 
 
-* v0.9.1, April 2021: 83 novels encoded at level 1. DOI: https://doi.org/10.5281/zenodo.4662603. 
+* v0.9.1, April 2021: 84 novels encoded at level 1. DOI: https://doi.org/10.5281/zenodo.4662603. 
 * v0.9.0, November 2020: 81 novels encoded at level 1. DOI: https://doi.org/10.5281/zenodo.4271661. 
 
 ## Contributors
