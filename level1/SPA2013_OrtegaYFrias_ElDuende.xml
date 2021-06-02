@@ -48,6 +48,7 @@
 	<profileDesc>
 		<langUsage>
 	    		<language ident="SPA">Español</language>
+	    		<language ident="LAT">Latin</language>
 		</langUsage>
 		<textDesc>
 			<authorGender xmlns="http://distantreading.net/eltec/ns" key="M"/>
@@ -6690,7 +6691,7 @@ agradezco también...</p>
 
 <p>Y salió murmurando:</p>
 
-<p>—_<foreign>Pax vobis.</foreign>_</p>
+<p>—_<foreign xml:lang="LAT">Pax vobis.</foreign>_</p>
 
 <p>La reina miró alternativamente a la duquesa y a Patiño.</p>
 
@@ -6701,9 +6702,9 @@ profundo.</p>
 
 <p>—¿Qué significa todo esto?—dijo para si Isabel.—¿Qué proyecta el fraile?</p>
 
-<p>—Ha dicho _<foreign>pax vobis</foreign>_,—pensaba Patiño.—¿Es que ha olvidado su antiguo
+<p>—Ha dicho _<foreign xml:lang="LAT">pax vobis</foreign>_,—pensaba Patiño.—¿Es que ha olvidado su antiguo
 ódio y renuncia a la venganza? ¿Me tiende un lazo’ Me recomienda, me
-ofrece sus servicios y dice _<foreign>pax vobis...</foreign>_ ¡Oh!... Que es él no lo
+ofrece sus servicios y dice _<foreign xml:lang="LAT">pax vobis...</foreign>_ ¡Oh!... Que es él no lo
 dudo... Calma y prudencia.</p>
 
 <p>Tal efecto habían producido las últimás palabras de fray Manuel, que
@@ -24318,7 +24319,7 @@ Occidente.</p>
 dejó escapar un grito ahogado.</p>
 
 <p>No era, sin embargo, como en otra ocasíón, el toque de difuntos el que
-había sonado; era el _<foreign>Angelus</foreign>_ que avisaba a los fieles el principio de
+había sonado; era el _<title>Angelus</title>_ que avisaba a los fieles el principio de
 la noche, recordándoles que debían orar para que el angel guardían los
 protegiese en las horas de las tinieblas.</p>
 
