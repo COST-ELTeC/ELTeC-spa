@@ -1533,9 +1533,7 @@ consecuencias de aquella nueva calaverada.
 la locuacísima Rosa (que cuidó mucho de nombrar varias veces a su
 ama con los dos títulos en pleito), enteraron 
 
-      <foreign xml:lang="LAT">
-       vellis nollis
-      </foreign>
+      <foreign xml:lang="LAT">vellis nollis</foreign>
       al ceremonioso marqués de
 todo lo acontecido en la casa y sus cercanías desde que la tarde
 anterior sonó el primer tiro hasta aquel mismísimo instante, sin
@@ -4852,7 +4850,7 @@ desde la primera vez que nos vió juntos.
     <head>III</head>
      
 
-     <head><foreign>Etiamsi omnes</foreign></head>
+     <head><foreign xml:lang="LAT">Etiamsi omnes</foreign></head>
      
 
      <p>
