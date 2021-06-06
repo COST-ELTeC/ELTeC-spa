@@ -51,7 +51,7 @@
 			<langUsage>
 				<language ident="SPA">Español</language>
 				<language ident="FRA">Francés</language>
-				<language ident="GIG">Gallego</language>
+				<language ident="GLG">Gallego</language>
 			</langUsage>	
 			<textDesc>
 				<authorGender xmlns="http://distantreading.net/eltec/ns" key="F"/>
@@ -1890,7 +1890,7 @@
 				a ocultarse a sus ojos, el cielo se hallaba ya cubierto de nubes y
 				la mar empezaba a rizarse formando blancos copos de espuma que
 				allí, y en el dialecto del país, llaman
-				<foreign xml:lang="GIG">obelliñas blancas.</foreign></p>
+				<foreign xml:lang="GLG">obelliñas blancas.</foreign></p>
 				<p>En efecto, semeja el mar en tales ocasiones un campo inmenso y
 				movible en el cual pacen las blancas ovejas de que habla aquel
 				nombre, aunque pudiera muy bien comparársele a un terreno
