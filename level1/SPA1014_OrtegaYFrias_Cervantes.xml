@@ -1,5 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
+    <?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
+            schematypens="http://relaxng.org/ns/structure/1.0"?>
+    <?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
+            schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
 <!--Texto con la ortografía original: NO modernizado. En la tercera parte hay etiquetas, como cambio de página, que no están en las dos primeras.-->
+
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:h="http://www.w3.org/1999/xhtml" xml:id="SPA1014" xml:lang="es">
 	<teiHeader>
 		<fileDesc>
@@ -9,13 +15,6 @@
 				<respStmt>
 					<resp>Edición ELTeC</resp>
 					<name>Borja Navarro Colorado</name>
-					<name>Patricia Orozco Gómez</name>
-					<name>Paula Perales Álvarez</name>
-					<name>Aitor Aráez Pérez</name>
-					<name>Danilo Penagos Jaramillo</name>
-					<name>Giselle Cabello Rodríguez</name>
-					<name>María José Díez Lucas</name>
-					<name>Jennifer García Vera</name>
 				</respStmt>
 			</titleStmt>
 			<extent>
