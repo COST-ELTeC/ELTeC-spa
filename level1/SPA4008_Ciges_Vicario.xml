@@ -26,13 +26,20 @@
 <ref type="doi" target="https://doi.org/10.5281/zenodo.">ELTeC-$textLang</ref>
 <ref type="doi" target="https://doi.org/10.5281/zenodo.">ELTeC-$textLang release </ref>
 </publicationStmt>
-			<sourceDesc><bibl type="digitalSource">
+			<sourceDesc>
+				<bibl type="digitalSource">
 					José Calvo Tello
 					<ref target="https://github.com/cligs/conssa">Corpus of Novels of the Spanish Silver Age (CoNSSA)</ref>
 					<idno>ne0010</idno>
 					<pubPlace>University of Würzburg</pubPlace>
 					<date when="2020"/>
-				</bibl><bibl type="digitalSource">Abbyy Recognition Server<date when="2018">2018</date>.</bibl><bibl type="firstEdition">Librería Fernando Fé <date when="1905">1905</date>, <pubPlace>Madrid</pubPlace>.</bibl></sourceDesc>
+				</bibl>
+				<bibl type="firstEdition">
+					<publisher>Librería Fernando Fé</publisher>
+					<date when="1905">1905</date>
+					<pubPlace>Madrid</pubPlace>
+				</bibl>
+		</sourceDesc>
 		</fileDesc>
 		<encodingDesc n="eltec-1">
 			<p>Downcoded from CLIGS</p>
