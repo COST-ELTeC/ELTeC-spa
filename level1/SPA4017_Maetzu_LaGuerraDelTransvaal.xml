@@ -32,7 +32,8 @@
 					<idno>ne0095</idno>
 					<pubPlace>University of Würzburg</pubPlace>
 					<date when="2020"/>
-				</bibl><bibl type="digitalSource">Abbyy Recognition Server, <date when="2018">2018</date>.</bibl><bibl type="printSource">
+				</bibl>
+				<bibl type="printSource">
 					<!-- © 1974, TAURUS EDICIONES, S. A. Plaza del Marqués de Salamanca, 7, Madrid. ISBN: 84 9761 Depósito Legal: M. PRINTED IN SPAIN -->
 					<publisher>Taurus</publisher>
 					<date when="1974">1974</date>
