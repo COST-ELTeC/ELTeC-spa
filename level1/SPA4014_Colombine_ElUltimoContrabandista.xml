@@ -32,7 +32,8 @@
 					<idno>ne0058</idno>
 					<pubPlace>University of Würzburg</pubPlace>
 					<date when="2020"/>
-				</bibl><bibl type="digitalSource">Abbyy Recognition Server, <date when="2017">2017</date>.</bibl><bibl type="firstEdition">
+				</bibl>
+				<bibl type="firstEdition">
 					<publisher>Ramón Sopena</publisher>
 					<date when="1918">1918</date>
 					<pubPlace>Barcelona</pubPlace>
