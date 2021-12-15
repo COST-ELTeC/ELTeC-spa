@@ -1,0 +1,2473 @@
+<?xml version="1.0" encoding="UTF-8"?>
+	<?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
+            schematypens="http://relaxng.org/ns/structure/1.0"?>
+    <?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
+            schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:h="http://www.w3.org/1999/xhtml" xml:id="SPA4026" xml:lang="es">
+
+<teiHeader> 
+	 <fileDesc> 
+		<titleStmt> 
+		  <title>Las diosas de la vida : edición ELTeC</title> 
+		  <author ref="viaf:102144648418827440923">Mañé Miravet, Teresa [Soledad Gustavo] (1865-1939)</author>
+		  <!--Al parecer el autor es su marido Juan Montseny Carret (como Federico Uriales). Firmó Soledad Gustavo por problemas legales.
+		  Ver GUSTAVO, Soledad. «En mis setenta años», La Revista Blanca, 29-11-1935
+		  APUD Ginés Puente Pérez 2016 _De Soledad Gustavo a Teresa Mañé (1865-1939)_ Tesis de Máster Universidad de Barcelona https://www.academia.edu/29288839/De_Soledad_Gustavo_a_Teresa_Mane_1865_1939
+		  Dejo Soledad Gustavo por ser la aceptada en bibliotecas y catálogos como la BDH. -->
+		  <respStmt>
+					<resp>Edición ELTEC</resp>
+					<name>Borja Navarro Colorado</name>
+				</respStmt> 
+		</titleStmt>
+		<extent>
+				<measure unit= "words">20290</measure>
+				<measure unit= "pages">126</measure>
+			</extent>
+			<publicationStmt>
+				<p>Incorporado a ELTEC el <date>15/12/2021</date></p>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl type="firstEdition">
+					<publisher>Centro Editorial Presa</publisher>
+					<pubPlace>Barcelona</pubPlace>
+					<date>1909</date>
+				</bibl>
+				<bibl type="digitalSource">
+					<publisher>Biblioteca Digital Hispánica</publisher> 
+					<pubPlace>Madrid</pubPlace> 
+					<date></date>
+					<ref target="http://bdh-rd.bne.es/viewer.vm?id=0000252370"/>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc n="eltec-1">
+			<p/>
+		</encodingDesc>
+		<profileDesc>
+			<langUsage>
+				<language ident="SPA">Español</language>  
+			</langUsage>
+			<textDesc>
+				<authorGender xmlns= "http://distantreading.net/eltec/ns" key="F"/>
+				<size xmlns= "http://distantreading.net/eltec/ns" key= "short"/>
+				<reprintCount xmlns= "http://distantreading.net/eltec/ns" key= "low"/>
+				<timeSlot xmlns= "http://distantreading.net/eltec/ns" key= "T4"/>
+			</textDesc>
+		</profileDesc>
+		<revisionDesc>
+			<change when="2021-12-15">Anotación formato ELTeC y revisión del texto : Borja Navarro Colorado</change>
+		</revisionDesc>
+</teiHeader>
+<text> 
+	<front>
+	 	<div type="titlepage">
+	 		<p>Soledad Gustavo</p>
+	 		<p>Las diosas de la vida</p>
+	 		<p>Barcelona</p>
+	 		<p>Centro Editorial Presa</p>
+	 		<p>344 - Diputación - 344</p>
+	 	</div>
+	</front>
+	<body>
+		<div type="chapter" n="SPA4026001">
+			<head>I</head>
+			<head>MAR ADENTRO</head>
+
+<p>A primeros de Mayo último salió de Barcelona un grande y lujoso trasatlántico francés con rumbo á Buenos Aires Aires. El pasaje del veloz buque se componía de gente de todos los países y condiciones, pero poca se distinguía por algo digno de mención. Unos nobles rancios, murmuradores, fanáticos y envejecidos antes de tiempo y unos jóvenes pálidos y afeminados componían el pasaje de primera; el de tercera más semejanza tenía con rebaños de esclavos que con colectividades de gente libre.</p>
+
+<p>Hasta aquel momento el viaje había sido delicioso y los viajeros, atrás Canarias y hartos ya unos de otros, se dedicaban á sus aficiones favoritas. Estos, mataban las horas contemplando el mar; otros, jugando al tresillo: algunos, observando el trajín de la tripulación; el resto, contemplando la más hermosa mujer ó el hombre más simpático que viajaba en el buque.</p>
+
+<p>Entre los viajeros de tercera había un hombre, como de treinta años, que apenas hablaba con nadie, y que, al parecer, no tenía ojos más que para mirar el horizonte infinito con sus velas blancas y su superficie azulada. Cristián, que así se llamaba nuestro hombre, era alto y recio, de frente despejada, de ojos grandes, de barba poblada, de nariz un poco aguileña y de labios entreabiertos y algo pronunciados. Cuando hable quizá sepamos algo de la vida de ese simpático viajero; ahora nada sabemos ó sabemos únicamente que no habla y que huye de sus compañeros de viaje.</p>
+
+<p>Entre las personas que viajaban en primera merecen especial mención dos jóvenes; una de veintitrés años y otra de diez y ocho. Era aquella muy rubia, pero de ojos negros y de cutis sonrosado; esbelta, arrogante, bien contorneada, majestuosa. Parecía que había venido al mundo para ser obedecida sin mandar nada; sólo por el imperio de su ademán y su figura, y por la fuerza fascinadora de sus grandes y brillantes ojos. El movimiento más insignificante de aquella joven producía un estado tal de belleza, que ningún hombre podía dejar de admirarla y de contemplarla embelesado. De esa joven sabemos, también, bien poca cosa, porque, al igual que Cristián, huía de la gente, como si la soledad fuese para ciertas personas el mayoer encanto de la vida. Por ahora solo sabemos que tan bella mujer se llama Isabel.</p>
+
+<p>La otra joven se llamaba Elisa y era más comunicativa y vivaracha que Isabel. Donde quiera que Elisa fuese, é iba á todas partes, llevaba el bullicio y la alegría. La cara de Elisa era monísima. No tenía la majestad de la de Isabel, pero era más graciosa y picaresca y casi tan linda. Las mejillas de Elisa, que parecían dos rosas, daban á su rostro tal aspecto de salud y frescura, que los hombres pensaban, al verla, que con unas cuantas como aquella joven, la tierra podría cubrirse de ángeles bellos, sanos y juguetones.</p>
+
+<p>Isabel tenía pocos amigos entre el pasaje de primera, pero amiga suya era Elisa, por serlo ésta de todo el mundo. No obstante, Elisa sentía tal cariño por Isabel que siempre salía en su defensa cuando las otras señoras hablaban mal de ella, que era casi siempre, y tenía gran placer en pasar algunas horas diarias al lado de Isabel.</p>
+
+<p>Un día ésta subió muy temprano á cubierta. Sus ojos cruzaron vagamente la superficie del mar, y como el trasatlántico siguiera dirección contraria á la de una barca pesquera, Isabel esperó, fija la vista en la blanca vela que se acercaba, á que el cruce tuviese lugar. Luego que la barca pesquera hubo cruzado, Isabel la siguió con la vista hacia estribor y en aquel momento vió, en el linde del pasaje de tercera, á un joven alto y de barba fina que la contemplaba admirado. Isabel bajó los ojos y se retiró; pero con los ojo bajos, aún veía la imagen del joven barbudo. Al día siguiente Isabel subió otra vez á cubierta muy de mañana, volvió á mirar la superficie del mar, se fijó de nuevo en las blancas velas de los barcos pesqueros é instintivamente, y sin querer casi, lanzó su mirada sobre el sitio donde el día antes había visto al joven alto que la contemplaba. Cristián estaba allí también y también miraba encantado á la hermosa joven. Isabel bajó los ojos igualmente, pero los bajó para volverlos á levantar y no se fué tan presto como lo hiciera el día anterior; antes bien volvió á mirar para ver si Cristián continuaba observándola.</p>
+
+<p>Estos diálogos matutinos y mudos de Isabel y Cristián duraron varios días, hasta que uno el joven se atrevió á saludar á la joven. Isabel contestó al saludo con desacostumbrada complacencia en ella y desde entonces todos los días entre Isabel y Cristián se cruzaban miradas que decían mucho y palabras que apenas decían nada.</p>
+
+<p>Un día que Isabel acudió más tarde que de costumbre á la cita que sin citarse se daban los dos jóvenes, él la dijo después de darla los buenos días:</p>
+
+<p>—Mucho ha tardado usted hoy.</p>
+
+<p>—Me encuentro algo indispuesta—contestó Isabel.</p>
+
+<p>—Dispense usted mi atrevimiento—repuso Cristián—y no crea que la censuro por su tardanza. ¿Es de cuidado su indisposición? ¿Qué ha dicho el doctor?</p>
+
+<p>—No he creído necesario llamarle—dijo Isabel.</p>
+
+<p>—¿Se le sentó mal la cena?—volvió á preguntar con interés Cristián.</p>
+
+<p>—No.</p>
+
+<p>—¿Se marea usted?—insistió Cristián.</p>
+
+<p>—Un poco, pero no es el mareo la causa de mi...—titubeó Isabel.</p>
+
+<p>—¡Ah! si conoce usted la causa de su enfermedad, dé usted también por conocido el remedio—exclamó Cristián.</p>
+
+<p>—Quizá no—dijo Isabel.</p>
+
+<p>De todas maneras, mucho se ha ganado cuando conocemos el origen de nuestras dolencias—replicó el joven.</p>
+
+<p>—No es enfermedad precisamente; es intranquilidad, emoción—repuso Isabel.</p>
+
+<p>—Si no temiera ser indiscreto...—se atrevió a decir Cristián.</p>
+
+<p>—Hoy me he levantado dispuesta á no darle á usted ocasión de ser indiscreto, porque deseo explicarle una página de mi vida, en exceso prosaica, que le dará á usted derecho á tener sobre mí la libertad de un hermano.</p>
+
+<p>—Muchas gracias, señorita—exclamó lleno de gozo el joven.</p>
+
+<p>—No me llame usted señorita, que no lo soy—repuso Isabel con cierta tristeza.</p>
+
+<p>—¿No es usted soltera?—exclamó Cristián.</p>
+
+<p>—No, don Cristián, y esto es precisamente lo que tengo empeño en contarle á usted para que su corazón no se forje ilusiones que podrían perjudicarle á usted y a tal vez a mí—se atrevió á decir Isabel.</p>
+
+<p>—Hable usted, doña Isabel—dijo el joven—y tenga usted la seguridad de que lo hace con una persona que la aprecia mucho y que de veras se interesa por la suerte de usted.</p>
+
+<p>—Ya lo sé, don Cristián, y porque he adivinado lo que pasa en su corazón y lo que yo represento en su vida de usted, le voy á decir quien soy yo.</p>
+
+<p>—Grande es mi interés por saberlo—repuso Cristián con anhelo.</p>
+
+<p>Pertenezco á una familia acomodada, pero no rica—empezó diciendo Isabel.—Diez y seis años tenía cuando se enamoró de mí un hombre de cincuenta y seis, título de Castilla y además millonario. Un día estaba yo jugando con mis muñecas cuando los autores de mis días me hablaron por vez primera de matrimonio. Me reí y se lo conté á mi hija de cartón sin dar importancia al caso. A las dos ó tres semanas fuimos á comer al palacio de mi futuro esposo. Después de almorzar dimos un paseo por el jardín y el dueño de la casa me ofreció su brazo. Se lo acepté y dejándome guiar por el duque, nos separamos bastante de mis padres. Mi acompañante hablóme de coches, de palacios, de teatros, de modas, de diamantes... yo le pedí una flor. Al llegar á casa mis padres me preguntaron si me había gustado el duque. «Para papá de Lola, no», fué mi contestación. Los autores de mis días insistieron en la mesa y en la cama, por la mañana y por la tarde, en que había de casarme con aquel señor. No tenía amigas ni hermanas á quienes contar mi pena. <emph>Lola</emph> no contestaba á mis interrogaciones; pero nadie le disputaba mis besos, ni mis caricias. Cansada de reñir con mis padres dije que sí, y el duque, para ganar mi cariño, me hizo donación de sus inmensos bienes. A los veinte meses de matrimonio era viuda y duquesa de Montblanch; tengo veinticuatro años y hace dos que viajo en busca...</p>
+
+<p>—Interesante, muy interesante—dijo fríamente Cristián—es su juventud, señora.</p>
+
+<p>—Ya ve, pues, que he perdido mi calidad de señorita y que no puedo ser tratada como tal—replicó Isabel con ansiedad y con cierta desconfianza.</p>
+
+<p>—De excelentísima la trataré en adelante—repuso Cristián con el mismo tono de indiferencia.</p>
+
+<p>—¡Ah! no; eso no. Llámeme usted Isabel, sencillamente—replicó con viveza la joven.</p>
+
+<p>—No sé si podré—repuso el joven.</p>
+
+<p>—Si usted quiere, sí—exclamó Isabel en tono de verdadero cariño.</p>
+
+<p>Luego callaron. Cristián fijó su mirada en el horizonte infinito. Isabel la fijó en el rostro de Cristián. Después de un momento y viendo que Cristián continuaba ensimismado contemplando el mar, la joven preguntó:</p>
+
+<p>—¿Y usted no tiene algo que contar?</p>
+
+<p>—Todos tenemos que contar, pero no en todos es interesante—replicó el joven.</p>
+
+<p>—¿Por qué viaja usted, Cristián?—le preguntó Isabel, dejando cada vez más al descubierto el cariño que por su interlocutor sentía.</p>
+
+<p>—Señora...—dijo Cristián con cierta ceremonia.</p>
+
+<p>—Isabel—interrumpió la joven.</p>
+
+<p>—Isabel, soy pintor—dijo Cristián.—Pinté varios cuadros en España; puse en mi arte la vida, porque confiaba en que me darían la gloria ...</p>
+
+<p>—¿Y no la dieron, Cristián?—preguntó interrumpiendo Isabel con verdadero cariño.</p>
+
+<p>—Y me dieron penalidades y disgustos. Por esto huyo de la tierra que me vió nacer—repuso el joven artista.</p>
+
+<p>—Nada me cuenta de amores—dijo Isabel tan quedo, que parecía que la advertencia iba á ella dirigida.</p>
+
+<p>—No los he tenido, Isabel—repuso Cristián.</p>
+
+<p>—¿No ha amado usted?—preguntó la joven con manifiesto interés.</p>
+
+<p>—Nunca—dijo Cristián con no disimulada indiferencia.</p>
+
+<p>—Ni ahora, ni antes, ni en la tierra ni en el mar ha visto usted una mujer que le haya interesado?—preguntó Isabel con tal empeño que no parecía sino que en aquella interrogación iba toda su vida.</p>
+
+<p>—No, señora—repuso Cristián secamente.</p>
+
+<p>Isabel volvió la espalda con brusquedad á Cristián y desapareció por la puerta de los camarotes sin saludar ni volver la cabeza. Cristián la quiso seguir, pero se lo impidió el límite de la clase en que viajaba; quiso llamarla y no pudo porque la voz no salió de su garganta. Cuando Isabel se hubo marchado, Cristián contempló, sonriendo amargamente, el sitio por donde la joven había desaparecido. En esta situación estuvo Cristián hasta que subió por la misma escalera un joven mequetrefe, llamado Agapito, y la marquesa de Miraflores. Cristián, entonces, se perdió entre los viajeros de tercera.</p>
+
+<p>Agapito era un barón que, empeñado en derrochar su vida y su fortuna, había logrado que su vida estuviese más apurada que su hacienda. Y era la marquesa una vieja mujer que, por no haber reunido condiciones para que un hombre la dijese flores, odiaba á las mujeres hermosas.</p>
+
+<p>—¡Qué hacía aquí ese? ¿Será algún ladrón? —dijo la marquesa al barón señalando á Cristián.</p>
+
+<p>—No, señora marquesa—repuso el joven disipado ;—sosiéguese usted. Es un viajero de tercera que se ha enamorado de Isabel.</p>
+
+<p>—Estará loco—exclamó la marquesa.— La duquesa ¿claro? al verle, se habrá asustado.</p>
+
+<p>—Muy al contrario, señora marquesa—dijo Agapito.—Isabel habla con ese sujeto muy amigablemente todas las mañanas desde que salimos de Canarias.</p>
+
+<p>—¡Cuando yo digo, Agapito—repuso la marquesa,—que para ser noble hay que tener nuestro origen!</p>
+
+<p>—No; caprichos de mujer mimada por la fortuna— observó Agapito.—¡Y con qué altanería y frialdad nos ha saludado al cruzarnos con ella en el salón! Pero yo la amansaré antes de llegar á Río de Janeiro.</p>
+
+<p>—Dése usted prisa, barón—repuso con cierta socarronería la marquesa,—porque según ha dicho el capitán, pronto entramos en el puerto.</p>
+
+<p>—Pierda usted cuidado, señora marquesa; soy ducho en estas lides.</p>
+
+<p>Luego añadió, tomando una postura que al petimetre debió parecerle artística é interesante:</p>
+
+<p>—No sé de ninguna mujer que se me haya resistido.</p>
+
+<p>—¿Pero ama usted á Isabel?—preguntó la marquesa burlescamente.</p>
+
+<p>—¿Qué es amar, marquesa?—preguntó Agapito tomando aires de hombre de mundo.—Yo considero el amor como el dinero: se tira y se toma según los casos.</p>
+
+<p>—¡El barón tiene ganas de ser duque, vamos! —exclamó la noble vieja.</p>
+
+<p>—Esto ya es otra cosa y, sobre todo, propietario de aquella Villa Isabel que á la memoria de su niña, edificó el buen duque de Montblanch—repuso Agapito.</p>
+
+<p>—¡Ah! ¡tunante!—exclamó la marquesa, dando un golpecito con el abanico en la empolvada mejilla de su joven acompañante.</p>
+
+<p>—Es preciso saberse manejar y por algo ha de servir la guapeza—repuso Agapito creciéndose en su estudiada postura.</p>
+
+<p>En este momento Cristián iba á penetrar en el departamento de primera, pero se detuvo al ver á la marquesa y á Agapito. Luego se paseó de babor á estribor.</p>
+
+<p>—Lo que es la duquesa—decía entre tanto la marquesa—creo que no se rinde; apenas le mira á usted .</p>
+
+<p>—Parece que la mar está algo alborotada—dijo Agapito rehuyendo la conversación.</p>
+
+<p>—Ya se nota en el balanceo—exclamó la marquesa.</p>
+
+<p>—Apóyese usted en mi brazo—dijo el barón—é iremos á sentarnos.</p>
+
+<p>El barón y la marquesa se sentaron en un banco que allí cerca había. No bien se hubieron sentado oyóse una voz que les dijo:</p>
+
+<p>—¿Ustedes tan de mañana sobre cubierta? ¿A qué hora se retiraron ayer?</p>
+
+<p>—Recuerdo únicamente, señor doctor, que fuí de los últimos—contestó el barón.</p>
+
+<p>—Recordar es!—exclamó la marquesa.</p>
+
+<p>—¡Ya lo creo!—añadió el médico de á bordo, riendo.</p>
+
+<p>—Pero en cuanto á madrugar no le hemos adelantado en mucho—dijo Agapito.</p>
+
+<p>—Ante lodo la obligación—repuso el médico.</p>
+
+<p>—¿Hay alguna novedad?—preguntó la marquesa más por curiosidad que por interés.</p>
+
+<p>—Alguien que se habrá mareado—añadió el barón.</p>
+
+<p>—La señora duquesa se ha sentido algo indispuesta y...</p>
+
+<p>En este momento un tripulante pasaba cerca al médico y éste le dijo:</p>
+
+<p>—Avisa al señor practicante que hay que preparar una medicina.</p>
+
+<p>—¿Pero está de cuidado?—preguntó el sietemesino.</p>
+
+<p>—No; una ligera exaltación nerviosa—repuso el doctor.</p>
+
+<p>—Habrá tenido algún disgusto—añadió la marquesa.</p>
+
+<p>—Es muy probable—dijo el médico.</p>
+
+<p>—Pero ¿con quién?—preguntó el barón.</p>
+
+<p>—Quizá con el loco ese—repuso la marquesa señalando á proa.—¿No ha dicho usted, barón, que todas las mañanas están un rato juntos? Isabel es plebeya al fin y al cabo. ¿Ha notado usted que sus gustos son más propios de burguesilla que de duquesa?</p>
+
+<p>Al llegar aquí se vió venir al marinero, y el médico, aprovechando la ocasión, se despidió de la vieja marquesa y del joven barón, diciendo:</p>
+
+<p>—A mis quehaceres, que ya está aquí el practicante. ¡Cuidado con el aire, que sopla fuerte!</p>
+
+<p>Y empezó á descender por la escalera de los camarotes.</p>
+
+<p>—¡Oiga usted, señor doctor!—gritó la marquesa.</p>
+
+<p>El médico se paró y la vieja dijo:</p>
+
+<p>—¿Se puede hablar con la duquesa?</p>
+
+<p>—No hay inconveniente—exclamo el médico desapareciendo.</p>
+
+<p>—Le acompañaré á usted, marquesa—repuso Agapito.</p>
+
+<p>—Y de paso—exclamó la marquesa—el señor barón, hablará con su... con su...</p>
+
+<p>—No diga usted tonterías—repuso Agapito bajando á los camarotes detrás de la marquesa.</p>
+
+<p>Tan pronto desaparecieron de cubierta la marquesa y el barón, Cristián llamó al marinero que antes había hablado con el médico de á bordo y le dijo:</p>
+
+<p>—¿Quién está enfermo?</p>
+
+<p>—Su amiga de usted—contestó el marinero sonriendo.</p>
+
+<p>—¿La joven que habla algunas veces conmigo?—preguntó Cristián con interés.</p>
+
+<p>—¡La señora duquesa, sí, señor!—replicó el marinero. Y viendo que Cristián nada le decía, añadió:—¿Manda usted algo?</p>
+
+<p>—Sí; oye—repuso Cristián,—¿qué debo hacer para continuar el viaje en primera?</p>
+
+<p>—Esto es cuestión del contramaestre—observó el hombre de mar.</p>
+
+<p>—¿Cuesta mucho?—preguntó Cristián con infantil sencillez.</p>
+
+<p>—Una barbaridad; pero todo puede arreglarse con buena voluntad—añadió el marinero haciendo signos con las manos equivalentes á dinero.</p>
+
+<p>—¿Puedes arreglarlo tú?—volvió á preguntar el joven.</p>
+
+<p>—Yo no; pero otro sí—dijo el marinero.—Nosotros no tenemos más gangas que algún recadillo.</p>
+
+<p>—Di al contramaestre que necesito hablarle un momento—repuso Cristián, dando al marinero algunas monedas de cobre.</p>
+
+<p>El marinero desapareció por la escalera de los camarotes y Cristián paseóse pensativo por el sitio acostumbrado.</p>
+
+<p>Luego se oyó el sonido de la bocina; el capitán, desde el puente, miró al horizonte con el anteojo, primero á babor y después á estribor. Dejó de mirar y tocó el pito. En seguida se vió venir, corriendo desde el fondo á varios marineros que adelantaron atando los objetos, maniobrando y subiendo algunos por las escaleras de cuerdas; varios viajeros de primera subieron sobre cubierta, miraron al mar y se sentaron. Al poco rato apareció el contramaestre.</p>
+
+<p>—¿Qué se le ofrece, caballero?—preguntó á Cristián.</p>
+
+<p>—Saber—dijo el joven—lo que tendría que abonarle á usted ó á quien fuese, para continuar el viaje en primera.</p>
+
+<p>—¿Ha reñido usted con algún viajero?—pregunto el contramaestre.</p>
+
+<p>—No señor—dijo Cristián,—me siento mal y en primera estaré mejor.</p>
+
+<p>—Eso desde luego—repuso del contramaestre. Después preguntó: ¿Hasta dónde tiene pagado usted?</p>
+
+<p>—Hasta Buenos Aires—dijo Cristián.</p>
+
+<p>—¿Y piensa usted continuar el viaje hasta allí?—preguntó el contramaestre.</p>
+
+<p>—Sí, señor—repuso Cristián.</p>
+
+<p>—Nos faltan siete días. Pagará usted el viaje en primera desde Río Janeiro, á donde llegaremos hoy, hasta la capital de la Argentina, descontándole el importe de tercera, que tiene usted abonado.</p>
+
+<p>El contramaestre se sacó una cartera, hizo varios números y después dijo:</p>
+
+<p>—Ciento veinticinco pesetas.</p>
+
+<p>—¿No puede ser menos?—preguntó Cristián con la sencillez que le caracterizaba.</p>
+
+<p>—No, señor—exclamó el contramaestre;—porque mire usted, de Río Janeiro á...</p>
+
+<p>—Bueno, bueno—repuso el joven pintor;—no necesito explicaciones. Tengo en metálico noventa y tres pesetas. Se las daré á usted y además este reloj;—dijo Cristián enseñando al contramaestre el que llevaba.</p>
+
+<p>El contramaestre cogió el reloj, lo examinó con alguna atención y luego dijo:</p>
+
+<p>—Poco vale, pero, en fin, le haré á usted este favor, suplicándole dos cosas; que á nadie hable del trato; y que se ponga un traje algo mejorcito que el que lleva puesto, porque si no el pasaje de primera le recibirá á usted mal.</p>
+
+<p>—Me pondré el mejor—repuso Cristián.</p>
+
+<p>—Sí; allí no se ensucia uno—observó el contramaestre.</p>
+
+<p>—Supongo que no tendré necesidad de dar explicaciones á nadie—dijo Cristián.</p>
+
+<p>A nadie absolutamente—exclamó el contramaestre.</p>
+
+<p>—Hasta pronto, pues—dijo el joven artista.</p>
+
+<p>—Usted lo pase bien—contestó el contramaestre.</p>
+
+<p>Los dos hombres se separaron. Cristián para ir á mudarse; el contramaestre para dirigirse á sus quehaceres.</p>
+</div>
+
+		<div type="chapter" n="SPA4026002">
+			<head>II</head>
+			<head>LA PRESENTACIÓN DE UN ARTISTA</head>
+
+<p>Al poco rato presentáronse sobre cubierta varios viajeros de primera:entre ellos había la marquesa, Agapito, la joven Elisa, don Tomás, un señor rudo y franco, doña María, viuda de Gonfau, con muchas pretensiones aunque de cuarenta y cinco años, Luis, tipo muy parecido al de Agapito y Mariano, que más de una vez había ocultado sus truhanerías con el manejo del florete, temido por muchos.</p>
+
+<p>Los recién llegados estaban hablando de la joven duquesa. Agapito, que en murmurador como en otras muchas cosas, más parecía una mujer que un hombre, decía:</p>
+
+<p>—Padece una enfermedad de moda.</p>
+
+<p>—Una chifladura, querrá usted decir—observó doña María;—no creo en ese de los nervios.</p>
+
+<p>—Sí, hija mía, hay enfermedades nerviosas—observó la marquesa;—las he padecido yo. Nada le duele á una, pero siente malestar general.</p>
+
+<p>—Para eso, tila—repuso doña María.</p>
+
+<p>—El doctor le ha ordenado descanso y tranquilidad—dijo Elisa, como defendiendo á Isabel.</p>
+
+<p>—Prepárense ustedes para recibir á un nuevo viajero—dijo á los reunidos en aquel momento el contramaestre.</p>
+
+<p>—Habrá subido en alta mar—observó don Tomás.</p>
+
+<p>—Algún naúfrago—repuso Elisa.</p>
+
+<p>—No, señores—dijo el contramaestre,—se trata de un pobre muchacho que viajaba en tercera y que está algo enfermo.</p>
+
+<p>—¿Alto, de unos treinta años, barba negra, ojos grandes?—preguntó la marquesa vivamente.</p>
+
+<p>—El mismo—dijo el contramaestre.</p>
+
+<p>—¡El enamorado de Isabel!—exclamó Agapito.</p>
+
+<p>—¿Otro enamorado?—dijo Luis.—Mal andamos; cualquier día se arma aquí la de San Quintín.</p>
+
+<p>—Mientras viaje con nosotros—dijo con sorna don Tomás—don Mariano, tan valiente y tan hábil en las armas, nada temo.</p>
+
+<p>—¿Tiene otro pretendiente Isabel?—preguntó Elisa con alguna malicia.</p>
+
+<p>—¿No lo ha notado usted?—exclamó la marquesa.</p>
+
+<p>—No—repuso Elisa.</p>
+
+<p>—Será algún tiburón—dijo Mariano.</p>
+
+<p>—Cerca le anda—repuso la marquesa.</p>
+
+<p>—¿Cómo?—exclamó Agapito.</p>
+
+<p>—Le anda cerca por lo de burón—observó la marquesa.</p>
+
+<p>—¿El barón?—gritaron cuatro ó cinco á la vez.</p>
+
+<p>—Creo, señores, que están ustedes equivocados—exclamó el contramaestre.—El joven de quien yo hablo no tiene trazas de loco y por consiguiente no puede haberse enamorado de la señora duquesa.—Dijo y se retiró.</p>
+
+<p>El caso es—observó don Tomás,—que, en adelante, es fácil que viaje un hombre con nosotros.</p>
+
+<p>—¡Cómo un hombre!—exclamaron á un tiempo Agapito, Luis y Mariano.</p>
+
+<p>—Y es probable—añadió don Tomás impertérrito,—además, que tenga uno con quien hablar de cosas que no sean toros, esgrima, caballos...</p>
+
+<p>—La duquesa en forma de Adán—exclamó doña María.</p>
+
+<p>—El mismo gusto y las mismas vulgaridades—añadió Luisito.</p>
+
+<p>—Pablabras de muñeco no ofenden—repuso don Tomás.</p>
+
+<p>—Esta frase...—dijo Luisito levantándose.</p>
+
+<p>Los demás contertulianos se levantaron también menos don Tomás que se encogió de hombros.</p>
+
+<p>—Tiene usted un genio atroz—dijo la marquesa.—Agapito, llévese usted á Luis.</p>
+
+<p>—Sí, mejor será—repuso Agapito chillando,—porque mi carácter tampoco es para oir ciertas cosas.</p>
+
+<p>Luis y Agapito desaparecieron por el pasillo de los camarotes. Los demás continuaron reunidos sin hablar una palabra, hasta que Mariano sacándose un cigarro dijo á las señoras:</p>
+
+<p>—¿Les molesta?</p>
+
+<p>—A mí no—dijo Elisa.</p>
+
+<p>—Gracias—repuso Mariano viendo que la marquesa y doña María nada decían.</p>
+
+<p>Hubo un momento de silencio; de pronto dijo la marquesa:</p>
+
+<p>—Es preciso organizar algo para festejar nuestra feliz llegada á Río Janeiro.</p>
+
+<p>—No me parece mal la idea—repuso don Mariano.</p>
+
+<p>—Lo mismo digo—añadió doña María.</p>
+
+<p>—Algo así que se salga de lo ordinario—repuso Elisa.</p>
+
+<p>—Se me ocurre una idea—dijo la marquesa.</p>
+
+<p>—A alguien habrá de pesarle—murmuró don Tomás.</p>
+
+<p>—¿Qué está usted diciendo?—preguntó la marquesa de mal humor.</p>
+
+<p>Don Tomás ni siquiera volvió la cabeza.</p>
+
+<p>—No haga usted caso—repuso en voz baja doña María.—Exponga usted su idea.</p>
+
+<p>—No me cabe la menor duda—dijo la marquesa—que el haraposo aquel de tercera pasa á primera para hablar con Isabel.</p>
+
+<p>Luego añadió:</p>
+
+<p>—Agapito dice...</p>
+
+<p>—Serán los celos—interrumpió doña María.</p>
+
+<p>—No—repuso la marquesa;—Agapito dice que los ha visto juntos varias veces y además que la tripulación ha oído frases íntimas.</p>
+
+<p>—En este caso—dijo el espadachín,—la duquesa le habrá facilitado dinero para que continúe el viaje en primera.</p>
+
+<p>—Sea de ello lo que fuere, dejemos hablar á la señora marquesa—observó la simpática Elisa.</p>
+
+<p>—Agapito—dijo la marquesa,—según propia confesión, quiere á la duquesa por sus millones.</p>
+
+<p>—Eso por de contado—observó doña María.</p>
+
+<p>—Y lo probable es—añadió la marquesa—que el mendigo de tercera no busque otra cosad.</p>
+
+<p>La hermosa Elisa exclamó:</p>
+
+<p>Me resisto á creer...</p>
+
+<p>—Tú eres muy romántica, hija—repuso la marquesa.</p>
+
+<p>—Me resisto á creer—añadió Elisa—que un viajero de tercera se haya prendado de Isabel.</p>
+
+<p>—El amor no repara en clases—dijo doña María con burla y desdén.</p>
+
+<p>—Tengo la convicción de que, á pesar de la hermosura de Isabel, no se trata más que de una caceríad á la caja—observó la marquesa.</p>
+
+<p>—Naturalmente—repuso doña María.</p>
+
+<p>—Bueno, pues—exclamó la marquesa y antes de continuar añadió mirando á don Tomás en voz baja:—Vengan ustedes conmigo—y se los llevó al salón en donde continuaron hablando de la fiesta que había de organizarse para celebrar la feliz llegada á Río Janeiro.</p>
+
+<p>Don Tomás, al marcharse las mujeres, se levantó y se paseó mirando unas veces al mar que estaba bastante picado y otras á los marineros que bajaban, subían y maniobraban.</p>
+
+<p>Mariano, al quedarse solo, se levantó también.</p>
+
+<p>Manadas de delfines seguían, veloces, los movimientos del buque, en espera de que se les echase los restos de la comida ó de que algún viajero, para pasar el rato les tirara algo comestible.</p>
+
+<p>Eran las diez de la mañana y el sol empezaba á calentar. Don Tomás se sentó bajo el toldo del antepuente. Sentado estaba aun el viejo franco y rudo y en el mismo sitio, cuando se le acercó al bella Elisa diciéndole:</p>
+
+<p>—Buen viaje tenemos, don Tomás.</p>
+
+<p>—Sí, muy bueno, Elisa—contestó el viejo,—mucho mejor de lo que temía el capitán.</p>
+
+<p>—¿El capitán creía que íbamos á tener mal viaje?—preguntó Elisa.</p>
+
+<p>—No; creía que el día de hoy sería malo—repuso don Tomás.</p>
+
+<p>—¿Cómo lo sabe usted?—preguntó Elisa.</p>
+
+<p>—¡Ah! por las órdenes que ha dado á la tirpulación, muchacha; tú no te has fijado, pero yo sí.</p>
+
+<p>Elisa iba á replicar cuando vió venir hacia ella á un hombre joven, alto y simpático.</p>
+
+<p>—Don Tomás—dijo Elisa.</p>
+
+<p>—¿Qué quieres, vivaracha?—le dijo don Tomás.</p>
+
+<p>—Hacia nosotros viene el joven que...</p>
+
+<p>Y no pudo continuar, porque Cristián dijo, muy tímidamente, acercándose al grupo que formaban Elisa y don Tomás:</p>
+
+<p>—Buenos días.</p>
+
+<p>—Muy buenos los tengamos todos—contestó don Tomás.—¿Es usted el nuevo viajero?</p>
+
+<p>—Supongo que sí—dijo Cristián adelantando un poco.</p>
+
+<p>—¿Está usted enfermo, verdad?—le preguntó con interés Elisa.</p>
+
+<p>—La señorita Elisa Durán, educada á la moderna y heredera de una gran fortuna—dijo don Tomás presentando á la joven y sacando á Cristián de un apuro.</p>
+
+<p>—Sí, señorita Durán—dijo el joven artista y luego dirigiéndose á don Tomás añadió:—No tengo presentación. Soy un pintor obscuro. Me llamo Cristián.</p>
+
+<p>—¿Bellmunt?—preguntó Elisa.</p>
+
+<p>—Eso es—repuso Cristián algo animado.</p>
+
+<p>Luego con interés preguntó:</p>
+
+<p>—¿Me conocía usted?</p>
+
+<p>—Por lo que ha dicho la crítica de su último cuadro «El hambriento»—dijo Elisa.</p>
+
+<p>—¡Mal, muy mal me trató!—observó Cristián.</p>
+
+<p>—¿Y ahora se dirige usted á América en busca de gloria?—preguntó don Tomás.</p>
+
+<p>—En busca de gloria, precisamente, no señor—contestó Cristián;—en busca de otro ambiente que, si no gloria, me ofrezca pan y consideraciones.</p>
+
+<p>—Sin embargo, no puede usted quejarse de la suerte—repuso Elisa.—¡Viaja usted en primera!</p>
+
+<p>—¡Pchs!...—hizo Cristián, encongiéndose de hombros.</p>
+
+<p>Por el salón del buque corrió la noticia de que el nuevo viajero, pretendiente de la duquesa, estaba ya sobre cubierta en el sitio de primera, y mucha gente subió á ver a Cristián. El joven pintor saludaba á los que iban llegando con una ligera inclinación de cabeza, que sentaba muy bien á su noble porte. Nadie le dijo una palabra ni le devolvió el saludo. Don Tomás, para atenuar aquella grosería, dijo á Cristián, ofreciéndole un periódico:</p>
+
+<p>—Siéntese usted y lea, si gusta.</p>
+
+<p>—Gracias—exclamó Cristián tomando los periódicos y poniéndose á leer.</p>
+
+<p>Las personas que subieron a ver á Cristián hicieron corro un poco apartados á babor y se pusieron á hablar quedo. Elisa, temiendo los efectos de la murmuración se acercó á la marquesa y á doña María. En aquel momento doña María decía a otra señora también entrada en años y bastante fea:</p>
+
+<p>—Como lo oye usted, Isabel ha dicho:—Supongo que uno de mis enamorados es Agapito y sólo por librarme de sus impertinencias, acepto la broma.</p>
+
+<p>—¿Y del otro, nada sabe?—preguntó Elisa, comprendiendo en seguido de lo que se trataba y poniéndose más roja que la grana.</p>
+
+<p>—Nada—dijo la marquesa; Luis y Mariano están arreglando la cosa.</p>
+
+<p>Mientras hablaban las mujeres en los términos que es de suponer, Cristián, impaciente por saber algo de Isabel, preguntaba á don Tomás:</p>
+
+<p>—¿Viaja mucha gente en primera?</p>
+
+<p>—Mucha—contestó don Tomás.</p>
+
+<p>—¿Deben estar en sus camarotes?—volvió a preguntar Cristián.</p>
+
+<p>—Sí—le contestó don Tomás.</p>
+
+<p>—¿No han tenido ustedes novedad?—insistió Cristián.</p>
+
+<p>—Sólo un enfermo; pero no de cuidado, precisamente hoy—repuso don Tomás.</p>
+
+<p>—¿Una señora?—exclamó el joven pintor.</p>
+
+<p>—Sí, una joven duquesa, por cierto muy simpática á pesar de lo mal que se la trata por aquí—dijo don Tomás.</p>
+
+<p>En este momento se acercaron al grupo que formaban don Tomás y Cristián varios viajeros entre los cuales se contaba la bella y linda Elisa, la marquesa, doña María y Agapito.</p>
+
+<p>—Voy a presentarle á usted á estos señores—dijo don Tomás á Cristián.</p>
+
+<p>Cristián se levantó y esperó correcto la presentación.</p>
+
+<p>—Don Agapito Miró—dijo don Tomás,—barón de Casablanca; Cristián Bellmunt, distinguido pintor.</p>
+
+<p>—Celebro tener el gusto de saludar á usted—dijo Agapito.</p>
+
+<p>—El gusto es mío, señor de Casablanca—contestó Cristián dándole la mano francamente. Agapito se la estrechó muy á regañadientes y la soltó en seguida.</p>
+
+<p>Don Tomás dirigiéndose á las señoras, dijo:</p>
+
+<p>—Tengo la satisfacción de presentar á ustedes á don Cristián Bellmunt, artista de mérito.</p>
+
+<p>—Le conocía—repuso la marquesa, con desdén.</p>
+
+<p>—¿Me conocía usted?—exclamó Cristián con alegría infantil.</p>
+
+<p>—Sí, de verle rondar el departamento de primera—dijo la marquesa.</p>
+
+<p>—¡Ah!—exclamó Cristián avergonzado.</p>
+
+<p>—La señora marquesa de Collbrú; doña María Botellar, viuda de Gonfau—repuso don Tomás continuando la presentación.</p>
+
+<p>Las presentadas no dijeron palabra ni saludaron.</p>
+
+<p>Comprendiendo Elisa la situación de Cristián, exclamó:</p>
+
+<p>—Celebramos muchísimo tener entre nosotros á artista de tanto mérito.</p>
+
+<p>—Gracias, señorita—dijo Cristián premiando la intención de la simpática joven.</p>
+
+<p>—¿Y á qué debemos la compañía de usted?—preguntó Agapito con insolencia.</p>
+
+<p>—A la necesidad de viajar en mejores condiciones—contestó Cristián.</p>
+
+<p>—Sí, el señor Bellmunt está algo enfermo—dijo Elisa.</p>
+
+<p>—Padece la enfermedad de la duquesa—repuso la marquesa.</p>
+
+<p>—¿Qué enfermedad padece la señora duquesa?—preguntó Cristián.</p>
+
+<p>—No puede resistir á los tontos—exclamó doña María.</p>
+
+<p>Don Tomás, sonriente, seguro del efecto que había de causar su agudo ingenio, replicó:</p>
+
+<p>—Por eso apenas habla con nosotros y en quince días que llevamos de viaje, no ha tomado parte en nuestras reuniones.</p>
+
+<p>—Pero en adelante será otra cosa—añadió Agapito,—sobre todo si se entera que don Cristián viaja en primera.</p>
+
+<p>Cristián, avergonzado y tartamudeando, pudo decir, no sin grandes dificultades:</p>
+
+<p>—Señores, no estoy acostumbrado á este juego de palabras y lamento que, por circunstancias que ignoro, sea recibido con prevención.</p>
+
+<p>—El que no tiene seguro el juicio, se mete en pasos muy ridículos—repuso la marquesa.</p>
+
+<p>—Para mí don Cristián no ha cometido ninguna ridiculez—exclamó Elisa.</p>
+
+<p>—¿No?—dijo la marquesa.</p>
+
+<p>—Que yo sepa, no señora—repuso Cristián.</p>
+
+<p>—Estamos en el secreto de su enfermedad de usted—dijo desvergonzadamente doña María.</p>
+
+<p>Cristián, confuso, tímido, no sabía qué decir ni qué hacer; por fin, dijo dirigiéndose á la marquesa y haciendo ademán de retirarse:</p>
+
+<p>—Señora—luego se dirigió á Elisa y exclamó:—Señorita, repito las gracias.</p>
+
+<p>Después alargó la mano á don Tomás y repuso:</p>
+
+<p>—Me vuelvo á mi antiguo departamento.</p>
+
+<p>—¿A dónde va usted?—preguntó don Tomás.</p>
+
+<p>—Tengo ganas de desahogar mi corazón con alguien—dijo Cristián—y dispense usted, don Tomás y usted también, señorita, dirigiéndose á Elisa.</p>
+
+<p>Doña María, despechada porque Cristián no se le dirigía, exclamó:</p>
+
+<p>—¡Qué plancha!</p>
+
+<p>—¡Está usted loco, don Cristián!—gritó don Tomás.—No permito que se marche usted de aquí.</p>
+
+<p>—Deje usted en libertad á las personas—repuso Agapito, dirigiéndose á don Tomás.</p>
+
+<p>En estas, Mariano y Luis se acercaron al grupo con mucho sigilo, llevando un sobre en la mano y sin decir nada subieron al puente y hablaron con el capitán.</p>
+
+<p>—No ha sido nuestra intención ofender á usted—dijo doña María á Cristián, temiendo que se le escapara su futura víctima.</p>
+
+<p>—¡No faltaba más!—añadió la marquesa.</p>
+
+<p>—No se vaya usted, don Cristián—dijo Elisa con verdadero cariño.</p>
+
+<p>—¿Lo ve usted? ¡le quieren todas!—exclamó don Tomás, para evitar que Cristián se fuese.</p>
+
+<p>—Todas le queremos; ¿verdad, señora marquesa?—exclamó doña María con sorna.</p>
+
+<p>—¿Quién resiste?—contestó la marquesa con insolencia.</p>
+
+<p>—Y sobre todo que la duquesa es muy rica, y el dinero atrae mucho—dijo Agapito, para remachar el clavo.</p>
+
+<p>Cristián se puso un poco serio y sereno del todo, dijo dirigiéndose á don Tomás:</p>
+
+<p>—Ante ese espectáculo ¿debo quedarme, don Tomás?</p>
+
+<p>—Debe usted quedarse por lo mismo que los que lo provocan le quieren á usted fuera.</p>
+
+<p>—Sí, señor; debe usted quedarse—exclamó Elisa mirando á doña María y á la marquesa con coraje.</p>
+
+<p>—Esa niña es tonta también—repuso la marquesa.</p>
+
+<p>Elisa iba á replicar, pero se le adelantó Cristián diciendo:</p>
+
+<p>—Me quedo, pero tengo muy mal genio, don Tomás.</p>
+
+<p>—El del cordero—exclamó Agapito quedo.</p>
+
+<p>—No nos vaya á matar si le damos una broma pesada—repuso asustada doña María dirigiéndose á la marquesa.</p>
+
+<p>—Es idiota—contestó ésta encogiéndose de hombros.</p>
+
+<p>En este momento Mariano y Luisito se separaron del capitán, con quien habían hablado hasta ahora y dirigiéndose á los reunidos, Mariano exclamó:</p>
+
+<p>—¡Cómo! ¿no ha empezado aún la fiesta?</p>
+
+<p>—¡Ah! ¿hay fiesta?—dijo don Tomás.—Pues Cristián y yo nos retiramos.</p>
+
+<p>—Si se va usted ¿quién presentará su caro amigo á la señora duquesa?—dijo la marquesa en tono burlón.</p>
+
+<p>—¿Saldrá de su camarote?—preguntó Cristián como un niño que no puede callar ni disimular sus sentimientos.</p>
+
+<p>—Está invitada á la fiesta y ha prometido asistir—dijo doña María.</p>
+
+<p>—Siendo así, don Tomás, quizá sería mejor que nos quedáramos—observó Cristián.</p>
+
+<p>—¡No se usted demasiado de la compañía!...—le dijo don Tomás.</p>
+
+<p>Cristián, olvidándolo todo y creyendo que estaba solo, exclamó á media voz como si hablase consigo mismo:</p>
+
+<p>—Veré á Isabel.</p>
+
+<p>Una carcajada general acogió las palabras del joven artista.</p>
+
+<p>—¡Ah! ¿sabe usted cómo se llama y tiene usted interés en hablar con ella? Usted se trae algo; nos quedaremos—exclamó don Tomás entregado por completo á la infantil naturaleza del pintor.</p>
+
+<p>—¡Sí; vamos á divertirnos mucho! Agapito y don Cristián que vayan á buscar á la señor duquesa—dijo la marquesa.</p>
+</div>
+
+		<div type="chapter" n="SPA4026003">
+			<head>III</head>
+			<head>LA HOMBRÍA DE CRISTIÁN</head>
+
+<p>Todos bajaron al salón. Allí la marquesa repitió sus pretensiones de que Cristián y Agapito fuesen á buscar á Isabel.</p>
+
+<p>—No, yo no; que vaya otro en mi lugar—repuso Cristián emocionado.</p>
+
+<p>—Que me acompañe Elisa—dijo Agapito.</p>
+
+<p>—No, gracias—repuso Elisa precipitadamente.</p>
+
+<p>—Pues iré solo—exclamó Agapito.</p>
+
+<p>—Me parece una imprudencia—dijo Cristián, con severidad.</p>
+
+<p>—¿Por qué?—preguntó Agapito.</p>
+
+<p>Cristián se puso muy serio y dijo con enería:</p>
+
+<p>—Porque la señora duquesa puede hallarse sola en su camarote, y por respeto á ella, si no por respeto á usted, debe usted ir acompañado.</p>
+
+<p>—No admito lecciones de nadie—repuso Agapito queriendo ser enérgico sin lograrlo.</p>
+
+<p>—Pues en el caso presente si no admite usted lecciones admitirá usted puntapiés—dijo Cristián enérgico.</p>
+
+<p>—¿Qué... qué... qué ha dicho?—exclamó Agapito preguntándoselo á todos y yendo de un lado para otro.</p>
+
+<p>—¡Qué bárbaro!—exclamaron la marques y doña María á un tiempo.</p>
+
+<p>—¡Bravo, Cristián!—grito loco de alegría don Tomás.</p>
+
+<p>—Opino como don Cristián—dijo Elisa.—A mí me ofendería que el señor barón entrase en mi camarote estando sola en él.</p>
+
+<p>—¿Y por qué no ha dicho usted que le ofendería la presencia de un hombre cualquiera en lugar de nombrar al señor barón?—preguntó doña María.</p>
+
+<p>—Porque á las mujeres les gustan los hombres, pero no los Agapitos—dijo don Tomás adelantándose á Elisa.</p>
+
+<p>—De que usted no hago caso, pero de este caballero, sí—repuso Agapito.</p>
+
+<p>—Más le valiera que hiciera usted caso de mí—replicó don Tomás—y dejara en paz á Cristián; porque yo, por mis años, puedo tomar las cosas á risa impunemente, pero don Cristián tiene el deber moral de tomarlas un poco en serio.</p>
+
+<p>—¡Se va á aguar la fiesta, como si lo viera!—exclamó la marquesa.—Yo suplico al señor barón que tome las palabras según de quien y que acceda á mi ruego.</p>
+
+<p>¡Sí, accedo, señora marquesa, sí, accedo!; ¡tanto es así que voy solo á buscar a Isabel!</p>
+
+<p>Agapito hizo ademán de irse, mas Cristián le puso una mano en el hombro diciéndole:</p>
+
+<p>—Póngase usted detrás de mí si quiere ir por la duquesa.</p>
+
+<p>—¡Señor mío, por poco me ahoga!—gritó Agapito colocándose detrás de Cristián.</p>
+
+<p>—¡Silencio! y sígame usted—dijo Cristián con tal energía que Agapito se fué detrás de Cristián como perro detrás del amo.</p>
+
+<p>—¡Adiós, don Quijote—dijo la marquesa viendo alejarse á Cristián.</p>
+
+<p>—Adiós, paladín de la del Toboso—añadió doña María.</p>
+
+<p>—¡Son ustedes atroces!—las dijo Elisa.</p>
+
+<p>—¡Cuidado con el mozo, que les va á dar un disgusto!—observó don Tomás.</p>
+
+<p>—No teman ustedes, que aquí estoy yo, y me parece que ese pintor acaba en la punta de mi espada—dijo Mariano.</p>
+
+<p>Elisa echó sobre éste una mirada amenazadora.</p>
+
+<p>—Se trata de una broma de buena ley—repuso doña María.</p>
+
+<p>—Quiero conocerla antes ó sino lo echo todo á rodar, con perdón del florete de don Mariano—repuso don Tomás bruscamente.</p>
+
+<p>—¡Jesús qué insoportable está hoy don Tomás!—dijo la marquesa.</p>
+
+<p>—Es una broma, pero no pesada—exclamó Elisa, dirigiéndose á don Tomás.</p>
+
+<p>—¿Y la duquesa sabe de qué se trata?—preguntó el viejo francote.</p>
+
+<p>—Todo lo sabe—dijo doña María.</p>
+
+<p>—Y consiente en ello, porque va contra el barón, que la fastidia. Palabras textuales—añadió la marquesa.</p>
+
+<p>—¡Cómo nos fastidia á todas!—dijo Elisa.</p>
+
+<p>—¿Pero está enterada de que don Cristián viaja en primera?—volvió a preguntar don Tomás.</p>
+
+<p>—Qué ha de estar? ¿Usted cree que la duquesa se preocupa de este pobre pintor?—repuso Luis.</p>
+
+<p>—¿Silencio! ya están aquí los tres—exclamó la marquesa.</p>
+
+<p>Efectivamente aparecieron Isabel apoyándose en el brazo de Cristián. Detrás de los dos jóvenes iba Agapito.</p>
+
+<p>—Podemos empezar la fiesta—gritó al verlos doña María.</p>
+
+<p>—¡Que se avise al capitán!—exclamó Mariano.</p>
+
+<p>Isabel se desprendió dulcemente del brazo de Cristián y dijo con la majestad de una diosa:</p>
+
+<p>—¿Por qué no me han dicho ustedes que una de las personas que habían de asistir á la fiesta era don Cristián?</p>
+
+<p>—Porque supusimos que no le conocía usted—dijo doña María.</p>
+
+<p>Isabel replicó sin abandonar su imperio:</p>
+
+<p>—Le conozco y de haberlo sabido... De todas maneras ustedes pueden divertirse sin mí y me retiro.</p>
+
+<p>Isabel hizo ademán de retirarse y Agapito se apresuró á darle el brazo, diciéndole:</p>
+
+<p>—¿Me permite usted, duquesa, que la acompañe hasta el camarote?</p>
+
+<p>—Si la señora duquesa quiere retirarse, cosa que sentiría mucho, lo hará acompañada de los dos, como ha venido—dijo Cristián con sequedad.</p>
+
+<p>—Eso si ella y yo queremos—chilló Agapito.</p>
+
+<p>—No quiero—se apresuró á decir Isabel.</p>
+
+<p>—¿Lo ve usted?—dijo Agapito á Cristián.</p>
+
+<p>—Deseo retirarme sola—repuso fríamente Isabel.</p>
+
+<p>—La acompañaré yo, señora duquesa—exclamó Elisa.</p>
+
+<p>—Tú sí, hija mía, tú sí puedes acompañarme—dijo Isabel y se retiraron cogidas de las manos. Parecían dos ángeles retirándose de una batalla de flores.</p>
+
+<p>No bien habían desaparecido las dos bellas mujeres entró en el salón el capitán del buque gritando:</p>
+
+<p>—¡Señora duquesa! ¡señora duquesa!</p>
+
+<p>Isabel oyó la voz del capitán, retrocedió y dijo:</p>
+
+<p>—¿Qué quiere usted, señor capitán?</p>
+
+<p>—Acabamos de entrar en el puerto de Río Janeiro y un vaporcito ha traído este pliego urgentísimo para usted—dijo el capitán.</p>
+
+<p>—Dispense usted, señor capitán—repuso Isabel; nada de lo que diga el pliego me importa. Entérese usted; hágame el favor.</p>
+
+<p>Y desapareció otra vez.</p>
+
+<p>—Una grosería más—exclamó la marquesa, no bien dejaron de oirse las pisadas de las dos hermosas.</p>
+
+<p>—Puede el baile continuar—repuso Luisito.</p>
+
+<p>—Deseo que termine pronto para arreglar una cuenta—dijo Cristián con rudeza.</p>
+
+<p>—Soy de la misma opinión—añadió Agapito.</p>
+
+<p>—En buenas manos está el mono—exclamó don Tomás.</p>
+
+<p>—La señora duquesa me autoriza para abrir este pliego—gritó el capitán.—Como yo creo que es de suma importancia, pues su portador no ha querido dejarlo en otras manos que las mías, tomando á ustedes por testigos voy á leer el documentos.</p>
+
+<p>Todos menos Cristián y don Tomás se agruparon alrededor del capitán, demostrando mucho interés.</p>
+
+<p>El capitán dijo leyendo:</p>
+
+<p>«Excelentísima señora duquesa de Montblanch.</p>
+
+<p>»Madrid, 1º Mayo 1908.</p>
+
+<p>»Excelentísima señora: Tengo la inmensa desdicha de comunicarle la mayor de las desgracias que pudieran ocurrir á vuestra excelencia. El día 26 del pasado Febrero una mano criminal pegó fuego á la <emph>Villa Isabel</emph> convirtiéndola en cenizas. El día 27 se declaró en quiebra la sociedad que negociaba la mayor parte de los capitales de la señora duquesa y á los pocos días el mayordomo de vuestra excelencia desapareció con todo el dinero y las alhajas que la señora duquesa guardaba en uno de los departamentos del hotel que vuestra excelencia regaló á su señora ahijada. Nada queda á vuestra excelencia de su inmensa fortuna y no parece sino que Dios le haya enviado esta desgracia para probar el ánimo de vuestra excelencia, que desearía tuviera la serenidad que exige la magnitud de la catástrofe. Siente infinito tener que comunicarle acontecimiento tan triste su antiguo procurador que respetuosamente besa los pies de vuestra excelencia. —<emph>Juan Palau.</emph>»</p>
+
+<p>Antes de concluir la carta Cristián desapareció por el pasillo de los camarotes, sin que lograse detenerle don Tomás, como intentara; los demás, al terminarse la lectura, buscaron con la vista á Cristián para ver qué efecto le había causado y no lo vieron.</p>
+
+<p>—¿Se ha marchado don Cristián?—preguntó la marquesa.</p>
+
+<p>—¡Calla! no está—dijo Luisito.</p>
+
+<p>—Pues es verdad—añadió doña María.—¿No ha oído la lectura del documento?</p>
+
+<p>—Sí, pero antes de que se concluyese ha huído como alma que lleva el diablo—dijo don Tomás.</p>
+
+<p>—¡Tiene gracia la cosa!—exclamó Mariano.</p>
+
+<p>—¿Dónde habrá ido?—preguntó Luisito.</p>
+
+<p>—¿Dónde quiere usted que haya ido—dijo Agapito,—si siendo pobre la duquesa, nada tenía que hacer aquí?</p>
+
+<p>—¿Y usted, señor barón, le queda algo que hacer aquí?—le preguntó la marquesa.</p>
+
+<p>—Nada, ni tengo interés siquiera en librarme de ese pobre diablo.</p>
+
+<p>—¿Lo ven ustedes?—exclamó doña María.—Lo que nosotras decíamos. La señora duquesa puede ser hermosa, pero para los que la pretenden, más hermosos son sus millones. Pobre, hasta los pobres huyen de ella.</p>
+
+<p>—¡Qué le hemos de hacer!—repuso Agapito.—El mundo es así de prosaico y positivo. Nadie vive de la belleza, si no es la belleza del oro.</p>
+
+<p>En ese momento aparecieron, radiantes de alegría y asidos del brazo Isabel y Cristián. ¡Qué bellos eran! ¡Cuánta felicidad despedían sus ojos!</p>
+
+<p>Al llegar á la puerta del salón, Isabel soltó el brazo de Cristián y dijo con su habitual majestad:</p>
+
+<p>—Señores: tengo la inmensa dicha de comunicarles que estoy completamente arruinada. Cristián me lo acaba de comunicar con loca alegría de la siguiente manera: Te amaba, Isabel; te quise cuando no sabía que eras inmensamente rica; al saberlo, procuré olvidarte. Te quería y hube de ahogar mi pasión en aras de tu dicha y de mi dignidad. Hoy que eres pobre como yo, hoy que no puedes dudar que pretendo tu persona, no tus bienes, digo: Isabel mía, te quiero inmensamente...</p>
+
+<p>Al terminar Isabel varios de los concurrentes intentaron decir que todo había sido una broma, pero Isabel se lo impidió extendiendo el brazo y gritando:</p>
+
+<p>—¡Silencio! Respeten mi dicha y esa alma.</p>
+
+<p>Cristián se retiró con Isabel y á ruegos de su amada prometió que durante los cuatro días que faltaban para llegar á Buenos Aires no hablaría más que con ella y con Elisa. Con estas precauciones logró Isabel que Cristián no se enterase de nada hasta que se hubieron casado.</p>
+</div>
+
+		<div type="chapter" n="SPA4026004">
+			<head>IV</head>
+			<head>LA MURMURACIÓN AMARGANDO VIDAS</head>
+
+<p>Ocho meses llevaban de casados Isabel y Cristián y á la hora en que volvemos á —verlos, los dos esposos se hallaban veraneando en Biarritz.</p>
+
+<p>En Biarritz y en el mismo hotel veraneaban también algunos de los personajes que con Cristián é Isabel hicieron la trawsía de Barcelona á Buenos Aires y entre éstos se hallaban Elisa y sus padres, don Tomás, doña María, Agapito, Luis, Mariano y otros que el lector irá reconociendo.</p>
+
+<p>En el instante en que el lector traba de nuevo relaciones con sus antiguos conocidos, estaban sentados entre otra mucha gente en la terraza del más lujoso hotel de la citada playa francesa, Cristián y don Tomás y en la misma terraza, apoyadas en el antepecho y asomadas al jardín del hotel se hallaban Isabel, Elisa y doña María..</p>
+
+<p>Don Tomás preguntó á Cristián:</p>
+
+<p>—¿Y cómo se pasa la vida aquí?</p>
+
+<p>Cristián contestó con alguna tristeza:</p>
+
+<p>—Se pasaría bien si no fuese el chismorreo de la gente.</p>
+
+<p>—La murmuración es uno de los números del programa—observó don Tomas;—pero á quienes saben vivir solos en todas partes, les debe tener sin cuidado lo que diga y haga la gente.</p>
+
+<p>—Algunas veces—repuso Cristián,—uno no puede aislarse tan en absoluto que no se entere de cosas enojosas.</p>
+
+<p>—¿De suerte que te arrepientes de haber venido?—preguntó don Tomás.</p>
+
+<p>—Arrepentirme no, porque jamás me arrepiento de nada; lo que hago es marcharme, si no estoy bien, ó no volver.</p>
+
+<p>—Sin embargo, hasta ahora la cosa no es para tanto—repuso el simpático viejo.</p>
+
+<p>—Si fuera para tanto ya nos hubiésemos marchado—dijo Cristián.</p>
+
+<p>—No falta entre los veraneantes quien te defienda como hombre y te alabe como artista—exclamó don Tomás, tanto por ser verdad como para alegrar al amigo.</p>
+
+<p>—Alguna persona benévola—observó Cristián.</p>
+
+<p>—Gente justiciera á quien tú no conoces personalmente—dijo don Tomás.</p>
+
+<p>—Siempre es un consuelo—repuso el joven pintor, con melancolía.</p>
+
+<p>—Y ¿qué tal, pintas algo ahora?—le preguntó don Tomás.</p>
+
+<p>—Siempre estoy pintando—dijo Cristián.</p>
+
+<p>—Isabel me contó ayer que te ayudaba en tus tareas artísticas—repuso don Tomás.</p>
+
+<p>—Más que eso; es mi colaboradora—dijo Cristián.—Siente por la pintura verdadera vocación. En este sentido, se lo digo sinceramente, don Tomás, á nadie envidio en el mundo, y si no fuese porque alguna vez soy pasto de la crítica, me consideraría el más feliz de los hombres.</p>
+
+<p>—Puedes considerarte tal, mi buen amigo—observó el viejo,—si, como dices, sólo sufres el padecimiento moral que te produce la crítica de los que quisieran encontrarse en tu lugar.</p>
+
+<p>—Tiene usted razón, don Tomás—observó Cristián con algún calor.—Artista y no tener necesidad de sujetar tu inspiración al gusto del público que paga, es una gran dicha. Hombre y estar unido á una mujer joven, hermosa, inteligente y buena, como Isabel, es dicha aún mayor.</p>
+
+<p>En aquel momento Isabel y Elisa se retiraron del antepecho; Isabel exhalando un quejido de ira.</p>
+
+<p>—¡Qué insolencia!—exclamó Elisa.</p>
+
+<p>Cristián se levantó y dirigiéndose al antepecho dijo:</p>
+
+<p>—¿Qué ha sido, Isabel?</p>
+
+<p>—Nada, Cristián—contestó Isabel, procurando estar serena.</p>
+
+<p>—Algo habrá sido—observó Cristián é hizo ademán de asomarse al antepecho par ver quién había en el jardín, pero Isabel le cogió del brazo para impedirlo, como cooperando á la obra de la bella duquesa:</p>
+
+<p>—Ese Mariano Pacheco que me ha dirigido un requiebro de dudoso gusto.</p>
+
+<p>—Perdona, Elisa—dijo doña María,—pero el piropo de dudoso gusto, como tú le llamas, sin que yo vea el motivo, se ha dirigido á Isabel.</p>
+
+<p>Elisa se puso muy seria y mirando con ira á doña María dijo rápida y enérgica:</p>
+
+<p>—Le digo, María, que ha sido á mí á quien Pacheco...</p>
+
+<p>—Isabel—interrumpió Cristián—¿á quién se ha dirigido ese espadachín de oficio?</p>
+
+<p>—A Elisa—dijo Isabel.</p>
+
+<p>—De todas maneras no sé si debo permitir que se insulte, porque eso que ustedes llaman piropo ó requiebro, ha de ser necesariamente un insulto, á una joven, amiga y compañera de mi esposa—repuso Cristián.</p>
+
+<p>—Debes permitirlo, Cristián—dijo don Tomás,—porque Mariano no tiene más defensa que la espada en achaques de amor y de honra.</p>
+
+<p>Al llegar aquí, ya la concurrencia, enterada del caso, no apartaba los ojos del grupo que formaban Isabel, Cristián y las demás personas nombradas.</p>
+
+<p>Isabel, viendo la curiosidad de que eran objeto dijo:</p>
+
+<p>—Yo creo que debemos irnos á otra parte.</p>
+
+<p>—Sería una cobardía—repuso Cristián.</p>
+
+<p>—Y la comidilla de toda la población veraniega—observó doña María.—Marcharse un hombre y hacerlo con su mujer porque otro se la persiga...</p>
+
+<p>—No obstante me conozco, y temo cometer una barbaridad—dijo Cristián sin hacer caso de la insidia de doña María.</p>
+
+<p>—Opto por el cambio de balneario—dijo don Tomás,—y les acompañaré con mucho gusto.</p>
+
+<p>—El gusto será nuestro, don Tomás—dijo Isabel; luego echándose en brazos de Cristián sin importarle nada que la viesen, añadió, con mimo:—Sí, Cristián, vámonos de aquí; esta gente nos daría qué sentir.</p>
+
+<p>Comprendiendo Isabel que Cristián vacilaba, añadió:</p>
+
+<p>—Elisa, si tú quieres, puedes acompañarnos, también.</p>
+
+<p>—¡Cuánto me alegro! Pediré permiso á mis padres—dijo Elisa con gran alegría.</p>
+
+<p>—Se lo pediremos juntas—observó Isabel.</p>
+
+<p>—En fin, para gozar de tan buena compañía se puede sufrir el ridículo—repuso Cristián.</p>
+
+<p>—Si fuese invitada...—se atrevió á decir doña María.</p>
+
+<p>—Las viudas guapas como usted—dijo don Tomás—están bien en todas partes, y ya sabe usted lo que se dice por aquí.</p>
+
+<p>—¿Qué se dice?—preguntaron con curiosidad Isabel y Elisa.</p>
+
+<p>Cristián, temiendo una indiscreción de su viejo amigo, le miró fijamente. Don Tomás se sonrió y guiñó el ojo á Cristián como diciendo: no temas. Luego dijo:</p>
+
+<p>—Que la linda y riquísima viuda de Gonfau, doña María Botellar, se ha enamorado, ¿de quién dirán ustedes?... De mí, de mí... La murmuración favorece bien poco el gusto de dama tan bella.</p>
+
+<p>Doña María contestó entre enojada y satisfecha:</p>
+
+<p>—Muchas gracias, don Tomás.</p>
+
+<p>—Y ninguna ocasión como la presente—agregó el viejo,—para que la linda viudita demuestre que sus gustos distan mucho de desmerecer de su hermosura.</p>
+
+<p>—¡Ah! siendo así, claro está que no querrá venir usted ¿verdad?—la preguntó Elisa.</p>
+
+<p>—Naturalmente, pero yo ignoraba cuanto acaba de contarnos don Tomás—dijo doña María.</p>
+
+<p>—Lo dice todo el mundo y poco que me crezco y ufano yo con tales dichos—repuso don Tomás.</p>
+
+<p>—Con mucho pesar nuestro, tendremos, pues, que prescindir de tan amable compañía—observó Cristián.</p>
+
+<p>—Eso sí; con mucho pesar nuestro—añadió Isabel.</p>
+
+<p>—¿Vamos á ver á mis padres?—dijo Elisa á la joven duquesa.</p>
+
+<p>—En seguida—contestó ésta con su amable y dulce decir cuando se dirigía á persona querida.</p>
+
+<p>—Y nosotros á ordenar que se preparen los equipajes—dijo don Tomás á Cristián.</p>
+
+<p>—¿A dónde se va?—preguntó doña María.</p>
+
+<p>—No lo hemos decidido aún—contestó don Tomás.</p>
+
+<p>—Ya le escribiremos, doña María—añadió Isabel.</p>
+
+<p>Cristián alargándole la mano muy ceremoniosamente, repuso:</p>
+
+<p>—Doña María, á los pies de usted.</p>
+
+<p>—Feliz viaje—dijo doña María.</p>
+
+<p>—Feliz veraneo—repuso Isabel.</p>
+
+<p>—Y agradables aventuras—agregó Elisa.</p>
+
+<p>—Estas están descontadas—repuso don Tomás.—Doña María es la más hermosa entre las hermosas y la más solicitada por el amor entre las que más solicitadas se ven.</p>
+
+<p>Después de la galantería de don Tomás los reunidos se despidieron. Las dos hermosas para pedir á los padres de Elisa que la dejasen ir con ella y Cristián y don Tomás y el joven pintor para ordenar que se preparasen sus equipajes.</p>
+</div>
+
+		<div type="chapter" n="SPA4026005">
+			<head>V</head>
+			<head>LA PROVOCACIÓN DE UN ZÁNGANO</head>
+
+<p>Doña María se quedó sola, nerviosa y malhumorada; miró á todas partes sin saber qué miraba; le pareció que todo el mundo se burlaba de ella; de pronto y como si hubiese concebido un plan de venganza, se dirigió al antepecho y dijo de cara al jardín:</p>
+
+<p>—¿No lo saben ustedes?—La duquesa y su marido se marchan.—Es posible que se vayan hoy.—¡Tan segura; como que acabo de despedirme de ellos!—Con ustedes siempre se pasa un rato agradable.</p>
+
+<p>Luego se colocó de espaldas al antepecho y de cara á la puerta que daba paso á la terraza. A los poco segundos la traspasaban el espadachín Mariano y el petimetre Luisito.</p>
+
+<p>—¿Pero qué ha ocurrido para tomar determinación tan extraordinaria?—dijo Mariano alargando la mano á la viuda.</p>
+
+<p>—Usted tiene la culpa—exclamó ésta.</p>
+
+<p>—¿Ves? lo que yo he dicho—repuso Luisito.</p>
+
+<p>—¿Estaba Cristián en la terraza cuando la dije...?</p>
+
+<p>—Estaba y se enteró por la actitud de Isabel y la exclamación de Elisa—repuso doña María.</p>
+
+<p>—¡Y en lugar de pedirme explicaciones, huye! ¿Qué cobarde!—dijo en alto voz el <emph>valiente</emph> Mariano.</p>
+
+<p>—Pero huye con las dos—exclamó doña María riendo nerviosamente.</p>
+
+<p>—¿Elisa va con ellos?—preguntó Luisito.</p>
+
+<p>—Sí, contestó doña María.</p>
+
+<p>—Eso no puede tolerarse—exclamó Luisito;—hay que evitar la... la... deshonra de esa muchacha...</p>
+
+<p>Como se rieran Mariano y doña María, Luisito continuó diciendo:</p>
+
+<p>—¡Ah! ¿se ríen ustedes? pues sepan que me opongo al viaje con todas mis energías y que haré cuanto se me ocurra para impedirlo.</p>
+
+<p>—¡Claro que es acción noble y generosa la de evitar que esa niña se vaya con Cristián!...—añadió con fingido pudor doña María.</p>
+
+<p>Y luego perdiendo el tono caritativo que había adoptado agregó:</p>
+
+<p>—Porque ustedes ¡claro! deben saberlo; está de él locamente enamorada. Además, á Luisito no le parece despreciable la muchacha.</p>
+
+<p>—Ni á usted Cristián; lo sabemos también—dijo Luisito como respondiendo á la provocación de doña María.</p>
+
+<p>—Ni á Mariano, Isabel... ¡Ay! qué gracia—agregó riendo la viuda.</p>
+
+<p>—¿Y á dónde se dirigen?—preguntó Mariano con interés.</p>
+
+<p>—No lo he podido averiguar—dijo doña María.</p>
+
+<p>—He formado ya mi plan de ataque—repuso Luisito.</p>
+
+<p>—¿De ataque contra quién?—preguntó Mariano.</p>
+
+<p>—Contra el viaje de Elisa—exclamó Luisito.</p>
+
+<p>—¿Enamorándola?—preguntó doña María.</p>
+
+<p>—¡Ca! el procedimiento es demasiado lento y de resultados problemáticos—dijo Luisito.—Contaré á su hermano cuánto ocurre.</p>
+
+<p>—¡Magnífico!—exclamó Mariano, que en la determinación de su amigo veía la interrupción del viaje.—Cada cual se defiende como puede y yo me opongo también á que se marche Isabel.</p>
+
+<p>—Esto me parece más interesante—dijo doña María.</p>
+
+<p>—Naturalmente—repuso Luisito;—no marchándose Isabel, no se marcha Cristián, que es lo que importa.</p>
+
+<p>—¡Ah! la deducción y el modo de exponerla, carece de delicadeza—dijo la viuda.</p>
+
+<p>—Es humana, natural y corriente—repuso Mariano,—pero yo pienso sacar más el pecho para entorpecer el viaje.</p>
+
+<p>—¿Qué piensa usted hacer?—preguntó doña María.</p>
+
+<p>Luisito hizo un movimiento de esgrima y repuso:</p>
+
+<p>—Pues lo de siempre; provocar al adversario. ¡Se bate! á la fosa. ¡No se bate! al ridículo, que es otra fosa, é Isabel en sus brazos. Porque, eso sí, las mujeres reunen un millón de buenas condiciones, pero el defecto de preferir al hombre más osado, nadie se lo quita.</p>
+
+<p>—No es defecto; es cualidad—observó Mariano.</p>
+
+<p>—Defecto para quien no se bate ni se ha batido nunca, porque le falta valor—repuso doña María.</p>
+
+<p>—Lo confieso—dijo Luisito;—pero tampoco se bate ni se ha batido Cristián y tiene fama de valiente, ya que no de espadachín.</p>
+
+<p>—No tardaremos en averiguarlo—observó Mariano.</p>
+
+<p>—En todo caso, señor de Pacheco, sólo un rasguño—repuso doña María;—lo suficiente para impedir el viaje.</p>
+
+<p>—Descuide usted, doña María, que, en obsequio á usted, sabré hacer habilidades—dijo Mariano.</p>
+
+<p>—Muchas gracias—repuso la viuda.</p>
+
+<p>—A romper el fuego—exclamó Luisito.</p>
+
+<p>—A romperlo—gritó Mariano.</p>
+
+<p>Los dos hombres se dirigieron á la puerta; pero antes de llegar á ella penetraron en la terraza Isabel y Elisa. Mariano y Luisito saludaron quitándose el sombrero é inclinándose un poco con galantería extremada y dejaron pasar á las dos mujeres. Luego, como si hubiesen cambiado de opinión, en lugar de irse, dirigiéronse al centro del antepecho del la derecha, al que se apoyaron mirando á Elisa é Isabel.</p>
+
+<p>Isabel y Elisa se dirigieron á doña María para preguntarla si había visto á Cristián y á don Tomás.</p>
+
+<p>—No, no han vuelto—contestó la viuda y luego preguntó á Elisa:—¿Permiten sus padres que vaya de veraneo con Isabel y Cristián?</p>
+
+<p>—¿Por qué no habían de permitirlo?—repuso Isabel.</p>
+
+<p>—¡Ah! ¡Cómo la gente es tan maliciosa!—dijo doña María.</p>
+
+<p>—¡Qué tiene que ver la malicia de la gente con que yo viaje ó no en compañía de la señora duquesa de Montblanch y de su señor esposo?—preguntó Elisa.</p>
+
+<p>—La malicia de la gente tiene que ver en todo... Ya ve usted, hasta murmura de mí—repuso doña María.</p>
+
+<p>—Si usted no da ocasión á que el público murmure, mucho menos la da Elisa—observó Isabel.</p>
+
+<p>—A veces las apariencias engañan—dijo doña María.</p>
+
+<p>—Pero bien, ¿qué se dice de mí?—preguntó con energía Elisa.</p>
+
+<p>—Don Mariano y Luisito se acercan, y ellos más que yo podrán enterarla á usted de lo que dice la población veraneante—observó doña María.</p>
+
+<p>Efectivamente Mariano y Luisito se acercaron diciendo el primero:</p>
+
+<p>—Se la saluda afectuosamente, señora duquesa y se la pide mil perdones por mi atrevimiento de hace un rato.</p>
+
+<p>—Gracias—contestó fríamente Isabel.</p>
+
+<p>—Elisa quisiera saber lo que dicen de ella los veraneantes—dijo doña María.</p>
+
+<p>—Tantas cosas dicen, señorita, que uno no acierta á adivinar á cuál de ellas se refiere usted—observó Luisito.</p>
+
+<p>—A ninguna, porque dudo que nadie se ocupe de mí—repuso Elisa.</p>
+
+<p>—Pues se engaña usted, señorita—dijo Mariano.</p>
+
+<p>—Con el permiso de ustedes nos retiraremos—repuso Isabel.</p>
+
+<p>Doña María, como si temiera que se escaparan las víctimas, dijo:</p>
+
+<p>—Sin enterarse...</p>
+
+<p>—¿Por qué huye usted de mí, señora duquesa?—preguntó Mariano interrumpiendo.</p>
+
+<p>—No huyo de nadie; tengo que hacer; nos marchamos esta noche y debemos prepararnos—observó Isabel.</p>
+
+<p>—¿Es cierto que nos dejan ustedes?—preguntó Luisito.</p>
+
+<p>—Debe serlo. Las habladurías—dijo Mariano—son siempre fastidiosas cuando tienen visos de verdad y de la verdad no huye precisamente la señora duquesa, huye su esposo.</p>
+
+<p>—¿Qué verdad puede molestarnos?—preguntó Isabel con altanería.</p>
+
+<p>—A usted no, pero á Cristián, sí—observó Mariano.</p>
+
+<p>—¡No haga usted caso, Isabel!—dijo Elisa queriendo evitar un disgusto á su amiga.</p>
+
+<p>—¡Claro! no haga usted caso, porque si hace usted caso, se enterará...—dijo Luisito.</p>
+
+<p>—¡Cuidado, Luisito!—gritó doña María para hacer más grave lo callado que lo dicho.</p>
+
+<p>—¿De qué me enteraré?—preguntó también con alguna fuerza Elisa.</p>
+
+<p>—Pues, sencillamente, de la íntima amistad que hay establecida entre Elisa y Cristián—dijo Mariano.</p>
+
+<p>Elisa exclamó entre colérica y llorosa:</p>
+
+<p>—¡Mal hombre, deslenguado!</p>
+
+<p>—No llores, niña, no llores—dijo Isabel consolando á la pobre Elisa.</p>
+
+<p>Luego dirigiéndose a Pacheco:</p>
+
+<p>—Abusar tan ruinmente de una débil mujer no puede hacerlo más que cierta clase de caballeros.</p>
+
+<p>—No tan débil que carezca de galán que la defienda—repuso Mariano.</p>
+
+<p>—No hay para tanto—observó doña María.</p>
+
+<p>La cara de Isabel perdió sus líneas dulces y adquiriendo las de la energía dijo:</p>
+
+<p>—Hay para más y si yo fuese hombre...</p>
+
+<p>—Con usted me batiría yo también—dijo Luisito queriendo hacer un chiste.</p>
+
+<p>Mariano dijo con verdaderas ganas de provocar un conflicto y de llamar la atención del público:</p>
+
+<p>—Todas las mujeres casadas con... con... un hombre incompleto, se sienten valientes.</p>
+
+<p>Elisa se serenó rápidamente y dijo á Isabel:</p>
+
+<p>—He oído la voz de Cristián. Vámonos.</p>
+
+<p>Isabel exclamó como para vengarse de Mariano:</p>
+
+<p>—Sí, vámonos y no olvides que no hago caso...</p>
+
+<p>Isabel y Elisa se dirigieron á la puerta que daba acceso á la terraza para evitar que la franqueara Cristián; pero Mariano, que se había propuesto ir á Roma por todo, se colocó delante de ella, diciendo:</p>
+
+<p>—¿Dónde van ustedes?</p>
+
+<p>—Nada le importa—dijo Elisa dándole un empujón.</p>
+
+<p>Pero el malvado Mariano exclamó, levantando la voz para que la oyera Cristián:</p>
+
+<p>—Mientras no estaba aquí el <emph>eminente</emph> pintor, han permitido que las dirigiéramos galanteos, pero ahora podríamos comprometerlas.</p>
+
+<p>—¡Insolente!—repuso Isabel valientemente.</p>
+
+<p>En este momento apareció Cristián y como hubiese oído las últimas palabras del espadachín se dirigió á Mariano diciendo:</p>
+
+<p>—¿Qué decía usted?</p>
+
+<p>Mariano contestó satisfecho, como si esperara la intervención de Cristián:</p>
+
+<p>—Que lo ocurrido á bordo durante el viaje á Buenos Aires no fué más que una comedia, porque usted sabía perfectamente que la señora duquesa no había perdido ni un céntimo de sus inmensos bienes.</p>
+
+<p>Al oir tal agravio Cristián intentó abofetear á Mariano y con este propósito se dirigió á su encuentro, pero don Tomás, Isabel y Elisa lo detuvieron forcejeando con él un momento; la gente de la terraza se acercó cuchicheando.</p>
+
+<p>Mariano exclamó cada vez más provocador:</p>
+
+<p>—Pura comedia también; déjenlo ustedes y ya verán como no se atreve conmigo.</p>
+
+<p>—Cristián, no hagas caso—dijo don Tomás,—porque todos sabemos lo que se propone ese perdido.</p>
+
+<p>—¡Cristián, por Dios, déjalo; es un miserable!—exclamó Isabel.</p>
+
+<p>—Le advierto que no me bato, pero para usted y para los que son como usted, llevo siempre un revólver en el bolsillo—repuso Cristián.</p>
+
+<p>—Todos los cobardes sin honor dicen lo mismo—dijo Mariano.</p>
+
+<p>En este momento, sin que nadie pudiese evitarlo, Elisa, rápidamente, arrebató el bastón á Luisito y como el rayo empezó á apalear á Mariano. Algunos de los presentes se echaron sobre la joven y le quitaron el bastón; pero no antes de que Elisa lo descargara dos ó tres veces sobre la cabeza de Mariano.</p>
+</div>
+
+		<div type="chapter" n="SPA4026006">
+			<head>VI</head>
+			<head>LA MEJOR RAZÓN, LA ESPADA</head>
+
+<p>El acto que acababa de realizar Elisa era grave en extremo, era grave por las consecuencias que para ella y para Cristián había de tener. Por de pronto, la gente veraniega decía que Elisa defendió á su amante al apalear á Mariano y que Cristián, después de las palabras del espadachín y del bastoneo de Elisa, no tenía más remedio que batirse, lo que suponía poner la vida á merced de quien se había propuesto quitarle la mujer. En cuanto á Elisa, después de reflexionar sobre lo que había hecho, empezó á llorar y llorando estuvo largo rato, pero no se arrepentía de haber apaleado á Mariano; lo único que sentía era no haberle hecho daño bastante para que no pudiese batirse.</p>
+
+<p>Isabel estaba desconsolada; para ella era indudable que Mariano mandaría los padrinos á Cristián; si éste se batía corría peligro de muerte y si no se batía corría peligro de murmuración y de ridículo.</p>
+
+<p>El más sereno era Cristán; seguro de sí mismo, esperaba los acontecimientos tranquilamente. No sabía qué actitud tomaría, pero estaba seguro de tomar una actitud digna.</p>
+
+<p>De estas cosas hablaban en su lujoso cuarto del hotel Isabel y Cristián cuando le anunciaron la visita de dos caballeros. Isabel se retiró y Cristián dió orden de que pasaran.</p>
+
+<p>Después de los saludos que eran de rigor, los recién llegados conde de la Mistera y marqués de las Cuadras, dijeron que venían en representación de don Mariano Pacheco á pedir una satisfacción por el acto que había realizado Elisa ó en caso contrario una reparación por medio de las armas.</p>
+
+<p>—¿Y cuándo, cuándo?—preguntó Cristián tranquilamente.</p>
+
+<p>—Tan pronto los médicos digan que Mariano puede empuñar un arma en defensa de su honor—repuso uno de los padrinos.</p>
+
+<p>—¿Está herido?—exclamó Cristián.</p>
+
+<p>—Contuso de alguna gravedad—observó el otro padrino.</p>
+
+<p>—¿Dónde y cuándo podrán hablar con ustedes mis padrinos?—preguntó Cristián.</p>
+
+<p>—¿Se bate usted?—preguntó un padrino con extrañeza.</p>
+
+<p>—¡Ya veremos, ya veremos!—contestó Cristián.—Ante todo es preciso aclarar bien el asunto y poner en buen lugar el honor de Elisa.</p>
+
+<p>—En el Automóvil—Club á las tres de la madrugada nos tiene usted á sus órdenes—repuso el otro padrino.</p>
+
+<p>—Perfectamente—dijo Cristián levantándose—y hasta entonces.</p>
+
+<p>Tan pronto el conde de la Mistera y el marqués de las Cuadras hubieron salido de la habitación de Cristián, se presentó Isabel preguntando con gran ansiedad:</p>
+
+<p>—¿Quiénes son?... ¿qué quieren?</p>
+
+<p>—Los padrinos de Pacheco—dijo Cristián.</p>
+
+<p>—¿Supongo que no te batirás?—repuso Isabel.</p>
+
+<p>—Supones mal, querida Isabel, me batiré—exclamó Cristián.</p>
+
+<p>—¡Es tu muerte!—dijo Isabel.</p>
+
+<p>—¡Quién sabe, mi querida Isabel!—repuso Cristián tranquilamente.</p>
+
+<p>—Lo dices con una indiferencia—exclamó Isabel llorando—que me hace dudar de todo.</p>
+
+<p>Cristián se acercó á su amada, la besó dulcemente y dijo:</p>
+
+<p>—Pero ¿qué quieres que haga, mujercita mía? Extiende una mirada á tu alrededor; nuestra vida sería imposible; todo el mundo se burlaría de mí.</p>
+
+<p>Cristián paró y luego dijo:</p>
+
+<p>—Elisa nos tiene demasiado cariño.</p>
+
+<p>—No es suya la culpa—exclamó Isabel;—de todas maneras ese miserable te hubiera provocado.</p>
+
+<p>—De suerte—repuso Cristián,—que basta conocer el arte de herir para que uno pueda ultrajar impunemente á la mujeres que no se le rindan y tener á raya á sus maridos... ¿Vaya una teoría! ¡Y eso es el honor! No, no; eso no puede permitirlo un hombre de dignidad y de valor como yo.</p>
+
+<p>—¡El valor! ¡De qué sirve el valor personal ante quien no tiene más misión en la tierra que tirar á las armas!—dijo Isabel.</p>
+
+<p>—La serenidad en todo es el primer elemento. Más temible que el brazo de Mariano son las costumbres y la mentalidad de nuestros semejantes y ellas me obligan ir al terreno de las armas—exclamó Critián.—¡Ah! pero es preciso discutir bien el cómo y el por qué. Yo diré á mis padrinos que me bato, no por los palos que le dió Elisa, sino por las palabras que te dirigió a ti. Elisa no es mi hija, ni mi mujer, ni mi novia y si me batiese por ella, declararía implícitamente todo lo contrario, y yo no quiero perjudicar á la heroica joven.</p>
+
+<p>—Sin embargo, Elisa te quiere—exclamó Isabel sencillamente.</p>
+
+<p>—¡También tú!—repuso Cristián con amargura.</p>
+
+<p>—Pero yo no creo que tú la correspondas—observó la duquesa,—y confiando en ti, me doy el superior placer de proporcionar á la pobre Elisa la felicidad que para ella representa nuestra compañía.</p>
+
+<p>—¡Qué bella eres, Isabel!—dijo Cristián.</p>
+
+<p>—¿No soy más que bella?—preguntó Isabel.</p>
+
+<p>—No me refiero á la hermosura del cuerpo precisamente—observó Cristián.</p>
+
+<p>—Soy también buena, ¿verdad?—dijo Isabel.</p>
+
+<p>—Más que buena—repuso Cristián,—eres un caso de exageración moral...</p>
+
+<p>En este momento penetró un criado para anunciar la visita de dos caballeros.</p>
+
+<p>—¿Los que han salido hace un momento?—preguntó Cristián.</p>
+
+<p>—No, señor—dijo el criado;—otros dos; aquí están sus tarjetas.</p>
+
+<p>Cristián leyó la tarjeta, hizo un movimiento de hombros, miró á Isabel como queriendo decir «qué querrán» y dijo:</p>
+
+<p>—Que pasen.</p>
+
+<p>El criado desapareció para aparecer de nuevo seguido de dos señores.</p>
+
+<p>—Buenas noches—dijeron.</p>
+
+<p>—Muy buenas noches; siéntense ustedes—dijo Cristián y luego que se hubieron sentado añadió: —¿Qué se les ofrece?</p>
+
+<p>—Traemos una misión delicada—dijo uno.</p>
+
+<p>—¿De parte de quién?—preguntó Cristián.</p>
+
+<p>—De don Ramón Durán, el hermano de la señorita Elisa—repuso el otro caballero.</p>
+
+<p>—¿Qué quiere de mí, don Ramón?—preguntó Cristián.</p>
+
+<p>—El asunto es de cierta índole...—dijo uno de los caballeros mirando á Isabel.</p>
+
+<p>—Retírate, Isabel—exclamó Cristián, mirando á su esposa tiernamente.</p>
+
+<p>—Me retiro—dijo Isabel;—pero conste que eso es abuso—y luego añadió, yendo hacia su cuarto:—Ya no podrá vivir la honradez sino la escuda la destreza en las armas.</p>
+
+<p>—¡Por favor, Isabel!—exclamó Cristián suplicando.—Dispensen ustedes—añadió.—es una mujer y las mujeres son más sensibles que los hombres. Sepamos ahora en que consiste esta misión delicada.</p>
+
+<p>—Venimos en representación de don Ramón Durán—dijo uno de los caballeros—á rogarle que ponga en el lugar que por su honradez corresponde el nombre de la señorita Elisa, que Ramón considera ofendido por usted.</p>
+
+<p>—¿Por mí? ¡Si no hago más que defenderla en todas partes!—observó Cristián.</p>
+
+<p>—No basta: es preciso que declare usted públicamente que Elisa nunca ha tenido nada que ver con usted—observó otro caballero.</p>
+
+<p>—Lo haría con mucho gusto, si no estimara que la declaración que se me pide, perjudicaría aún más á la persona que se trata de favorecer. Supongan ustedes que, efectivamente, hubiese sostenido relaciones amorosas con Elisa, que no las he sostenido y vergüenza me da tener que confesarlo, porque parece que hay quien lo duda, ¿sería yo tan villano que lo divulgase y tan bajo que me negara á afirmar que Elisa nunca ha sido mi querida? De ningún modo. ¿Qué fuerza tendría, pues, mi declaración? Ninguna.</p>
+
+<p>—Le comprendemos á usted perfectamente—observó un caballero,—más nuestra misión se limita á pedirle una declaración firmada y jurada bajo fe de caballero, de que Elisa no ha tenido amores con usted, ó en caso contrario, á exigirle una reparación por medio de las armas, para lo cual le rogamos que nombre usted sus padrinos, que es lo más corriente y la manera más fácil de entendernos.</p>
+
+<p>—Yo haría más—repuso Cristián,—yo declararía y firmaría que Elisa no ha tenido amores con nadie; pero creo que cuanto yo dijera en beneficio de la joven, habría de redundar en perjuicio de ella misma. Por eso me niego en absoluto á lo que don Ramón pretende.</p>
+
+<p>—¿Se batirá usted pues?—observó uno de los señores.</p>
+
+<p>—Tampoco—exclamó Cristián,—porque si me batiera declararía implícitamente que Elisa ha tenido amores conmigo. Y eso no es verdad.</p>
+
+<p>—¿Se niega usted á todo?—preguntó otro de los señores.</p>
+
+<p>—Sí; me niego á batirme y á dar satisfacciones. En ambos casos ofendería á una niña, que está muy por encima del honor convencional que ustedes representan en este momento—exclamó Cristián un tanto agresivo.</p>
+
+<p>—¡Estas palabras!...—dijeron los dos cabellaros levantándose de mal talante.</p>
+
+<p>—Son mías—dijo Cristián con energía.—Estoy ya harto de tanta falsedad y de este honor que se sostiene únicamente con la esgrima.</p>
+
+<p>Luego Cristián empujó á los dos caballeros hasta la puerta, añadiendo:</p>
+
+<p>—Les aconsejo que no vuelvan por aquí, porque no respondo de que los reciba bien.</p>
+
+<p>—No deja de ser una grosería—gritó uno de los caballeros al traspasar el umbral.</p>
+
+<p>—Se permiten ciertos desahogos—contestó Cristián volviéndoles la espalda.</p>
+</div>
+
+		<div type="chapter" n="SPA4026007">
+			<head>VII</head>
+			<head>LA VERDADERA GRANDEZA</head>
+
+<p>No bien hubieron desaparecido los dos señores que acababa de echar Cristián, apareció Isabel contentísima.</p>
+
+<p>—¿Has oído?—le preguntó Cristián.</p>
+
+<p>—¡Todo!</p>
+
+<p>—Esa gente se ha propuesto fastidiarnos—repuso Cristián,</p>
+
+<p>—Pero tú has estado colosal—dijo Isabel.</p>
+
+<p>—¿Te parece?—preguntó Cristián.</p>
+
+<p>—Hubieses recibido así á los padrinos del otro y estaría más tranquila—repuso Isabel.</p>
+
+<p>—El caso es diferente—dijo Cristián.—En éste se trata de la dignidad de una joven que no entra ni sale en los desplantes del honor y había de ir yo con más cuidado. Además, batiéndome con Mariano, que tiene fama de tirador invencible, nadie podrá creer que si no me bato con Durán es por cobardía.</p>
+
+<p>—Cierto, pero ¿y tu vida?—preguntó Isabel.</p>
+
+<p>Cristián se sentó sin contestar é Isabel añadió, al cabo de un momento:</p>
+
+<p>—He pensado una cosa.</p>
+
+<p>—¿Qué?—preguntó Cristián.</p>
+
+<p>—Visitar á los padres de Elisa.</p>
+
+<p>—¿Para qué?—volvió á preguntar Cristián.</p>
+
+<p>—Para decirles que cuanto se murmura de su hija es inexacto y prueba de ello es, que yo, siendo la más interesada, me honro con la amistad de Elisa. Quizá logremos resolver uno de los dos conflictos.</p>
+
+<p>—No me opongo á ello—dijo Cristián—pero lo considero de poca importancia, porque batiéndome con el espanta maridos, lo demás no tiene valor.</p>
+
+<p>—Es que tampoco debes batirte con Pacheco—exclamó Isabel con alguna fuerza.</p>
+
+<p>—No veo manera digna de evitarlo—repuso Cristián—y á fe que lo quisiera en obsequio al cariño que me profesas.</p>
+
+<p>—La manera es negándote resueltamente á transigir con las costumbres sociales que establecen el lance como prueba de caballerosidad y de honor.</p>
+
+<p>—La solución es lógica y justa—observó Cristián—pero la adoptaría con demasiada oportunidad; y entre esta oportunidad que me anularía por completo y el riesgo remoto de ser herido es preferible lo último. El hombre alguna vez debe tener el valor de correr algún peligro.</p>
+
+<p>—Cuando se corre por algo grande, sí—observó Isabel.</p>
+
+<p>—En último caso lo correría por ti—dijo Cristián.—Ya ves si es grande el objeto.</p>
+
+<p>—Pues bien—dijo Isabel, entre temerosa y apasionada,—por mí no quiero que te batas. Es más, te consideraría indigno de mi amor si por mi amor no hicieres el sacrificio de tu dignidad.</p>
+
+<p>La naturaleza de las frases que acababa de pronunciar Isabel, pusieron á Cristián en un grave aprieto.</p>
+
+<p>No es que Cristián no se hubiese hecho de antemano las consideraciones que suponían aquellas palabras de su mujer; es que, verdaderamente, Cristián no había comprendido aún que tenía por esposa una mujer extraordinaria, menos por su hermosura, con ser mucha, que por su inteligencia y su amor. Consideraba que Isabel era una mujer buena, bella é inteligente, pero no heroica cual resultaba en este caso. Era cuestión de pensar, pues, seriamente si le convenía batirse, es decir, si era mejor disgustar á una mujer como Isabel ó arrostrar la crítica del público. En estas dudas, Cristián dijo á Isabel, mirándola fijamente, para estudiar el efecto que sus palabras habían de causar en el alma de la joven esposa:</p>
+
+<p>—¿Podrás quererme teniendo motivos para sospechar de mi valor?</p>
+
+<p>—¿Si podré quererte?—exclamó Isabel.—¡Te querré más! Yo sé que eres valiente ¡no necesitas probármelo! Yo sé que eres digno; ¡no necesito que me lo demuestres! Pues bien, si á pesar de tu valor y de lo delicada que es tu dignidad, hicieras, en mi honor, el sacrificio de pasar por cobarde y por indigno á los ojos de la gente ¿qué mayor satisfacción y dicha para mí?</p>
+
+<p>El alma de Cristián vaciló. Aquello era un mundo nuevo que descubría en Isabel, un mundo nuevo que le aturdía y le enamoraba á un mismo tiempo.</p>
+
+<p>Cristián no pudo decir más que:</p>
+
+<p>—¡Isabel!</p>
+
+<p>Exclamación que significaba ¿a dónde me lleva tu grandeza?</p>
+
+<p>Isabel se le acercó y acariciándole con voluntad de ganar su vida dijo:</p>
+
+<p>—Mi valor no es ese que derrama su sangre en defensa de la mujer amada; mi valor es el que, por complacer al ser querido, desprecia los sinsabores que produce la malicia y la crítica. Si me quieres y eres valiente como dices, demuéstramelo sacrificando á mi cariño el honor social y la vida social.</p>
+
+<p>Para el alma de Cristián aquello fué como un rayo de luz para el ciego. Se levantó sereno, como si nada hubiese ocurrido, como si despertase de un sueño feliz y dijo, con naturalidad:</p>
+
+<p>—Tienes razón, Isabel; te comprendo y te adoro. No me bato; no me bato por ti; no me bato para demostrarte que te quiero; no me bato para luchar con las preocupaciones del mundo; no me bato, porque se necesita más valor para vivir tal como lo haré en adelante que para morir.</p>
+
+<p>Isabel se le arrojó en sus brazos y dijo besándole con frenesí:</p>
+
+<p>—¡Gracias, gracias, Cristián! ¡ Eres tan grande como te había soñado! ¡Así te quiero! Ahora me amas. ¿Qué nos importa la opinión del mundo si no la necesitamos para nada, si podemos formar en nosotros, con nosotros y para nosotros un mundo moral superior al de nuestros censores?</p>
+
+<p>—Ni una palabra más, Isabel—dijo Cristián acariciando los rizos de oro de su adorada;—está resuelto el conflicto. Conste que no lo está en mi daño; conste que esta solución, que tú me has inspirado y sugerido, la creo más digna de mí que el desafío. Pero yo por tu amor no podía adoptarla. Y no podía adoptarla, porque si la opinión del público me importaba algo, la tuya me importaba mucho y antes que parecer cobarde á tus ojos, preferiría la muerte. Ignoraba que tu alma fuese tan hermosa, Isabel mía; ignoraba que pudiera apreciar la diferencia que va del valor que se deja matar por temor al ridículo, al valor que sabe luchar con las preocupaciones del mundo.</p>
+
+<p>Y esto diciendo los dos esposos no cesaban de besarse y abrazarse como si aquel día fuese el primero de su matrimonio y quizá fuese el de su matrimonio moral, que es muy superior á la unión material. Isabel sintiendo con más intensidad que Cristián este estado de alma exclamó:</p>
+
+<p>—Ahora es cuando realmente somos grandes y dignos el uno del otro, ahora es cuando se unen y se fusionan nuestras almas.</p>
+
+<p>Luego añadió:</p>
+
+<p>—¡Ea! preparemos la partida. Voy á despedirme de Elisa y de sus padres.</p>
+
+<p>—Yo pasaré recado a don Tomás para que venga á despedirse de ti—exclamó Cristián.</p>
+</div>
+
+		<div type="chapter" n="SPA4026008">
+			<head>VIII</head>
+			<head>SIEMPRE ASCENDIENDO</head>
+
+<p>Y mientras uno y otro se preparaban para hacer lo que acababan de decir, un criado les anunció la visita de los señores Durán, padres de Elisa.</p>
+
+<p>Isabel y Cristián se miraron, luego Isabel dijo:</p>
+
+<p>—¿Qué hacemos?</p>
+
+<p>—Que pasen—repuso Cristián;—habla tú con ellos mientras yo voy á despedirme de don Toma´s, en lugar de rogarle que venga él aquí.</p>
+
+<p>—Está bien—dijo Isabel y luego dirigiéndose al criado agregó:—Que pasen.</p>
+
+<p>Cristián se fué y entraron don Prudencio Durán, su esposa doña Antonia y su hija Elisa.</p>
+
+<p>—Venimos con el propósito de consolarnos mutuamente— dijo doña Antionia.— Enterada del paso que acaba de dar mi hijo Ramón cerca de Cristián, no hay por qué decir que lo desapruebo por completo. N'osotros, digo, yo á lo menos, no puedo creer en la culpabilidad de mi hija. Es verdad que su actitud se presta á dudas... pero yo no dudo.</p>
+
+<p>—¿Y Ramón?—preguntó Isabel.</p>
+
+<p>—Ramón es de este mundo—dijo Elisa—y este mundo cree siempre lo peor. Lo que más siento es que papá no esté del todo convencido.</p>
+
+<p>—¿También usted, don Prudencio?—exclamó Isabel.</p>
+
+<p>—No acabo de explicarme— dijo el buen hombre por qué mi hija ha hecho de don Cristián defensa tan calurosa y tan comprometedora.</p>
+
+<p>—Porque me exasperé— dijo Elisa— al ver que se provocaba á un hombre honrado y bueno por el inhumano placer de derramar su sangre y sin más justificación que el deseo de ponerle en ridículo. Rápidamente pasó por mi mente la idea de que yo podía evitar aquella infamia, poniendo al aventurero en situación de no poderse batir, segura, como estaba, de que Cristián se batía y moría si era preciso.</p>
+
+<p>—¡Esta seguridad y estos entusiasmos es lo que no comprendo!—volvió á exclamar don Prudencio.</p>
+
+<p>—Le aseguro, don Prudencio—dijo Isabel—y se lo aseguro por la vida del ser que siento latir en mis entrañas, que Cristián me es fiel y que Elisa es para mí una excelente y buena amiga.</p>
+
+<p>Elisa se arrojó en brazos de Isabel y la besó entre llorosa y risueña.</p>
+
+<p>—¡Basta, señora duquesa, basta! Me ha convencido usted—exclamó don Prudencio.</p>
+
+<p>—Y del desafío con Ramón, ¿qué hay? no se baten ¿verdad?—preguntó doña Antonia.</p>
+
+<p>—No—dijo Isabel;—porque Cristián han contestado a los padrinos, que, por cierto, se han puesto muy pesados, que ofendería la honradez de Elisa si aceptaba el desafío.</p>
+
+<p>—Muy bien contestado—respuso don Prudencio.—Yo me encargo de obtener de Ramón una visita para ustedes.</p>
+
+<p>—Que sea pronto, porque nos marchamos—exclamó Isabel.</p>
+
+<p>—¿Cómo, no se bate con Mariano?—preguntó don Prudencio.</p>
+
+<p>—No, señor—repuso Isabel.</p>
+
+<p>—¡Pero si todo el mundo dice que ya tiene nombrados padrinos y que esta madrugada en al Automóvil Club han de celebrar la primera entrevista con los de Pacheco!—exclamó don Prudencio.</p>
+
+<p>—Es cierto—dijo Isabel—que dos amigos de este espadachín han hablado con Cristián; es cierto, también, que Cristián ha aceptado el desafío y que ha prometido nombrar padrinos. Mas yo he logrado, después, que no se bata y que partamos hoy mismo.</p>
+
+<p>Elisa, que había estado escuchando cabizbaja, levantó de pronto la cabeza y dijo, con energía:</p>
+
+<p>—¡Ah! eso no puede ser.</p>
+
+<p>—¿Por qué?—preguntó Isabel sorprendida.</p>
+
+<p>—Porque es la muerte moral de Cristián—dijo Elisa.</p>
+
+<p>—¡Qué nos importa á nosotros lo que diga después el público!—exclamó Isabel.</p>
+
+<p>—Querida amiga, el amor que usted siente por Cristián le impide hacerse cargo de la realidad—repuso Elisa. Cristián no es sólo un hombre, es además, un artista. Cristián, al principio podrá satisfacerle su vida aislada y el amor de esposa tan hermosa y amada como es usted, señora duquesa, mas la inteligencia de Cristián querrá producir, querrá crear. ¿Cómo? ¿Con qué elementos sociales? Cuantos cuadros mande á la exposición serán rechazados; cuantas veces el público vea su firma, el nombre de Cristián será escarnecido.</p>
+
+<p>—¿Pero había de permitir que Mariano acabara con mi amado Cristián?—preguntó Isabel.—¿Por complacer al público había de dar á la gran fiera, vida y amor?</p>
+
+<p>—No: ni aún la dignidad de Cristián, qu ahora resulta sacrificada—repuso Elisa cada vez más resuelta.</p>
+
+<p>—No he hecho más, querida amiga—dijo Isabel,—que valerme del amor que por mí siente Cristián para arrancarle de la muerte.</p>
+
+<p>—El sacrificio vale tanto como la muerte...—exclamó Elisa.—En fin, querida amiga, yo creo que el amor podía dar más—dijo Elisa tan serena y sencillamente que por un momento Isabel sospechó que tenía delante un alma superior á la suya.</p>
+
+<p>—¡Elisa!—gritó don Prudencio.</p>
+
+<p>—¡Déjenla!—dijo Isabel.</p>
+
+<p>Elisa se arrojó en brazos de Isabel diciendo:</p>
+
+<p>—Amiga mía: perdóneme usted.</p>
+
+<p>—Te perdono y hasta creo que debo estarte agradecida—dijo Isabel.</p>
+
+<p>—No, eso no—repuso Elisa;—me basta con que me comprenda usted, doña Isabel y con que no le inspire otro sentimiento que el de la compasión. Pero óigame. Las lamas superiores desean y aman la independencia para producir; pero necesitan de la sociedad para el complemento de sus placeres artísticos y para las satisfacciones morales de la relación. Ponga usted el alma de Cristián en un sepulcro, aunque este sepulcro esté hermosamente decorado y custodiado por la belleza y el amor y habrá usted muerto el alma de Cristián—dijo Elisa con acento casi beatificado; pero después se repuso y exclamó, aunque pensando en Mariano y en el peligro que Cristián corría:—Hay que batir á la fiera, de que usted hablaba antes y vencerla si es posible, sin darle carne de nuestra carne; nunca sacrificando nuestros amores. Grande y nobilísima es la acción de salvar vidas por medio del querer, pero es más grande salvar vidas y además dignidades.</p>
+
+<p>—El cómo no se me alcanza—dijo Isabel,—más adivino, hija mía, que tú tienes razón, y que Cristián, si es capaz de mantener su palabra de no batirse por habérmela empeñado, lo es también de suicidarse si tanto se le ultraja.</p>
+
+<p>—Pues hay que evitar que se bata, que se suicide y que quede deshonrado—dijo Elisa imperativamente.</p>
+
+<p>¡Hija mía!—gritó doña Antonia en tono de reconvención.</p>
+
+<p>—¡Madre adorada!—exclamó Elisa yendo hacia ella y abrazándola.</p>
+
+<p>Isabel quedó pensativa en medio del salón. Una tragedia se desarrollaba en su cerebro; sentíase empequeñecida ante Elisa; no odiaba á su excelsa rival, pero deseaba superarla; amaba tanto á Cristián que por salvarle toleraba que si no ella podía salvarle Elisa y nada le importaba su orgullo y su amor con tal de que Cristián saliera vivo, digno y contento del conflicto.</p>
+
+<p>Elisa, después de abrazar á su madre, volvió la cabeza para mirar á Isabel; ésta hizo lo mismo respecto de Elisa; las miradas de ambas mujeres se encontraron y adivinando lo que pasaba en sus respectivas almas, Elisa corrió al encuentro de Isabel y se echó en sus brazos.</p>
+
+<p>—¿Le quieres, verdad?—le preguntó Isabel á su oído.</p>
+
+<p>Elisa bajó los ojos sin contestar é Isabel añadió:</p>
+
+<p>—Sálvale y te querré aun más yo á ti.</p>
+
+<p>—Salvémoslo las dos—exclamó Elisa.</p>
+
+<p>—Salvémoslo—contestó Isabel.</p>
+</div>
+
+		<div type="chapter" n="SPA4026009">
+			<head>IX</head>
+			<head>UNA REUNIÓN DE HOMBRES DE HONOR</head>
+
+<p>Mientras en las habitaciones de Isabel y Cristián se desarrollaban las anteriores escenas, en la de Mariano se hallaban reunidos varios jóvenes.</p>
+
+<p>—Una victoria más que agregar á tu hoja de servicios—decía Agapito á Mariano.</p>
+
+<p>—Hasta ahora no veo la victoria—contestó.</p>
+
+<p>—Ella se acerca—repuso Luisito,.porque yo sigo creyendo, á pesar de lo que han dicho Gabriel y Ricardo, que Cristián no se bate.</p>
+
+<p>—Pues sin lance no hay victoria—repuso Mariano.</p>
+
+<p>—La victoria consistiría, precisamente, en esto, en que Cristián se negara, que no se negara, á acudir al terreno—dijo uno de los que habían ido á ver á Cristián en calidad de padrino. Luego añadió con aire de conquistador:—¿Crees tú que Isabel continuará queriéndole? Las mujeres no gustan de los cobardes ni hay héroe que no obtenga el amor de la mujer. La duquesa acudirá ¡tú lo verás! caso de que Cristián fuese más digno de llevar faldas que pantalones.</p>
+
+<p>—Pronto hemos de saberlo—dijo enfáticamente Mariano.</p>
+
+<p>—La cita es á las tres—observó otro de los padrinos.</p>
+
+<p>—De aquí á las tres ¡quién sabe lo que puede ocurrir!—añadió Luisito.</p>
+
+<p>—¡Nada—dijo Mariano sin abandonar su fatuidad;—se concertará el lance, iremos al terreno y le pincharé la nariz, porque tengo empezo en pincharle la nariz, afeando aquella cara de trovador averiado!</p>
+
+<p>No hay que decir que los jóvenes reunidos rieron la gracia de su ídolo.</p>
+
+<p>—¡Vamos, que este Pacheco es mucho hombre!—dijo Agapito.</p>
+
+<p>—Y la duquesa—añadió un padrino,—temperamento puramente artístico, al ver á su Cristián marcado...</p>
+
+<p>—¿Pero tú crees que Cristián se bate?—preguntó Agapito.</p>
+
+<p>—¿Por qué no?—repuso el otro padrino.</p>
+
+<p>—Porque no le dejará su mujer—añadió Agapito.—Esos señores artistas que tienen fama de despreocupados y de valientes, tiemblan ante sus mujeres y no hacen más que lo que ellas quieren.</p>
+
+<p>—Veo que Agapito no conoce el corazón de la mujer—repuso otro joven don Juan.—De conocerlo tanto como yo, sabría que lo que más agrada á las mujeres, es que los hombres se maten por ellas, é Isabel es como todas: capaz de dejar á su pintor si no la defiende con su brazo.</p>
+
+<p>—Lo mismo digo yo—exclamó Mariano,—á menos que esté harta de Cristián y venga á pedirme que desista del lance.</p>
+
+<p>—En ese caso, la victoria sería más señalada—observó Luisito.</p>
+
+<p>—Claro, porque—repuso un padrino—la visita de Isabel significaría...</p>
+
+<p>—Que se rinde la plaza—dijo Agapito—y que nada le importa que su maridito quede como un caballero ó como un bellaco.</p>
+
+<p>—¿Qué sabéis de Ramón?—preguntó Mariano.</p>
+
+<p>—Que también ha mandado padrinos á Cristián—dijo uno de los testigos.</p>
+
+<p>—Le vamos á marear—exclamó Agapito, frotándose las manos.</p>
+
+<p>—¡Ahora quisiera yo tener motivos para desafiarle!—dijo Luisito.</p>
+
+<p>—¡Y yo!—repuso Agapito.</p>
+
+<p>—¡Claro, con uno que no se bate todo el mundo se las puede echar de valiente!—observó un testigo.</p>
+
+<p>—¡Tú lo has dicho, chico!—dijo Mariano.—Lo serio es habérselas con el marqués de Vélez Turón.</p>
+
+<p>—¿Ese tira, verdad?—preguntó Agapito.</p>
+
+<p>—¡Que si tira! ¡más que Prim!—dijo Mariano.</p>
+
+<p>—¿Más que Prim?—exclamó Agapito asombrado.</p>
+
+<p>—Lo que oyes—dijo Mariano.—Le faltó la punta de un alfiler par tocarme en el pecho. ¡Ya ves que tocarme á mí!</p>
+
+<p>—¿Has denunciado al juzgado el atropello de Elisa?—preguntó Luisito á Mariano.</p>
+
+<p>—Pensé hacerlo, pero he desistido á ruegos del dueño del hotel—repuso Mariano.</p>
+
+<p>—¡Bien hecho!—replicó Luisito.</p>
+
+<p>—¡Hombre, se trata de una muchacha!—observó el otro padrino.</p>
+
+<p>—¿Y qué? Hay mujeres más temibles y varoniles que algunos hombres—repuso Luisito.</p>
+
+<p>—Conformes, chico, conformes—exclamó Mariano sonriendo.</p>
+
+<p>—No quisiera encontrarme enfrente de una de ellas—añadió Agapito.</p>
+
+<p>—hay que pararles los pies de cuando en cuando—dijo Luisito,—sino cualquier día nos dan una paliza. Algunas de esas niñas, sobre todo las educadas á la inglesa, como Elisa, tienen más fuerza que un arriero.</p>
+
+<p>—¡Cuidado con sus puños!—exclamó Agapito.</p>
+
+<p>En este momento entró un criado á decir que una señora deseaba hablar con Mariano.</p>
+
+<p>—¿Quién es? ¿La has conocido, Ramón?—preguntó Mariano con gran interés.</p>
+
+<p>—Será Elisa que viene á pedirte mil perdones—dijo Luisito.</p>
+
+<p>El criado se acercó á Mariano y le dijo algo al oído.</p>
+
+<p>—¡Caracoles...!—exclamó Mariano poniéndose en pie.—Chicos, dispensadme: tengo que hablar á solas con... cierta dama. Dile que pase.</p>
+
+<p>—¿Quién es ella? ¿Quien es ella?—preguntaron varios cuando el criado hubo desaparecido.</p>
+
+<p>—¡Isabel!—dijo Mariano, bajando la voz.</p>
+
+<p>Y sin dejarles reponer de su asombro les hizo entrar en su alcoba cerrando las vidrieras.</p>
+
+<p>Mariano se quitó rápidamente el vendaje que llevaba puesto y esperó risueño.</p>
+</div>
+
+		<div type="chapter" n="SPA4026010">
+			<head>X</head>
+			<head>LA PALOMA ANTE EL GAVILÁN</head>
+
+<p>A poco entró Isabel tímida, recelosa y sin saber qué decir. Al fin dijo:</p>
+
+<p>—Don Mariano, usted comprenderá y perdonará mi atrevimiento.</p>
+
+<p>—¡Como dispensar, agradecer, doña Isabel!—dijo Mariano esforzándose por ser galante.— Es usted la reina que ordena y yo el vasallo que obedece. Tome usted asiento.</p>
+
+<p>—Mil gracias—exclamó Isabel y quedó completamente cortada sin saber qué decir y sin adelantar.</p>
+
+<p>—¡Parece usted una niña, hermosa duquesa! Valor, valor y sepamos en qué puedo servirla—dijo Mariano.</p>
+
+<p>—Sus palabras de usted me dan ánimo—repuso Isabel.</p>
+
+<p>—Usted, doña Isabel, me ha juzgado siempre mal—replicó Mariano.—Yo soy capaz de hacerla beneficios, á pesar de lo esquiva que se muestra usted conmigo.</p>
+
+<p>—Gracias, señor de Pacheco—dijo Isabel,—pero...</p>
+
+<p>—La ruego—exclamó Mariano interrumpiéndola—que tome usted asiento.</p>
+
+<p>—Me parece innecesario, más si usted se empeña, me sentaré—dijo Isabel.</p>
+
+<p>—Me empeño en ello y me permito sentarme antes que usted para darla ánimo y ejemplo.</p>
+
+<p>Mariano se sentó y luego se sentó Isabel, aunque de muy mala gana.</p>
+
+<p>—Muy lejos de mí lo hace usted—observó Mariano—y sospecho...</p>
+
+<p>—Acaba usted de decirme, don Mariano—dijo Isabel interrumpiendo,—que á pesar de la actitud que para con usted ha observado, es capaz de hacerme una merced.</p>
+
+<p>—¡Si tan altanera é ingrata fuese usted!—observó Mariano.</p>
+
+<p>—¡Por favor, don Mariano, sea usted bueno y noble para conmigo!—dijo Isabel suplicando.</p>
+
+<p>—Sepamos qué desea usted—repuso Mariano.</p>
+
+<p>—¡Deseo que no se bata usted con mi marido!—exclamó Isabel.</p>
+
+<p>—¡No puedo obligarle á ello—dijo Mariano—si él se niega...!</p>
+
+<p>—¡Y si se negase usted!—exclamó Isabel. Mariano iba á replicar mas Isabel dijo adelantándose:—Déjeme usted concluir. De usted nadie sospecharía que rehusase el duelo por temor. ¡Es usted tan valiente y tan hábil en el manejo de las armas! Al contrario, todo el mundo creerá que si no se baste usted con Cristián, es por misericordia, por compasión hacia nosotros, principalmente hacia Cristián, que es inofensivo como una paloma y que en su vida ha hecho daño á nadie. ¡Qué honor par usted perdonar la vida á un semejante!</p>
+
+<p>—¿Es Cristián el que le ha encargado esta misión?—preguntó Mariano.</p>
+
+<p>—¡Caballero!...—exclamó dignamente Isabel levantándose.</p>
+
+<p>—¡Siéntese usted, doña Isabel, siéntese usted!—dijo Mariano.</p>
+
+<p>—Tenga usted compasión de mí!—exclamó Isabel, llorosa.</p>
+
+<p>—Siéntese usted...</p>
+
+<p>Isabel se sentó de nuevo y Mariano continuó diciendo:</p>
+
+<p>—¡De suerte que si no de Cristián, la iniciativa de este paso ha partido de usted!</p>
+
+<p>—De mí. ¡Quiero tanto á Cristián!—dijo llorando la duquesa.</p>
+
+<p>—¡Lástima que el pintor no la corresponda á usted con igual entusiasmo!—dijo Mariano mal intencionado.—Luego continuó:—Porque no la considero á usted tan inocente que no esté enterada... A la verdad, querer á un ingrato no me parece propio de una persona tan inteligente y hermosa como usted.</p>
+
+<p>Isabel bajó la vista al suelo y dijo:</p>
+
+<p>—Cuanto se dice de Cristián y Elisa no es exacto.</p>
+
+<p>—Insistir sobre ese particular—observó Mariano—me parece de mal gusto y puesto que usted, la interesada, vive en el limbo, no creo prudente que la saque de él, quien como yo, tanto ha pretendido á usted, doña Isabel.</p>
+
+<p>—¡Hágase usted cargo de mi situación, don Mariano y no abuse usted de ella!—exclamó Isabel suplicante.</p>
+
+<p>—¿Qué quiere usted que haga un hombre como yo ante una mujer tan hermosa como usted?—preguntó Mariano.</p>
+
+<p>—¿Acaso no existe el favor desinteresado?—contestó Isabel.</p>
+
+<p>Mariano lentamente se acercó un poco á Isabel. Esta lo notó, mas pensando en Cristián hizo como si no le hubiese visto y Mariano continuó:</p>
+
+<p>—Es usted muy cándida y esta misma candidez la hace más interesante á mis ojos.</p>
+
+<p>Mariano se acercó más y acercó tanto su cara al rostro de Isabel, que ésta levantándose de nuevo dijo:</p>
+
+<p>—Quisiera saber si accede usted á mi ruego.</p>
+
+<p>—Y yo si accede usted al mío ...—Isabel iba á replicar mas Mariano quitándole la palabra, añadió:— Piense usted que la vida de Cristián está en mis manos y puesto que usted le quiere tanto, bien puede usted hacer por él un pequeño sacrificio. Además, ¡quién lo va á saber, duquesa! Yo á nadie he de decírselo: usted á nadie lo dirá y por la vida del ser querido, si este loco enamorado le parece grano de anís, el favor que le pido es bien poca cosa... Por usted soy yo capaz de mayores sacrificios. Por usted huyo cobardemente ante Cristián y declaro que temo su brazo. ¡Ya ve usted, cobarde yo...! Todo por usted, hermosa Isabel.</p>
+
+<p>Mientras ello decía Mariano, Isabel miraba al suelo avergonzada. Creyendo que eran dudas la actitud pasiva de Isabel, Mariano intentó cogerla de la mano, mas la joven duquesa la retiró al momento.</p>
+
+<p>—Es cierto, don Mariano; he sido muy inocente al venir sola á encontrarle á usted. Mas yo creía convencerle de la bondad y grandeza de mi obra: esperaba hallar en usted algo de noble que le permitiera comprenderme. ¡Por qué no decirlo! En último término, esperaba que la humillación de la hermosura, ya que todo el mundo dice que soy hermosa, convencería á la destreza en el arte de matar. No he podido lograrlo y lo siento. Lo siento, no por mí, por usted y por Cristián. Sólo un favor me resta pedirle.</p>
+
+<p>—¿Cuál...?—preguntó Mariano y luego se apresuró á añadir:—Pero siéntese usted, que aun podemos entendernos.</p>
+
+<p>—Me resta pedirle, mejor suplicarle, que á nadie cuente el paso que acabo de dar cerca de usted.</p>
+
+<p>—¡Pero usted, doña Isabel!—dijo Mariano,—me lo prohibe todo, hasta el placer de decir que he tenido el inmerecido honor de ser visitado por dama tan bella y gentil como es usted y en cambio no me ofrece nada, ni una esperanza siquiera!</p>
+
+<p>—He rogado, he suplicado; soy capaz de arrodillarme á sus plantas ¿qué más quiere usted?—preguntó Isabel.</p>
+
+<p>—No basta—dijo Mariano.</p>
+
+<p>—Pues yo no quiero ni debo dar más—exclamó Isabel.</p>
+
+<p>—Y yo quiero decir á mis amigos—dijo Mariano—que he tenido la dicha de hablar á solas con usted en mis habitaciones.</p>
+
+<p>—¡Será usted capaz...!—exclamó Isabel.</p>
+
+<p>Mariano adelantó hacia Isabel diciendo á media voz:</p>
+
+<p>—De todo para obtener el amor de usted... Inútil es que me lo niegue, Isabel, porque á la vista del mundo me lo ha entregado usted ya con haber venido á verme. Esta madrugada digo «no me bato» y se hundió para siempre la honra de usted.</p>
+
+<p>El paso que estaba dando Isabel lo había convenido con Elisa; pero fiadas ambas en su virtud, no pensaron bastante en el peligro que corrían, sobre todo Isabel. Mariano tenía razón; la honra de Isabel estaba en sus manos. Bastaba que no persiguiese á Cristián con un lance para que todo el mundo viese en la retirada del joven espadachín, el logro del amor de Isabel. Así que Isabel comprendió también, aunque tarde, que se había metido en la boca del lobo y como si despertase de un sueño exclamó:</p>
+
+<p>—¡Tan mala es la gente!</p>
+
+<p>—¡Y tan inocente usted!—repuso Mariano mirando fijamente á Isabel.—Y si á juicio del mundo ha de ser usted mía, ¿por qué no serlo en realidad?</p>
+
+<p>Otra vez intentó Mariano cogerla de la mano y otra vez Isabel lo impidió dirigiéndose hacia la puerta.</p>
+
+<p>—¿Se va usted?—repuso Mariano.</p>
+
+<p>—Sí—dijo Isabel desde la puerta,—me voy porque me da usted miedo.</p>
+
+<p>—Dé usted por muerto á Cristián—exclamó con cólera.</p>
+
+<p>—No se batirá, yo lo aseguro—dijo Isabel con energía y marchó resueltamente.</p>
+
+<p>—Peor para los dos—rugió Mariano.</p>
+</div>
+
+		<div type="chapter" n="SPA4026011">
+			<head>XI</head>
+			<head>EL VALOR DE UN ESPADACHÍN</head>
+
+<p>Tan pronto Isabel se fué, salieron de su escondrijo los jóvenes que antes conversaban con Mariano.</p>
+
+<p>—Se acabó la conferencia y ¡qué conferencia!—dijo Mariano al verles.</p>
+
+<p>—¡Sí! ¡Cuéntanos, chico, cuéntanos! porque desde allí no hemos oído nada; tanto que nosotros creíamos que habíais pasado á otra habitación—dijo uno de los padrinos.</p>
+
+<p>—¿Qué ha de contar?—exclamó Luisito.—El solo hecho de haberle visitado en sus habitaciones, lo dice todo.</p>
+
+<p>—Absolutamente todo—gritó Agapito.</p>
+
+<p>—Pero bien ¿habéis quedado citados en sitio más á propósito?—preguntó un padrino.</p>
+
+<p>—¿A santo de qué?—preguntó el otro.</p>
+
+<p>—A santo de que yo desista de batirme con Cristián—dijo Mariano.</p>
+
+<p>—¡Lo que nosotros hemos dicho!—observó Luisito.</p>
+
+<p>—¡Por supuesto que tú has aceptado!—dijo Agapito.</p>
+
+<p>—¡No faltaba más!—repuso uno de los padrinos.</p>
+
+<p>—Nada hay resuelto aun—dijo Mariano.</p>
+
+<p>¡Ah pillín, pillín!—exclamó Agapito dando golpecitos á la cara de Mariano.</p>
+
+<p>—¡Vengan estos cinco!—gritó uno de los padrinos, alargando la mano.</p>
+
+<p>—¡Quién pudiera encontrarse en su lugar!—exclamó el otro.</p>
+
+<p>La presencia del criado cerró los labios de aquella gentuza..</p>
+
+<p>—¿Qué hay?—dijo Mariano al verle entrar.</p>
+
+<p>—Otra señora desea hablar con usted.</p>
+
+<p>—Será la misma, chico—exclamó Agapito y luego dirigiéndose á los demás añadió:—Será la misma. ¡Ya está!</p>
+
+<p>—Al escondrijo otra vez—dijo Luisito yendo hacia la alcoba.</p>
+
+<p>Los demás le siguieron.</p>
+
+<p>—Mucha discreción—exclamó Mariano.</p>
+
+<p>—Y tú mucha suerte—le dijo Luisito.</p>
+
+<p>Los jóvenes quedaron encerrados.</p>
+
+<p>—Dile que pase—dijo después Mariano al criado.</p>
+
+<p>El doméstico desapareció y al poco entraba otra mujer. Era Elisa.</p>
+
+<p>—¡Usted aquí! ¡Usted!—dijo Mariano desconcertado.</p>
+
+<p>—Yo ¿no me esperaba?—dijo ésta serenamente.</p>
+
+<p>—¿Sola?—preguntó Mariano.</p>
+
+<p>—Sola con mi voluntad y mi energía—dijo Elisa con vehemencia.</p>
+
+<p>—¿Viene usted á disculparse?—preguntó Mariano.</p>
+
+<p>—No, vengo á pedirle un favor—repuso Elisa.</p>
+
+<p>—Debería usted empezar por pedirme perdón—dijo Mariano.</p>
+
+<p>—¡Perdón por haber intentado impedir un crimen!—replicó Elisa.</p>
+
+<p>—Por haberlo cometido conmigo—repuso Mariano.</p>
+
+<p>—Más daño creía haberle hecho—observó Elisa.</p>
+
+<p>—Bueno: sepamos qué es lo que quiere y sepámoslo pronto—dijo secamente Mariano.</p>
+
+<p>—Lo que yo quiero es fácil de conseguir—repuso Elisa.</p>
+
+<p>—¿Lo pretende usted de mí?—preguntó Mariano.</p>
+
+<p>—De usted, sí—dijo Elisa.</p>
+
+<p>—Ya sé lo que quiere—exclamó Mariano.</p>
+
+<p>—¿Qué?—preguntó Elisa.</p>
+
+<p>—Lo que pretendía hace un momento la duquesa—repuso Mariano.</p>
+
+<p>—¿Y no lo ha conseguido?—preguntó Elisa.</p>
+
+<p>—No ha aceptado las condiciones—dijo Mariano.</p>
+
+<p>—Debían ser miserables, como de quien las formulaba—repuso Elisa decidida.</p>
+
+<p>—¿Ha venido usted á insultarme?—preguntó Mariano.</p>
+
+<p>—He venido á exigir de usted que no se bata con Cristián—dijo Elisa.</p>
+
+<p>—¡Estas mujeres se han vuelto locas por ese pobre pintor!—exclamó Mariano.</p>
+
+<p>—Locas ó cuerdas hemos de conseguir nuestros propósitos—repusto Elisa segura de la victoria.</p>
+
+<p>—Hasta ahora no llevan trazas de ello—observó Mariano.</p>
+
+<p>—Isabel ha rogado, ¿verdad?—preguntó Elisa.</p>
+
+<p>—Y nada ha conseguido y como usted no ofrezca más que ruegos, nada conseguirá tampoco—dijo Mariano.</p>
+
+<p>—Yo sé con quien trato y no vengo á rogar, vengo á exigir—exclamó Elisa.</p>
+
+<p>—¿A exigir? Está usted loca, niña—repuso Mariano algo desdeñoso.</p>
+
+<p>Elisa se sacó una carta y presentándola á Mariano, dijo:</p>
+
+<p>—Firme usted el documento que hay dentro de este sobre.</p>
+
+<p>—¿Y qué dice el documento?—preguntó Mariano.</p>
+
+<p>—¡Leálo usted!—dijo Elisa entregándoselo.</p>
+
+<p>Mariano cogió el sobre, sacó la carta que contenía y leyó:</p>
+
+<p>—«Yo, Mariano de Pacheco, reconociendo la caballerosidad y la honradez de don Cristián Bellmunt, rehuso espontáneamente pedirle explicaciones por los palos que me ha dado la señorita Durán y reconozco que esta muchacha ha obrado á impulsos de su corazón, sin más alcance que su carácter vehemente.»</p>
+
+<p>Elisa dijo sin dejar hablar á Mariano:</p>
+
+<p>—Al pie la firma; ya lleva fecha.</p>
+
+<p>—¡No sea usted niña!—¡Yo no firmo este escrito!—dijo Mariano.</p>
+
+<p>—Usted lo firma, porque yo quiero—repuso con gran energía Elisa.</p>
+
+<p>—Le digo á usted que no firmo este escrito. Quiero batirme con Cristián y además pincharle en parte ha de sentirlo usted—exclamó Mariano vengativamente y fuera de sí.</p>
+
+<p>Elisa con energía dijo:</p>
+
+<p>—No me obligue usted á emplear los grandes medios, porque habrá de pesarle.</p>
+
+<p>—No me haga usted reir, Elisa—repuso Mariano con sonrisa burlona—</p>
+
+<p>Rápida como el pensamiento sacó Elisa un revólver de señora y apuntándolo á Mariano, dijo:</p>
+
+<p>—Firma usted ó disparo.</p>
+
+<p>Era tan serena y resuelta la actitud de la joven, demostraba tan claramente que estaba dispuesta á hacer una barbaridad, que comprendiéndolo así Mariano, dijo con acento de rabia impotente:</p>
+
+<p>—Me ha hecho usted gracia y voy á firmar y á hacer cuanto usted me indique. Me es usted muy simpática y si mi alma no tuviese ya reina, sería usted la reina de ella.</p>
+
+<p>Cogió la pluma y firmó.</p>
+
+<p>—Ahora meta usted el escrito dentro del sobre—dijo Elisa siempre con el revólver en la mano.</p>
+
+<p>—Ya está—dijo Mariano haciendo lo que Elisa indicaba.</p>
+
+<p>—Escriba usted encima: Para la excelentísima señora duquesa de Montblanch.</p>
+
+<p>Mariano cogió la pluma de nuevo y escribió en el sobre lo que se le acababa de indicar; luego alargando el sobre á Elisa, dijo:</p>
+
+<p>—A los pies de vuestra majestad, emperatriz.</p>
+
+<p>Elisa tomó el sobre, dió media vuelta y dijo:</p>
+
+<p>—¡Adiós, Cid Campeador!</p>
+
+<p>—Mariano quedó un momento como aturdido, sentado en el sillón; pero luego, como si hubiese concebido un plan victorioso, miró á la puerta, se levantó y dijo:</p>
+
+<p>—Espera.</p>
+
+<p>Después dirigióse á la alcoba y corrió las puertas vidrieras, diciendo, con alegría propia de triunfador.</p>
+
+<p>—¡Adelante, señore!</p>
+
+<p>—¿Se arregló?—preguntó saliendo uno de los padrinos.</p>
+
+<p>—¡Cuéntanos, cuéntanos!—exclamaron otros.</p>
+
+<p>—¿Se rinde?—repuso Luisito.</p>
+
+<p>—Figuraos—dijo Marinano sentenciosamente—que acabo de firmar un documento por el cual declaro que Cristián es un perfecto caballero; que rehuso batirme con él y que Elisa es una muchacha incapaz de sentir amor, no digo por Cristián, ni por el mismo Adonis.</p>
+
+<p>—¡Bravo, bravo!—gritaron varios batiendo palmas.</p>
+
+<p>—¿Y este documento?...—dijo Agapito.</p>
+
+<p>—En manos de la duquesa está ya.</p>
+
+<p>—¡Naturalmente!—observó Luisito.</p>
+
+<p>—¡Bravo, bravo!—volvieron á gritar algunos.</p>
+
+<p>—¿Vamos á extender la nueva por el boulevard?—dijo uno de los padrinos.</p>
+
+<p>—¡Vamos, vamos!—gritaron otros saliendo atropelladamente.</p>
+
+<p>Mariano les vió salir con aire de triunfo.</p>
+</div>
+
+		<div type="chapter" n="SPA4026012">
+			<head>XII</head>
+			<head>LA PRIMERA NUBE EN EL CIELO DE UN AMOR</head>
+
+<p>Al regresar Cristián á sus habitaciones del hotel, despedido de don Tomás, no encontro á Isabel...</p>
+
+<p>—¿Dónde estará?—se dijo el joven pintor.—Aquí la dejé con los padres de Elisa y ella no tenía por qué salir ni debía hacerlo en estas circunstancias.</p>
+
+<p>Cansado de esperar Cristián y creyendo que había esperado mucho, interregó á la servidumbre. Los criados le dijeron que la señora Duquesa había salido, pero no sabían donde había ido.</p>
+
+<p>En estas se presentó Isabel.</p>
+
+<p>—¿Dónde has ido?—la preguntó Cristián al verla.</p>
+
+<p>—A visitar á los padres de Elisa—contestó Isabel.</p>
+
+<p>Cristián la miró fijamente; sabía que su mujer faltaba á la verdad. Isabel bajó los ojos; Cristián se acercó á ella; Isabel bajó aún más la cabeza; Cristián se la levantó y la dijo, en tono suplicante:</p>
+
+<p>—¿Por qué me engañas, Isabel? Por primera vez, desde que nos conocemos, has mentido. ¡No sé que debo pensar de ti!</p>
+
+<p>—¡Cristián!—exclamó Isabel entre confusa y ofendida. Luego levantó la cabeza y fijando la vista en su esposo, exclamó:</p>
+
+<p>—De suerte que he perdido tu confianza sólo porque no sabes donde he estado.</p>
+
+<p>—Porque has mentido—repuso Cristián.</p>
+
+<p>—A veces la mentira es una virtud—exclamó la joven duquesa.</p>
+
+<p>—Nunca; la mentira siempre es una falsedad—dijo Cristián con cierta rudeza.</p>
+
+<p>—¡Es decir que debo darte explicaciones!—repuso Isabel.</p>
+
+<p>—¡Ya lo creo que debes dármelas! ¡Quiero saber dónde has ido!—dijo Cristián con energía.</p>
+
+<p>—¡Pues bien; no lo sabrás!—contestó Isabel no menos enérgica.</p>
+
+<p>—¿Que no lo sabré?—exclamó Cristián.</p>
+
+<p>—No; mejor dicho, lo sabrás cuando á mí me plazaca, no obedeciendo exigencias, hijas de imposiciones que me deshonran—dijo la duquesa dignamente.</p>
+
+<p>Cristián, como arrepentido por su rudeza, dijo con más suavidad:</p>
+
+<p>—¿Por qué no me dices dónde has ido?</p>
+
+<p>—Porque no debo decírtelo—contestó Isabel.</p>
+
+<p>—Luego confiesas que hay falta en tu escapatoria.</p>
+
+<p>Isabel miró con cierto enfado á Cristián; después dijo:</p>
+
+<p>—¡Cristián, lograrás destruir en un momento la obra de amor que habíamos levantado en un año!—dijo Isabel.</p>
+
+<p>—¡Amor que tiene secretos!—exclamó Cristián abusando de su situación y ofuscado por el secreto que su mujer se empeñaba en guardar.</p>
+
+<p>—¡Santos!—exclamó Isabel.</p>
+
+<p>—De manera que...</p>
+
+<p>La aparición de don Tomás no dejó concluir la frase á Cristián.</p>
+
+<p>El simpático viejo entró diciendo:</p>
+
+<p>—Las pruebas de amistad que de ustedes he recibido me dan derecho á prescindir de ciertos formulismos y á pedirles un favor, sin más preámbulos.</p>
+
+<p>Ninguno de los dos esposos se atrevió á contestar; mas al fin lo hizo Cristián, diciendo, sin disimular su mal humor:</p>
+
+<p>—Usted dirá, don Tomás.</p>
+
+<p>—Adivino que estorbo—dijo el simpático anciano—y de buena gana les dejaría á ustedes si no creyera que el bien que puedo hacerles es superior á la contrariedad que les produce mi presencia.</p>
+
+<p>—No, don Tomás, no nos produce contrariedad la presencia de usted—dijo dulcemente la duquesa.</p>
+
+<p>—Hable usted con la franqueza que siempre nos ha dispensado—añadió Cristián.</p>
+
+<p>—Bien, amigos; muchas gracias. Luego dirigiéndose á Cristián añadió:—Deseo hablar un momento á solas con doña Isabel.</p>
+
+<p>Al oir la pretensión de don Tomás los ojos de Cristián se nublaron, intentó hablar y no pudo hacerlo.</p>
+
+<p>—¿A solas conmigo?—exclamó únicamente Isabel.</p>
+
+<p>—Sí, doña Isabel—dijo suplicante don Tomás.</p>
+
+<p>Cristián se dejó caer en una butaca y dijo consigo mismo:</p>
+
+<p>—Algo grave, muy grave ocurre. ¿Qué será, Dios mío?</p>
+
+<p>—¡Nada que haya de avergonzarte!—exclamó Isabel.</p>
+
+<p>—Si tú quieres pasaremos nosotros á otra habitación—dijo don Tomás.</p>
+
+<p>—No; me iré yo—dijo Cristián y desapareció no sin que Isabel oyera que decía á media voz:</p>
+
+<p>—¿Qué será?</p>
+
+<p>—¿Quieres matarme?—dijo la duquesa.—Repito que nada que haya de avergonzarte.</p>
+
+<p>Tan pronto don Tomás se halló solo con Isabel, la dijo:</p>
+
+<p>—¿Es cierto que ha visitado usted á Pacheco?</p>
+
+<p>Isabel no pudo contener las lágrimas y exclamó llorando:</p>
+
+<p>—Sí, para rogarle, para suplicarle que no se batiera con Cristián. Se lo he pedido con lágrimas en los ojos. ¡Quiero tanto á Cristián!</p>
+
+<p>—¿Ya ha conseguido usted de Pacheco lo que se proponía?</p>
+
+<p>—No señor—contestó Isabel.—Mariano es hombre vulgar; no me ha comprendido y tras de no haberme comprendido, me ha hecho insinuaciones injuriosas.</p>
+
+<p>—¿Es cierto que no lo ha conseguido usted?—preguntó de nuevo don Tomás, mirando fijamente á la joven duquesa.</p>
+
+<p>—¿Pues por qué lloro?—repuso Isabel.</p>
+
+<p>—Doña Isabel—exclamó aquel anciano.—Es preciso que lo sepa usted. Yo no dudo de su honradez, mas acaban de decirme que Pacheco no se bate con Cristián y que usted, en una conferencia tenida con él, ha conseguido un documento en el cual aquel aventurero declara que Cristián es una persona caballerosa y digna.</p>
+
+<p>—¡Yo no he conseguido ni solicitado ese documento!—exclamó Isabel rápidamente.</p>
+
+<p>—¡Y ya puede usted suponer en qué condiciones, según la gente, ha alcanzado usted que Mariano no se bata!—dijo don Tomás.</p>
+
+<p>—¡Calumnia infame, calumnia que me mata!—exclamó la duquesa fuera de sí.—Luego corrió hacia la habitación de Cristián, gritando:</p>
+
+<p>—¡Cristián! ¡Cristián!</p>
+
+<p>A los gritos de Isabel apareció Cristián. Isabel al verle se echó en sus brazos, diciendo:</p>
+
+<p>—¡Cristián,es falso cuanto te han dicho; falso! Yo he visitado á Pacheco, es cierto; quería salvar tu vida y le he suplicado que no se batiera.</p>
+
+<p>—¿Qué dices, Isabel, qué estás diciendo?—gritó Cristián pugnando por deshacerse de su esposa.</p>
+
+<p>—Digo que no tengo el documento de que habla don Tomás ni he conseguido de Pacheco que no se bata contigo—exclamó la hermosa joven llorando con desespero.</p>
+
+<p>—En cambio has conseguido ponerme en ridículo—dijo Cristián fríamente.—Si á ese precio he de obtener la vida, prefiero morir.</p>
+
+<p>Isabel miró á su esposo horrorizada y exclamó:</p>
+
+<p>—¡Cómo, tampoco tú me comprendes!</p>
+
+<p>—Serenidad—exclamó don Tomás.—Es preciso una explicación franca y completa. ¿Posee usted, Isabel, un documento de Mariano en el que éste espadachín declara que Cristián es un caballero dignísimo...?</p>
+
+<p>—¡No, señor, no poseo nada de Mariano!—exclamó Isabel.</p>
+
+<p>—¿Entonces, cuanto se dice es inexacto?—repuso don Tomás.</p>
+
+<p>—Pero ¿qué se dice?...—preguntó Cristián.</p>
+
+<p>—Ya puedes suponerlo—dijo don Tomás.</p>
+
+<p>Cristián abrió desmesuradamente los ojos; los pasó vagamente por el salón y los paró por fin en Isabel. Esta se hallaba en medio de la habitación cabizbaja, fija la vista en el suelo, resignada é insensible por la soledad en que se encontraba su alma. Cristián se le acercó poco á poco, la cogió primero de las manos y luego levantó con las suyas la hermosa cabeza de la duquesa. Esta fijó sus ojos serenamente sin rencor, amor ni llanto en el rostro de su esposo. Un estremecimiento de dolor recorrió el sistema nervioso del artista y como si recogiera su espíritu del lodo en que estuvo un momento, exclamó soltando á Isabel:</p>
+
+<p>—Me avergüenzo de mí mismo; ahora, cuando todo el mundo te acusa, es cuando más creo en ti. Perdóname, te comprendo y te beso.</p>
+
+<p>Y esto diciendo, Cristián cogió de nuevo la cabeza de la joven y la cubrió de besos. Isabel rompió á llorar amargamente. Era la explosión de su inmenso amor, de su inmensa bondad, de su inmenso dolor. De sus lloros sacó la voz del criado que desde fuera pedía permiso para entrar. Isabel se volvió de espaldas y Cristián otorgó el permiso. El criado entró y entregó una carta á Cristián que dejó encima de una mesita.</p>
+</div>
+
+		<div type="chapter" n="SPA4026013">
+			<head>XIII</head>
+			<head>LA ABNEGACIÓN DEL AMOR</head>
+
+<p>Cuando el criado hubo desaparecido, Isabel exclamó:</p>
+
+<p>—Aquí hay un misterio que es preciso aclarar. Habla usted, don Tomás, de un documento firmado por Pacheco. Yo le juro por la vida del ser que más amo en el mundo que no he visto tal documento. Pero esta carta es de Mariano.</p>
+
+<p>Cristián se levantó con brusco ademán y acercándose hacia la duquesa exclamó, amenazador:</p>
+
+<p>—¡Isabel!</p>
+
+<p>—Ya no crees en mí ni me comprendes—dijo la hermosa Isabel.—¡Cuán débil es la voluntad humana! ¡Abre el sobre; ábrelo, te lo suplico!</p>
+
+<p>—No tengo valor—dijo Cristián y se dejó caer rendido sobre un sofá.</p>
+
+<p>—Abralo usted, don Tomás... se lo ruego—exclamó la duquesa.</p>
+
+<p>Don Tomás cogió el sobre y lo rompió mientras decía:</p>
+
+<p>—Rompo el sobre porque creo en los dos.</p>
+
+<p>Isabel y Cristián siguieron con febril ansiedad los movimientos de don Tomás.</p>
+
+<p>—Lo primero que veo es una carta de Elisa dirigida á Isabel—dijo el viejo noble.</p>
+
+<p>—¡Y la letra del sobre es de Pacheco!—exclamó admirada Isabel.</p>
+
+<p>—¡Qué es esto, alma mía!—repuso débilmente Cristián pasándose la mano por la frente.</p>
+
+<p>—¡Temo por la honra de Elisa!—dijo don Tomás.</p>
+
+<p>—¡Tanto sacrificio no es humano!—exclamó Cristián.</p>
+
+<p>—¿Qué más contiene el sobre?—preguntó anhelante Isabel.</p>
+
+<p>—Un escrito firmado por Mariano Pacheco, pero es letra de Elisa, también—dijo don Tomás.</p>
+
+<p>Cristián cogió febrilmente los papeles de manos de don Tomás, diciendo:</p>
+
+<p>—¡A ver, á ver!</p>
+
+<p>Luego leyó, rápido como el rayo, los papeles; después de leer quedóse atontado y más tarde añadió tirando aquéllos sobre la mesa:</p>
+
+<p>—No entiendo nada ó mejor, quisiera no entender nada. ¡Pobre Elisa!</p>
+
+<p>—¿Tú sospechas...?—preguntó don Tomás.</p>
+
+<p>—Sí, sí, lo sospecho—contestó Cristián interrumpiendo.</p>
+
+<p>—Pues yo no—dijo Isabel convencida de la heroicidad y grandeza de Elisa.</p>
+
+<p>—Voy á rogar á sus padres que la dejen venir un momento—exclamó don Tomás y desapareció.</p>
+
+<p>—¡Lee la carta: entérate de lo que dice!—repuso Cristián á Isabel.</p>
+
+<p>La duquesa cogió la carta y leyendo, dijo:</p>
+
+<p>«Excelentísima duquesa de Montblanch. Amiga del alma: Adjunto una carta del <emph>terrible</emph> Pacheco. Como verá usted por ella, pueden ustedes marcharse sin temor al ridículo. Yo me quedo copia para publicarla en los periódicos si hiciera falta. Tenga usted la seguridad, querida amiga, de que este asunto ha terminado. Mariano me tiene un miedo cerval y no se atreverá á chistar. Así, así es como hay que tratar á ciertos valientes.</p>
+
+<p>»Muchas feliciades y feliz viaje les deseo.</p>
+
+<p>»Recuerdos á Cristián.</p>
+
+<p>»Su amiga del alma,</p>
+
+<p>»Elisa.»</p>
+
+<p>—Continúo sin entender una palabra—exclamó Cristián.—¿Cómo se ha hecho con este documento Elisa? Y si lo ha obtenido ella ¿por qué la gente murmura de ti?</p>
+
+<p>—Estoy segura de que Elisa ha alcanzado esta declaración de Mariano sin mengua para su honra—exclamó Isabel.</p>
+
+<p>—Tú no conoces la maldad de los hombres—dijo Cristián.</p>
+
+<p>—Ni tú la grandeza de ciertas mujeres—repuso Isabel.</p>
+
+<p>—Yo jamás he dudado de ti; sentí únicamente que no me dijeras la verdad—repuso Cristián un poco avergonzado.</p>
+
+<p>—¿Comprendes ahora por qué no te la dije?—exclamó Isabel.—No tenías necesidad de saber que por ti me había humillado hasta el punto de rogar á tu rival que desistiera del lance.</p>
+
+<p>—Aún dudo—repuso Cristián—que sea menor la afrenta de tu acto que el peligro que podía correr batiéndome con Pacheco.</p>
+
+<p>—Pues yo no dudo—dijo Isabel con pasión—y aunque fuese mayor la afrenta la repetiría otra vez sólo por el placer de decir que había sido yo, yo ¡tu amor! la que te había librado del peligro. Ahora es Elisa. Me ha ganado y quién sabe si me habrá ganado también tu cariño.</p>
+
+<p>—El inmenso amor que por mí sientes te redime de todas tus culpas, mi querida Isabel—exclamó Cristián con cariño.—No temas. Me agrada que Elisa, sin desdoro para ella ni para ti, haya arrancado á Pacheco esta declaración. Es orgullo y vanidad de hombre; pero me batiré con Mariano, porque ahora seré yo quien lo provoque. No puedo consentir que nadie crea que me he valido de la hermosura, de la gracia ó del valor de una mujer para rehuir el lance.</p>
+
+<p>Isabel iba á replicar con una de sus ideas tan morales y tan amorosas cuando vió entrar á don Tomás seguido de Elisa. La simpática joven entró temerosa y con la cabeza baja.</p>
+</div>
+
+		<div type="chapter" n="SPA4026014">
+			<head>XIV</head>
+			<head>LLUVIA DE PERLAS</head>
+
+<p>—Ya tenemos á la heroína—dijo don Tomás.</p>
+
+<p>Isabel al verla se arrojó en sus brazos y la beso en la frente. Luego la dijo:</p>
+
+<p>—¿Qué has hecho, amiga mía?</p>
+
+<p>—Nada; ayudarla á usted á salvar á su señor esposo—contestó Elisa.</p>
+
+<p>—¿Pero estaba yo tan perdido?—dijo Cristián.—¡Si no me batía, muchacha!</p>
+
+<p>—¡Precisamente porque no se batía usted,—exclamó con sencillez la simpática niña.</p>
+
+<p>—De suerte que Elisa nada contestaba, añadió dirigiéndose á Isabel:</p>
+
+<p>—Ya lo oyes, Isabel, debí batirme.</p>
+
+<p>—No señor—repuso Elisa.—No debió batirse usted, pero tampoco debió negarse á batirse después de haber cometido la debilidad, dispense usted mi franqueza, de nombrar padrinos.</p>
+
+<p>—Bueno, estos son hechos que han pasado á la historia—exclamó interviniendo don Tomás. Lo que interesa es saber cómo has obtenido tú este escrito.</p>
+
+<p>Y le enseñaba el firmado por Pacheco.</p>
+
+<p>—Sin mérito alguno—dijo senillamente la muchacha.—Mariano es un cobarde y bastó que le amenazara con pegarle un tiro para que me lo firmase.</p>
+
+<p>—Mas después sus amigos dijeron por ahí que lo había firmado en una entrevista tenida con Isabel.</p>
+
+<p>—Es una infamia—repuso con energía Elisa.</p>
+
+<p>—Que puede constarme la honra, pero yo la pierdo contenta con tal que Cristián salga en bien de este conflicto—exclamó Isabel.</p>
+
+<p>—Repito que me agrada vuestro cariño—dijo Cristián;—pero os advierto que cuanto habéis hecho no me ha librado de la espada de Pacheco. Es indigno de mí tolerarf que por temor á un rasguño, porque todo se reducirá a un rasguño, anden en malas lenguas la honra de dos mujeres tan excelsas como vosotras.</p>
+
+<p>Elisa bajó los ojos y sus mejillas adquirieron el color de la escarlata.</p>
+
+<p>—No, Cristián, tú no te batirás; me lo prometiste—dijo Isabel suplicando.</p>
+
+<p>—No se batirá—dijo Elisa saliendo en ayuda de su amiga,—porque no hay necesidad de ello. Pacheco callará por temor á que yo diga la verdad, y si habla, la digo. La verdad, en este caso, favorece bien poco.</p>
+
+<p>—¿Pero y su honra de usted y el buen nombre de Isabel?—preguntó don Tomás.</p>
+
+<p>—Para el buen nombre de mi querida amiga—repuso Elisa con orgullo y valentía—basta que el escrito sea de mi puño y letra. Mi honra nada vale.</p>
+
+<p>—¡Ah! pues para nosotros vale mucho—ecxlamó Cristián.</p>
+
+<p>—Ya lo creo—dijo Isabel, cogiéndola de la mano con cariño.</p>
+
+<p>Elisa quedó un momento pensativa; quería hablar y no podía. Los demás la miraron esperando que de sus labios saliera la palabra que buscaba mentalmente y no salía. Luego pareció que la palabra había aparecido, pero tampoco se atrevía á pronunciarla la joven. Por último, haciendo un gran esfuerzo y ruborizándose como lo que era, exclamó:</p>
+
+<p>—En último caso mi... doncellez salvará mi honra.</p>
+
+<p>Isabel, Cristián y don Tomás se miraron; luego admirados, dirigieron la vista hacia Elisa; la muchacha, confusa, avergonzada de lo que había dicho y queriendo echar de sí aquellas miradas, exclamó:</p>
+
+<p>—Pueden ustedes marcharse tranquilos y deben hacerlo. Don Tomás y yo nos quedaremos aquí para defenderles de la murmuración con este documento; hágase usted cargo de él, don Tomás, para exhibirlo donde convenga.</p>
+
+<p>—Me parece razonable cuanto dice esta muchacha—exclamó don Tomás, recogiendo las dos cartas de encima de la mesa.</p>
+
+<p>—Y á mí—exclamó Isabel.</p>
+
+<p>Luego dirigiéndose á Cristián preguntó:</p>
+
+<p>—¿Y á ti?</p>
+
+<p>—Regular—repuso Cristián.</p>
+
+<p>—Puede usted también decir, don Tomás—dijo Elisa, con un movimiento de soberana grandeza moral,—que es falso cuanto se ha dicho de mi amistad con Cristián, ni siquiera mentalmente. Mi cariño entero, mi cariño de hermana, el más grande que siento después del que me inspira mi madre, es para Isabel y para librarla de un disgusto he hecho cuanto ustedes saben. ¡Cristián no ha ocupado uno solo de mis pensamientos!</p>
+
+<p>—Yo no he creído otra cosa—repuso Cristián.</p>
+
+<p>—Muchas gracias y feliz viaje—dijo Elisa haciendo un esfuerzo por parecer indiferente, sin poder lograrlo.</p>
+
+<p>Isabel de nuevo se echói en brazos de Elisa besándola varias veces ambas mejillas. Al principio, Elisa, recibió indiferente é inalterable aquellas muestras de cariño, mas después no pudo contenerse y rompió á llorar.</p>
+
+<p>—No llores—le decía Isabel;—recibirás noticias nuestras. al contrario, yo creo que deberías estar alegre, muy alegre. Esta alegría mía á ti te la debo—</p>
+
+<p>—Sí, es verdad—exclamó Elisa,—pero el presentimiento de que no he de verles más me entristece de tal modo...</p>
+
+<p>No pudo concluir la frase; se echó sobre una butaca y lloró amargamente.</p>
+
+<p>Don Tomás, queriendo acabar aquel tierno cuadro y comprendiendo el valor moral del mismo, dijo:</p>
+
+<p>—¡Ea! vámonos.</p>
+
+<p>Elisa hizo un esfuerzo sobrehumano, se serenó rápidamente, se levantó y dijo, dirigiéndose hacia la puerta:</p>
+
+<p>—Sí, don Tomás; mis padres deben estar impacientes.</p>
+
+<p>—¿Sin despedirse de Cristián?—la dijo Isabel.—El murmurar de la gente no debe privarnos de las amistades.</p>
+
+<p>—Tiene usted razón, amiga mía. ¿Qué distraída soy!—dijo Elisa y se dirigió hacia Cristián fija la vista en el suelo.</p>
+
+<p>Cristián le alargó la mano diciéndole, como dándole un consuelo y un premio al mimsmo tiempo:</p>
+
+<p>—Nos acordaremos mucho de usted.</p>
+
+<p>Elisa le tomó la mano con efusión, diciéndole:</p>
+
+<p>—gracias, don Cristián; ya estoy pagada.</p>
+
+<p>Don Tomás tomó la delantera; detrás del anciano seguían Isabel y Elisa asidas del brazo. Cristián las contempló sin moverse. Luego Isabel á la puerta se despidió de Elisa con muchos besos. Elisa se los devolvió con verdadero cariño.</p>
+
+<p>Hasta que al fin se despidieron.</p>
+
+<p>Cristián é Isabel quedaron solos. Largo rato estuvieron sin decir palabra. Ambos pensaban. ¿Qué pensaban?</p>
+
+<p>Si el lector es hombre pensará ¿por qué en el corazón humano hay pluralidad de amor y no lo hay en las costumbres? Si el lector es mujer, pensará que para matar todo peligro de infelicidad en el corazón de un amado no hay como elevar nuestros actos por encima de la más pura idealidad.</p>
+
+<p>—Por fin, dijo Isabel: ¡Ahora nosotros á querernos mucho! Saldremos en el exprés de esta madrugada, antes de despuntar el día. Cuando se enteren estaremos lejos, muy lejos de este balneario. Después á vivir para nosotros y para nuestros hijios. Contra la vulgaridad del mundo, nuestra fortaleza moral. ¿En qué piensas?—preguntó viendo que Cristián no daba señales de escucharla.</p>
+
+<p>—En si debemos ó no marcharnos—exclamó Cristián.</p>
+
+<p>—Debemos—replicó Isabel;—aquí peligran cosas para mí más grandes y de más precio que la vida y la dignidad.</p>
+
+<p>—¿Qué peligra?—preguntó Cristián sin dar importancia á lo que se preguntaba.</p>
+
+<p>—¿Me quieres?—le dijo Isabel por toda contestación.</p>
+
+<p>—Inmensamente—contestó Cristián abrazándola.</p>
+
+<p>—Amémonos, pues, y fundemos un mundo nuevo con nuestro amor—exclamó la bella duquesa.</p>
+</div>
+
+		<div type="chapter" n="SPA4026015">
+			<head>XV</head>
+			<head>EL AMOR VELA</head>
+
+<p>A las cuatro de la madrugada de aquella misma noche la luna vagaba por el jardín del hotel. Un jardín muy hermoso y muy florido. Las flores, en aquella hora, libres de los rigores del sol, despedían su más puro aroma y el rocío daba á la atmósfera un suave tono de frescura. En el suelo se veían dibujadas, por la luz de la luna, las tiernas hojas de los árboles, y en el cielo dibujadas se veían, por la luz de los ojos, de los árboles las hojas.</p>
+
+<p>Al sonar las cuatro una sombra de mujer pasó por delante de la puerta del hotel que daba al jardín y escuchó un momento pegado el oído á la cerradura.</p>
+
+<p>La mujer vestía color rosa claro y el color rosa claro del vestido se escondió poco después tras de los árboles. La sombra de mujer iba y venía de un árbol á otro y de la puerta del hotel á otro árbol. En uno de estos paseos, la luna alumbró por completo todo el cuerpo de la sombra misteriosa. Era una mujer joven, hermosa y enamorada. Que estaba enamorada demostrábalo el anhelo con que esperaba.</p>
+
+<p>Al poco rato, antes de dar las cuatro y cuarto, se oyó, al otro lado de la verja del jardín, el ruido de un coche, y poco después abrióse la puerta del hotel que daba al jardín y apareció un criado con un mundo, luego otro criado con otro mundo y después dos criados más con maletas. Por fin apareció el dueño del hotel seguido de Cristián y de Isabel dirigiéndose todos hacia la verja; luego el coche se alejó y cuando su ruido húbose perdido en el silencio de la noche volviéronse dos de aquellos cuatro criados y también el dueño del hotel; se metieron dentro y cerraron la puerta. Otra vez todo quedó en silencio. A interrumpirlo vino el ruido de pequeños pies andando por la hierba menuda y la hoja seca. Era la mujer joven, hermosa, que andaba errante por el jardín. Luego la joven se sentó en un banco y la luna fué á saludarla. La hermosa le dió un beso y le encargó que nada dijera. Después del encargo la joven se puso á llorar, y la luna, para que nadie viera aquellas lágrimas de amor, dejó de iluminar la tierra aquella noche.</p>
+</div>
+<trailer>FIN</trailer>
+
+</body>
+</text>
+</TEI>
