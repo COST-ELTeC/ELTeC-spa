@@ -21,7 +21,7 @@
         <measure unit= "pages">335</measure>
       </extent>
       <publicationStmt>
-        <p>Incorporado a ELTEC el <date>16/12/2021</date></p>
+        <p>Incorporado a ELTEC el <date>17/12/2021</date></p>
       </publicationStmt>
       <sourceDesc>
         <bibl type="firstEdition">
@@ -44,6 +44,8 @@
     <profileDesc>
       <langUsage>
         <language ident="SPA">Español</language>
+        <language ident="LAT">Latín</language>
+        <language ident="FRA">Francés</language>
       </langUsage>
       <textDesc>
         <authorGender xmlns= "http://distantreading.net/eltec/ns" key="M"/>
