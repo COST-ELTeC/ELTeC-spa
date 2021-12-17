@@ -5,7 +5,10 @@
             schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="SPA1023" xml:lang="es">
 	<teiHeader> 
-		<fileDesc> <titleStmt> 	<title>La velada del helecho o El donativo del diablo: novela : edición ELTeC</title> 	<author ref="viaf:76328537">Gómez de Avellaneda, Gertrudis (1814-1873)</author>
+		<fileDesc>
+			<titleStmt>
+				<title>La velada del helecho o El donativo del diablo: novela : edición ELTeC</title>
+				<author ref="viaf:76328537">Gómez de Avellaneda, Gertrudis (1814-1873)</author>
 			<respStmt>
 				<resp>Edición ELTeC</resp>
 				<name>Laura Marcela García Ramírez</name>
