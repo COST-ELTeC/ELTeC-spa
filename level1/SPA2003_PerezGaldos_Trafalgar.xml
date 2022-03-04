@@ -9976,11 +9976,7 @@ menguados, pero todos dignos de memoria. ¿Queréis saber mi vida
 entera? Pues aguardad un poco, y os diré algo más en otro
 libro.
     </p>
-    
-
    </div>
-   
-
    <trailer>
     FIN DE TRAFALGAR
     <date>Madrid, enero-febrero 1873.</date>
@@ -9988,10 +9984,9 @@ libro.
 </body>
 <back>
 	<div type="notes">
-		<note xml:id="SPA2003N01">Así se llamaba al combate del cabo de San Vicente.</note>
-		<note xml:id="SPA2003N02">Palabras de Nelson.</note>
-		<note xml:id="SPA2003N03">Murió en marzo de 1806, de resultas de sus heridas.</note>
-
+		<note xml:id="SPA2003N01"><p>Así se llamaba al combate del cabo de San Vicente.</p></note>
+		<note xml:id="SPA2003N02"><p>Palabras de Nelson.</p></note>
+		<note xml:id="SPA2003N03"><p>Murió en marzo de 1806, de resultas de sus heridas.</p></note>
 	</div>
 </back>
 </text>
