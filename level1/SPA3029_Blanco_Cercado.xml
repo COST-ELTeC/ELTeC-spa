@@ -4,6 +4,8 @@
 <?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
             schematypens="http://purl.oclc.org/dsdl/schematron"?>
 
+<!--No modernizado. El texto además no ha sido revisado completamente, por lo que puede tener aún algún error del OCR-->
+
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:h="http://www.w3.org/1999/xhtml" xml:id="SPA3029" xml:lang="es">
 <teiHeader>
    <fileDesc> 
