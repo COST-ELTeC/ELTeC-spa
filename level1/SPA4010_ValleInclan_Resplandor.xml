@@ -26,16 +26,17 @@
 <ref type="doi" target="https://doi.org/10.5281/zenodo.">ELTeC-$textLang</ref>
 <ref type="doi" target="https://doi.org/10.5281/zenodo.">ELTeC-$textLang release </ref>
 </publicationStmt>
-			<sourceDesc><bibl type="digitalSource">
+			<sourceDesc>
+                <bibl type="digitalSource">
 					José Calvo Tello
 					<ref target="https://github.com/cligs/conssa">Corpus of Novels of the Spanish Silver Age (CoNSSA)</ref>
 					<idno>ne0021</idno>
 					<pubPlace>University of Würzburg</pubPlace>
-					<date when="2020"/>
+					<date when="2020">2020</date>
 				</bibl><bibl type="digitalSource">Archive.org, <date when="2010">2010</date>, <ref target="https://archive.org/details/elresplandordela00vall"/>.</bibl><bibl type="firstEdition">
 					<publisher>Imprenta de Primitivo Fernández</publisher>
 					<pubPlace>Madrid</pubPlace>
-					<date when="1909"/>
+					<date when="1909">1909</date>
 					<ref target="bdh-rd.bne.es/viewer.vm?id=0000200837">Biblioteca Digital Hispánica</ref>
 					<idno>bdh0000200837</idno>
 				</bibl></sourceDesc>
